@@ -1,0 +1,6 @@
+pdfminer
+numpy
+pandas
+matplotlib
+ntlk
+flask
