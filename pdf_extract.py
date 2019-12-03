@@ -46,8 +46,8 @@ class text_image():
                 arr_li.append([page, 'T',li.split(' ')[0].split('(')[1].split(')')[0], \
                                li.split(',')[0].split(' ')[1],li.split(',')[1], \
                               li.split(',')[2],li.split(',')[3].split(' ')[0], ' '.join([i for i in li.split(' ')[2:]]), ''])
-            elif 'LTImage' in li:
-                arr_li.append([page, 'I',li.split(' ')[0].split('(')[1].split(')')[0][2:], \
+            elif re.match('\<LTImage\((img|Im)([0-9]+)\)', li):
+                arr_li.append([page, 'I',re.search('\<LTImage\((img|Im)([0-9]+)\)', li).group(2), \
                                li.split(',')[0].split(' ')[1],li.split(',')[1], \
                                li.split(',')[2],li.split(',')[3].split(' ')[0], page+ \
                                li.split(' ')[0].split('(')[1].split(')')[0]+'.png', ''])
@@ -58,6 +58,7 @@ class text_image():
         df['content'] = df['content'].apply(lambda x: re.sub(r'(\\n|\>\s|\')', ' ', x))
         df[['page', 'class-order-in-page']] = df[['page', 'class-order-in-page']].astype('int')
         df[[ 'xmin', 'ymin', 'xmax', 'ymax']] = df[['xmin', 'ymin', 'xmax', 'ymax']].astype('float')
+        df['link-to'] = df['link-to'].astype('str')
         return df
 
     def image_legend_association(self, df):
@@ -71,16 +72,17 @@ class text_image():
                     box_ymax = df_box[df_box['class-order-in-page']==ord_box].iloc[0,6]
                     img_xmin = df_img[df_img['class-order-in-page']==ord_img].iloc[0,3]
                     box_xmin = df_box[df_box['class-order-in-page']==ord_box].iloc[0,3]
-                    if  ( (abs(img_ymin - box_ymax) < 10) and (abs(img_xmin - box_xmin) < 10)) :
+                    if  ( (abs(img_ymin - box_ymax) < 5) and (abs(img_xmin - box_xmin) < 5)) :
                         df.iloc[df_box[df_box['class-order-in-page']==ord_box].index.values.astype(int)[0],8] =  \
-                        df.iloc[df_box[df_box['class-order-in-page']==ord_box].index.values.astype(int)[0],8]+' '+ \
-                        df.iloc[df_img[df_img['class-order-in-page']==ord_img].index.values.astype(int)[0],7]
+                        df.iloc[df_box[df_box['class-order-in-page']==ord_box].index.values.astype(int)[0],8] + \
+                        df.iloc[df_img[df_img['class-order-in-page']==ord_img].index.values.astype(int)[0],7] + ' ' 
                         df.iloc[df_img[df_img['class-order-in-page']==ord_img].index.values.astype(int)[0],8] =  \
-                        df.iloc[df_img[df_img['class-order-in-page']==ord_img].index.values.astype(int)[0],8]+' '+\
-                        str(page)+'Text'+str(ord_box)
+                        df.iloc[df_img[df_img['class-order-in-page']==ord_img].index.values.astype(int)[0],8] +\
+                        str(page)+'Text'+str(ord_box) + ' '
         return df
         
     def text_preprocessing(self, df):
+        df['content'] = df['content'].apply(lambda x: x.lower())
         tokenizer = RegexpTokenizer(r'\w+')
         df['content_processed'] = df['content'].apply(lambda x: tokenizer.tokenize(x))
         #.apply(lambda x: [nltk.stem.snowball.FrenchStemmer().stem(i) for i in x])
@@ -89,6 +91,7 @@ class text_image():
         a = a.union(set(new_stopwords))
         df['content_processed'] = df['content_processed'].apply(lambda x: [nltk.stem.snowball.FrenchStemmer().stem(i) for i in x]) \
         .apply(lambda x: [i for i in x if i not in a])
+        df.to_csv('look.csv')
         return df
 
     def image_text_association(self, df, asso):
@@ -104,32 +107,34 @@ class text_image():
             df_page = df[df['page']==page]       
             df_box = df_page[df_page['class']=='T']
             df_img1 = df_page[df_page['class']=='I']
-            df_img = df_img1[df_img1['link-to']!='']
+            df_img = df_img1[df_img1['link-to'].str.contains('Text')]
             for ord_img in df_img['class-order-in-page'].unique():
                 # ord_box2 is the lengend text box order.
-                ord_box2 = int(df_img[df_img['class-order-in-page']==ord_img].iloc[0,8].split("Text")[1])
+                print(page)
+                ord_box2 = int(df_img[df_img['class-order-in-page']==ord_img].iloc[0,8].strip().split(' ')[0].split("Text")[1])
                 for ord_box in  df_box['class-order-in-page'].unique():
                     # box_xmin is the box compared to image
-                    img_ymin = np.squeeze(df_img[df_img['class-order-in-page']==ord_img].iloc[:,4])
-                    img_xmin = np.squeeze(df_img[df_img['class-order-in-page']==ord_img].iloc[:,3])
-                    img_xmax = np.squeeze(df_img[df_img['class-order-in-page']==ord_img].iloc[:,5])
-                    img_ymax = np.squeeze(df_img[df_img['class-order-in-page']==ord_img].iloc[:,6])
-                    box_xmin = np.squeeze(df_box[df_box['class-order-in-page']==ord_box].iloc[:,3])
-                    box_ymin = np.squeeze(df_box[df_box['class-order-in-page']==ord_box].iloc[:,4])
-                    box_xmax = np.squeeze(df_box[df_box['class-order-in-page']==ord_box].iloc[:,5])
-                    box_ymax = np.squeeze(df_box[df_box['class-order-in-page']==ord_box].iloc[:,6])
+                    img_ymin = df_img[df_img['class-order-in-page']==ord_img].iloc[0,4] 
+                    img_xmin = df_img[df_img['class-order-in-page']==ord_img].iloc[0,3] 
+                    img_xmax = df_img[df_img['class-order-in-page']==ord_img].iloc[0,5] 
+                    img_ymax = df_img[df_img['class-order-in-page']==ord_img].iloc[0,6] 
+                    box_xmin = df_box[df_box['class-order-in-page']==ord_box].iloc[0,3] 
+                    box_ymin = df_box[df_box['class-order-in-page']==ord_box].iloc[0,4] 
+                    box_xmax = df_box[df_box['class-order-in-page']==ord_box].iloc[0,5] 
+                    box_ymax = df_box[df_box['class-order-in-page']==ord_box].iloc[0,6] 
                     if asso == 1:
-                        condition = ( ( ((img_xmin - box_xmax) < 20) and ((img_xmin - box_xmax) > 0) )  \
-                         and (not ( (img_ymax<box_ymin) or (img_ymin > box_ymax) ) ) )
+                        condition =( ( ( ((img_xmin - box_xmax) < 30) and ((img_xmin - box_xmax) > 0) )  \
+                         and (not ( (img_ymax<box_ymin) or (img_ymin > box_ymax) ) ) )  and (ord_box != ord_box2) )
                     elif asso == 2:
-                        condition = ( ( ((box_xmin - img_xmax) < 20) and ((box_xmin - img_xmax) > 0) ) \
-                        and (not ( (img_ymax<box_ymin) or (img_ymin > box_ymax) ) ) )
+                        condition =( ( ( ((box_xmin - img_xmax) < 30) and ((box_xmin - img_xmax) > 0) ) \
+                         and (not ( (img_ymax<box_ymin) or (img_ymin > box_ymax) ) ) ) and (ord_box != ord_box2) ) 
                     elif asso == 3:
-                        condition = ( ( ((box_ymin - img_ymax) < 20) and ((box_ymin - img_ymax) > 0) ) \
-                        and (not ( (img_xmax<box_xmin) or (img_xmin > box_xmax) ) ) )
+                        condition =( ( ( ((box_ymin - img_ymax) < 30) and ((box_ymin - img_ymax) > 0) ) \
+                         and (not ( (img_xmax<box_xmin) or (img_xmin > box_xmax) ) ) ) and (ord_box != ord_box2) )
                     elif asso == 4:
-                        condition = ( ( ((img_ymin - box_ymax) < 40) and ((img_ymin - box_ymax) > 20) ) \
-                        and (not ( (img_xmax<box_xmin) or (img_xmin > box_xmax) ) ) )
+                        condition =( ( ( ((img_ymin - box_ymax) < 30) and ((img_ymin - box_ymax) > 5) ) \
+                         and (not ( (img_xmax<box_xmin) or (img_xmin > box_xmax) ) ) ) and (ord_box != ord_box2) )
+
                     elif asso == 5:
                         condition = ((not ( ((img_ymin - box_ymax) > 0) or ((box_ymin - img_ymax) > 0) \
                         or ((img_xmin - box_xmax) > 0) or ((box_xmin - img_xmax) > 0))) and (ord_box != ord_box2))
@@ -137,18 +142,16 @@ class text_image():
                     if  condition:
                         match = set(df_box[df_box['class-order-in-page']==ord_box].iloc[0,9]) \
                          .intersection(set(df_box[df_box['class-order-in-page']==ord_box2].iloc[0, 9]))
-                        if (len(list(match)) >=1):
-                            if len(list(match))==1 :
-                                if not re.match(r'[a-zA-Z0-9]', list(match)[0]) :
-                                        df.iloc[df_box[df_box['class-order-in-page']==ord_box2].index.values.astype(int)[0],8] =  \
-                                        df.iloc[df_box[df_box['class-order-in-page']==ord_box2].index.values.astype(int)[0],8]+' '+ \
-                                        ' '.join([i for i in df.iloc[df_img[df_img['class-order-in-page']==ord_img] \
-                                                                     .index.values.astype(int)[0],9]])
+                        if (len(match) >=1):
+                            if len(match)==1 :
+                                if not re.match(r'^[a-zA-Z0-9]$', list(match)[0]) :
+                                        df.iloc[df_box[df_box['class-order-in-page']==ord_box].index.values.astype(int)[0],8] =  \
+                                        df.iloc[df_box[df_box['class-order-in-page']==ord_box].index.values.astype(int)[0],8]\
+                                        +df.iloc[df_img[df_img['class-order-in-page']==ord_img].index.values.astype(int)[0],7] +' '
                             else:
-                                        df.iloc[df_box[df_box['class-order-in-page']==ord_box2].index.values.astype(int)[0],8] =  \
-                                        df.iloc[df_box[df_box['class-order-in-page']==ord_box2].index.values.astype(int)[0],8]+' '+ \
-                                        ' '.join([i for i in df.iloc[df_img[df_img['class-order-in-page']==ord_img]\
-                                                                     .index.values.astype(int)[0],9]])
+                                        df.iloc[df_box[df_box['class-order-in-page']==ord_box].index.values.astype(int)[0],8] =  \
+                                        df.iloc[df_box[df_box['class-order-in-page']==ord_box].index.values.astype(int)[0],8] \
+                                       +df.iloc[df_img[df_img['class-order-in-page']==ord_img].index.values.astype(int)[0],7]+' '
         return df                
 
 
@@ -197,7 +200,7 @@ if __name__ == '__main__':
                 pass
             engine = text_image(file, outputfile, img_folder, output_csv)
             print('-------------------')
-            print('Start extraction...')
+            print('Start extraction: '+file+ '...')
             engine.file_scan()
             print('txt file generated.')
             df = engine.output_to_df()

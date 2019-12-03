@@ -104,7 +104,9 @@ def save_image (lt_image, page_number, images_folder):
             buffer = io.BytesIO(lt_image.stream.get_rawdata())
  
             pillow_object = Image.open(buffer)
-            pillow_object = pillow_object.rotate(180)
+            # CNEWS has rotated images
+            if images_folder.split('/')[-1][7:12] =='CNEWS':
+                pillow_object = pillow_object.rotate(180)
             file_name = ''.join([str(page_number), '_', lt_image.name, '.png'])
             pillow_object.convert('RGB').save(images_folder+'/'+file_name, "png", optimize=True)
             result = file_name

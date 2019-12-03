@@ -1,0 +1,1888 @@
+----START-PAGE 1 ----
+<LTTextBoxHorizontal(0) 2.800,825.646,235.224,837.615 '2458-CN-p001-COUV.qxp_Mise en page 1  18/09/2019  23:03  Page1\n'>
+<LTTextBoxHorizontal(1) 19.567,744.291,26.169,768.842 'T\nR\nO\nP\nS\n \nN\nO\nC\n'>
+<LTTextBoxHorizontal(2) 19.567,713.378,26.169,744.347 'I\n/\nZ\nE\nD\nN\nA\nN\nR\nE\nF\n \n.\n'>
+<LTTextBoxHorizontal(3) 19.567,709.548,26.169,710.892 ' \n'>
+<LTTextBoxHorizontal(4) 19.567,705.124,26.169,713.742 'B\n©\n'>
+<LTTextBoxHorizontal(5) 164.139,701.085,430.526,787.871 'LE PSG A DOMINÉ LE REAL MADRID (3-0)\nDÉPART RÊVÉ POUR PARIS\nLe club de la capitale n’a pas manqué, hier,\nses grands débuts en Ligue des champions\navec une victoire pleine de promesses P.14\n'>
+<LTTextBoxHorizontal(6) 569.140,678.389,575.742,721.555 'Y\nT\nN\nO\nF\n \nS\nI\nO\nC\nN\nA\nR\nF\n \n©\n'>
+<LTTextBoxHorizontal(7) 447.105,600.241,560.110,675.194 'THÉÂTRE\nAvec «La souricière»,\nle crime à l’anglaise\nsigné Agatha Christie\ns’invite sur scène P.18\n'>
+<LTTextBoxHorizontal(8) 26.453,583.040,244.400,593.960 'GRATUIT - N° 2458 JEUDI 19 SEPTEMBRE 2019 - CNEWS.FR\n'>
+<LTTextBoxHorizontal(9) 428.939,583.040,568.816,593.960 'NE PAS JETER SUR LA VOIE PUBLIQUE\n'>
+<LTTextBoxHorizontal(10) 47.683,548.845,538.585,564.764 'DANS LA RUE, LES LOGEMENTS OU LES TRANSPORTS, LE DANGER EST PARTOUT \n'>
+<LTTextBoxHorizontal(11) 569.140,59.568,575.742,102.230 'P\nF\nA\n/\nS\nE\nZ\nA\nM\nS\nE\nD\nP.\n©\n'>
+<LTTextBoxHorizontal(12) 569.140,63.992,575.742,65.336 ' \n'>
+<LTTextBoxHorizontal(13) 569.140,68.276,575.742,69.620 ' \n'>
+<LTImage(Im0) 438.408,676.604,569.626,785.658 (273, 226)>
+<LTImage(Im1) 16.490,56.239,595.933,599.368 (1207, 1131)>
+<LTImage(Im2) 30.223,705.137,156.281,785.021 (263, 167)>
+<LTImage(Im3) 8.810,54.697,22.082,134.105 (166, 28)>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'D\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'e\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'm\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'a\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'i\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'n\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 ' \n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'u\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'n\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 ' \n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'A\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'u\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 't\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'r\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'e\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 ' \n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'J\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'o\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'u\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'r\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 ':\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 ' \n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '2\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '0\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '1\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '9\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '-\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '0\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '9\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '-\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '1\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '8\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'T\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '2\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '3\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 ':\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '1\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '6\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 ':\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '2\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '2\n'>
+----START-PAGE 2 ----
+<LTTextBoxHorizontal(0) 2.800,825.646,254.301,837.615 '2458-CN-p002-CLES DU JOUR_Mise en page 1  18/09/2019  18:08  Page4\n'>
+<LTTextBoxHorizontal(1) 26.457,772.001,33.009,784.396 '2\n'>
+<LTTextBoxHorizontal(2) 42.331,772.786,167.717,783.099 'N° 2458 JEUDI 19 SEPTEMBRE 2019\n'>
+<LTTextBoxHorizontal(3) 234.194,767.186,361.084,789.227 'CLÉS DU JOUR\n'>
+<LTTextBoxHorizontal(4) 530.404,772.786,568.817,783.099 'CNEWS.FR\n'>
+<LTTextBoxHorizontal(5) 50.452,739.065,98.893,751.236 'L’ŒIL DE... \n'>
+<LTTextBoxHorizontal(6) 32.171,665.143,38.773,666.593 '/\n'>
+<LTTextBoxHorizontal(7) 32.171,642.334,38.773,682.285 'S\nW\nE\nN\nC\nR\nE\nI\nG\nN\nA\nR\nG\n'>
+<LTTextBoxHorizontal(8) 32.171,632.130,38.773,641.309 '.\nS\n \n©\n'>
+<LTTextBoxHorizontal(9) 51.083,613.211,102.376,624.873 'Pascal Praud\n'>
+<LTTextBoxHorizontal(10) 51.083,458.444,151.994,597.219 'IMMIGRATION,\nSUJET TABOU \n«Il a durci le ton», ont écrit les\néditorialistes.  «Il  chasse  sur  les\nterres de Marine Le Pen», ont dé-\nploré les belles âmes. «Il prépare\ndéjà la présidentielle», ont ajouté\nd’autres voix. Emmanuel Macron\nn’a pourtant rien dit d’extraordi-\nnaire. Il a rappelé des évidences,\nque  chacun  peut  entendre  au\ncoin de la rue : le communauta-\nrisme émerge dans notre société.\nL’immigration crée des tensions.\n'>
+<LTTextBoxHorizontal(11) 57.835,387.523,137.823,441.148 'Evoquer le sujet  \na toujours été\ntrès compliqué\ndans notre pays.\n'>
+<LTTextBoxHorizontal(12) 51.083,197.129,151.630,375.016 'La gauche n’a pas voulu se pen-\ncher sur le problème durant des\ndécennies. Les classes populaires\nvivent avec ces tensions bien plus\nque les bourgeois. Bref, Emma-\nnuel Macron n’a rien inventé. La\nréaction à ses propos montre la\ndifﬁculté,  en  France,  d’évoquer\nune société et des mœurs qui ont\nchangé  en  trente  ans,  à  Saint-\nDenis ou dans les quartiers nord\nde Marseille. Parler d’immigration\nfut longtemps tabou. Puisse-t-il\naujourd’hui ne pas être trop tard.\nPascal Praud, à retrouver\ndu lundi au vendredi, à 9h,\net du lundi au jeudi, à 20h,\ndans L’heure des pros\nsur CNEWS.\n'>
+<LTTextBoxHorizontal(13) 182.504,533.114,366.040,751.236 'BON À SAVOIR\nD’OÙ VIENT L’EXPRESSION\n«SE FAIRE DU MOURON» ? \nLorsqu’une personne est très in-\nquiète, on peut dire qu’elle «se fait\ndu mouron». Une expression appa-\nrue dans le courant du XVIIIe siècle,\net qui provient du domaine de l’hor-\nticulture. A l’origine, le «mouron»\ndésigne en effet une petite plante\nsauvage que l’on trouve dans les\nchamps  et  les  jardins,  en  Europe \net en particulier en France. Elle est \nfacilement reconnaissable, car ses\nfeuilles ont une forme touffue, agré-\nmentée de petits poils blancs sur\nles bords. Le terme a vite été repris\nen argot pour faire référence à la\npilosité,  et  notamment  aux  che-\nveux.  Par  extension,  l’expression\n«se faire du mouron» a ﬁni par de-\n'>
+<LTTextBoxHorizontal(14) 304.371,533.122,412.950,599.020 'venir  synonyme  dans  le  langage\npopulaire de «se faire des cheveux\nblancs». On disait aussi «ne plus\navoir de mouron» pour dire qu’on\nétait chauve. Si le mot «mouron»\nn’est  plus  employé  seul  aujour -\nd’hui, l’expression a subsisté.\n'>
+<LTTextBoxHorizontal(15) 182.640,475.430,220.726,487.600 'L’IMAGE\n'>
+<LTTextBoxHorizontal(16) 442.588,739.065,490.970,751.236 'L’HISTOIRE\n'>
+<LTTextBoxHorizontal(17) 436.536,617.108,555.615,728.596 'IL MET UN COFFRE-FORT\nDANS SON FRIGO\nUn motif de rupture ? Stacey, une\njeune femme britannique, a récemment\neu la mauvaise surprise de découvrir\nque son ﬁancé, Dave, avait mis en place\nun coffre-fort dans leur frigo pour pro-\ntéger son précieux chocolat. Cette ins-\ntallation a immédiatement provoqué la\ncolère de Stacey, qui a publié un mes-\nsage  incendiaire  sur  Facebook :  «On\n'>
+<LTTextBoxHorizontal(18) 413.906,631.191,420.508,632.641 '/\n'>
+<LTTextBoxHorizontal(19) 413.906,613.887,420.508,649.106 'A\nP\nI\nS\n/\nP\nA\nR\nE\nN\nN\nE\nP\n'>
+<LTTextBoxHorizontal(20) 413.906,611.518,420.508,612.862 '.\n'>
+<LTTextBoxHorizontal(21) 413.906,607.379,420.508,608.723 ' \n'>
+<LTTextBoxHorizontal(22) 413.906,602.955,420.508,611.574 'A\n©\n'>
+<LTTextBoxHorizontal(23) 555.754,504.283,562.356,564.171 'E\nW\nO\nL\n \nY\nE\nC\nA\nT\nS\n \nK\nO\nO\nB\nE\nC\nA\nF\n \n©\n'>
+<LTTextBoxHorizontal(24) 436.536,393.114,557.485,496.341 'achète une maison ensemble, on a un\nenfant ensemble, on se ﬁance, on pré-\nvoit un mariage et on en arrive là !». On\nignore  si  c’est  la  gourmandise  de  la\njeune femme ou l’égoïsme de l’homme\nqui  est  problématique,  mais  la  publi\ncation  a  aussitôt  déclenché  un  raz- \nde-marée de réactions sur les réseaux\nsociaux, chacun prenant position en fa-\nveur de Stacey ou Dave. De nouveaux\nconﬂits en perspective dans les foyers.\n'>
+<LTTextBoxHorizontal(25) 442.657,346.427,509.749,358.597 'C’EST ARRIVÉ...\n'>
+<LTTextBoxHorizontal(26) 436.454,262.439,555.597,335.625 'UN 19 SEPTEMBRE\nAlfred Dreyfus est gracié par le\nprésident  Loubet  (1899). L’ancien\ncapitaine avait été condamné à tort au\nbagne à vie pour trahison au proﬁt de\nl’Allemagne. Il sera réhabilité dans l’ar-\nmée sept ans plus tard.\n'>
+<LTTextBoxHorizontal(27) 423.510,262.106,430.112,303.395 'A\nP\nI\nS\n/\nX\nE\nR\n/\nP\nE\nP\nN\nI\nP\n©\n'>
+<LTTextBoxHorizontal(28) 423.510,266.530,430.112,267.874 ' \n'>
+<LTTextBoxHorizontal(29) 171.969,187.771,425.161,254.139 'L’AFFAIRE EST DANS LE SAC\nUne petite citadine rouge, déposée dans un immense sac à main transparent, a ré-\ncemment été installée devant la gare de King’s Cross, à Londres, par le concession-\nnaire automobile en ligne Cinch. Par cette mise en scène, le groupe britannique \nespère convaincre les futurs clients de venir acheter leur véhicule sur ce site spécialisé,\nen vantant les mérites de son algorithme capable de trouver le véhicule parfait.\n'>
+<LTTextBoxHorizontal(30) 436.454,187.780,557.483,253.846 'La  momie  Otzi  est  découverte\n(1991). C’est un couple de randonneurs\nallemands  qui  est  tombé  par  hasard \nsur ce corps vieux de 5 000 ans dans les\nAlpes  italiennes.  Les  autopsies  de\nl’homme de glace ont montré qu’il était\nmort d’une ﬂèche dans le dos. \n'>
+<LTTextBoxHorizontal(31) 48.273,157.528,192.916,169.923 'À RETROUVER SUR                  .FR\n'>
+<LTTextBoxHorizontal(32) 115.256,94.439,208.166,151.097 'UN PACTOLE RETROUVÉ\nPAR LES GENDARMES\nLors d’une affaire de drogue,\ndeux millions d’euros ont été\ndécouverts  dans  une  voiture\ndans les Pyrénées-Atlantiques.\n'>
+<LTTextBoxHorizontal(33) 285.734,94.456,378.636,151.114 'DEUX JOUEURS DE FOOT\nTOUCHÉS PAR LA FOUDRE\nUn éclair s’est abattu sur la pe-\nlouse et a touché deux joueurs\nlors d’un match en Jamaïque.\nIls ont dû être hospitalisés.\n'>
+<LTTextBoxHorizontal(34) 455.851,94.447,548.449,151.105 'LA CHANTEUSE RIHANNA\nEST-ELLE ENCEINTE ?\nPlusieurs indices laissent à pen-\nser que la célèbre chanteuse\nbarbadienne pourrait attendre\nson premier enfant.\n'>
+<LTTextBoxHorizontal(35) 44.227,70.647,76.708,77.250 '© SYSPEO/SIPA\n'>
+<LTTextBoxHorizontal(36) 214.198,70.647,261.805,77.250 '© K. SONODA/AP/SIPA\n'>
+<LTTextBoxHorizontal(37) 384.169,70.647,452.547,77.250 '© S. LOVEKIN/VARIETY/REX/SIPA\n'>
+<LTImage(Im0) 213.547,73.311,283.517,172.254 (146, 207)>
+<LTImage(Im1) 383.944,77.652,450.590,171.778 (139, 197)>
+<LTImage(Im2) 304.048,602.753,413.119,700.608 (228, 204)>
+<LTImage(Im3) 171.585,261.754,423.664,477.268 (526, 449)>
+<LTImage(Im4) 436.075,504.482,556.050,607.249 (250, 215)>
+<LTImage(Im5) 44.123,77.639,110.868,156.210 (140, 164)>
+<LTImage(Im6) 25.620,616.188,172.899,756.530 (277, 260)>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'D\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'e\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'm\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'a\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'i\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'n\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 ' \n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'u\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'n\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 ' \n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'A\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'u\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 't\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'r\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'e\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 ' \n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'J\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'o\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'u\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'r\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 ':\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 ' \n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '2\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '0\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '1\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '9\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '-\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '0\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '9\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '-\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '1\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '8\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'T\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '2\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '3\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 ':\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '1\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '6\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 ':\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '2\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '2\n'>
+----START-PAGE 3 ----
+<LTTextBoxHorizontal(0) 57.900,545.385,312.955,758.362 'EXPERTE\nEN ÉBAUCHE\nDE PLAN\nMAIS PAS\nEN BUSINESS\nPLAN ?\n'>
+<LTTextBoxHorizontal(1) 59.397,426.457,349.379,503.811 'Vous êtes 100% dédié à votre activité,\nnos conseillers sont 100% dédiés aux pros.\nCe sont les mieux placés pour vous proposer\nles solutions de financement adaptées\nà votre business plan.\n'>
+<LTTextBoxHorizontal(2) 59.764,73.173,535.296,89.543 'Business plan = Plan de développement\nSociété Générale – S.A. au capital de 1 066 714 367,50 € – 552 120 222 RCS PARIS – Siège social : 29, bd Haussmann, 75009 PARIS – Crédit photo : Julien Lienard – Septembre 2019.\n'>
+<LTImage(Im0) 26.444,56.966,568.972,784.742 (1131, 1517)>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'D\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'e\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'm\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'a\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'i\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'n\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 ' \n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'u\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'n\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 ' \n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'A\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'u\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 't\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'r\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'e\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 ' \n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'J\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'o\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'u\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'r\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 ':\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 ' \n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '2\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '0\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '1\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '9\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '-\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '0\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '9\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '-\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '1\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '8\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'T\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '2\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '3\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 ':\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '1\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '6\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 ':\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '2\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '2\n'>
+----START-PAGE 4 ----
+<LTTextBoxHorizontal(0) 2.800,825.646,253.890,837.615 '2458-CN-p004-GRAND ANGLE_Mise en page 1  18/09/2019  21:08  Page4\n'>
+<LTTextBoxHorizontal(1) 26.457,772.001,32.887,784.396 '4\n'>
+<LTTextBoxHorizontal(2) 42.331,772.786,167.716,783.099 'N°\xa02458 JEUDI 19 SEPTEMBRE 2019\n'>
+<LTTextBoxHorizontal(3) 230.733,767.326,364.578,789.368 'GRAND ANGLE\n'>
+<LTTextBoxHorizontal(4) 530.403,772.786,568.816,783.099 'CNEWS.FR\n'>
+<LTTextBoxHorizontal(5) 39.672,736.898,523.551,756.118 'LES PARTICULES FINES, DANGEREUSES POUR LA SANTÉ, SONT PARTOUT\n'>
+<LTTextBoxHorizontal(6) 39.672,684.252,552.384,735.212 'DE L’INQUIÉTUDE DANS L’AIR\n'>
+<LTTextBoxHorizontal(7) 442.517,661.044,499.853,673.215 'EN CHIFFRES\n'>
+<LTTextBoxHorizontal(8) 442.136,436.808,550.208,654.620 '48 000 DÉCÈS prématurés par an\nseraient causés en France par la pol-\nlution de l’air, selon Santé publique.\nSoit davantage que le nombre de\nmorts dus à l’alcool (41 000).\n29,4 % DES ÉMISSIONS de gaz à\neffet de serre du pays sont causées\npar les transports, devant l’agricul-\nture, le logement et l’industrie.\n100 MILLIARDS D’EUROS de coûts\npar an environ sont liés à la pollution\nde l’air (soins, recherche, etc.).\n9 MOIS D’ESPÉRANCE de vie sont\nen moyenne perdus en raison de la\npollution de l’air dans les logements\nen France, selon l’organisme OQAI.\n33,4 % DES FRANÇAIS estiment\nque la pollution de l’air constitue le\npremier problème environnemental,\nderrière le réchauffement climatique,\nselon un récent sondage.\n'>
+<LTTextBoxHorizontal(9) 436.536,318.465,557.603,412.360 'cers. «Chez les enfants, on peut même\navoir  des  problèmes  de  maturation\npulmonaires et de croissance pulmo-\nnaire», alerte la pneumologue et aller-\ngologue Madiha Ellafﬁ. Au-delà des\nrisques pour la santé, la pollution de\nl’air  représente  également  un  coût \ngigantesque :  jusqu’à  100 milliards\nd’euros par an. Une raison de plus, s’il\nen fallait, d’agir urgemment. n\n'>
+<LTTextBoxHorizontal(10) 440.922,287.754,510.167,299.962 'L’INFO EN PLUS\n'>
+<LTTextBoxHorizontal(11) 440.504,241.514,551.713,279.415 'Le  mot  «pollution»  a  été  employé\npour la première fois dans son sens\nmoderne en 1874. Il qualiﬁait alors la\ncontamination des eaux de la Seine.\n'>
+<LTTextBoxHorizontal(12) 391.559,87.492,549.278,190.720 'Contre la pollution de l’air, Madrid a frappé fort.\nDepuis novembre 2018, aucune voiture, hormis\ncelles des résidents, les transports en commun, ou\nles véhicules d’urgence, n’a en effet le droit de cir-\nculer dans le centre historique de la capitale espa-\ngnole. Et gare aux contrevenants, qui s’exposent à\nune amende d’un montant de 90 euros. Dans sa\nlutte contre les particules ﬁnes, la ville a par ail-\nleurs engagé une grande réﬂexion dans le but de\nremplacer les quelque 200 chaudières à charbon\nrecensées dans le centre.\n'>
+<LTTextBoxHorizontal(13) 309.500,70.647,344.870,77.250 '© G. BOUYS/AFP\n'>
+<LTTextBoxHorizontal(14) 32.069,453.732,38.671,512.657 'A\nP\nI\nS\n/\nP\nA\n/\nE\nR\nÈ\nI\nN\nV\nU\nA\nM\nA\nL\n \nE\nD\n'>
+<LTTextBoxHorizontal(15) 32.069,480.848,38.671,482.203 'I\n'>
+<LTTextBoxHorizontal(16) 32.069,466.097,38.671,467.441 ' \n'>
+<LTTextBoxHorizontal(17) 32.069,451.363,38.671,453.788 ' \n.\n'>
+<LTTextBoxHorizontal(18) 32.069,447.225,38.671,448.569 ' \n'>
+<LTTextBoxHorizontal(19) 32.069,442.801,38.671,451.419 'R\n©\n'>
+<LTTextBoxHorizontal(20) 42.331,432.949,421.060,442.077 'Les effets peuvent être limités (irritations, toux, fatigue…) plus graves (asthme) ou même dramatiques (cancers).\n'>
+<LTTextBoxHorizontal(21) 304.253,365.110,423.331,412.344 'son : des polluants diffusés en continu\nà cause de l’utilisation de produits mé-\nnagers,  de  meubles  dégageant  des\ncomposés volatils, le tabac, ou encore\nune ventilation insufﬁsante.\n'>
+<LTTextBoxHorizontal(22) 304.253,234.457,423.618,356.441 'Des risques sanitaires importants\nLe résultat ? Des conséquences dévas-\ntatrices pour la santé. Au total, la pol-\nlution de l’air est responsable en France\nde  48 000 décès  prématurés  par  an,\nd’après l’Agence nationale de santé pu-\nblique. Les effets peuvent se manifester\nà court ou long terme et peuvent aller\nd’affections bénignes (fatigue, toux, ir-\nritation des yeux) à des maladies plus\ngraves (asthme, allergies), voire à des\npathologies mortelles, comme des ma-\nladies cardio-vasculaires, ou des can-\n'>
+<LTTextBoxHorizontal(23) 314.080,203.941,419.565,216.112 'L’EXEMPLE MADRILENE\n'>
+<LTTextBoxHorizontal(24) 39.672,364.676,288.975,420.574 'Les études faisant état d’une pollution\ntout aussi insidieuse que préoccupante\nsur l’ensemble du pays se multiplient.\n'>
+<LTTextBoxHorizontal(25) 39.685,197.115,159.055,347.173 'On  les  respire  à  longueur  de\ntemps. Elles sont dans l’air de nos loge-\nments, de nos moyens de transport, sur\nnotre lieu de travail… Les particules\nﬁnes, dites PM 2,5 (d’un diamètre infé-\nrieur à 2,5 μm), et a fortiori ultraﬁnes\n(PM 0,1) constituent un risque majeur.\nLes études scientiﬁques se multiplient,\nmettant  toujours  plus  en  garde  sur\nleurs effets néfastes. Un constat qui a\nmême poussé la ministre de la Transi-\ntion écologique, Elisabeth Borne, à an-\nnoncer,  hier,  que  l’indice Atmo  de  la\nqualité de l’air allait être révisé sur l’en-\nsemble du territoire pour mieux pren-\ndre en compte le risque.\n'>
+<LTTextBoxHorizontal(26) 39.685,75.794,159.061,188.446 'A l’extérieur comme à l’intérieur\nSi de nombreuses mesures sont prises\npour réduire la concentration en parti-\ncules ﬁnes dans notre environnement,\nle traﬁc routier reste malgré tout l’un\ndes grands responsables. A lui seul, il\német environ 50 % des particules ﬁnes\net ultraﬁnes. «Ces dernières, qui sont six\nfois moins épaisses qu’un cheveu, ren-\ntrent non seulement dans le système\nrespiratoire,  mais  peuvent  pénétrer\njusqu’au  système  sanguin»,  précise\n'>
+<LTTextBoxHorizontal(27) 171.967,75.772,291.336,347.005 'Charlotte Songeur, ingénieur à Airparif,\nl’organisme qui scrute la qualité de l’air\ndans la capitale. Et si l’on pense pouvoir\néviter le danger en prenant les trans-\nports en commun, c’est un leurre. Selon\nune étude publiée hier par l’association\nRespire, les concentrations de particules\nﬁnes peuvent carrément atteindre des\nniveaux dix fois plus élevés à l‘intérieur\nd’une rame de métro qu’à l’extérieur. La\nconcentration  peut  parfois  égaler  les\n300 μg/m3 – le seuil d’alerte étant ﬁxé\nà 40 μg/m3 par jour, selon l’Organisation\nmondiale de la santé (OMS). Et l’envi-\nronnement  des  plus  jeunes  est  loin\nd’être épargné. En effet, une étude réa-\nlisée entre mars et mai par la fédération\nFrance  nature  environnement  (FNE)\ndans des cours d’école et des salles de\nclasse de Paris révèle, pour plus de la\nmoitié d’entre elles, la présence de pol-\nluants  comme  les  particules  ﬁnes,  le\ndioxyde de carbone (CO2) ou le dioxyde\nd’azote (NO2). Enﬁn, si certains pensent\nêtre à l’abri en étant protégés par la cli-\nmatisation de leur bureau ou bien au\nchaud chez eux, là encore le constat est\nsans appel. L’air y est souvent cinq à dix\nfois plus pollué que l’air extérieur. La rai-\n'>
+<LTImage(Im0) 39.427,437.191,423.640,675.351 (801, 497)>
+<LTImage(Im1) 304.023,77.697,388.041,202.875 (176, 261)>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'D\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'e\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'm\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'a\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'i\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'n\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 ' \n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'u\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'n\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 ' \n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'A\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'u\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 't\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'r\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'e\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 ' \n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'J\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'o\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'u\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'r\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 ':\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 ' \n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '2\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '0\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '1\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '9\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '-\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '0\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '9\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '-\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '1\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '8\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'T\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '2\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '3\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 ':\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '1\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '6\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 ':\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '2\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '2\n'>
+----START-PAGE 5 ----
+<LTImage(Im0) 26.233,57.165,568.985,784.941 (1131, 1517)>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'D\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'e\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'm\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'a\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'i\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'n\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 ' \n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'u\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'n\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 ' \n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'A\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'u\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 't\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'r\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'e\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 ' \n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'J\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'o\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'u\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'r\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 ':\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 ' \n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '2\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '0\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '1\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '9\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '-\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '0\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '9\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '-\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '1\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '8\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'T\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '2\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '3\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 ':\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '1\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '6\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 ':\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '2\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '2\n'>
+----START-PAGE 6 ----
+<LTTextBoxHorizontal(0) 2.800,825.646,250.986,837.615 '2458-CN-p006-GRAND PARIS_Mise en page 1  18/09/2019  20:09  Page2\n'>
+<LTTextBoxHorizontal(1) 26.457,772.001,33.410,784.396 '6\n'>
+<LTTextBoxHorizontal(2) 42.332,772.786,167.717,783.099 'N°\xa02458 JEUDI 19 SEPTEMBRE 2019\n'>
+<LTTextBoxHorizontal(3) 235.228,767.326,360.052,789.368 'GRAND PARIS\n'>
+<LTTextBoxHorizontal(4) 530.404,772.786,568.817,783.099 'CNEWS.FR\n'>
+<LTTextBoxHorizontal(5) 32.368,669.303,38.971,711.875 'S\nW\nE\nN\nC\n \nE\nR\nU\nT\nP\nA\nC\n©\n'>
+<LTTextBoxHorizontal(6) 32.368,673.727,38.971,675.071 ' \n'>
+<LTTextBoxHorizontal(7) 156.681,674.925,371.791,736.718 'Aujourd’hui, ni de la part de la mairie \nni du gouvernement, je ne décèle l’envie\nde prendre en charge sanitairement ces\n200 drogués de la colline du crack.\n'>
+<LTTextBoxHorizontal(8) 42.410,659.966,182.076,669.262 'Pierre Liscia, élu du 18e, hier sur CNEWS.\n'>
+<LTTextBoxHorizontal(9) 422.373,694.396,517.617,751.970 '3 000\nJEUNES\n'>
+<LTTextBoxHorizontal(10) 392.337,665.838,547.653,694.826 'environ participeront aujourd’hui à une action de\nsensibilisation à la sécurité routière, organisée par\nla préfecture de police au Paris Event Center (19e).\n'>
+<LTTextBoxHorizontal(11) 41.368,628.552,52.473,639.708 '75\n'>
+<LTTextBoxHorizontal(12) 58.903,624.489,247.316,643.708 'MUNICIPALES 2020 À PARIS\n'>
+<LTTextBoxHorizontal(13) 39.804,548.408,278.696,624.747 'LE DUEL SE MET\nEN MARCHE\n'>
+<LTTextBoxHorizontal(14) 32.368,388.805,38.971,436.686 'P\nF\nA\n/\nT\nL\nE\nS\nS\nA\nH\nR\nE\nD\nN\nA\nV\n'>
+<LTTextBoxHorizontal(15) 32.368,398.034,38.971,399.378 ' \n'>
+<LTTextBoxHorizontal(16) 32.368,407.868,38.971,409.212 ' \n'>
+<LTTextBoxHorizontal(17) 32.368,386.744,38.971,388.088 '.\n'>
+<LTTextBoxHorizontal(18) 32.368,382.292,38.971,383.636 ' \n'>
+<LTTextBoxHorizontal(19) 32.368,377.868,38.971,387.007 'G\n©\n'>
+<LTTextBoxHorizontal(20) 42.331,368.016,286.403,377.144 'Benjamin Griveaux et Cédric Villani commencent à avancer leurs pions.\n'>
+<LTTextBoxHorizontal(21) 39.802,206.438,159.170,356.506 'Les grandes manœuvres commen-\ncent dans la course à la mairie de Paris\npour Benjamin Griveaux et Cédric Vil-\nlani. Hier matin, c’est le candidat LREM\nofﬁciel qui a ouvert le bal avec l’an-\nnonce de deux nouveaux groupes de\nréﬂexion  constitués  de  spécialistes,\nd’habitants et de jeunes : le «conseil du\nquotidien des Parisiens» et celui «de\nl’urgence climatique». Le premier sera\nd’ailleurs  dirigé  par  Delphine  Bürkli,\nmaire du 9e, qui a récemment quitté Les\nRépublicains pour rallier Benjamin Gri-\nveaux. De son côté, Cédric Villani\xa0va\npasser à l’offensive aujourd’hui. Le dé-\nputé doit en effet lancer ofﬁciellement\n'>
+<LTTextBoxHorizontal(22) 172.083,206.446,291.449,356.344 'sa campagne, en présentant son équipe\net en inaugurant son QG situé sur l’île\nde la Cité, rue d’Arcole (4e). Dans son\néquipe, on s’est également félicité du\nbaromètre sur les personnalités préfé-\nrées des Français publié mardi soir par\nl’Ifop, où le mathématicien dissident\n(28 % de bonnes opinions) devance de\nsix points Benjamin Griveaux (22 %).\nBref,  ce  début  de\xa0 campagne  munici-\npale\xa0est plus que jamais un duel de po-\npularité à ﬂeurets mouchetés chez les\nmarcheurs.  Sauf  que  ce  sont  les  pre-\nmières touches qui risquent de s’avérer\ndécisives pour recevoir la bénédiction –\nou la sanction – de l’arbitre Macron. n\n'>
+<LTTextBoxHorizontal(23) 50.834,177.793,211.936,189.963 'LA QUALITÉ DE L’AIR AUJOURD’HUI\n'>
+<LTTextBoxHorizontal(24) 68.550,130.983,131.773,155.654 'INDICE DE\nPOLLUTION\n'>
+<LTTextBoxHorizontal(25) 138.875,135.633,154.034,150.316 '37\n'>
+<LTTextBoxHorizontal(26) 54.974,96.054,58.472,104.648 '0\n'>
+<LTTextBoxHorizontal(27) 96.413,96.054,103.338,104.648 '25\n'>
+<LTTextBoxHorizontal(28) 144.523,96.054,151.448,104.648 '50\n'>
+<LTTextBoxHorizontal(29) 192.443,96.054,199.367,104.648 '75\n'>
+<LTTextBoxHorizontal(30) 240.523,96.054,255.174,104.648 '>100\n'>
+<LTTextBoxHorizontal(31) 291.968,377.868,298.570,415.058 'P\nF\nA\n/\nT\nO\nL\nL\nI\nU\nG\nF.\n©\n'>
+<LTTextBoxHorizontal(32) 291.968,382.292,298.570,383.636 ' \n'>
+<LTTextBoxHorizontal(33) 309.215,615.808,363.349,640.075 'En bref\n'>
+<LTTextBoxHorizontal(34) 311.447,486.439,416.165,598.899 'PARIS : UN HOMME\nDE 67 ANS SE SUICIDE\nDEPUIS SA SUITE AU RITZ\nUn sexagénaire est décédé mardi\naprès-midi, après s’être défenestré\ndu 6e étage du célèbre palace de la\nplace Vendôme (1er) où il logeait\ndepuis une semaine, a-t-on appris\nhier. Pris en charge par les pom-\npiers,  il  n’a  pu  être  réanimé.  De\nnombreuses bouteilles d’alcool ont\nen outre été retrouvées sur place.\n'>
+<LTTextBoxHorizontal(35) 311.447,346.442,418.003,468.232 'PARIS : LE PLAN \nCONTRE LA POLLUTION\nAU PLOMB ÉLARGI\nLa ville a indiqué hier poursuivre et\nélargir son plan d’action contre la\npollution au plomb. Il se déclinera\nen cinq axes, comme des tests et\ndes campagnes de nettoyage dans\nles  lieux  accueillant  des  enfants \nde moins de 7 ans, le dépistage du \nsaturnisme, suivi de la plombémie\ndes écoliers ou l’identiﬁcation des\nsources de pollution.\n'>
+<LTTextBoxHorizontal(36) 311.447,225.107,418.042,328.232 'LA SEINE-SAINT-DENIS\nBANNIT À SON TOUR \nLES PESTICIDES \nAprès le Val-de-Marne, c’est au-\ntour  de  la  Seine-Saint-Denis  de\n signer aujourd’hui un arrêté pour\ninterdire l’usage de pesticides sur\nson  territoire.  Le  département \nentend aussi inciter les entreprises\nprivées à abandonner l’usage des\nproduits phytosanitaires.\n'>
+<LTTextBoxHorizontal(37) 311.447,85.110,416.132,206.899 'LA RATP FÊTE LE SPORT \nSUR SON RÉSEAU\nLa Régie invite aujourd’hui les usa-\ngers à participer à des animations\nsportives, à l’occasion des journées\n«Tous athlètes de la ville». De 12h\nà 19h, du tennis de table, du pen-\ntathlon  et  de  l’athlétisme  handi-\nsport  sont  proposés  à  la  station\n Bibliothèque-François-Mitterrand\n(ligne  14)  ainsi  que  des  ateliers\nd’escrime et de tir à l’arc organisés\nà la station Saint-Lazare (13).\n'>
+<LTTextBoxHorizontal(38) 436.536,575.507,552.979,639.832 'TRANSPORTS\nL’INSÉCURITÉ\nÀ LA LOUPE\n'>
+<LTTextBoxHorizontal(39) 556.456,495.539,563.058,496.894 'I\n'>
+<LTTextBoxHorizontal(40) 556.456,499.689,563.058,501.139 '/\n'>
+<LTTextBoxHorizontal(41) 556.456,470.921,563.058,509.265 'P\nF\nA\nK\nR\nA\nV\nO\nK\nP.\n©\n'>
+<LTTextBoxHorizontal(42) 556.456,475.345,563.058,476.689 ' \n'>
+<LTTextBoxHorizontal(43) 439.180,461.069,553.023,470.197 'Un demi-million d’usagers sondés.\n'>
+<LTTextBoxHorizontal(44) 436.541,309.114,555.515,449.839 'Une enquête publique va être réali-\nsée dès aujourd’hui et jusqu’au  13 octo-\nbre auprès des abonnés  annuels Navigo\net Imagine R’, sur leurs usages et leur\nsentiment d’insécurité dans les transports\nfranciliens. Près de 525 000 personnes\nseront questionnées via un formulaire\nenvoyé par mail. Des «témoignages in-\ndispensables», selon l’Institut Paris Ré-\ngion à l’origine du sondage, «pour pou-\nvoir identiﬁer les attentes et les besoins\nde la population». Il s’agit en effet de\ncomprendre ce qui génère ce sentiment\net de l’étudier, aﬁn de juguler l’anxiété\npar des actions concrètes sur le terrain. n\n'>
+<LTTextBoxHorizontal(45) 438.212,281.865,449.317,293.021 '75\n'>
+<LTTextBoxHorizontal(46) 455.753,280.118,513.769,294.532 'FAIT DIVERS\n'>
+<LTTextBoxHorizontal(47) 436.536,230.021,556.899,275.101 'LE RAPPEUR\nKALASH JUGÉ\n'>
+<LTTextBoxHorizontal(48) 436.208,75.775,555.898,225.839 'Poursuivi pour délit de fuite, ou-\ntrage et rébellion, le rappeur Kalash\ndoit comparaître aujourd’hui devant le\ntribunal de Paris. L’artiste avait été ar-\nrêté en mars dernier, quelques heures\naprès un concert, accusé d’avoir em-\nbouti des véhicules sur les Champs-\nElysées (8e). Les policiers avaient pu\nl’arrêter, alors qu’il tentait de s’enfuir\nau volant de sa Porsche. L’interpella-\ntion,  musclée,  avait  alors  fait  grand\nbruit.  En  2014,  l’acolyte  de  Booba\navait déjà eu à faire face à la justice,\nmis en examen pour une agression si-\nmilaire et condamné à six mois de pri-\nson avec sursis. n\n'>
+<LTImage(Im0) 39.496,375.041,165.565,546.098 (263, 357)>
+<LTImage(Im1) 165.016,374.920,291.289,546.205 (264, 357)>
+<LTImage(Im2) 436.183,469.313,555.897,569.021 (250, 208)>
+<LTImage(Im3) 191.489,105.308,277.876,174.887 (180, 145)>
+<LTImage(Im4) 42.992,667.587,120.809,752.362 (163, 177)>
+<LTImage(Im5) 894.184,461.432,1137.645,650.803 (508, 395)>
+<LTImage(Im6) 648.235,461.405,891.498,650.666 (507, 395)>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'D\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'e\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'm\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'a\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'i\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'n\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 ' \n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'u\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'n\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 ' \n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'A\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'u\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 't\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'r\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'e\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 ' \n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'J\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'o\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'u\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'r\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 ':\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 ' \n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '2\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '0\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '1\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '9\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '-\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '0\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '9\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '-\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '1\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '8\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'T\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '2\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '3\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 ':\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '1\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '6\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 ':\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '2\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '2\n'>
+----START-PAGE 7 ----
+<LTTextBoxHorizontal(0) 52.699,746.914,257.457,760.198 'Publi-rédactionnel lesgrosrecrutements.fr\n'>
+<LTTextBoxHorizontal(1) 52.699,657.848,421.164,725.466 'ENVIE DE TRAVAILLER SUR\nDES GROS TRUCS ?\n'>
+<LTTextBoxHorizontal(2) 52.568,345.693,443.044,531.916 'PETIT\nTRUC\nSNCF RÉSEAU RECRUTE DES PROFESSIONNELS DE\nL’ ÉLECTRICITÉ ET DES TÉLÉCOMS EN ÎLE-DE-FRANCE\nPRÊT(E) POUR TRAVAILLER SUR UN GROS TRUC ?\nSNCF Réseau vous forme aux différents métiers de\nl’électricité et des télécoms pour faire plein de petits trucs\nqui permettent de développer ou de faire fonctionner des\ngros trucs : le réseau électrique et les télécoms ferroviaires.\n'>
+<LTTextBoxHorizontal(3) 304.120,334.138,542.259,404.072 'LE TRUC EN PLUS : VOUS ÊTES LIBRE DE CHOISIR\nQue vous soyez adepte du terrain ou plus à l’aise dans un\nbureau, vous êtes libre de choisir ! SNCF Réseau vous offre\nla possibilité de déterminer votre rythme de travail mais\négalement votre lieu d’affectation car nous recrutons dans\ntoute l’Île-de-France !\n'>
+<LTTextBoxHorizontal(4) 457.458,460.901,530.441,529.989 'GROS\nTRUC\n'>
+<LTTextBoxHorizontal(5) 106.972,322.164,130.837,337.303 'haute\n'>
+<LTTextBoxHorizontal(6) 141.347,322.164,174.890,337.303 'tension,\n'>
+<LTTextBoxHorizontal(7) 185.400,322.164,228.277,337.303 'technicien\n'>
+<LTTextBoxHorizontal(8) 52.568,267.293,290.829,337.303 'Électricien\nsignalisation\nélectrique, technicien télécom ou encore chargé d’études\nen génie électrique, à vous de choisir la voie qui vous\nconvient et vous permettra de participer au plus grand\nprojet ferroviaire urbain d’Europe: la transformation du\nréseau francilien.\n'>
+<LTTextBoxHorizontal(9) 52.560,81.373,290.838,256.355 'Le plus ? Vous pourrez évoluer dans votre métier, accéder à\nde nouvelles compétences et de nouvelles responsabilités\ntout au long de votre parcours professionnel.\nVOTRE TRUC À VOUS\nVous avez des compétences en génie électrique,\nautomatisme et télécoms ? Vous êtes un professionnel\nreconnu, un autodidacte ayant envie de faire de sa passion\nson métier ou jeune diplômé ? Vous voulez un poste\nﬂexible qui colle à vos envies ? Alors, vous êtes sur la bonne\nvoie ! Chez SNCF Réseau nous accordons une grande\nattention aux compétences. Après avoir choisi votre\nmétier, vous suivrez une formation technique de plusieurs\nmois sur le terrain et en centre de formation : elle sera très\nopérationnelle et vous permettra de vous familiariser avec\nvos futures missions… et vos futurs collègues !\n'>
+<LTTextBoxHorizontal(10) 341.724,297.384,504.656,311.832 'Alors, venez montrer votre truc en plus\n'>
+<LTTextBoxHorizontal(11) 353.326,286.184,493.064,300.632 'pour travailler sur des gros trucs !\n'>
+<LTTextBoxHorizontal(12) 340.007,274.984,506.373,289.432 'Rendez-vous au Forum Recrutement les\n'>
+<LTTextBoxHorizontal(13) 321.247,263.784,525.142,278.232 '27 et 28 septembre à Paris en vous inscrivant sur\n'>
+<LTTextBoxHorizontal(14) 372.991,252.033,473.389,267.545 'lesgrosrecrutements.fr\n'>
+<LTTextBoxHorizontal(15) 377.060,213.953,469.329,239.928 'INFOS PRATIQUES\nHoraires d’ouverture\n'>
+<LTTextBoxHorizontal(16) 347.464,204.331,498.916,215.792 'Vendredi 27 Septembre : 8h30 - 18h\n'>
+<LTTextBoxHorizontal(17) 355.762,193.131,490.618,204.592 'Samedi 28 Septembre : 9h - 17h\n'>
+<LTTextBoxHorizontal(18) 375.222,169.153,471.168,184.665 'Accès Elysées Biarritz\n'>
+<LTTextBoxHorizontal(19) 336.936,159.531,509.453,170.992 '22-24 rue Quentin-Bauchart - 75008 Paris\n'>
+<LTTextBoxHorizontal(20) 351.898,148.331,494.492,159.792 'Métro : Ligne 1 - station George V\n'>
+<LTImage(Im0) 298.908,461.432,542.369,650.803 (508, 395)>
+<LTImage(Im1) 52.959,461.405,296.222,650.666 (507, 395)>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'D\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'e\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'm\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'a\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'i\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'n\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 ' \n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'u\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'n\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 ' \n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'A\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'u\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 't\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'r\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'e\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 ' \n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'J\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'o\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'u\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'r\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 ':\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 ' \n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '2\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '0\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '1\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '9\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '-\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '0\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '9\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '-\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '1\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '8\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'T\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '2\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '3\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 ':\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '1\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '6\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 ':\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '2\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '2\n'>
+----START-PAGE 8 ----
+<LTTextBoxHorizontal(0) 2.800,825.646,230.236,837.615 '2458-CN-p008-FRANCE_Mise en page 1  18/09/2019  20:40  Page8\n'>
+<LTTextBoxHorizontal(1) 26.457,772.001,33.261,784.396 '8\n'>
+<LTTextBoxHorizontal(2) 42.331,772.786,167.716,783.099 'N°\xa02458 JEUDI 19 SEPTEMBRE 2019\n'>
+<LTTextBoxHorizontal(3) 262.283,767.326,333.003,789.368 'FRANCE\n'>
+<LTTextBoxHorizontal(4) 530.403,772.786,568.816,783.099 'CNEWS.FR\n'>
+<LTTextBoxHorizontal(5) 45.522,727.792,99.657,752.059 'En bref\n'>
+<LTTextBoxHorizontal(6) 46.880,598.442,151.561,710.899 'UNE VINGTAINE \nDE «PETITES» TAXES VONT\nDISPARAÎTRE D’ICI À 2021\nDix-sept taxes jugées à faible ren-\ndement  vont  disparaître  d’ici  à\n2021, a indiqué hier le ministère de\nl’Economie et des Finances. Il s’agit\nnotamment de celles sur les permis\nde conduire, les produits de vapo-\ntage ou encore les food trucks. Elles\nrapportent moins de 100 millions\nd’euros par an à l’Etat.\n'>
+<LTTextBoxHorizontal(7) 46.880,458.443,151.855,580.232 'SOUPÇONNÉ \nD’EMPOISONNEMENT, \nLE DR PÉCHIER RESTE LIBRE\nLe Dr Frédéric Péchier, un médecin\nanesthésiste  de  Besançon  soup-\nçonné  de  24 empoisonnements\ndont neuf mortels, reste en liberté.\nLa Cour de cassation a rejeté hier le\npourvoi  du  parquet  général  qui\navait  requis  en  appel  son  place-\nment en détention. Il est soupçonné\nd’avoir pollué des poches de perfu-\nsion de patients, âgés de 4 à 80 ans.\n'>
+<LTTextBoxHorizontal(8) 46.880,337.107,151.620,440.232 'LES SENIORS, «GRANDS\nOUBLIÉS» DES POLITIQUES\nDE L’EMPLOI\nLes seniors sont «les grands oubliés\ndes  politiques  de  l’emploi»  alors\nmême qu’ils sont incités à rester en\nactivité  plus  longtemps,  déplore\nl’association Solidarités nouvelles\nface au chômage dans un rapport\nà paraître. L’exécutif a promis qu’il\nallait travailler sur cette question.\n'>
+<LTTextBoxHorizontal(9) 46.880,197.109,151.607,318.899 'FINISTÈRE : VINGT TONNES\nDE THON NON DÉCLARÉES\nSAISIES SUR DES NAVIRES\nPlus de vingt tonnes de thon ger-\nmon non déclarées ont été saisies\ndans  deux  navires  irlandais  à\nDouarnenez (Finistère) ﬁn août, a\nannoncé hier la préfecture de la ré-\ngion Bretagne. Les pêcheurs sont\nsoupçonnés  de  contourner  les\nquotas de pêche européens. Près\nde 190 kg d’espadon ont égale-\nment été retrouvés.\n'>
+<LTTextBoxHorizontal(10) 171.970,736.588,527.427,755.807 'LE DIRIGEANT DE LFI EST POURSUIVI POUR OUTRAGE\n'>
+<LTTextBoxHorizontal(11) 171.970,694.369,554.820,736.836 'MÉLENCHON À LA BARRE\n'>
+<LTTextBoxHorizontal(12) 171.968,467.789,292.953,692.506 'Un «procès politique», selon lui. Le\nleader de La France insoumise, Jean-Luc\nMélenchon,  sera  jugé  aujourd’hui  et\ndemain à Bobigny pour les incidents\nayant émaillé la perquisition au siège\nde son parti il y a près d’un an. Les\nimages où on le voyait bousculer un\n représentant  du  parquet  ainsi  qu’un\n policier avaient rapidement fait le tour\ndes médias. Poursuivi pour «actes d’in-\ntimidation contre l’autorité  judiciaire,\nrébellion  et  provocation»,  l’Insoumis\npourrait écoper jusqu’à un an de prison\net  de  15 000 euros  d’amende,  mais\nrisque bien plus si la qualiﬁcation de\n«violences» sur le magistrat et le poli-\ncier est retenue. Alors que ces dernières\nsemaines, Jean-Luc Mélenchon a mar-\ntelé l’idée d’une justice «aux ordres»\ndu pouvoir, l’audience s’annonce ten-\ndue et ultramédiatisée. Dans son livre\nEt ainsi de suite (éd. Plon) qui paraît \naujourd’hui, il réafﬁrme d’ailleurs que\n«la République, c’est bien [lui]». n\n'>
+<LTTextBoxHorizontal(13) 306.898,470.765,554.040,479.893 'L’Insoumis en chef sera jugé aujourd’hui et demain au tribunal de Bobigny.\n'>
+<LTTextBoxHorizontal(14) 556.456,481.127,563.058,511.412 'P\nF\nA\n/\nS\nI\nL\nL\nE\nP.\n©\n'>
+<LTTextBoxHorizontal(15) 556.456,485.551,563.058,486.895 ' \n'>
+<LTTextBoxHorizontal(16) 171.970,399.281,406.390,444.304 'GRENELLE DES VIOLENCES CONJUGALES\nUN SUCCÈS POUR LE 39 19\n'>
+<LTTextBoxHorizontal(17) 304.253,187.787,423.648,393.671 'avait que 8 % des  Français qui connais-\nsaient ce numéro.  Aujourd’hui, ils sont\n54 %»,  a déclaré la secrétaire d’Etat.\nPreuve  de  l’ampleur  du  phé nomène,\n1 661 appels ont été enregistrés par la\nplate-forme le jour même du lancement\ndu Grenelle, contre 150 à 200 par jour\nen  temps  normal,  et  le  ﬂux  n’a  «pas\ndécru». Pour plus d’efﬁcacité, le 39 19,\nqui ne fonctionne pas la nuit, devrait «à\nterme» être ouvert 24h/24.\nPour ce minibilan, Marlène Schiappa a\négalement  rappelé  l’importance  de\ncontrôler plus facilement si les hommes\nsoupçonnés  de  violences  conjugales\npossèdent une arme à feu. Elle a rappelé\nque «l’arme à feu est le mode opératoire\nle  plus  fréquent  dans  les  féminicides,\navec 31,8 % des cas.» Cette question\npourrait être intégrée à la «grille d’éva-\nluation  du  danger»,  dont  doivent  se\ndoter la police et la gendarmerie. n\n'>
+<LTTextBoxHorizontal(18) 174.614,293.143,288.294,302.271 'Le numéro devrait ouvrir 24h/24.\n'>
+<LTTextBoxHorizontal(19) 171.970,187.776,291.416,281.839 'Un premier bilan d’étape. Marlène\nSchiappa,  secrétaire  d’Etat  à  l’égalité\nfemmes-hommes,  s’est  exprimée  hier\nlors d’un point presse, pour fait un point\nsur l’avancée du Grenelle des violences\nconjugales, lancé le 3 septembre dernier.\nUne opération qui, en deux semaines, a\npermis au numéro d’appel d’urgence, le\n39 19, d’être bien plus connu dans la po-\npulation. «Avant le 3 septembre, il n’y\n'>
+<LTTextBoxHorizontal(20) 436.536,379.638,550.650,444.304 'SCISSION À EDF\nLES SALARIÉS\nEN GRÈVE\n'>
+<LTTextBoxHorizontal(21) 436.536,187.785,555.916,375.173 'Le courant ne passe plus. Les repré-\nsentants des employés d’EDF ont an-\nnoncé une journée de grève aujourd’hui\ncontre  le  projet  de  réorganisation,\nnommé «Hercule», et présenté au mois\nde juin aux syndicats. Ce plan prévoit la\nséparation du groupe en deux parties\nd’ici à 2022. La première, dite «bleue»,\nsera contrôlée à 100 % par l’Etat fran-\nçais et ambitionne de renationaliser en\nintégrant le nucléaire, les actifs hydrau-\nliques et le transport d’électricité (RTE).\nLa seconde, la partie «verte», serait en\ngrande partie nationalisée (65 %) avec\nune introduction en Bourse à hauteur de\n35 %. Inquiets par ce plan de scission,\nles syndicats visent aussi, lors de cette\njournée de grève la réforme des retraites,\nqui remet en cause le régime des Indus-\ntries électriques et gazières (IEG). n\n'>
+<LTTextBoxHorizontal(22) 164.619,332.989,171.222,382.040 'A\nP\nI\nS\n/\nM\nO\nC\nS\nW\nE\nN\nM\nA\nH\nC\n'>
+<LTTextBoxHorizontal(23) 164.619,346.558,171.222,348.008 '/\n'>
+<LTTextBoxHorizontal(24) 164.619,330.295,171.222,333.045 '/\nI\n'>
+<LTTextBoxHorizontal(25) 164.619,313.926,171.222,330.351 'R\nA\n-\nN\nE\nB\n'>
+<LTTextBoxHorizontal(26) 164.619,311.557,171.222,312.901 '.\n'>
+<LTTextBoxHorizontal(27) 164.619,307.419,171.222,308.763 ' \n'>
+<LTTextBoxHorizontal(28) 164.619,302.995,171.222,311.613 'R\n©\n'>
+<LTTextBoxHorizontal(29) 32.388,88.807,38.990,138.082 'A\nP\nI\nS\n/\nO\nN\nU\nR\nB\n \nT\nR\nE\nB\nE\nB\n©\n'>
+<LTTextBoxHorizontal(30) 32.388,93.231,38.990,94.575 ' \n'>
+<LTTextBoxHorizontal(31) 156.681,94.344,356.818,156.137 'L’objectif est de conserver une vente\nhumaine, mais c’est difﬁcile d’avoir un\nguichet ouvert du matin au soir, car \nc’est le contribuable qui paie à la ﬁn.\n'>
+<LTTextBoxHorizontal(32) 42.409,79.385,234.120,88.681 'Guillaume Pepy, président de la SNCF, hier sur CNEWS.\n'>
+<LTTextBoxHorizontal(33) 458.869,131.725,481.120,171.388 '6\n'>
+<LTTextBoxHorizontal(34) 409.144,113.815,530.845,141.083 'RÉACTEURS\n'>
+<LTTextBoxHorizontal(35) 392.336,85.257,547.494,114.245 'nucléaires en exploitation en France sont concer-\nnés par des problèmes de fabrication de cer-\ntains composants, a annoncé hier EDF.\n'>
+<LTImage(Im0) 42.952,84.959,120.984,171.945 (163, 182)>
+<LTImage(Im1) 304.064,472.022,555.912,690.696 (525, 456)>
+<LTImage(Im2) 169.650,296.918,293.349,394.411 (254, 198)>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'D\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'e\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'm\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'a\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'i\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'n\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 ' \n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'u\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'n\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 ' \n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'A\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'u\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 't\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'r\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'e\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 ' \n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'J\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'o\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'u\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'r\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 ':\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 ' \n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '2\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '0\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '1\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '9\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '-\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '0\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '9\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '-\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '1\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '8\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'T\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '2\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '3\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 ':\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '1\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '6\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 ':\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '2\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '2\n'>
+----START-PAGE 9 ----
+<LTTextBoxHorizontal(0) 2.800,825.646,230.236,837.615 '2458-CN-p009-FRANCE_Mise en page 1  18/09/2019  20:12  Page9\n'>
+<LTTextBoxHorizontal(1) 26.457,772.786,64.870,783.099 'CNEWS.FR\n'>
+<LTTextBoxHorizontal(2) 262.283,767.326,333.003,789.368 'FRANCE\n'>
+<LTTextBoxHorizontal(3) 427.557,772.786,552.942,783.099 'N° 2458 JEUDI 19 SEPTEMBRE 2019\n'>
+<LTTextBoxHorizontal(4) 561.856,772.001,568.819,784.396 '9\n'>
+<LTTextBoxHorizontal(5) 39.685,736.786,399.503,756.005 'LES ÉLUS DE PETITES VILLES FACE À ÉDOUARD PHILIPPE\n'>
+<LTTextBoxHorizontal(6) 39.685,693.214,411.160,736.894 'DES MAIRES EN COLÈRE\n'>
+<LTTextBoxHorizontal(7) 39.685,579.778,159.051,692.506 'Des territoires délaissés. Les XXes as-\nsises des petites villes de France (APVF)\nse tiennent aujourd’hui à Uzès, dans le\nGard, en présence du Premier ministre\nEdouard Philippe. Le lendemain, c’est\nl’Association  des  maires  ruraux  de\nFrance (AMRF) qui tiendra son congrès,\nà Eppe-Sauvage (Nord). L’occasion pour\nles élus, dont près de la moitié ont l’in-\ntention de ne pas se représenter aux\nmunicipales de 2020, de faire entendre\nleur colère et leurs revendications.\n'>
+<LTTextBoxHorizontal(8) 39.687,430.446,160.620,571.109 'De nombreuses revendications\nAu-delà d’une demande de revalorisa-\ntion des dotations de l’Etat, les maires\nattendent «des annonces fortes» sur la\nrevitalisation  des  centres-villes,  ou  le\nstatut  de  l’élu  notamment.  Une  de-\nmande à laquelle doit justement répon-\ndre le projet de loi Engagement et Proxi-\nmité qui va être examiné en première\nlecture au Sénat, à partir du 8 octobre\nprochain.  Après  la  mort  tragique  le \n6 août dernier du maire de Signes (Var),\ntué  pour  avoir  tenté  d’empêcher  un\ndépôt sauvage de gravats sur sa com-\nmune, certains élus exigent également\n'>
+<LTTextBoxHorizontal(9) 174.613,498.572,421.440,507.700 'Les édiles attendent notamment une revalorisation des dotations de l’Etat.\n'>
+<LTTextBoxHorizontal(10) 171.966,430.435,290.941,487.005 'davantage d’outils juridiques pour ré-\npondre aux incivilités et aux agressions\net une simpliﬁcation des procédures de\nverbalisation aﬁn de consolider les pou-\nvoirs de la police municipale. D’autres\nsujets, comme le controversé compteur\n'>
+<LTTextBoxHorizontal(11) 304.451,430.444,423.414,487.009 'Linky, et la multiplication des arrêtés\nmunicipaux  anti-glyphosate,  ont  ali-\nmenté la déﬁance des élus envers un\nexécutif  parisien  «trop  éloigné  des\npréoccupations du terrain». Charge à\nEdouard Philippe de leur donner tort. n\n'>
+<LTTextBoxHorizontal(12) 424.252,542.087,430.855,543.431 ' \n'>
+<LTTextBoxHorizontal(13) 424.252,508.934,430.855,542.143 'A\nP\nI\nS\n/\nT\nE\nZ\nU\nO\nP\n©\n'>
+<LTTextBoxHorizontal(14) 424.252,513.358,430.855,514.702 ' \n'>
+<LTTextBoxHorizontal(15) 441.498,728.396,495.633,752.662 'En bref\n'>
+<LTTextBoxHorizontal(16) 443.290,589.109,549.805,710.899 'QUARANTE START-UP\nRECEVRONT UN SOUTIEN\nPERSONNALISÉ DE L’ÉTAT\nLe gouvernement a dévoilé hier la\npremière  sélection  annuelle  des\nquarante jeunes pousses appelées\nà devenir des «leaders technolo-\ngiques mondiaux», et qui recevront\nun  suivi  personnalisé  de  la  part \ndes organismes publics et adminis-\ntrations français. Ce Next40 est pré-\nsenté comme «le CAC 40 français\ndes entreprises technologiques».\n'>
+<LTTextBoxHorizontal(17) 443.290,439.777,548.267,570.899 'L’ARMÉE VA SE DOTER\nDE 56 PETITS ROBOTS\nDE RECONNAISSANCE\nL’armée  de  terre  va  se  doter  de\n56 robots légers destinés principa-\nlement à la reconnaissance, a an-\nnoncé hier le ministère des Armées.\nCes robots téléopérés, dotés de ca-\nméra jour/nuit et d’un microphone,\n«permettront aux combattants des\nunités du génie et de l’infanterie de\ncollecter ponctuellement du rensei-\ngnement de contact tout en restant\nà distance», a détaillé le ministère.\n'>
+<LTImage(Im0) 171.677,507.293,423.617,690.467 (525, 382)>
+<LTImage(Im1) 26.458,59.908,568.762,403.748 (1130, 717)>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'D\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'e\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'm\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'a\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'i\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'n\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 ' \n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'u\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'n\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 ' \n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'A\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'u\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 't\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'r\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'e\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 ' \n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'J\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'o\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'u\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'r\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 ':\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 ' \n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '2\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '0\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '1\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '9\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '-\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '0\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '9\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '-\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '1\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '8\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'T\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '2\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '3\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 ':\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '1\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '6\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 ':\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '2\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '2\n'>
+----START-PAGE 10 ----
+<LTTextBoxHorizontal(0) 2.800,825.646,247.671,837.615 '2458-CN-p010-IMMOBILIER_Mise en page 1  18/09/2019  15:22  Page10\n'>
+<LTTextBoxHorizontal(1) 26.457,772.001,37.563,784.396 '10\n'>
+<LTTextBoxHorizontal(2) 42.331,772.786,167.716,783.099 'N° 2458 JEUDI 19 SEPTEMBRE 2019\n'>
+<LTTextBoxHorizontal(3) 242.249,767.326,353.028,789.368 'IMMOBILIER\n'>
+<LTTextBoxHorizontal(4) 530.403,772.786,568.816,783.099 'CNEWS.FR\n'>
+<LTTextBoxHorizontal(5) 39.765,736.641,536.482,755.860 'LES VENTES DE BIENS DE LUXE À PARIS ET EN PROVINCE SE MULTIPLIENT \n'>
+<LTTextBoxHorizontal(6) 39.765,695.865,549.529,737.118 'LE MARCHÉ DU PRESTIGE S’EMBALLE\n'>
+<LTTextBoxHorizontal(7) 39.685,458.457,160.712,692.506 'Un hôtel particulier situé près des\nInvalides :  48,5 millions  d’euros.  Une\nvilla  avec  vue  sur  la  mer  proche  de\nSaint-Jean-Cap-Ferrat : 22 millions d’eu-\nros.  Les  transactions  à  prix  astrono-\nmiques vont bon train. S’il est un sec-\nteur qui se porte bien dans l’Hexagone,\nc’est celui de l’immobilier de prestige.\nLe réseau Sotheby’s International Realty\nFrance-Monaco s’attend même à fran-\nchir un record au mois de septembre.\n«Nous prévoyons plus de 100 millions\nd’euros de ventes» avance Alexander\nKraft, président-directeur général du \nréseau qui compte une cinquantaine\nd’agences. A  Paris,  les  acheteurs  af-\nﬂuent de toutes parts. La clientèle fran-\nçaise  aisée  manifeste  à  nouveau  de\nl’intérêt après des années de retrait.\nPour les experts, les incertitudes liées\nau Brexit, mais aussi le climat écono-\nmique plus favorable expliquent ce re-\ntour des acheteurs français. Ces der-\nniers ne sont pas seuls à s’intéresser\naux biens haut de gamme. La clientèle\n'>
+<LTTextBoxHorizontal(8) 171.968,542.473,293.036,692.363 'étrangère (Américains, Allemands, Bel -\nges, Scandinaves et Moyen-Orientaux)\nest particulièrement dynamique. D’après\nSotheby’s International Realty France-\nMonaco, les acheteurs chinois sont eux\nsur le très haut de gamme. Et ce n’est\npas  uniquement  la  capitale  qui  fait \nexploser les compteurs. Les marchés\nde la Côte d’Azur, de la Provence ou\ndes stations de montagne de haute \naltitude sont également en ébullition.\nLes  perspectives  sont  au  beau  ﬁxe\npour ce secteur d’activité : les ache-\nteurs ne manquent pas et les taux de\ncrédit ne sont pas près de repartir à la\nhausse avant un an. n\n'>
+<LTTextBoxHorizontal(9) 176.849,511.261,246.093,523.469 'L’INFO EN PLUS\n'>
+<LTTextBoxHorizontal(10) 176.432,465.021,287.549,502.922 'Monaco  occupe  la  première  place\nmondiale en termes de prix dans ce\nsecteur, avec 48 800 € le mètre carré\nen moyenne (enquête Savills).\n'>
+<LTTextBoxHorizontal(11) 306.898,460.646,551.248,469.774 'La Côte d’Azur attire de plus en plus une clientèle étrangère très fortunée.\n'>
+<LTTextBoxHorizontal(12) 125.538,358.080,258.275,426.760 'LYON\nLa ville a posé récemment la première \npierre de la tour To-Lyon dans le quartier de \nla Part-Dieu, illustrant le dynamisme de son\nurbanisme. L’ensemble de 80 000 mètres\ncarrés comprend un immeuble de bureaux\nmais aussi un hôtel et des commerces.\n'>
+<LTTextBoxHorizontal(13) 340.748,358.076,471.472,426.760 'PARIS\nAvec une consommation moyenne par\nfoyer de 242 kWh/m²/an, Paris est la ville\nla plus énergivore de l’Hexagone, \nloin devant Toulon (145 kWh/m²/an).\nDans le détail, c’est le 20e arrondissement\nqui est le plus gourmand.\n'>
+<LTTextBoxHorizontal(14) 556.057,488.130,562.659,513.162 'T\nE\nN\nE\nN\nG\nA\nM\n'>
+<LTTextBoxHorizontal(15) 556.057,485.761,562.659,487.105 '.\n'>
+<LTTextBoxHorizontal(16) 556.057,477.243,562.659,485.817 'C\n-\n.\nJ\n \n'>
+<LTTextBoxHorizontal(17) 556.057,472.819,562.659,477.299 '©\n'>
+<LTTextBoxHorizontal(18) 41.994,342.127,73.075,348.729 '© X. VILA/SIPA\n'>
+<LTTextBoxHorizontal(19) 39.684,286.970,289.741,331.993 'LES PROPRIÉTAIRES CRAIGNENT UNE HAUSSE\nLA TAXE FONCIÈRE INQUIÈTE\n'>
+<LTTextBoxHorizontal(20) 33.082,181.571,39.684,225.195 'A\nP\nI\nS\n/\nL\nE\nH\nC\nM\n \nE\nL\nI\nG\n©\n'>
+<LTTextBoxHorizontal(21) 33.082,202.302,39.684,203.657 'I\n'>
+<LTTextBoxHorizontal(22) 33.082,185.995,39.684,187.339 ' \n'>
+<LTTextBoxHorizontal(23) 171.969,75.787,291.285,281.671 'tamment en Isère. De quoi nourrir les\nsoupçons sur un transfert de ﬁscalité\navec la taxe d’habitation, vouée à dis-\nparaître. Depuis, le gouvernement mul-\ntiplie les interventions pour rassurer les\ncontribuables. Le ministre des Comptes\npublics, Gérald Darmanin, a conﬁrmé ré-\ncemment que 130 000 foyers ﬁscaux al-\nlaient connaître cette année une hausse\nde la taxe foncière en raison d’une révi-\nsion de la valeur locative de leur pro-\npriété. «Sur plus de 45 millions de foyers,\n[c’est] 0,3 % des contribuables», a-t-il\najouté. Même son de cloche pour le mi-\nnistre du Logement, Julien Denorman-\ndie : «Il n’y a aucun projet du gouverne-\nment d’augmenter de manière générale\nles taxes foncières», a-t-il indiqué sur\nBFMTV en début de semaine. Jugeant\ncet impôt «compliqué» et présentant\ndes inégalités, il n’a pas exclu une redé-\nﬁnition mais à plus long terme. n\n'>
+<LTTextBoxHorizontal(24) 42.330,171.807,152.911,180.935 'Le taux va changer pour certains.\n'>
+<LTTextBoxHorizontal(25) 39.685,75.775,159.058,160.506 'Les  avis  d’imposition ont  été  en-\nvoyés, les propriétaires prennent\nconnaissance en ce mois de septembre\ndu montant de la taxe foncière qu’ils\nvont devoir régler à l’automne. Et pour\ncertains, la surprise a un goût amer. En\neffet, selon plusieurs articles de presse,\ndes particuliers ont vu le taux de leur\ntaxe bondir jusqu’à plus de 10 %, no-\n'>
+<LTTextBoxHorizontal(26) 309.262,305.990,363.396,330.257 'En bref\n'>
+<LTTextBoxHorizontal(27) 311.494,197.107,416.471,290.899 'LES MAISONS-BULLES \nDÉCOLLENT AUX ENCHÈRES\nAprès plusieurs rebondissements,\nles étonnantes maisons-bulles de\nRaon-l’Etape, dans les Vosges, ont\nété vendues aux enchères pour la\nsomme de 360 000 euros. C’est un\namoureux du site construit en 1967\npar l’architecte suisse Pascal Häu-\nsermann qui a remporté la vente.\n'>
+<LTTextBoxHorizontal(28) 429.902,238.192,436.504,266.069 'R\nF\n.\nX\nN\nY\nL\nE\nL\n \n©\n'>
+<LTTextBoxHorizontal(29) 311.494,85.107,418.092,178.899 'LE DISPOSITIF PINEL \nRAPPORTE GROS À L’ÉTAT\nLe dispositif Pinel rapporterait à\nl’Etat une somme non négligeable,\nd’après  un  rapport  effectué  par \nle  cabinet  d’études  PrimeView.\nSelon ses calculs, 1 euro investi par\nl’Etat  dans  un  logement  bénéﬁ-\nciant du dispositif Pinel rapporte-\nrait 1,65 euro de revenus.\n'>
+<LTTextBoxHorizontal(30) 479.102,342.127,510.183,348.729 '© X. VILA/SIPA\n'>
+<LTTextBoxHorizontal(31) 436.803,317.579,484.783,331.993 'L’EXPERTE\n'>
+<LTTextBoxHorizontal(32) 492.966,272.001,551.103,308.886 'Amina Walter\nDirectrice générale\ndéléguée\nLeLynx.fr\n'>
+<LTTextBoxHorizontal(33) 436.536,224.168,547.844,235.323 'EMPRUNTER MOINS CHER\n'>
+<LTTextBoxHorizontal(34) 436.705,75.781,557.730,216.338 'Peu de gens le savent : il n’est\ndésormais plus obligatoire de\nprendre l’assurance de sa banque lors -\nque l’on souscrit un prêt bancaire. Aussi,\non peut tout à fait en changer en cours\nde route aﬁn de faire des économies. \nIl s’agit de la délégation d’assurance.\nPour  cela,  il  sufﬁt  que  le  nouveau\ncontrat prévoit des garanties au moins\négales à celle du précédent. Pour des\nprêts sur vingt ans, cela permet d’éco-\nnomiser plusieurs milliers d’euros. Là\nencore, un comparateur en ligne s’avère\ntrès efﬁcace. Quelques clics sufﬁsent\npour trouver des offres.\n'>
+<LTTextBoxHorizontal(35) 511.088,41.526,522.916,98.465 '”\n'>
+<LTImage(Im0) 478.491,348.780,555.816,442.808 (162, 196)>
+<LTImage(Im1) 39.406,348.011,116.598,441.990 (161, 196)>
+<LTImage(Im2) 303.852,469.784,555.845,690.353 (525, 460)>
+<LTImage(Im3) 39.382,180.819,159.015,280.736 (250, 209)>
+<LTImage(Im4) 436.400,237.876,488.520,311.658 (109, 154)>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'D\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'e\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'm\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'a\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'i\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'n\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 ' \n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'u\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'n\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 ' \n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'A\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'u\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 't\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'r\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'e\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 ' \n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'J\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'o\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'u\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'r\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 ':\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 ' \n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '2\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '0\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '1\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '9\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '-\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '0\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '9\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '-\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '1\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '8\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'T\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '2\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '3\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 ':\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '1\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '6\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 ':\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '2\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '2\n'>
+----START-PAGE 11 ----
+<LTTextBoxHorizontal(0) 92.319,748.004,502.969,777.476 'DEVENEZ PROPRIÉTAIRE AUX PORTES DE PARIS\n'>
+<LTTextBoxHorizontal(1) 136.381,719.977,458.903,737.344 'Laissez-vous surprendre par le nouvel Asnières…\n'>
+<LTTextBoxHorizontal(2) 460.304,671.708,520.188,693.425 'ACHETEZ\n'>
+<LTTextBoxHorizontal(3) 448.008,631.297,532.484,680.358 'MOINS CHER\nGRÂCE À LA\nTVA 5,5 %(1)\n'>
+<LTTextBoxHorizontal(4) 447.321,583.622,533.161,594.256 'AVANT LE 28 OCTOBRE\n'>
+<LTTextBoxHorizontal(5) 445.688,533.020,534.803,585.868 'ÉCONOMISEZ\n15000 €(2)\n'>
+<LTTextBoxHorizontal(6) 473.846,554.838,506.657,565.472 'JUSQU’À\n'>
+<LTTextBoxHorizontal(7) 445.800,476.746,534.875,493.288 'VOTRE 3 PIÈCES\n'>
+<LTTextBoxHorizontal(8) 467.771,464.911,512.895,475.546 'À PARTIR DE\n'>
+<LTTextBoxHorizontal(9) 449.486,443.094,536.201,464.363 '1207 €/MOIS(3)\n'>
+<LTTextBoxHorizontal(10) 286.734,262.385,541.228,395.903 'La plus belle adresse de l’écoquartier Seine Ouest.\nSeine Ouest est un nouvel ensemble intégrant de manière homogène logements,\nétablissements scolaires, bureaux, commerces, le tout àpr oximité des transports\nen commun.\nVéritable quartier nature, il vous offre un cadre de vie unique mêlant parc urbain\net cœurs d’îlots végétalisés.\nIdéalement située à Seine Ouest, SOOH propose des appartements familiaux\nde standing pensés pour votre qualité de vie.\nDu studio au 5 pièces, vous proﬁtez de prestations étudiées pour votre plus grand\nconfort et de beaux volumes se prolongeant pour la plupart de balcons ou de\nterrasses donnant sur le parc.\n'>
+<LTTextBoxHorizontal(11) 295.981,186.365,488.169,243.572 'ESPACE DE VENTE\nAngle rue Eugénie Éboué et rue Pierre Curie\n92600 Asnières-sur-Seine\nOuvert le lundi de 14h à 19h\net du jeudi au dimanche inclus de 11h à 12h30 et de 14h à 19h\n'>
+<LTTextBoxHorizontal(12) 334.537,160.684,373.653,169.176 'UNE CO-PROMOTION\n'>
+<LTTextBoxHorizontal(13) 53.268,306.708,146.786,325.321 'Seine Ouest\n'>
+<LTTextBoxHorizontal(14) 63.497,225.118,208.717,280.844 'CUMULEZ LES AVANTAGES !\n• Savez-vous que, grâce au PTZ(4), vous pouvez\nemprunter jusqu’à 138000 € sans intérêt…\nl’occasion de craquer pour un logement plus\ngrand ou des mensualités plus douces.\n'>
+<LTTextBoxHorizontal(15) 252.368,256.125,256.377,260.901 '(4)\n'>
+<LTTextBoxHorizontal(16) 63.473,210.490,241.791,220.616 '• En plus, grâce à la TVA réduite à 5,5 %(1) au lieu de 20 %,\n'>
+<LTTextBoxHorizontal(17) 69.490,201.158,178.308,211.280 'vous réalisez de réelles économies.\n'>
+<LTTextBoxHorizontal(18) 52.913,126.209,210.895,172.503 'so-oh-asnieres.com\n01 78 81 21 38\n'>
+<LTTextBoxHorizontal(19) 52.902,68.479,542.429,109.620 '(1) TVA réduite à 5,5 % au lieu de 20 % au 1er janvier 2019. Sous conditions de ressources et pour une acquisition en résidence principale sur la SO OH à Asnières-sur-Seine. (2) Offre valable pour tout contrat de réservation signé entre le 27 août et le 28 octobre 2019 inclus régulièrement\nréitéré par acte notarié concernant tous les appartements de 3, 4 et 5 pièces de la résidence SO OH à Asnières-sur-Seine (92600) à valoir sous forme d’une réduction du prix (hors parking) - Conditions détaillées sur cogedim.com ou cofﬁm.fr et en espace de vente. Offre non cumulable avec\ntoute autre offre en cours et à venir. (3) Voir conditions sur cogedim.com ou cofﬁm.fr et en espace de vente. (4) Le Prêt à Taux Zéro ou PTZ, est un prêt réservé aux primo accédants pour l’achat d’un logement en résidence principale, soumis à conditions de revenus. Conditions détaillées sur\ncogedim.com ou cofﬁm.fr. Les appartements sont vendus et livrés non aménagés et non meublés. COGEDIM, Société par Actions Simpliﬁée au capital de 30000000 € - Siège Social: 8 av. Delcassé - 75008 Paris - RCS PARIS: 054500814 - ORIAS: 13005113 - SIRET: 054500814 00 55.\nCompagnie Foncière et Financière et d’Investissement Immobilier (COFFIM), SAS au capital de 3168000 € RCS PARIS B 353575053, siège social: 15, av. d’Eylau - 75016 PARIS. Document non contractuel. L’illustration présentée est une libre interprétation des projets élaborés par les\nartistes: en conséquence, les caractéristiques présentées dans ce document ne sont pas déﬁnitives et sont susceptibles d’être modiﬁées en fonction des contraintes techniques, ﬁnancières, administratives ou réglementaires imposées à Cogedim et Cofﬁm notamment lors de l’instruction\ndes autorisations à construire. Ces caractéristiques n’entrent donc pas dans le champ contractuel. Perspectives: Arka Studio. Conception: OSWALDORB - 09/2019.\n'>
+<LTImage(Im0) 26.338,412.128,465.509,717.479 (915, 637)>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'D\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'e\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'm\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'a\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'i\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'n\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 ' \n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'u\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'n\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 ' \n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'A\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'u\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 't\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'r\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'e\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 ' \n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'J\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'o\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'u\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'r\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 ':\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 ' \n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '2\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '0\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '1\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '9\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '-\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '0\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '9\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '-\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '1\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '8\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'T\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '2\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '3\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 ':\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '1\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '6\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 ':\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '2\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '2\n'>
+----START-PAGE 12 ----
+<LTTextBoxHorizontal(0) 2.800,825.646,231.483,837.615 '2458-CN-p012-MONDE_Mise en page 1  18/09/2019  20:14  Page12\n'>
+<LTTextBoxHorizontal(1) 26.457,772.001,37.199,784.396 '12\n'>
+<LTTextBoxHorizontal(2) 42.331,772.786,167.716,783.099 'N°\xa02458 JEUDI 19 SEPTEMBRE 2019\n'>
+<LTTextBoxHorizontal(3) 262.300,767.326,332.978,789.368 'MONDE\n'>
+<LTTextBoxHorizontal(4) 530.403,772.786,568.816,783.099 'CNEWS.FR\n'>
+<LTTextBoxHorizontal(5) 156.681,674.926,366.438,736.718 'Nous n’accepterons jamais que Londres\npuisse avoir tous les avantages du libre-\néchange sans s’aligner sur nos normes\nécologiques, sanitaires et sociales.\n'>
+<LTTextBoxHorizontal(6) 42.409,659.966,316.669,669.262 'Guy Verhofstadt, eurodéputé référent sur le Brexit, hier au Parlement européen.\n'>
+<LTTextBoxHorizontal(7) 403.292,695.197,536.697,752.770 '29 700\nPERSONNES\n'>
+<LTTextBoxHorizontal(8) 392.339,665.838,547.570,694.826 'avaient signé hier une pétition réclamant le retrait\ndes dictionnaires Oxford de mots (gueuse, pou-\nliche…) proposés comme synonymes de «femme».\n'>
+<LTTextBoxHorizontal(9) 31.982,673.871,38.585,717.284 'A\nP\nI\nS\n/\nP\nA\n/\nS\nA\nD\nA\nB\nF.\n-\n.\nJ\n \n'>
+<LTTextBoxHorizontal(10) 31.982,692.481,38.585,693.836 'I\n'>
+<LTTextBoxHorizontal(11) 31.982,669.447,38.585,673.927 '©\n'>
+<LTTextBoxHorizontal(12) 45.522,615.852,99.657,640.118 'En bref\n'>
+<LTTextBoxHorizontal(13) 46.880,486.442,151.855,598.899 'LIBERIA : UN INCENDIE TUE\nVINGT-SIX ÉLÈVES DANS\nUNE ÉCOLE CORANIQUE\nUn incendie d’origine indétermi-\nnée a causé la mort de 26 élèves\net  de  deux  enseignants  d’une\nécole coranique des environs de la\ncapitale \nlibérienne,  Monrovia,\ndans la nuit de mardi à mercredi,\na annoncé hier la présidence. Les\nvictimes ont entre 10 et 20 ans,\nselon les premières constatations.\n'>
+<LTTextBoxHorizontal(14) 46.880,346.442,153.477,468.232 'ÉTATS-UNIS : GRETA\nTHUNBERG INTERPELLE LE\nCONGRÈS SUR LE CLIMAT\nLa jeune égérie de la lutte pour le\nclimat, Greta Thunberg, a appelé\nhier le Congrès américain à s’unir\nderrière les scientiﬁques qui aler-\ntent  sur  l’extrême  urgence  à  se\nmobiliser contre le réchauffement.\n«Je veux que vous vous unissiez\nderrière  la  science,  et  ensuite, \nje veux que vous agissiez réelle-\nment», a-t-elle déclaré.\n'>
+<LTTextBoxHorizontal(15) 46.880,225.108,151.551,328.232 'LA RUSSIE VA ARMER\nSES COSMONAUTES\nLa  Russie  va  armer  ses  cosmo-\nnautes avec un pistolet spécial cen -\nsé leur permettre de se protéger\ndes animaux sauvages en cas d’at-\nterrissage dans un endroit reculé, a\nannoncé hier le chef de l’Agence\nspatiale russe (Roskosmos), Dmitri\nRogozine. Les cosmonautes étaient\ndéjà armés jusqu’en 2007.\n'>
+<LTTextBoxHorizontal(16) 46.880,85.109,153.476,206.899 'AFRIQUE DU SUD : \nLES VIOLENCES FAITES AUX\nFEMMES DANS LE VISEUR\nLe  président  sud-africain  Cyril \nRamaphosa  a  annoncé  hier  un\nplan d’urgence contre la recrudes-\ncence dans son pays des violences\nfaites aux femmes, qui inclut un\nrenforcement de l’arsenal répressif\ncontre leurs auteurs. Le pays est le\nthéâtre depuis plusieurs semaines\nd’une  vague  de  manifestations\naprès une série de féminicides.\n'>
+<LTTextBoxHorizontal(17) 171.970,624.647,546.676,643.867 'ISRAËL DANS LE FLOU APRÈS LES DERNIÈRES ÉLECTIONS\n'>
+<LTTextBoxHorizontal(18) 171.969,583.391,553.306,624.644 'NETANYAHOU DÉSTABILISÉ\n'>
+<LTTextBoxHorizontal(19) 171.970,355.789,292.875,580.506 'Loin de tout arranger, les nouvelles\nélections israéliennes de mercredi ont de\nnouveau plongé le pays dans une situa-\ntion politique tendue, cinq mois après la\ndissolution de la Knesset. Si les résultats\nofﬁciels  n’étaient  pas  encore  tombés\nhier, Benjamin Netanyahou (Likoud), en\nquête  d’une  majorité  claire,  semblait \nse retrouver à égalité avec Benny Gantz\n(Kahol Lavan). Ce dernier pourrait même\nbénéﬁcier d’un siège supplémentaire sur\nle Likoud, lui donnant un avantage pour\nrevendiquer le poste de Premier minis-\ntre. Pour rester en poste, «Bibi» doit ma-\nnœuvrer aﬁn de former une coalition.\nMais il n’a pas nécessairement toutes\nles  cartes  en  main  et  doit  se  mettre\nd’accord avec sufﬁsamment de partis\npour obtenir les 61 sièges nécessaires à\nla majorité, et ainsi conserver son poste.\nCependant, l’électorat israélien est mor-\ncelé en plusieurs petits partis. Arriver à\nmettre d’accord autant de monde de-\nvrait s’avérer difﬁcile. n\n'>
+<LTTextBoxHorizontal(20) 306.898,358.824,551.574,367.952 'Le Premier ministre serait à égalité avec la formation de Benny Gantz.\n'>
+<LTTextBoxHorizontal(21) 171.970,287.340,399.907,332.363 'PRIMAIRE DÉMOCRATE AUX ÉTATS-UNIS\nWARREN EN EMBUSCADE\n'>
+<LTTextBoxHorizontal(22) 304.253,75.787,425.160,281.671 'Sanders, sénateur du Vermont et candi-\ndat malheureux à la primaire de 2016,\nmais toujours derrière l’indéboulonnable\nJoe  Biden,  ancien  vice-président  de \nBarack Obama. La grande force d’Eliza-\nbeth  Warren  réside  dans  son  pro-\ngramme. Alors que la campagne com-\nmence à peine, celui-ci est déjà précis et\nétoffé sur de nombreux points. Parmi ses \nprincipales  propositions  ﬁgurent  des\nmesures  fortes,  comme  une  taxe  sur \nles  fortunes  des  Américains  les  plus\nriches, l’annulation de la quasi-totalité\nde l’énorme dette étudiante ou encore\nun  plan  d’investissement  vert  de\n3 000 milliards de dollars (2 700 mil-\nliards d’euros) sur dix ans pour passer à\n100 % d’énergie propre. Il est bien sûr\ntrop tôt pour faire des prédictions et af-\nﬁrmer qu’Elizabeth Warren peut rempor-\nter cette primaire, mais la dynamique est\nclairement de son côté. n\n'>
+<LTTextBoxHorizontal(23) 174.614,181.202,289.730,190.330 'La sénatrice est derrière Joe Biden.\n'>
+<LTTextBoxHorizontal(24) 171.970,75.776,292.877,169.839 'Peut-elle le faire ? Aux Etats-Unis,\nElizabeth Warren bouscule la campagne\nde la primaire démocrate pour l’élection\nprésidentielle  de  2020.  En  janvier,  la\nmoyenne des sondages, calculée par The\nEconomist, la plaçait à seulement 7 %\ndes  intentions  de  vote.  Aujourd’hui, \nelle est à 19 %. Elle apparaît même de\nplus en plus fréquemment à la deuxième\nplace (sur 20 concurrents), devant Bernie\n'>
+<LTTextBoxHorizontal(25) 436.536,267.698,555.432,332.363 'INDE\nLE VAPOTAGE\nINTERDIT\n'>
+<LTTextBoxHorizontal(26) 436.536,75.785,555.999,263.173 'Grand producteur de tabac, l’Inde\na annoncé hier l’interdiction des ciga-\nrettes électroniques. «La décision a été\nprise avec à l’esprit l’impact qu’elles ont\nsur la jeunesse aujourd’hui», a déclaré\nla ministre des Finances Nirmala Sitha-\nraman. Une ordonnance passée par le\ngouvernement du Premier ministre Na-\nrendra Modi, interdit la production, l’im-\nport ou l’export, le transport, le stockage\net la vente de cigarettes électroniques.\nCette mesure «améliorera la politique de\ncontrôle du tabac, donnant de meilleurs\nrésultats en termes de santé publique»,\navance le gouvernement. Par ailleurs, les\nautorités indiennes mènent sans cesse\ndes campagnes de prévention sur les ra-\nvages physiques provoqués par le tabac,\ndont le géant d’Asie du Sud est aussi pa-\nradoxalement un grand producteur. n\n'>
+<LTTextBoxHorizontal(27) 163.966,205.744,170.569,239.137 'A\nP\nI\nS\n/\nP\nA\n/\nP\nI\nL\nL\nI\nH\nP\n'>
+<LTTextBoxHorizontal(28) 163.966,199.616,170.569,204.719 '.\nJ\n \n.\n'>
+<LTTextBoxHorizontal(29) 163.966,195.478,170.569,196.822 ' \n'>
+<LTTextBoxHorizontal(30) 163.966,191.054,170.569,199.980 'D\n©\n'>
+<LTTextBoxHorizontal(31) 556.456,404.927,563.058,406.377 '/\n'>
+<LTTextBoxHorizontal(32) 556.456,369.186,563.058,414.503 'P\nF\nA\nY\nT\nL\nI\nL\nA\nB\nD\nE\nD\nO\n©\n'>
+<LTTextBoxHorizontal(33) 556.456,373.610,563.058,374.954 ' \n'>
+<LTTextBoxHorizontal(34) 556.456,387.123,563.058,388.467 ' \n'>
+<LTImage(Im0) 42.953,665.700,120.788,752.403 (163, 181)>
+<LTImage(Im1) 303.969,365.695,555.816,578.648 (525, 444)>
+<LTImage(Im2) 171.769,189.691,291.235,279.775 (249, 188)>
+<LTImage(Im3) 634.605,524.411,890.762,770.696 (525, 505)>
+<LTImage(Im4) 639.449,510.236,737.010,560.883 (204, 106)>
+<LTImage(Im5) 654.119,72.883,662.134,80.750 (17, 17)>
+<LTImage(Im6) 663.961,72.864,671.621,80.769 (16, 17)>
+<LTImage(Im7) 903.416,188.001,1146.036,326.610 (506, 289)>
+<LTImage(Im8) 727.572,162.546,793.979,195.533 (139, 69)>
+<LTImage(Im9) 639.058,204.717,886.725,365.898 (516, 336)>
+<LTImage(Im10) 649.052,161.549,714.347,196.770 (137, 74)>
+<LTImage(Im11) 824.750,206.313,883.567,239.605 (123, 70)>
+<LTImage(Im12) 648.173,479.366,719.952,511.899 (150, 68)>
+<LTImage(Im13) 809.280,161.851,876.732,199.078 (141, 78)>
+<LTImage(Im14) 895.139,326.404,1148.483,403.684 (528, 161)>
+<LTImage(Im15) 898.275,326.403,904.995,332.899 (14, 14)>
+<LTImage(Im16) 904.072,326.401,1146.036,332.874 (505, 14)>
+<LTImage(Im17) 904.714,332.665,1146.036,365.958 (503, 70)>
+<LTImage(Im18) 1075.068,159.605,1138.814,196.522 (133, 77)>
+<LTImage(Im19) 1075.068,190.089,1090.639,196.522 (33, 14)>
+<LTImage(Im20) 902.499,157.030,984.209,195.896 (171, 81)>
+<LTImage(Im21) 978.309,193.203,984.209,195.896 (13, 6)>
+<LTImage(Im22) 985.864,156.446,1068.272,191.616 (172, 74)>
+<LTImage(Im23) 988.485,183.424,1068.272,191.616 (167, 18)>
+<LTImage(Im24) 1040.282,335.691,1142.062,402.032 (213, 139)>
+<LTImage(Im25) 637.501,670.271,775.200,750.658 (285, 163)>
+<LTImage(Im26) 725.157,481.088,786.499,513.224 (128, 67)>
+<LTImage(Im27) 1031.323,478.891,1063.516,512.949 (68, 71)>
+<LTImage(Im28) 988.921,478.891,1029.544,512.949 (85, 71)>
+<LTImage(Im29) 1029.459,478.891,1031.407,512.949 (5, 71)>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'D\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'e\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'm\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'a\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'i\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'n\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 ' \n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'u\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'n\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 ' \n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'A\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'u\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 't\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'r\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'e\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 ' \n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'J\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'o\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'u\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'r\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 ':\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 ' \n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '2\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '0\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '1\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '9\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '-\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '0\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '9\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '-\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '1\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '8\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'T\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '2\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '3\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 ':\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '1\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '6\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 ':\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '2\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '2\n'>
+----START-PAGE 13 ----
+<LTTextBoxHorizontal(0) 58.340,680.211,144.699,738.673 'Système Rapido®, couchage 140,\nmatelas 17 cm HR 30 kg/m3,\nsommier lattes de bois, coffre de\nrangement, plus de 50 coloris.\nL172 x P95 x H90, présenté en tissu Falcon\n(100% polyester), fabriqué à la main en Italie.\nPrix hors livraison. Ecopart. 11€ incluse.\n'>
+<LTTextBoxHorizontal(1) 191.607,707.556,279.709,739.644 'Canapé-lit\nTopper Edition\n'>
+<LTTextBoxHorizontal(2) 211.300,675.029,279.464,708.650 '1100€\n'>
+<LTTextBoxHorizontal(3) 314.630,707.556,383.188,739.644 'Canapé-lit\nTopper Duo\n'>
+<LTTextBoxHorizontal(4) 314.630,674.936,385.854,708.556 '1390€\n'>
+<LTTextBoxHorizontal(5) 469.038,682.078,542.253,738.673 'Sytème Rapido®,\ncouchage 140, matelas\n13 cm HR 30 kg/m3.\nL170 x P95 x H91, présenté en tissu\nLinea 15 (100 % polyester), fabriqué\nà la main en Italie, nombreux coloris.\nPrix hors livraison. Ecopart. 11€ incluse.\n'>
+<LTTextBoxHorizontal(6) 283.317,568.264,287.614,571.045 's\ne\n'>
+<LTTextBoxHorizontal(7) 283.317,566.838,287.614,568.264 'l\nl\n'>
+<LTTextBoxHorizontal(8) 283.317,539.032,287.614,566.838 'e\nu\nt\nc\na\nr\nt\nn\no\nc\nn\no\nn\ns\no\nt\no\nh\nP\n'>
+<LTTextBoxHorizontal(9) 305.239,568.260,309.536,571.041 's\ne\n'>
+<LTTextBoxHorizontal(10) 305.239,566.834,309.536,568.260 'l\nl\n'>
+<LTTextBoxHorizontal(11) 305.239,539.028,309.536,566.834 'e\nu\nt\nc\na\nr\nt\nn\no\nc\nn\no\nn\ns\no\nt\no\nh\nP\n'>
+<LTTextBoxHorizontal(12) 206.232,477.685,389.241,519.853 'LE PLUS GRAND ESPACE\nCANAPÉS-LITS À PARIS\n'>
+<LTTextBoxHorizontal(13) 171.410,444.622,424.054,475.258 'Jusqu’au 30/09 : livraison offerte Paris-RP\nTous nos canapés-lits sont avant tout des lits canapés, équipés de matelas\n'>
+<LTTextBoxHorizontal(14) 198.769,434.357,396.984,444.025 'de 13 ou 17 cm, de sommiers métalliques ou à lattes de bois.\n'>
+<LTTextBoxHorizontal(15) 193.629,424.092,402.125,433.761 'Distributeur officiel Diva, Steiner, Duvivier, Milano Bedding...\n'>
+<LTTextBoxHorizontal(16) 180.902,368.485,280.036,400.573 'Canapé-lit\nTopper Sofa Bed\n'>
+<LTTextBoxHorizontal(17) 213.204,333.298,280.350,366.919 '1190€\n'>
+<LTTextBoxHorizontal(18) 314.919,368.695,381.629,400.181 'Canapé-lit\nThe Topper\n'>
+<LTTextBoxHorizontal(19) 314.919,333.737,387.422,367.358 '1090€\n'>
+<LTTextBoxHorizontal(20) 396.261,350.810,441.134,399.255 'L175 x P92 x H85,\npieds bois, présenté\nen tissu Matrix Lime 11\n(100% polyester).\nFabriqué à la main en\nItalie. Prix hors livraison.\nEcopart. 11€ incluse.\n'>
+<LTTextBoxHorizontal(21) 444.801,413.378,530.534,439.717 'Système Rapido®, couchage 140,\nmatelas 13 cm HR 30 kg/m3,\nplus de 50 coloris.\n'>
+<LTTextBoxHorizontal(22) 58.332,372.444,156.030,439.717 'Système Rapido®, entièrement\ndéhoussable, couchage 140 lattes\nde bois, matelas 17 cm HR 30 kg/m3,\nrange-oreillers, 2 coussins déco\nassortis, nombreux coloris.\nL173 x P91 x H90, pieds alu ou bois, présenté en\ntissu Calipso 24 (54% PL 46% PP), fabriqué à la main\nen Italie. Prix hors livraison. Ecopart. 11€ incluse.\n'>
+<LTTextBoxHorizontal(23) 284.573,272.388,288.763,275.104 's\ne\n'>
+<LTTextBoxHorizontal(24) 284.573,270.998,288.763,272.388 'l\nl\n'>
+<LTTextBoxHorizontal(25) 284.573,243.884,288.763,270.998 'e\nu\nt\nc\na\nr\nt\nn\no\nc\nn\no\nn\ns\no\nt\no\nh\nP\n'>
+<LTTextBoxHorizontal(26) 305.334,232.762,309.524,235.478 's\ne\n'>
+<LTTextBoxHorizontal(27) 305.334,231.372,309.524,232.762 'l\nl\n'>
+<LTTextBoxHorizontal(28) 305.334,204.247,309.524,231.372 'e\nu\nt\nc\na\nr\nt\nn\no\nc\nn\no\nn\ns\no\nt\no\nh\nP\n'>
+<LTTextBoxHorizontal(29) 219.904,132.986,227.033,144.122 '©\n'>
+<LTTextBoxHorizontal(30) 58.617,89.166,248.568,99.909 'CANAPÉS, LITERIE, MOBILIER : 3000 M2 D’ENVIES !\n'>
+<LTTextBoxHorizontal(31) 79.131,72.393,117.326,82.265 'www.topper.fr\n'>
+<LTTextBoxHorizontal(32) 303.178,71.573,533.374,144.821 'PARIS 12e • 7J/7\n54 cours de Vincennes, 01 40 21 87 53, M° Nation\nPARIS 15e • 7J/7\n63 rue de la Convention, 01 45 77 80 40, M° Javel ou Boucicaut\nCanapés ﬁxes, literie, armoires lits, dressings, gain de place,\nmobilier contemporain : toutes nos adresses sur www.topper.fr\n'>
+<LTImage(Im0) 302.773,467.271,550.501,539.417 (517, 151)>
+<LTImage(Im1) 303.046,467.134,550.638,538.522 (516, 149)>
+<LTImage(Im2) 303.102,538.311,550.557,765.817 (516, 474)>
+<LTImage(Im3) 471.817,480.351,545.592,514.793 (154, 72)>
+<LTImage(Im4) 392.866,729.714,460.099,757.606 (141, 59)>
+<LTImage(Im5) 392.866,701.933,460.099,729.825 (141, 59)>
+<LTImage(Im6) 392.866,674.153,460.099,702.044 (141, 59)>
+<LTImage(Im7) 396.631,700.716,458.034,747.645 (128, 98)>
+<LTImage(Im8) 396.631,677.307,458.034,700.827 (128, 49)>
+<LTImage(Im9) 404.265,713.871,426.124,740.020 (46, 55)>
+<LTImage(Im10) 426.070,713.871,447.929,740.020 (46, 55)>
+<LTImage(Im11) 404.265,687.748,426.124,713.925 (46, 55)>
+<LTImage(Im12) 426.070,687.748,447.929,713.925 (46, 55)>
+<LTImage(Im13) 39.330,524.411,295.487,770.696 (525, 505)>
+<LTImage(Im14) 44.173,510.236,141.734,560.883 (204, 106)>
+<LTImage(Im15) 58.843,72.883,66.858,80.750 (17, 17)>
+<LTImage(Im16) 68.686,72.864,76.346,80.769 (16, 17)>
+<LTImage(Im17) 308.141,188.001,550.760,326.610 (506, 289)>
+<LTImage(Im18) 132.296,162.546,198.703,195.533 (139, 69)>
+<LTImage(Im19) 43.783,204.717,291.450,365.898 (516, 336)>
+<LTImage(Im20) 53.777,161.549,119.072,196.770 (137, 74)>
+<LTImage(Im21) 229.474,206.313,288.292,239.605 (123, 70)>
+<LTImage(Im22) 52.897,479.366,124.677,511.899 (150, 68)>
+<LTImage(Im23) 214.005,161.851,281.456,199.078 (141, 78)>
+<LTImage(Im24) 299.863,326.404,553.207,403.684 (528, 161)>
+<LTImage(Im25) 302.999,326.403,309.719,332.899 (14, 14)>
+<LTImage(Im26) 308.797,326.401,550.760,332.874 (505, 14)>
+<LTImage(Im27) 309.438,332.665,550.760,365.958 (503, 70)>
+<LTImage(Im28) 479.792,159.605,543.538,196.522 (133, 77)>
+<LTImage(Im29) 479.792,190.089,495.363,196.522 (33, 14)>
+<LTImage(Im30) 307.223,157.030,388.934,195.896 (171, 81)>
+<LTImage(Im31) 383.033,193.203,388.934,195.896 (13, 6)>
+<LTImage(Im32) 390.588,156.446,472.997,191.616 (172, 74)>
+<LTImage(Im33) 393.209,183.424,472.996,191.616 (167, 18)>
+<LTImage(Im34) 445.006,335.691,546.786,402.032 (213, 139)>
+<LTImage(Im35) 42.226,670.271,179.925,750.658 (285, 163)>
+<LTImage(Im36) 129.881,481.088,191.223,513.224 (128, 67)>
+<LTImage(Im37) 436.047,478.891,468.240,512.949 (68, 71)>
+<LTImage(Im38) 393.645,478.891,434.268,512.949 (85, 71)>
+<LTImage(Im39) 434.183,478.891,436.132,512.949 (5, 71)>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'D\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'e\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'm\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'a\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'i\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'n\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 ' \n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'u\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'n\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 ' \n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'A\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'u\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 't\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'r\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'e\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 ' \n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'J\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'o\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'u\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'r\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 ':\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 ' \n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '2\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '0\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '1\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '9\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '-\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '0\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '9\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '-\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '1\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '8\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'T\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '2\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '3\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 ':\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '1\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '6\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 ':\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '2\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '2\n'>
+----START-PAGE 14 ----
+<LTTextBoxHorizontal(0) 2.800,825.646,234.395,837.615 '2458-CN-p014-SPORTS_Mise en page 1  18/09/2019  23:02  Page14\n'>
+<LTTextBoxHorizontal(1) 26.457,772.001,37.209,784.396 '14\n'>
+<LTTextBoxHorizontal(2) 42.331,772.786,167.716,783.099 'N°\xa02458 JEUDI 19\xa0SEPTEMBRE 2019\n'>
+<LTTextBoxHorizontal(3) 263.863,767.326,331.415,789.368 'SPORTS\n'>
+<LTTextBoxHorizontal(4) 530.403,772.786,568.816,783.099 'CNEWS.FR\n'>
+<LTTextBoxHorizontal(5) 39.685,736.601,418.554,755.820 'FOOTBALL - 1RE JOURNÉE DE LA LIGUE DES CHAMPIONS\n'>
+<LTTextBoxHorizontal(6) 39.685,694.195,548.436,736.662 'L’ENTAME PARFAITE DES PARISIENS\n'>
+<LTTextBoxHorizontal(7) 555.683,528.173,562.285,552.724 'T\nR\nO\nP\nS\n \nN\nO\nC\n'>
+<LTTextBoxHorizontal(8) 555.683,497.261,562.285,528.229 'I\n/\nZ\nE\nD\nN\nA\nN\nR\nE\nF\n \n.\n'>
+<LTTextBoxHorizontal(9) 555.683,493.430,562.285,494.774 ' \n'>
+<LTTextBoxHorizontal(10) 555.683,489.006,562.285,497.625 'B\n©\n'>
+<LTTextBoxHorizontal(11) 39.685,561.113,160.670,692.506 'La «MCN» était absente, mais il y\navait  «ADM».  Sans  Kylian  Mbappé,\nEdinson  Cavani  et  Neymar,  le  Paris\nSaint-Germain s’est appuyé sur un ex-\ncellent Angel Di Maria – et un but de\nThomas  Meunier  – pour  s’imposer \naisément  face  au  Real  Madrid  (3-0),\nhier soir, pour son entrée en lice dans\ncette  Ligue  des  champions  version\n2019-2020. Une entame parfaite qui a\nravi les fans parisiens qui ne s’atten-\ndaient sûrement pas à les voir briller \nde  la  sorte. Surtout  après  les  sorties\nmoyennes depuis le début de la saison.\n'>
+<LTTextBoxHorizontal(12) 39.685,421.127,158.799,552.444 'Le public a joué son rôle \nMais les hommes de Thomas Tuchel ont\nrassuré tout le monde et se sont mon-\ntrés très appliqués. En plus de la pres-\ntation «XXL» de l’Argentin face à son\nancienne équipe, et qui aurait d’ailleurs\npu inscrire un triplé, il y a d’autres mo-\ntifs de satisfactions à tirer de cette ren-\ncontre. Et notamment au milieu de ter-\nrain en la personne d’Idrissa Gueye. Le\nSénégalais,  arrivé  cet  été  en  prove-\nnance d’Everton, a été précieux et dans\ntous les bons coups. Il a montré pour-\nquoi le technicien allemand du PSG le\n'>
+<LTTextBoxHorizontal(13) 174.613,479.270,552.746,488.398 'Angel Di Maria a inscrit un doublé lors de la victoire du PSG face au Real Madrid (3-0), hier au Parc des Princes.\n'>
+<LTTextBoxHorizontal(14) 171.969,421.105,291.243,468.338 'réclamait  depuis  près  d’un  an. Autre\nbelle prestation, celle de Mauro Icardi.\nL’attaquant argentin, sorti par précau-\ntion en seconde période, a été très im-\npliqué dans son poste de pointe. Enﬁn,\n'>
+<LTTextBoxHorizontal(15) 304.453,421.105,423.470,468.338 'l’autre très belle prestation est à mettre\nà l’actif du public du Parc des Princes. Le\nfameux «douzième homme» a répondu\nprésent du début à la ﬁn de ce choc, en\nencourageant ses joueurs et en mettant\n'>
+<LTTextBoxHorizontal(16) 436.644,421.105,555.622,468.338 'la pression sur les adversaires. Une pre-\nmière  parfaite  qui  en  appelle  d’autres\ndésormais. A conﬁrmer sur la durée. Car\navec Paris, c’est bien ça le plus difﬁcile ces\ndernières années. n\n'>
+<LTTextBoxHorizontal(17) 39.685,351.555,552.309,399.257 'LE CLUB BRETON ESPÈRE REVIVRE UNE NOUVELLE ÉPOPÉE SUR LA SCÈNE EUROPÉENNE\nLES RENNAIS PRÊTS À RÉCIDIVER EN LIGUE EUROPA\n'>
+<LTTextBoxHorizontal(18) 304.024,187.773,424.931,347.173 'Il y a pris goût. Le Stade Rennais re-\ntrouve, ce soir, la Ligue Europa avec la\nvenue du Celtic Glasgow pour la 1re jour-\nnée de la phase de poules. Une compé-\ntition qui a fait vibrer, la saison dernière,\nle club breton et ses supporters avec \nun parcours historique stoppé en 8es de\nﬁnale.  Personne  n’a  oublié  la  double\nconfrontation et la qualiﬁcation arra-\nchée sur la pelouse du Bétis Séville en\n16e de ﬁnale. Ni le succès contre Arsenal,\nmême s’il n’a pas sufﬁ aux hommes de\nJulien Stephan, éliminés au retour au\ntour suivant à l’Emirates. Un condensé\nd’émotions fortes que joueurs comme\ndirigeants et fans ont envie de revivre.\n«Le groupe a envie de générer autant\n'>
+<LTTextBoxHorizontal(19) 436.310,187.782,555.678,347.005 'd’émotions que la saison dernière», a\nassuré, hier, le coach rennais. Mais l’am-\npleur de la tâche s’annonce plus relevée.\nLe  tenant  de  la  Coupe  de  France  est\ntombé dans un groupe périlleux avec la\nLazio Rome, le Celtic Glasgow et Cluj.\nDes  clubs  «habitués  des  joutes  euro-\npéennes», a souligné Julien Stéphan. A\ncommencer par la formation écossaise,\npremier  adversaire  des  Rennais,  bien\nplus expérimentée. «Mais on a la chance\nde pouvoir les affronter chez nous, de-\nvant notre public, a conﬁé Stéphan. Et\non sait à quel point il nous a portés la\nsaison passée au Roazhon Park», où le\nclub breton n’avait pas concédé la moin-\ndre défaite (trois victoires, deux nuls). n\n'>
+<LTTextBoxHorizontal(20) 42.331,190.340,286.692,199.468 'Eduardo Camavinga et ses coéquipiers reçoivent le Celtic Glasgow ce soir.\n'>
+<LTTextBoxHorizontal(21) 156.684,94.344,356.581,156.137 'Il est évident que Pogba veut changer\nd’air. Il voulait aller au Real. [...] Je ne\npense pas que son départ serait une\ngrosse perte pour Manchester United. \n'>
+<LTTextBoxHorizontal(22) 42.409,79.385,265.562,88.681 'Paul Scholes, ancien milieu de terrain de Manchester United, hier.\n'>
+<LTTextBoxHorizontal(23) 445.889,113.815,494.101,171.388 '25\nANS\n'>
+<LTTextBoxHorizontal(24) 392.336,85.257,549.881,114.245 'après  sa  création,  la  Coupe  de  la  Ligue  va \ns’arrêter à l’issue de l’édition 2019-2020, a an-\nnoncé hier la Ligue de football professionnel.\n'>
+<LTTextBoxHorizontal(25) 32.761,229.887,39.363,254.437 'T\nR\nO\nP\nS\n \nN\nO\nC\n'>
+<LTTextBoxHorizontal(26) 32.761,215.024,39.363,216.379 'I\n'>
+<LTTextBoxHorizontal(27) 32.761,200.620,39.363,229.943 'I\n/\nL\nE\nH\nC\nM\nV.\n©\n'>
+<LTTextBoxHorizontal(28) 32.761,205.044,39.363,206.388 ' \n'>
+<LTTextBoxHorizontal(29) 32.761,209.435,39.363,210.779 ' \n'>
+<LTTextBoxHorizontal(30) 32.761,121.041,39.364,145.592 'T\nR\nO\nP\nS\n \nN\nO\nC\n'>
+<LTTextBoxHorizontal(31) 32.761,102.650,39.364,121.097 'I\n/\nS\nE\nG\nA\nM\n'>
+<LTTextBoxHorizontal(32) 32.761,100.063,39.364,102.706 'I\n \n'>
+<LTTextBoxHorizontal(33) 32.761,88.807,39.364,100.119 'A\nP\n©\n'>
+<LTTextBoxHorizontal(34) 32.761,93.231,39.364,94.575 ' \n'>
+<LTImage(Im0) 42.953,85.137,120.784,171.905 (163, 181)>
+<LTImage(Im1) 39.267,188.746,291.290,356.761 (526, 351)>
+<LTImage(Im2) 171.746,485.874,555.851,690.465 (801, 427)>
+<LTImage(Im3) 656.936,360.829,689.302,433.785 (68, 152)>
+<LTImage(Im4) 1081.635,76.944,1151.839,119.124 (147, 88)>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'D\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'e\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'm\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'a\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'i\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'n\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 ' \n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'u\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'n\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 ' \n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'A\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'u\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 't\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'r\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'e\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 ' \n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'J\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'o\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'u\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'r\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 ':\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 ' \n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '2\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '0\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '1\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '9\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '-\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '0\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '9\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '-\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '1\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '8\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'T\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '2\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '3\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 ':\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '1\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '6\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 ':\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '2\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '2\n'>
+----START-PAGE 15 ----
+<LTTextBoxHorizontal(0) 2.800,825.646,243.519,837.615 '2458-CN-p015-BIEN-ETRE_Mise en page 1  18/09/2019  15:19  Page15\n'>
+<LTTextBoxHorizontal(1) 26.457,772.786,64.870,783.099 'CNEWS.FR\n'>
+<LTTextBoxHorizontal(2) 254.681,767.326,340.597,789.368 'BIEN-ÊTRE\n'>
+<LTTextBoxHorizontal(3) 427.557,772.001,568.819,784.396 'N° 2458 JEUDI 19 SEPTEMBRE 2019 15\n'>
+<LTTextBoxHorizontal(4) 39.765,736.641,516.287,755.860 'FENTY BEAUTY BY RIHANNA ÉTOFFE SA COLLECTION DE MAQUILLAGE\n'>
+<LTTextBoxHorizontal(5) 39.765,693.969,545.534,736.436 'LE PLEIN DE STICKS SCINTILLANTS\n'>
+<LTTextBoxHorizontal(6) 39.685,458.437,160.752,692.506 'De la couleur, et rien que de la cou-\nleur. Cinq nouvelles teintes viennent\ncompléter la gamme déjà existante de\ndix sticks enlumineurs de la ligne de\nmaquillage Fenty Beauty by Rihanna.\nDe la mandarine au violet, en passant\npar le bordeaux, il y en a pour tous les\ngoûts. Un produit indispensable pour\n illuminer le teint, grâce à sa formule\ncrème poudrée longue tenue, très lé-\ngère et qui brille de mille feux. Facile\nd’utilisation, le stick s’applique direc-\ntement sur la peau et s’estompe avec\nles doigts ou à l’aide d’un pinceau de\nvoyage.  Grâce  à  leurs  aimants,  ces \npetites  merveilles  se  clipsent  entre\nelles, ce qui  permet de les associer à\nsa guise, en fonction de son humeur\nou de sa tenue. «Il y a mille possibili-\ntés, et elles sont géniales», a promis\nRihanna à ses fans. n\nMatch Stix Stick Enlumineur,\nFenty Beauty by Rihanna, 24 €.\nEn exclusivité chez Sephora \net sur fentybeauty.com \n'>
+<LTTextBoxHorizontal(7) 174.614,461.287,550.346,470.415 'De la mandarine au violet, en passant par le bordeaux, cinq nouvelles teintes complètent la gamme existante.\n'>
+<LTTextBoxHorizontal(8) 556.057,471.037,562.659,490.318 'Y\nT\nN\nE\nF\n \n©\n'>
+<LTTextBoxHorizontal(9) 125.538,358.090,253.217,426.771 'LE VERNIS DISPARAÎT\nFini le dissolvant renversé dans son sac \nà main. Nailmatic a imaginé une \ncrème démaquillante pour les ongles, \nsans odeur de solvant, à appliquer en \nmassage, et à retirer à l’aide d’un coton.\nRemover on the go, Nailmatic, 9,90 €.\n'>
+<LTTextBoxHorizontal(10) 42.331,351.858,72.040,358.461 '© NAILMATIC\n'>
+<LTTextBoxHorizontal(11) 341.949,358.090,469.851,426.771 'DESTINATION DÉTENTE\nCe petit guide pratique répertorie une\ncentaine d’instituts de massage, de salles\nde yoga ou de centres de réﬂexologie,\ntous implantés dans la capitale.\nParis Zen & Relax, de Sophie Herber,\néd. Parigramme, 9,90 €.\n'>
+<LTTextBoxHorizontal(12) 482.989,351.858,526.726,358.461 '© ED. PARIGRAMME\n'>
+<LTTextBoxHorizontal(13) 39.685,287.073,284.905,331.909 'DES SÉANCES DE BOOTCAMP AU LIDO À PARIS\nCOMME UNE BLUEBELL GIRL\n'>
+<LTTextBoxHorizontal(14) 32.055,219.058,38.658,220.402 ' \n'>
+<LTTextBoxHorizontal(15) 32.055,198.579,38.658,240.400 'E\nD\nA\nT\nR\nO\nC\nY\nN\nN\nA\nF\n \n©\n'>
+<LTTextBoxHorizontal(16) 42.330,188.727,156.808,197.855 'Les cours sont au tarif de 35 euros.\n'>
+<LTTextBoxHorizontal(17) 39.685,75.774,159.055,179.172 'Elles ont une élégance et un corps\nà faire pâlir toutes les jeunes femmes.\nLe célèbre cabaret parisien du Lido orga-\nnise  jusqu’au  4 octobre  des  séances\ninédites  de  bootcamp  sur  la  scène\nmême  de  l’établissement,  aﬁn  de  se\nglisser dans la peau des BlueBell Girls,\napparues en 1948, qui enchaînent les\nreprésentations à un rythme effréné et\ndémontrent qu’elles sont des athlètes\nà part entière. Le programme est  décliné\n'>
+<LTTextBoxHorizontal(18) 171.969,75.768,291.333,281.671 'en trois sessions d’une heure et demie\nchacune pour «une immersion totale\ndans l’univers du show Paris Merveilles,\nmis  en  scène  par  Franco  Dragone»,\nselon  les  organisateurs.  Les  partici-\npantes peuvent s’inscrire à la séance\n«BlueBell»,  composée  d’un  cours  de\nyoga Vinyasa «soft» ou «dynamic», à\nla session «Barricade», avec un cours\nde ﬁtness ou de body pump – tech-\nnique originaire de Nouvelle-Zélande à\nbase de squats et de pompes – ou en-\ncore à la séquence «Final» incluant du\nPilates. Pour s’inscrire à ces cours, qui\nse déroulent du lundi au vendredi, de\n12h30 à 14h, les personnes intéressées\ndoivent se rendre sur le site du Lido et\ndébourser 35 euros. Il est impératif de\nvenir avec un pantalon type legging et\nune paire de baskets. n\nLido de Paris, 116 bis, av. des\nChamps-Elysées, Paris 8e. lido.fr\n'>
+<LTTextBoxHorizontal(19) 309.262,305.990,363.396,330.257 'En bref\n'>
+<LTTextBoxHorizontal(20) 311.494,197.107,416.471,290.899 'LE RASOIR CHAUFFANT \nDÉBARQUE EN FRANCE\nGillette crée l’événement en cette\nrentrée en dévoilant Heated Razor,\nle premier rasoir manuel chauffant\npour une peau douce et un rasage\nprécis. Facile d’utilisation et dispo-\nnible sur gillette.fr, il sera disponi-\nble en octobre (199,95 euros) chez\nDarty, Boulanger et Monoprix.\n'>
+<LTTextBoxHorizontal(21) 311.494,85.107,416.161,178.899 'AYA NAKAMURA LANCE\nSA LIGNE DE MAQUILLAGE\nLa chanteuse Aya Nakamura, au-\nteur du tube Pookie, s’est associée\nà la marque M.A.C Cosmetics pour\ncréer une ligne de maquillage. Ces\nproduits, dont le lipglass Nakamu-\nrance, seront disponibles à partir\ndu 10 octobre, en boutiques et sur\nle site maccosmetics.fr\n'>
+<LTTextBoxHorizontal(22) 436.630,317.429,531.158,331.843 'LES BIENFAITS DU...\n'>
+<LTTextBoxHorizontal(23) 436.536,290.431,482.417,301.587 'PISSENLIT \n'>
+<LTTextBoxHorizontal(24) 436.534,225.106,555.621,282.641 'Ses origines. Aussi appelé «dent de\nlion», le pissenlit est une plante vivace\naux ﬂeurs jaunes et aux racines lon -\ngues, que l’on retrouve dans les zones\nchampêtres de l’Europe du Nord. Elle\nest utilisée depuis l’Antiquité.\n'>
+<LTTextBoxHorizontal(25) 436.533,169.105,555.978,217.308 'Ses vertus. Diurétique et dépuratif,\nle pissenlit soulage les maladies liées\nà  la  vésicule  biliaire,  les  problèmes\n cutanés, ou encore les rhumatismes.\nIl stimule aussi l’appétit.\n'>
+<LTTextBoxHorizontal(26) 436.532,75.775,555.931,161.308 'Son utilisation. Ses feuilles infu-\nsées permettent d’obtenir une lotion\npour éclaircir le teint et ainsi de ré-\nduire les taches brunes sur le visage.\nSon lait est\né g a l e m e n t \nrecommandé\nc o n t r e l e s\nverrues.\n'>
+<LTTextBoxHorizontal(27) 558.483,95.963,565.086,97.413 '/\n'>
+<LTTextBoxHorizontal(28) 558.483,80.977,565.086,105.752 'X\nE\nR\nA\nP\nI\nS\n \n©\n'>
+<LTImage(Im0) 61.661,360.829,94.026,433.785 (68, 152)>
+<LTImage(Im1) 494.140,360.332,542.189,434.517 (101, 155)>
+<LTImage(Im2) 486.359,76.944,556.564,119.124 (147, 88)>
+<LTImage(Im3) 171.650,467.425,555.874,690.130 (801, 464)>
+<LTImage(Im4) 39.447,197.760,158.938,277.951 (249, 168)>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'D\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'e\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'm\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'a\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'i\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'n\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 ' \n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'u\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'n\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 ' \n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'A\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'u\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 't\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'r\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'e\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 ' \n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'J\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'o\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'u\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'r\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 ':\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 ' \n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '2\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '0\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '1\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '9\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '-\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '0\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '9\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '-\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '1\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '8\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'T\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '2\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '3\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 ':\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '1\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '6\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 ':\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '2\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '2\n'>
+----START-PAGE 16 ----
+<LTTextBoxHorizontal(0) 2.800,825.646,249.321,837.615 '2458-CN-p016-NUMERIQUE_Mise en page 1  18/09/2019  15:20  Page16\n'>
+<LTTextBoxHorizontal(1) 26.457,772.001,37.564,784.396 '16\n'>
+<LTTextBoxHorizontal(2) 42.331,772.786,167.716,783.099 'N° 2458 JEUDI 19 SEPTEMBRE 2019\n'>
+<LTTextBoxHorizontal(3) 241.376,767.326,353.902,789.368 'NUMÉRIQUE\n'>
+<LTTextBoxHorizontal(4) 530.403,772.786,568.816,783.099 'CNEWS.FR\n'>
+<LTTextBoxHorizontal(5) 39.765,736.361,477.370,755.580 'SAMSUNG LANCE LE GALAXY FOLD DOTÉ D’UN ÉCRAN FLEXIBLE\n'>
+<LTTextBoxHorizontal(6) 39.765,694.716,563.837,737.183 'UN MOBILE À DÉPLIER ET À REPLIER \n'>
+<LTTextBoxHorizontal(7) 39.685,458.457,159.056,692.506 'Il préﬁgure la prochaine décennie\net son prix de vente, ﬁxé à 2 020 euros,\nest tout un symbole. Samsung commer-\ncialise cette semaine son fameux Ga-\nlaxy Fold, le premier smartphone doté\nd’un écran pliable à volonté. Après un\ndépart raté en avril dernier, le construc-\nteur sud-coréen a décidé de revoir sa\ncopie, pour rendre son produit plus ﬁa-\nble.  L’objet  est  donc  capable  de  se\ntransformer  à  tout  moment...  en  ta-\nblette. Passant de son écran avant de\n4,6  pouces  à  un  écran  XXL  de  7,8\npouces, une fois déplié. Soit une diago-\nnale de près de 20 cm. Et à l’usage, ce\nmobile, que nous avons pu tester, est\nvéritablement impressionnant. Tant par\nson  confort  d’utilisation  que  l’écran\nﬂatteur qui se déploie comme un livre.\nCette  version  révisée  proﬁte  d’une\ncharnière plus robuste, ainsi que d’un\nﬁlm de protection à ne surtout pas dé-\ncoller. Nouvelle technologie oblige, le\nGalaxy Fold se manipule avec précau-\ntion, que Samsung rappelle à chaque\n'>
+<LTTextBoxHorizontal(8) 171.968,542.434,291.331,692.363 'acheteur  qui  doit  d’abord  retirer  son\nexemplaire  en  magasin  aﬁn  d’être\nguidé dans les usages par un revendeur.\n«Les écrans ﬂexibles introduisent une\nrupture sur le marché du mobile et cette\ntechnologie va nous permettre d’explo-\nrer  d’autres  usages  et  d’autres  idées\ndesign», prévient-on chez Samsung. Le\nleader mondial du marché du mobile\nprévoit même de présenter son succes-\nseur dès l’an prochain. Manière d’occu-\nper  le  terrain  face  à  ses  concurrents\nchinois. Huawei et Xiaomi notamment\nsont déjà prêts à lancer leurs propres\nmodèles dans les prochains mois. n\nGalaxy Fold, Samsung, 2 020 euros.\n'>
+<LTTextBoxHorizontal(9) 176.355,511.916,245.599,524.124 'L’INFO EN PLUS\n'>
+<LTTextBoxHorizontal(10) 175.937,465.675,287.101,503.576 'Le Galaxy Fold sera commercialisé\nseulement pendant trois mois par\nSamsung. Il ne sera plus disponible\npar la suite.\n'>
+<LTTextBoxHorizontal(11) 306.898,461.317,552.878,470.445 'Une fois ouvert comme un livre, l’écran possède une diagonale de 20 cm.\n'>
+<LTTextBoxHorizontal(12) 556.035,470.004,562.637,491.463 'S\nW\nE\nN\nC\n©\n'>
+<LTTextBoxHorizontal(13) 556.035,474.428,562.637,475.772 ' \n'>
+<LTTextBoxHorizontal(14) 126.992,357.613,249.817,426.294 'LA CARTE MULTISPORT\nToujours cher aux sportifs, Garmin lance \nsa montre connectée Fenix 6. Un modèle\nqui permet de connaître le VO2 max, \nle niveau énergétique du corps et son\nacclimatation à l’altitude et à la chaleur.\nFenix 6, Garmin, à partir de 599 €.\n'>
+<LTTextBoxHorizontal(15) 42.331,351.382,66.450,357.984 '© GARMIN\n'>
+<LTTextBoxHorizontal(16) 341.280,357.613,472.396,426.294 'L’ŒIL DE L’EXPERT\nAvec l’Alpha 6100, Sony offre le meilleur\nde la photo dans un boîtier compact et de\nbelle facture. Son atout réside dans l’usage\ndu capteur CMOS Exmor de 24,2 Mpixels\net son autofocus ultrarapide. \nAlpha 6100, Sony, 900 € (boîtier nu).\n'>
+<LTTextBoxHorizontal(17) 483.611,351.382,501.397,357.984 '© SONY\n'>
+<LTTextBoxHorizontal(18) 39.765,287.051,282.937,331.883 'LE JEU «EFOOTBALL PES 2020» EST DISPONIBLE\nLE PLAISIR BALLON AU PIED\n'>
+<LTTextBoxHorizontal(19) 171.969,75.769,293.039,281.671 'touches  et  ne  sont  pas  forcément \ntrès visibles à première vue, mais elles\nsont  bien  réelles.  Konami  a  en  effet\ncontinué à optimiser la précision des\ncommandes  du  joueur.  Les  premiers\nmatchs se soldent donc par beaucoup\nd’imprécisions,  mais  avec  le  temps, \nles sensations – et les belles actions – \ndeviennent vite assez jouissives. Ainsi,\nle  changement  apporté  au  système \nde «dribble en ﬁnesse», travaillé avec\nle footballeur Andres Iniesta, permet\nde  se  sortir  efﬁcacement  des  petits \npérimètres. Les animations ont, bien\nsûr,  suivi  la  même  tendance  et  la \nmodélisation des protagonistes ainsi\nque de leurs gestes est une nouvelle\nfois bluffante. Une mention spéciale\npour les contrôles, dont la diversité a \nencore été améliorée. n\neFootball PES 2020, Konami, \nsur PS4, Xbox One et PC.\n'>
+<LTTextBoxHorizontal(20) 42.332,162.657,156.536,171.785 'La gestion des dribbles a été revue.\n'>
+<LTTextBoxHorizontal(21) 39.685,75.774,158.799,151.172 'Le nouvel opus de la célèbre simu-\nlation de football, désormais nommé\neFootball PES 2020, fait son retour sur\nconsole et PC. Manette en main, le jeu\nde Konami est toujours aussi agréable\npour les amateurs du ballon rond, en\nrestant très axé sur le réalisme. Des\naméliorations ont été faites par petites\n'>
+<LTTextBoxHorizontal(22) 309.262,305.990,363.396,330.257 'En bref\n'>
+<LTTextBoxHorizontal(23) 311.494,197.106,418.049,290.899 'LES FRANÇAIS GÊNÉS PAR\nLES CONTENUS DE LEURS\nCOMPTES SOCIAUX\nTrois  quarts  (73 %)  des  Français \nreconnaissent être gênés par des\ncontenus de leurs comptes sur les\nréseaux  sociaux,  rapporte  une\nétude récente 3Gem pour McAfee.\nEn outre, 7 % ont déjà été licenciés\nà cause d’un contenu inapproprié.\n'>
+<LTTextBoxHorizontal(24) 311.494,85.106,416.468,178.899 'LE JEU «DRAGON BALL Z :\nKAKAROT» SERA LANCÉ \nLE 17 JANVIER 2020\nProchain blockbuster en prépara-\ntion  autour  de  l’univers  de  Son\nGoku et ses amis, Dragon Ball Z :\nKakarot sera lancé le 17 janvier\nprochain, annonce Bandai Namco.\nIl s’agira d’un jeu d’aventure at-\ntendu sur PS4 et Xbox One.\n'>
+<LTTextBoxHorizontal(25) 440.199,297.140,478.155,317.506 'L’APPLI\nDU JOUR\n'>
+<LTTextBoxHorizontal(26) 486.179,295.532,554.790,316.952 'MOON WALK –\nAPOLLO 11\n'>
+<LTTextBoxHorizontal(27) 436.535,75.770,555.621,281.672 'Qui n’a jamais eu l’envie de se glisser\ndans la combinaison spatiale de Neil\nArmstrong et de Buzz Aldrin ? C’est ce\nqu’invite à faire, et en réalité augmen-\ntée s’il vous plaît, l’application Moon\nWalk – Apollo 11 Mission. De l’atterris-\nsage  du  module  lunaire  à  la  sortie\nextra-véhiculaire à laquelle se sont li-\nvrés les deux astronautes, on peut ad-\nmirer à 360 ° et en 3D le panorama qui\ns’est offert à leurs yeux il y a cinquante\nans déjà. Chaque élément de la mission\nest ici détaillé et il est même possible\nde suivre les conversations échangées\nentre les deux hommes et la base de la\nNasa à Cap Canaveral. Un vrai docu-\nmentaire  amusant\net pédagogique.\nMoon Walk –-\nApollo 11 Mission,\nsur iOS et Android,\ngratuit.\n'>
+<LTTextBoxHorizontal(28) 556.288,78.719,562.890,90.495 'R\nD\n©\n'>
+<LTTextBoxHorizontal(29) 556.288,83.143,562.890,84.487 ' \n'>
+<LTTextBoxHorizontal(30) 32.149,195.066,38.752,196.422 'I\n'>
+<LTTextBoxHorizontal(31) 32.149,172.509,38.752,195.122 'M\nA\nN\nO\nK\n©\n'>
+<LTTextBoxHorizontal(32) 32.149,176.933,38.752,178.277 ' \n'>
+<LTImage(Im0) 48.265,358.931,109.649,431.747 (128, 152)>
+<LTImage(Im1) 485.083,370.369,551.471,420.530 (139, 105)>
+<LTImage(Im2) 39.369,172.296,159.033,279.146 (250, 223)>
+<LTImage(Im3) 304.015,470.064,555.949,690.730 (525, 460)>
+<LTImage(Im4) 502.939,77.053,555.922,130.036 (111, 111)>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'D\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'e\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'm\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'a\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'i\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'n\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 ' \n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'u\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'n\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 ' \n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'A\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'u\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 't\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'r\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'e\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 ' \n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'J\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'o\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'u\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'r\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 ':\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 ' \n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '2\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '0\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '1\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '9\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '-\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '0\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '9\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '-\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '1\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '8\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'T\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '2\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '3\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 ':\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '1\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '6\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 ':\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '2\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '2\n'>
+----START-PAGE 17 ----
+<LTTextBoxHorizontal(0) 205.346,630.078,389.970,656.193 'LA CHAÎNE\n'>
+<LTTextBoxHorizontal(1) 120.692,598.219,474.623,624.334 'QUI EXPLIQUE L’INFO\n'>
+<LTTextBoxHorizontal(2) 58.681,162.635,110.637,179.059 'JEAN\ue010MARC\nMORANDINI\n'>
+<LTTextBoxHorizontal(3) 125.084,162.635,156.563,179.059 'PASCAL\nPRAUD\n'>
+<LTTextBoxHorizontal(4) 171.920,162.635,195.564,179.059 'YVES\nCALVI\n'>
+<LTTextBoxHorizontal(5) 216.583,172.480,241.252,179.059 'CLÉLIE\n'>
+<LTTextBoxHorizontal(6) 266.578,172.480,302.774,179.059 'ROMAIN\n'>
+<LTTextBoxHorizontal(7) 330.028,172.480,358.192,179.059 'SONIA\n'>
+<LTTextBoxHorizontal(8) 380.007,172.480,423.028,179.059 'LAURENCE\n'>
+<LTTextBoxHorizontal(9) 209.913,162.635,247.922,169.214 'MATHIAS\n'>
+<LTTextBoxHorizontal(10) 261.401,162.635,307.935,169.214 'DESARBRES\n'>
+<LTTextBoxHorizontal(11) 322.185,162.635,366.035,169.214 'MABROUK\n'>
+<LTTextBoxHorizontal(12) 385.060,162.635,417.975,169.214 'FERRARI\n'>
+<LTTextBoxHorizontal(13) 436.040,162.635,486.962,179.059 'JEAN\ue010PIERRE\nELKABBACH\n'>
+<LTTextBoxHorizontal(14) 499.892,162.635,536.851,179.059 'THOMAS\nHUGUES\n'>
+<LTTextBoxHorizontal(15) 48.294,78.987,108.292,88.088 'CNEWS.FR\n'>
+<LTTextBoxHorizontal(16) 176.543,77.828,418.584,88.165 'RETROUVEZ CNEWS SUR LE CANAL 16 DE LA TNT\n'>
+<LTTextBoxHorizontal(17) 491.328,87.049,546.195,93.938 'CNEWSOFFICIEL\n'>
+<LTTextBoxHorizontal(18) 491.328,72.471,524.546,79.359 '@CNEWS\n'>
+<LTImage(Im0) -547.011,358.931,-485.627,431.747 (128, 152)>
+<LTImage(Im1) -110.192,370.369,-43.804,420.530 (139, 105)>
+<LTImage(Im2) -92.337,77.053,-39.353,130.036 (111, 111)>
+<LTImage(Im3) 26.430,110.068,568.958,663.796 (1131, 1154)>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'D\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'e\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'm\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'a\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'i\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'n\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 ' \n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'u\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'n\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 ' \n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'A\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'u\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 't\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'r\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'e\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 ' \n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'J\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'o\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'u\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'r\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 ':\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 ' \n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '2\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '0\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '1\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '9\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '-\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '0\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '9\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '-\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '1\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '8\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'T\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '2\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '3\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 ':\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '1\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '6\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 ':\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '2\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '2\n'>
+----START-PAGE 18 ----
+<LTTextBoxHorizontal(0) 2.800,825.646,238.949,837.615 '2458-CN-p018-CULTURE_Mise en page 1  18/09/2019  15:49  Page18\n'>
+<LTTextBoxHorizontal(1) 26.457,772.001,37.442,784.396 '18\n'>
+<LTTextBoxHorizontal(2) 42.331,772.786,167.716,783.099 'N° 2458 JEUDI 19 SEPTEMBRE 2019\n'>
+<LTTextBoxHorizontal(3) 258.864,767.326,336.413,789.368 'CULTURE\n'>
+<LTTextBoxHorizontal(4) 530.403,772.786,568.816,783.099 'CNEWS.FR\n'>
+<LTTextBoxHorizontal(5) 32.727,669.447,39.329,709.040 'S\nI\nT\nO\nL\nC\n \nE\nN\nN\nE\nI\nT\nE\n \n©\n'>
+<LTTextBoxHorizontal(6) 156.681,674.926,372.830,736.718 'Aujourd’hui, dans les salons, les auteurs\nde BD ne sont plus les pestiférés qu’ils ont\nété. Il n’y a plus cette prétention élitiste\nqu’il pouvait y avoir à une époque.\n'>
+<LTTextBoxHorizontal(7) 42.409,659.966,324.957,669.262 'Christophe Arleston, fondateur de la nouvelle maison d’édition Drakoo, à CNEWS.\n'>
+<LTTextBoxHorizontal(8) 423.610,695.197,516.379,752.770 '300\nDESSINS\n'>
+<LTTextBoxHorizontal(9) 392.336,665.838,547.295,694.826 'de Sempé, dont des inédits, seront présentés, dès\nle 8 novembre, dans «Sempé : itinéraire d’un\ndessinateur d’humour», à Rueil-Malmaison (92).\n'>
+<LTTextBoxHorizontal(10) 45.522,615.852,99.657,640.118 'En bref\n'>
+<LTTextBoxHorizontal(11) 46.880,486.436,151.864,598.899 'KARL LAGERFELD AU ROYAL\nMONCEAU RAFFLES\nJusqu’au 15 novembre, le photo-\ngraphe Simon Procter expose ses\nclichés  de  déﬁlés  de  la  maison\n Chanel, au Royal Monceau. Depuis\ndix ans, il immortalise ces déﬁlés,\nnotamment ceux de Karl Lagerfeld.\nParallèlement,  le  photographe\n publie Lagerfeld, The Chanel Shows\n(éd. Rizzoli), un livre hommage au\ncréateur disparu en février dernier.\n'>
+<LTTextBoxHorizontal(12) 46.880,355.776,151.853,468.232 'LE MUSÉE D’ORSAY \nINVITE L’OPÉRA DE PARIS\nA  l’occasion  des  350 ans  de\nl’Opéra de Paris, Aurélie Dupont,\ndirectrice de la danse de la maison\net le chorégraphe Nicolas Paul ont\nété invités par le musée d’Orsay.\nLes 11 et 12 octobre, ils dévoile-\nront, en parallèle de l’exposition\nDegas à l’Opéra, un parcours spec-\ntacle mêlant performances, vidéos\net installations sonores.\n'>
+<LTTextBoxHorizontal(13) 46.880,234.442,151.856,337.566 'URBAN COMICS CÉLÈBRE\nBATMAN POUR SES 80 ANS\nAlors que divers rendez-vous et ani-\nmations sont programmés dans le\nmonde pour les 80 ans de Batman,\nle célèbre super-héros chauve-sou-\nris, l’éditeur Urban Comics publiera\nen France dès demain un superbe\nalbum intitulé sobrement Batman\n80 ans, qui regroupe ses meilleures\naventures depuis sa création.\n'>
+<LTTextBoxHorizontal(14) 46.880,85.103,151.610,216.232 'TOUT «GAME OF THRONES»\nÀ DÉCOUVRIR \nEN  TAPISSERIE À BAYEUX\nExposée à Bayeux (Calvados) jus -\nqu’au 31 décembre, une tapisserie\ngéante résumant les huit saisons\nde la série à succès est visible à\nl’hôtel du Doyen. Mettant en va-\nleur  l’art  du  tissage  venu  de\n Belfast, cette œuvre prend bien sûr\npour modèle la célèbre tapisserie\nde Bayeux, datant du XIe siècle, et\nretraçant la conquête de l’Angle-\nterre par Guillaume le Conquérant.\n'>
+<LTTextBoxHorizontal(15) 171.970,624.647,552.085,643.867 'UNE PIÈCE CULTE D’AGATHA CHRISTIE SUR SCÈNE À PARIS\n'>
+<LTTextBoxHorizontal(16) 171.965,583.391,557.478,624.644 'LE CRIME AU RENDEZ-VOUS\n'>
+<LTTextBoxHorizontal(17) 171.970,355.768,292.874,580.506 'Un Cluedo sur scène. Touche-à-tout,\ns’attaquant  aussi  bien  au  théâtre  (Le\npère, Les cartes du pouvoir) qu’à la co-\nmédie musicale (Oliver Twist, Résiste...),\nle  metteur  en  scène  Ladislas  Chollat\ns’empare du plus grand succès d’Agatha\nChristie : La souricière. Dans cette pièce\nà l’afﬁche du West End londonien depuis\n67 ans sans interruption, et totalisant\nplus de 27 000 représentations, il tire \nles ﬁcelles de cette enquête policière,\ncomme  savait  si  bien  les  imaginer  la\nreine  du  crime.  Les  ingrédients :  un\nmeurtre, une tempête de neige, sept per-\nsonnages immobilisés dans une pension\nde famille et un inspecteur, le méticuleux\nTrotter, venu leur annoncer que le meur-\ntrier est parmi eux. L’affaire ne fait que\ncommencer. Doutes, interrogatoires et\nretournements de situation ponctuent,\névidemment,  cette  pièce  qui  s’offre\ncomme un pur divertissement. n\nLa souricière, La Pépinière \nThéâtre, Paris 2e.\n'>
+<LTTextBoxHorizontal(18) 306.898,358.824,551.409,367.952 'Un huis clos très british, comme savait si bien les ficeler l’auteur anglais.\n'>
+<LTTextBoxHorizontal(19) 556.456,369.186,563.058,412.352 'Y\nT\nN\nO\nF\n \nS\nI\nO\nÇ\nN\nA\nR\nF\n \n©\n'>
+<LTTextBoxHorizontal(20) 171.970,287.340,406.166,332.363 'LE NOUVEAU LIVRE DE PHILIPPE DELERM\nCES GESTES RÉVÉLATEURS\n'>
+<LTTextBoxHorizontal(21) 165.366,191.054,171.969,254.049 'A\nP\nI\nS\n/\nC\nR\nA\nM\n \nE\nG\nE\nR\nF\n/\nR\nA\nK\nL\nA\nB\n©\n'>
+<LTTextBoxHorizontal(22) 165.366,195.478,171.969,196.822 ' \n'>
+<LTTextBoxHorizontal(23) 174.622,181.202,289.156,190.330 'L’écrivain scrute la nature humaine.\n'>
+<LTTextBoxHorizontal(24) 171.970,75.776,291.445,169.839 'Dévoiler l’humanité qui se cache\ndans  les  petites  choses  du  quotidien,\navec sincérité et poésie. Livre après livre,\nPhilippe  Delerm  réussit \nla  même\nprouesse. Un chariot de supermarché qui\nroule mal sait parler de notre société de\nconsommation, un homme qui tourne\nson volant avec la paume de ses mains\nen  dit  beaucoup  sur  sa  misogynie,  le\ndoigt qui fait déﬁler les photos sur un\n'>
+<LTTextBoxHorizontal(25) 304.253,75.769,425.186,281.671 'smartphone nous parle de notre rapport\nà la mémoire… L’auteur de la célébris-\nsime Première gorgée de bière publie en\ncette rentrée littéraire L’extase du selﬁe\net autres gestes qui nous disent (éd. Le\nSeuil)  au  titre  presque  mensonger.  Et\ntant  mieux.  Car  s’il  est  question  des\n travers de notre société, l’écrivain s’en\nempare pour se  moquer du genre hu-\nmain dans toutes ses  habitudes absur -\ndes, coquettes ou  attachantes. «Il est\njubilatoire de  pren dre des attitudes très\ncontemporaines  qui  en  même  temps\nparlent de choses  intemporelles», expli -\nque l’écrivain.  Philippe Delerm regarde\nle monde changer alors que les indi -\nvidus restent les mêmes. On savoure \nle Delerm nouveau avec, toujours, ce\nmême plaisir simple. n\nL’extase du selﬁe et autres \ngestes qui nous disent, \nPhilippe Delerm, éd. du Seuil.\n'>
+<LTTextBoxHorizontal(26) 436.536,267.698,543.335,332.363 'HELLA MEGA TOUR\nLE MEILLEUR\nDU ROCK\n'>
+<LTTextBoxHorizontal(27) 436.075,75.768,555.910,263.173 'Les billets sont en vente à partir de\n demain, 10h. Le Hella Mega Tour, qui\nréunira  Green  Day,  Fall  Out  Boy  et\n Weezer, passera le 13 juin 2020 à Paris\nla Défense Arena. C’est un événement\ndans  le  monde  du  rock.  Ce  concert\nunique en France se déroulera dans le\ncadre d’une tournée mondiale qui em-\nmènera ces trois célèbres groupes dans\nhuit villes européennes, puis aux Etats-\nUnis.  Emmené par son leader Billie Joe\nArmstrong, Green Day, qui a remporté\n5 Grammy Awards, défendra son nouvel\nopus  Father  of All, à  paraître  le  7 fé-\nvrier 2020. Le groupe californien Weezer\na aussi annoncé la sortie d’un disque,\nVan Weezer, le 15 mai 2020. Quant aux\nAméricains de Fall Out Boy, ils repren-\ndront les morceaux issus de leur dernier\nalbum studio, Mania, sorti en 2018. n\n'>
+<LTImage(Im0) 43.062,665.665,120.695,752.432 (162, 181)>
+<LTImage(Im1) 304.001,358.423,555.857,578.737 (525, 459)>
+<LTImage(Im2) 172.056,187.728,291.330,279.810 (249, 192)>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'D\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'e\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'm\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'a\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'i\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'n\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 ' \n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'u\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'n\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 ' \n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'A\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'u\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 't\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'r\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'e\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 ' \n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'J\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'o\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'u\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'r\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 ':\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 ' \n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '2\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '0\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '1\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '9\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '-\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '0\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '9\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '-\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '1\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '8\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'T\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '2\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '3\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 ':\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '1\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '6\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 ':\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '2\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '2\n'>
+----START-PAGE 19 ----
+<LTImage(Im0) -41.050,-30.191,636.326,872.081 (1412, 1880)>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'D\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'e\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'm\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'a\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'i\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'n\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 ' \n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'u\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'n\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 ' \n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'A\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'u\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 't\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'r\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'e\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 ' \n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'J\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'o\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'u\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'r\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 ':\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 ' \n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '2\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '0\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '1\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '9\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '-\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '0\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '9\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '-\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '1\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '8\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'T\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '2\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '3\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 ':\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '1\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '6\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 ':\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '2\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '2\n'>
+----START-PAGE 20 ----
+<LTTextBoxHorizontal(0) 2.800,825.646,247.678,837.615 '2458-CN-p020-TELEVISION_Mise en page 1  18/09/2019  15:23  Page20\n'>
+<LTTextBoxHorizontal(1) 26.457,772.001,39.701,784.396 '20\n'>
+<LTTextBoxHorizontal(2) 42.331,772.786,167.716,783.099 'N° 2458 JEUDI 19 SEPTEMBRE 2019\n'>
+<LTTextBoxHorizontal(3) 246.743,767.326,348.534,789.368 'TÉLÉVISION\n'>
+<LTTextBoxHorizontal(4) 530.403,772.786,568.816,783.099 'CNEWS.FR\n'>
+<LTTextBoxHorizontal(5) 39.685,736.588,470.951,755.807 'UNE SÉRIE BRITANNIQUE INÉDITE À DÉCOUVRIR SUR CANAL+\n'>
+<LTTextBoxHorizontal(6) 39.684,695.331,555.065,736.585 'LES GALÈRES D’UNE BANDE DE POTES\n'>
+<LTTextBoxHorizontal(7) 39.223,458.434,159.052,692.506 'So british. Dans une Angleterre gan-\ngrenée  par  le  chômage,  le  bipolaire\n Vinnie et Dylan, amis d’enfance, trem-\npent  dans  les  mêmes  magouilles.\nQuand Erin, la petite amie de Dylan,\n envisage de quitter la ville avec leur ﬁls\nTyler, Dylan doit prendre une terrible\n décision : partir avec eux ou bien rester\navec Vinnie et leur bande de potes…\nAvec  Brassic, Joe  Gilgun  et  Daniel\nBrocklehurst signent avec brio une série\ncomique sur fond de détresse sociale.\nDans l’épisode de ce soir, on fait leur\nrencontre, alors qu’ils essaient d’échap-\nper à la police… La séquence intervient\naprès un monologue de Vinnie : «Fuck\nla middle class, fuck le Guardian, fuck\ntrois jours de vacances par an, fuck le vin\nrouge, fuck les soins hydratants…» Dès\nlors, on se plaît à suivre les (més)aven-\ntures déjantées des deux amis et leur\nbande de lascars, à travers leur prochain\nchallenge : voler un poney shetland\npour leur excentrique voisin Jim. n\nBrassic, Canal+, 22h25.\n'>
+<LTTextBoxHorizontal(8) 174.614,460.646,553.871,469.774 'Le récit de la nouvelle comédie «Brassic», à l‘humour décalé très anglais, se déroule sur fond de détresse sociale.\n'>
+<LTTextBoxHorizontal(9) 39.911,390.481,300.081,435.014 'DIVERTISSEMENT - M6\nLE FINAL DE «PÉKIN EXPRESS» \n'>
+<LTTextBoxHorizontal(10) 172.195,187.768,291.508,384.338 'déjà bien fatigués. Pour épicer cette ﬁn\nd’aventure, le jeu, animé par Stéphane\nRotenberg, réutilise la règle du «time is\nmoney». Il s’agit pour les concurrents de\nsoutirer un maximum d’argent à leurs\nadversaires. A chacune des trois courses,\nla première équipe  arrivée déclenchera\nun chronomètre qui coûtera aux retar-\ndataires  dix euros  toutes  les  dix  se-\ncondes.  Les  bouchons  de  Bogota\n(Colombie) promettent de faire monter\nle stress des candidats à qui on deman-\ndera, entre autres, de cuisiner des chur-\nros pour les vendre dans le plus grand\nmarché du monde… De quoi ﬁnir en\nbeauté les dix étapes et les 10 000 km\nparcourus tout au long de cette 12esai-\nson, suivie par 2,8 millions de téléspec-\ntateurs en moyenne. n\nPékin Express : la route \ndes 50 volcans, M6, 21h05.\n'>
+<LTTextBoxHorizontal(11) 33.308,284.744,39.910,319.806 '6\nM\n/\nT\nR\nE\nB\nO\nR\nP.\n©\n'>
+<LTTextBoxHorizontal(12) 33.308,289.168,39.910,290.512 ' \n'>
+<LTTextBoxHorizontal(13) 42.438,274.892,156.888,284.020 'Les binômes touchent enﬁn au but.\n'>
+<LTTextBoxHorizontal(14) 39.792,187.774,158.894,263.173 'Une dernière épreuve.Après trente-\ncinq jours de compétition sous haute\ntension, les derniers candidats en lice du\ncru 2019 de Pékin Express s’apprêtent à\ns’affronter une ultime fois, ce soir, pour\ndécrocher la victoire. Le binôme vain-\nqueur  empochera  100 000 euros,  de\nquoi redonner du pep aux participants\n'>
+<LTTextBoxHorizontal(15) 309.322,409.266,363.456,433.533 'En bref\n'>
+<LTTextBoxHorizontal(16) 311.554,309.106,416.221,393.566 'ACCORD RECONDUIT\nENTRE CANAL+ ET OCS\nCanal+ et OCS ont renouvelé leur\naccord de distribution qui permet\naux abonnés du groupe Canal+\nde  bénéficier  des  programmes\nd’OCS. De son côté, OCS a ainsi\naccès au premier parc d’abonnés\nde  télévision payante en France.\n'>
+<LTTextBoxHorizontal(17) 311.554,197.106,416.221,290.899 'L’EX-CATCHEUSE RONDA\nROUSEY AU CASTING\nDE «SHE-HULK» ?\nShe-Hulk, actuellement en déve-\nloppement,  pourrait  trouver  en\nRonda Rousey son interprète prin-\ncipale. Selon le site We Got This\nCovered, elle serait en discussion\navec Disney, qui concocte la série\npour sa plate-forme Disney+.\n'>
+<LTTextBoxHorizontal(18) 436.537,370.887,531.737,435.014 'SPIN-OFF DE «9-1-1»\nLIV TYLER\nRECRUTÉE\n'>
+<LTTextBoxHorizontal(19) 436.643,187.784,555.816,365.839 'Un  casting  cinq  étoiles. Le  site\nDeadline révèle que Liv Tyler (The Lefto-\nvers) jouera dans 9-1-1 : Lone Star, qui\nsuivra un pompier new-yorkais venu\ns’installer à Austin avec son ﬁls, et qui\ndoit gérer ses problèmes tout en passant\nses journées à sauver des personnes en\ndétresse. Liv Tyler incarnera le person-\nnage de Michelle Blake, une ambulan-\ncière en chef. Impitoyable mais douée de\ncompassion, «Michelle est brillante et\nironique, et elle est la seule à pouvoir\nrivaliser d’esprit avec Owen (Rob Lowe)\nqu’elle remet souvent à sa place […]\nMichelle a une obsession qu’elle a du\nmal à contrôler : découvrir ce qui est ar-\nrivé  à  sa  petite  sœur  Iris,  disparue\ndeux ans auparavant.» La diffusion est\nprévue en janvier 2020 aux Etats-Unis. n\n'>
+<LTTextBoxHorizontal(20) 557.151,498.680,563.754,500.035 'I\n'>
+<LTTextBoxHorizontal(21) 557.151,470.551,563.754,505.423 'E\nR\nU\nQ\nS\n \nT\nT\nA\nM\n©\n'>
+<LTTextBoxHorizontal(22) 557.151,474.975,563.754,476.319 ' \n'>
+<LTTextBoxHorizontal(23) 32.761,115.962,39.364,148.958 'A\nP\nI\nS\n/\nH\nC\nR\nD\nE\nA\nH\n'>
+<LTTextBoxHorizontal(24) 32.761,130.825,39.364,132.180 'I\n'>
+<LTTextBoxHorizontal(25) 32.761,113.386,39.364,116.018 '.\n \n'>
+<LTTextBoxHorizontal(26) 32.761,109.085,39.364,113.442 'M\n'>
+<LTTextBoxHorizontal(27) 32.761,98.803,39.364,109.141 '.\nJ\n/\nU\nV\n'>
+<LTTextBoxHorizontal(28) 32.761,88.807,39.364,98.086 '.\nL\n \n©\n'>
+<LTTextBoxHorizontal(29) 156.681,94.350,371.938,156.137 'Je taperais sur le bouton tout le temps,\nje ne peux pas, je n’ai pas la force \nde dire à quelqu’un : «C’est pas possible,\nje ne t’aime pas.» C’est trop douloureux.\n'>
+<LTTextBoxHorizontal(30) 42.409,79.385,330.474,88.681 'Yannick Noah, sur son refus de devenir juré à «The Voice Kids», sur la radio Voltage.\n'>
+<LTTextBoxHorizontal(31) 459.512,131.725,480.478,171.388 '2\n'>
+<LTTextBoxHorizontal(32) 429.390,113.815,510.599,141.083 'PRIMES\n'>
+<LTTextBoxHorizontal(33) 392.336,85.257,547.693,114.245 'de la sitcom «En famille» sont en préparation, une\naubaine pour les fans qui ont été 2,97 millions\nà suivre celui diffusé le 10 septembre dernier.\n'>
+<LTImage(Im0) 37.454,80.096,126.157,176.916 (174, 192)>
+<LTImage(Im1) 171.801,465.721,556.154,690.645 (801, 469)>
+<LTImage(Im2) 39.577,283.177,159.081,382.696 (249, 208)>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'D\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'e\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'm\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'a\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'i\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'n\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 ' \n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'u\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'n\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 ' \n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'A\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'u\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 't\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'r\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'e\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 ' \n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'J\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'o\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'u\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'r\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 ':\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 ' \n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '2\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '0\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '1\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '9\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '-\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '0\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '9\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '-\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '1\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '8\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'T\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '2\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '3\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 ':\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '1\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '6\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 ':\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '2\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '2\n'>
+----START-PAGE 21 ----
+<LTTextBoxHorizontal(0) 2.800,825.646,247.678,837.615 '2458-CN-p021-TELEVISION_Mise en page 1  18/09/2019  15:26  Page21\n'>
+<LTTextBoxHorizontal(1) 26.457,772.786,64.870,783.099 'CNEWS.FR\n'>
+<LTTextBoxHorizontal(2) 246.744,767.326,348.535,789.368 'TÉLÉVISION\n'>
+<LTTextBoxHorizontal(3) 427.557,772.001,568.819,784.396 'N° 2458 JEUDI 19 SEPTEMBRE 2019 21\n'>
+<LTTextBoxHorizontal(4) 39.691,736.786,342.209,756.005 'ARTE DIFFUSE LA FICTION POLICIÈRE «HIERRO»\n'>
+<LTTextBoxHorizontal(5) 39.685,693.214,412.505,736.894 'UNE PÉPITE ESPAGNOLE\n'>
+<LTTextBoxHorizontal(6) 39.685,505.119,159.062,692.506 'Incorruptible et pugnace. Cette pre-\nmière coproduction d’Arte avec l’Es-\npagne prend pour décor particulier l’île\nla plus éloignée de l’archipel des Cana-\nries, qui donne son nom à la série où, à\nquelques  jours  d’une  procession  reli-\ngieuse, le corps d’un jeune homme, qui\ndevait  se  marier  le  jour  même,  vient\nd’être retrouvé dans une grotte sous-\nmarine. Tout juste mutée sur l’île, la juge\nCandela Montes, femme de tête, mère\ncélibataire d’un enfant handicapé, brave\nles conservatismes locaux et enquête sur\nle principal suspect. Il s’agit du père de\nla ﬁancée de la victime, un riche entre-\npreneur à la réputation sulfureuse qui,\npour sauver sa peau et son business, va\nmener sa propre enquête. Bientôt, les\ndeux fortes têtes n’auront qu’un objec-\ntif : retrouver le véritable assassin.\n'>
+<LTTextBoxHorizontal(7) 39.685,430.459,159.046,496.450 'Une œuvre à la beauté austère\nLa série, en huit épisodes, est portée\npar deux acteurs reconnus en Espagne,\n Candela Pena, vue en maîtresse volca-\nnique de Marisa Paredes dans Tout sur\nma mère, deux fois récompensée par le\nGoya (l’équivalent des Césars) du meil-\n'>
+<LTTextBoxHorizontal(8) 174.627,498.572,421.441,507.700 'L’île de l’archipel des Canaries est le décor idéal pour cette enquête sombre.\n'>
+<LTTextBoxHorizontal(9) 171.969,430.434,291.257,487.005 'leur second rôle et par celui de la meil-\nleure actrice pour son interprétation dans\nle ﬁlm Princesas, et Dario Grandinetti,\naperçu dans les ﬁlms Parle avec elle et\nJulieta de Pedro Almodovar ou encore\ndans le ﬁlm argentin Rojo. Comme quoi,\n'>
+<LTTextBoxHorizontal(10) 304.452,430.437,423.415,487.008 'l’attrait des séries pour les acteurs en\nvue est désormais bien établi. n\nHierro, Arte, ce soir, \nle 26 septembre, et le 3 octobre, \nà 20h55. Disponible sur arte.tv\njusqu’au 16 octobre.\n'>
+<LTTextBoxHorizontal(11) 424.253,508.934,430.855,617.358 'S\nN\nO\nI\nT\nC\nU\nD\nO\nR\nP\n \nE\nU\nQ\nI\nT\nN\nA\nL\nT\nA\n \nT\nH\nG\nR\nY\nP\nO\nC\nO\nR\nR\nE\nI\nH\n©\n'>
+<LTTextBoxHorizontal(12) 424.253,546.657,430.855,548.012 'I\n'>
+<LTTextBoxHorizontal(13) 424.253,530.713,430.855,532.057 ' \n'>
+<LTTextBoxHorizontal(14) 424.253,513.358,430.855,514.702 ' \n'>
+<LTTextBoxHorizontal(15) 441.498,728.396,495.633,752.662 'En bref\n'>
+<LTTextBoxHorizontal(16) 443.290,589.109,547.957,710.899 'FRÉDÉRIC DIEFENTHAL\nBIENTÔT DANS «DEMAIN\nNOUS APPARTIENT»\nFrédéric Diefenthal fera son entrée\ndans la série Demain nous appar-\ntient le mercredi 2 octobre, à 19h20\nsur TF1. L’acteur jouera un person-\nnage récurrent, un nouveau provi-\nseur adjoint au lycée de Sète, marié\nà Valérie (Elisa Sergent). «C’est lui\nqui nous a contactés», a conﬁé\nSarah Faramand, productrice artis-\ntique de la série à Télé 2 semaines.\n'>
+<LTTextBoxHorizontal(17) 442.828,439.777,548.136,570.899 '«TARATATA 100 % LIVE» \nREVIENT LE 30 SEPTEMBRE\nSUR FRANCE 2\nPour cette nouvelle saison, Taratata\n100 %  Live change  de  jour,  et\nsera diffusé un lundi par mois à\n22h40, sur France 2. Pour sa ren-\ntrée, le programme musical, pré-\nsenté  par  Nagui,  recevra  Alain\nSouchon  (l’interprète  de  Foule\n sentimentale), Stephan Eicher (qui\n revient  avec  Homeless  Songs),\n Vincent Delerm et la révélation pop\nde l’année 2018, Clara Luciani.\n'>
+<LTImage(Im0) 26.458,59.908,568.762,403.748 (1130, 717)>
+<LTImage(Im1) 171.644,507.163,423.592,690.480 (525, 382)>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'D\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'e\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'm\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'a\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'i\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'n\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 ' \n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'u\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'n\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 ' \n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'A\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'u\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 't\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'r\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'e\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 ' \n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'J\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'o\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'u\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'r\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 ':\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 ' \n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '2\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '0\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '1\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '9\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '-\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '0\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '9\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '-\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '1\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '8\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'T\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '2\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '3\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 ':\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '1\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '6\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 ':\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '2\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '2\n'>
+----START-PAGE 22 ----
+<LTTextBoxHorizontal(0) 2.800,825.646,251.411,837.615 '2458-CN-p022-PROG TV.qxp_Mise en page 1  18/09/2019  15:27  Page22\n'>
+<LTTextBoxHorizontal(1) 26.457,772.001,39.486,784.396 '22\n'>
+<LTTextBoxHorizontal(2) 42.331,746.055,167.716,783.099 'N°\xa02458 JEUDI 19\xa0SEPTEMBRE 2019\nTF1\n'>
+<LTTextBoxHorizontal(3) 48.945,714.952,137.051,747.082 '19H20 Demain nous appartient\n20H00 Le 20h\n20H35 Le 20h le mag\n20H50 Nos chers voisins\n'>
+<LTTextBoxHorizontal(4) 246.743,767.326,348.534,789.368 'TÉLÉVISION\n'>
+<LTTextBoxHorizontal(5) 180.473,746.055,245.401,764.647 'FRANCE 2\n'>
+<LTTextBoxHorizontal(6) 181.291,714.952,275.515,747.082 '18H40 N’oubliez pas les paroles !\nJeu. Présentation : Nagui.\n20H00 20 heures\n20H45 Un si grand soleil\n'>
+<LTTextBoxHorizontal(7) 313.502,746.055,378.922,764.647 'FRANCE 3\n'>
+<LTTextBoxHorizontal(8) 313.534,714.952,377.104,747.082 '18H50 19/20\n20H00 Vu\n20H20 Plus belle la vie\n20H45 Tout le sport\n'>
+<LTTextBoxHorizontal(9) 530.403,772.786,568.816,783.099 'CNEWS.FR\n'>
+<LTTextBoxHorizontal(10) 445.746,746.055,507.108,764.647 'CANAL+\n'>
+<LTTextBoxHorizontal(11) 445.776,714.952,523.963,747.082 '17H45 L’info du vrai, le mag\n18H30 L’info du vrai\n19H50 La boîte à questions\n19H55 Clique\n'>
+<LTTextBoxHorizontal(12) 48.945,603.888,147.691,659.816 '21H05 Le temps est assassin\nSérie. Avec Mathilde Seigner, \nJenifer Bartoli, Caterina Murino.\n22H05 Le temps est assassin\nSérie. Avec Mathilde Seigner.\n23H05 Cold Case : affaires classées\nSérie. Quatre épisodes.\n'>
+<LTTextBoxHorizontal(13) 47.967,573.684,112.020,592.276 'FRANCE 5\n'>
+<LTTextBoxHorizontal(14) 48.945,542.488,145.556,574.618 '17H45 C dans l’air\n19H00 C à vous\n20H00 C à vous, la suite\n20H20 Les 100 lieux qu’il faut voir\n'>
+<LTTextBoxHorizontal(15) 181.291,603.888,280.822,659.816 '21H05 Vous avez la parole\nMagazine. Présentation : \nLéa Salamé et Thomas Sotto.\n23H40 Scan\nDocumentaire.\n00H35 Tout compte fait\nMagazine. Présentation : Julian Bugier.\n'>
+<LTTextBoxHorizontal(16) 181.259,573.685,203.624,592.277 'M6\n'>
+<LTTextBoxHorizontal(17) 181.291,542.488,256.110,574.618 '18H35 La meilleure \nboulangerie de France\n19H45 Le 19.45\n20H25 Scènes de ménages\n'>
+<LTTextBoxHorizontal(18) 313.534,603.885,409.795,659.816 '21H05 Le ﬁls de Jean\nFilm. Drame franco-canadien (2015).\n1h38. Avec Pierre Deladonchamps.\n22H45 Profs en territoires \nperdus de la République\nDocumentaire de Georges Benayoun.\n00H00 Archipel aux sabots rois\n'>
+<LTTextBoxHorizontal(19) 313.502,573.684,346.042,592.276 'ARTE\n'>
+<LTTextBoxHorizontal(20) 313.534,542.488,402.038,574.618 '18H05 Un jour au Royaume-Uni\n18H55 Migrations secrètes\n19H45 Arte journal\n20H05 28 minutes\n'>
+<LTTextBoxHorizontal(21) 445.776,603.890,540.810,659.816 '21H00 Killing Eve\nSérie. «La chenille qui fait des trous» \n• «Aux grands maux les grands\nremèdes». \n22H25 Brassic\nSérie. Six épisodes. \nAvec Damien Molony, Joseph Gilgun.\n'>
+<LTTextBoxHorizontal(22) 445.746,573.684,463.298,592.276 'C8\n'>
+<LTTextBoxHorizontal(23) 445.776,542.488,537.733,574.618 '17H45 C’est que de la télé !\n18H30 TPMP Darka !\n19H35 TPMP : première partie\n20H40 Touche pas à mon poste !\n'>
+<LTTextBoxHorizontal(24) 48.945,431.422,144.948,487.352 '20H50 Versailles, \nles déﬁs du Roi-Soleil\nDoc. de Philippe Tourancheau (2019).\n22H25 C dans l’air\nMag. Présentation : Caroline Roux.\n23H30 C à vous Magazine.\n00H30 C à vous, la suite Magazine.\n'>
+<LTTextBoxHorizontal(25) 181.291,431.424,280.113,487.352 '21H05 Pékin Express : \nla route des 50 volcans\nJeu. «La ﬁnale». Prés. : S. Rotenberg.\n23H40 Pékin Express : itinéraire bis\nJeu. Prés. : Stéphane Rotenberg.\n01H50 King & Maxwell\nSérie. Deux épisodes. Avec Jon Tenney.\n'>
+<LTTextBoxHorizontal(26) 313.534,431.429,412.091,487.352 '20H55 Hierro\nSérie. Trois épisodes. \nAvec Candela Pena, Dario Grandinetti.\n23H30 Borgen, \nune femme au pouvoir\nSérie. «Visite d’Etat» • «Ne rien\nentendre, ne rien voir, ne rien dire».\n'>
+<LTTextBoxHorizontal(27) 445.776,431.424,541.843,487.352 '20H45 TPMP XXL\nDivertissement. \nPrésentation : Cyril Hanouna.\n21H50 Balance ton post !\nDivertissement. Prés. : Cyril Hanouna.\n23H00 Balance ton post ! \nÇa continue Divertissement.\n'>
+<LTTextBoxHorizontal(28) 52.120,395.357,167.804,411.470 'NOTRE SÉLECTION\n'>
+<LTTextBoxHorizontal(29) 153.001,271.701,271.324,380.773 'LE FILS DE JEAN\nFRANCE 3\n21H05\nA 33 ans, Mathieu Capelier (Pierre\nDeladonchamps) apprend que son\npère, qu’il n’a jamais connu, vient \nde mourir. Il découvre qu’il s’appelait\nJean, qu’il était canadien et qu’il \navait deux ﬁls. Mathieu se rend \nà Montréal pour assister aux obsèques.\n'>
+<LTTextBoxHorizontal(30) 333.737,271.701,447.248,380.773 'VERSAILLES…\nFRANCE 5 \n20H50\n… LES DÉFIS DU ROI-SOLEIL.\nLorsque Louis XIV désigne Versailles\npour faire construire sa future\nrésidence, il ne peut choisir pire\nendroit qu’un plateau marécageux.\nComment les scientiﬁques \nde l’époque ont-ils relevé le déﬁ ?\n'>
+<LTTextBoxHorizontal(31) 46.720,229.900,70.685,248.492 'W9\n'>
+<LTTextBoxHorizontal(32) 47.622,168.913,128.637,230.812 '18H50 Les Marseillais\nvs le reste du monde\n21H05 NCIS : Los Angeles\nSérie. «Deux frères» \n• «Une épouse trop parfaite». \n22H40 NCIS : Los Angeles\nSérie. Quatre épisodes. \nAvec Chris O’Donnell, LL Cool J.\n'>
+<LTTextBoxHorizontal(33) 46.877,140.960,111.641,159.552 'FRANCE 4\n'>
+<LTTextBoxHorizontal(34) 47.622,79.966,129.664,141.869 '17H50 Angelo la débrouille\n18H35 Les Minikeums\n20H05 Une saison au zoo\n21H05 Sherlock\nSérie. «Le dernier problème». \n22H35 Sherlock\nSérie. «Le détective affabulant». \n00H05 Les enfants de la télé\n'>
+<LTTextBoxHorizontal(35) 151.902,229.904,179.924,248.496 'TMC\n'>
+<LTTextBoxHorizontal(36) 152.175,168.909,233.610,230.812 '20H10 Quotidien\n21H15 Barbecue\nFilm. Comédie française (2013).\n1h38. Avec Lambert Wilson.\n23H05 Le maître d’école.\nFilm. Comédie française \nde Claude Berri (1981). 1h35.\n01H00 90’ enquêtes\n'>
+<LTTextBoxHorizontal(37) 151.274,140.960,200.628,159.552 'BFM TV\n'>
+<LTTextBoxHorizontal(38) 152.175,79.966,228.311,141.869 '19H00 19h Ruth Elkrief\n20H00 20h politique\n20H30 20h30 Live\n21H00 Le dézoom\nMag Prés. : Aurélie Casse.\n22H00 Tonight Bruce infos\nMag. Prés. : Bruce Toussaint.\n00H00 Le journal de la nuit\n'>
+<LTTextBoxHorizontal(39) 255.827,229.904,297.383,248.496 'CSTAR\n'>
+<LTTextBoxHorizontal(40) 256.728,168.913,317.170,230.812 '18H55 Pawn stars –\nLes rois des enchères\n21H00 I, Robot\nFilm. Science-ﬁction \n(2004). 1h50.\n23H05 Star Trek :\nInto Darkness\nFilm. Science-ﬁction.\n'>
+<LTTextBoxHorizontal(41) 255.827,140.960,304.879,159.552 'CNEWS\n'>
+<LTTextBoxHorizontal(42) 256.728,79.966,327.459,141.869 '18H00 Punchline\n20H00 L’heure des pros 2\n20H50 Vive les livres !\nMagazine. Présentation :\nPatrick Poivre d’Arvor.\n21H00 Soir info\n23H00 L’info du vrai\n00H00 Edition de la nuit\n'>
+<LTTextBoxHorizontal(43) 360.194,229.904,383.920,248.496 'TFX\n'>
+<LTTextBoxHorizontal(44) 361.094,168.916,440.948,230.812 '19H50 Les Goldberg\n21H05 Fast and Furious 6\nFilm. Action américain \nde Justin Lin (2013, VM). 2h10.\n23H30 Fast and Furious 5\nFilm. Action américain\nde Justin Lin (2011, VM). 2h10.\nAvec Vin Diesel, Paul Walker.\n'>
+<LTTextBoxHorizontal(45) 360.194,140.960,383.504,159.552 'LCP\n'>
+<LTTextBoxHorizontal(46) 361.094,79.968,439.771,141.869 '19H30 Ça vous regarde\n20H30 Derniers jours\nd’un médecin de campagne\nDoc. d’Olivier Ducray (2018).\n21H30 Débat\n22H00 Livres & vous…\n23H30 Ça vous regarde\nMag. Prés. : Myriam Encaoua.\n'>
+<LTTextBoxHorizontal(47) 464.655,229.904,506.449,248.496 'NRJ12\n'>
+<LTTextBoxHorizontal(48) 465.554,168.913,547.528,230.812 '16H20 Alerte Cobra\n20H10 The Big Bang Theory\n21H05 Green Zone\nFilm. Thriller de Paul Greengrass\n(2008, VM). 1h50.\n23H10 Limitless\nFilm. Thriller américain \nde Neil Burger (2011). 1h45. \n'>
+<LTTextBoxHorizontal(49) 464.655,140.960,503.677,159.552 'GULLI\n'>
+<LTTextBoxHorizontal(50) 465.554,79.966,543.881,141.869 '20H05 Kally’s Mashup,\nla voix de la pop\n20H50 Wazup\n21H00 Clem\nSérie. «Les risques du métier».\n22H45 Clem\nSérie. «Hola Mama !» (1/2). \n00H30 Gawayn\n'>
+<LTImage(Im0) 48.575,663.488,149.747,711.805 (211, 101)>
+<LTImage(Im1) 180.965,663.571,282.185,711.718 (211, 101)>
+<LTImage(Im2) 313.068,663.630,414.455,711.726 (212, 101)>
+<LTImage(Im3) 445.431,663.519,546.626,711.667 (211, 101)>
+<LTImage(Im4) 48.520,491.077,149.866,539.321 (212, 101)>
+<LTImage(Im5) 180.918,491.028,282.255,539.301 (212, 101)>
+<LTImage(Im6) 313.133,491.092,414.396,539.267 (211, 101)>
+<LTImage(Im7) 444.855,490.091,547.102,540.261 (212, 103)>
+<LTImage(Im8) 56.265,273.366,141.443,377.141 (178, 217)>
+<LTImage(Im9) 456.700,273.439,541.933,377.164 (178, 217)>
+<LTImage(Im10) 1088.441,83.649,1107.040,102.282 (39, 39)>
+<LTImage(Im11) 1109.733,85.919,1133.190,100.550 (49, 31)>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'D\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'e\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'm\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'a\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'i\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'n\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 ' \n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'u\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'n\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 ' \n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'A\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'u\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 't\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'r\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'e\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 ' \n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'J\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'o\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'u\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'r\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 ':\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 ' \n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '2\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '0\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '1\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '9\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '-\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '0\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '9\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '-\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '1\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '8\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'T\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '2\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '3\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 ':\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '1\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '6\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 ':\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '2\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '2\n'>
+----START-PAGE 23 ----
+<LTTextBoxHorizontal(0) 2.800,825.646,252.651,837.615 '2458-CN-p023-DETENTE.qxp_Mise en page 1  18/09/2019  16:56  Page23\n'>
+<LTTextBoxHorizontal(1) 26.457,772.786,64.870,783.099 'CNEWS.FR\n'>
+<LTTextBoxHorizontal(2) 260.679,767.326,334.599,789.368 'DÉTENTE\n'>
+<LTTextBoxHorizontal(3) 427.557,772.001,568.819,784.396 'N° 2458 JEUDI 19 SEPTEMBRE 2019 23\n'>
+<LTTextBoxHorizontal(4) 39.685,712.566,275.895,756.110 'LA SAINTE DU JOUR par Defendente Génolini\nSAINTE ÉMILIE\n'>
+<LTTextBoxHorizontal(5) 304.252,736.891,406.820,756.110 'MOTS CROISÉS\n'>
+<LTTextBoxHorizontal(6) 39.685,523.516,160.531,709.803 'La mode récente du prénom Emilie\nva détrôner saint Janvier, fêté à cette date\ndepuis des siècles. Il est vrai qu’en dehors\nde Naples dont il est le saint patron et de\nRio de Janeiro qui porte son nom, pratique-\nment  personne  ne  s’appelle  Janvier.  Ce\nmartyr décapité en 304 aura une grande\nrenommée au Moyen Age. Encore mainte-\nnant, son sang se liquéﬁe et entre en ébul-\nlition chaque année au jour de sa fête dans\nles deux ﬁoles qui le contiennent. Un grand\nconcours de peuple accompagne ce pro-\ndige  à  Naples,  authentiﬁé  par  plus  de\n5 000 procès-verbaux depuis 1389 !\nEmilie de Rodat, quant à elle, est une jeune\nﬁlle de Rodez qui, après deux essais de vie\nreligieuse  et  une  jeunesse  insouciante, \nva consacrer sa vie à l’enseignement des\nenfants pauvres. Elle rassemble quelques\namies et ouvre trente-six maisons. Educa-\ntion, soin des malades à domicile, rien n’ef-\nfraie  Emilie  et  ses  sœurs  de  la  Sainte\nFamille.  Son  calme  et  sa  bonté  cachent \nde grandes angoisses dans sa foi. Mais elle\ndemeure conﬁante. Elle meurt le 19 sep-\ntembre 1852.\n'>
+<LTTextBoxHorizontal(7) 50.361,499.737,141.836,511.908 'LA MÉTÉO DU JOUR\n'>
+<LTTextBoxHorizontal(8) 171.973,694.459,291.008,710.437 'Question d’Emilie de Rodat :\n«Ne faut-il pas aller jusqu’à l’impossible ?»\n'>
+<LTTextBoxHorizontal(9) 171.973,665.712,291.143,688.784 'Courte prière inspirée de sainte Emilie :\n«Seigneur, garde-nous bien de nous laisser\naller à la tristesse !»\n'>
+<LTTextBoxHorizontal(10) 171.972,523.470,292.828,660.037 'Ephéméride du 19 septembre :\nEn  1846,  apparition  de  la  Vierge  Marie \nsur les hauteurs du village de La Salette, \nen  Isère.  Deux  jeunes  bergers,  Maximin \nGiraud  (né  le  26 août 1835,  décédé  le\n1er mars 1875) et Mélanie Calvat (1831-\n1904), gardant leurs troupeaux, voient une\n«belle dame» en pleurs qui leur conﬁe un\nsecret et leur dit qu’elle est triste de l’im-\npiété du peuple, ne respectant pas, en par-\nticulier, le repos dominical et l’assistance \nà la messe. Malgré les réticences de beau-\ncoup, y compris du curé d’Ars, sur la véra-\ncité de cette apparition, les rétractations \nde Maximin, les nombreuses versions des\nfaits, en 1851 l’évêque de Grenoble recon-\nnaît l’apparition de la Vierge. En mai 1852,\nest posée la première pierre de la basilique\nNotre-Dame-de-la-Salette. n\n'>
+<LTTextBoxHorizontal(11) 59.172,425.564,177.576,470.390 'UN SOLEIL\nRAYONNANT\n'>
+<LTTextBoxHorizontal(12) 59.172,345.026,176.086,381.003 'JEUDI 19 SEPTEMBRE\nLEVER DU SOLEIL : 7H33\nCOUCHER DU SOLEIL : 19H55\n'>
+<LTTextBoxHorizontal(13) 39.685,276.568,137.274,320.785 'L’HOROSCOPE\nBÉLIER\ndu 21\xa0mars au 20\xa0avril\nCHANCE\n'>
+<LTTextBoxHorizontal(14) 47.498,264.435,59.337,269.937 'SANTÉ\n'>
+<LTTextBoxHorizontal(15) 45.895,252.302,60.940,257.804 'ARGENT\n'>
+<LTTextBoxHorizontal(16) 64.353,235.966,130.954,282.867 'AMOUR Ne vous leurrez \npas trop quant aux promesses\nfaites un jour de fête.\nCARRIÈRE Servez-vous \nde votre expérience. \nVous éviterez ainsi des \npièges et des problèmes.\n'>
+<LTTextBoxHorizontal(17) 144.698,276.568,203.934,301.643 'CANCER\ndu 22\xa0juin au 22\xa0juillet\nCHANCE\n'>
+<LTTextBoxHorizontal(18) 149.170,264.435,161.010,269.937 'SANTÉ\n'>
+<LTTextBoxHorizontal(19) 147.567,252.302,162.613,257.804 'ARGENT\n'>
+<LTTextBoxHorizontal(20) 166.023,235.966,230.512,282.867 'AMOUR Promettez un peu\nmoins, mais faites en sorte \nde donner un peu plus.\nCARRIÈRE Vous n’êtes \npas qualiﬁé pour intervenir \ndans les affaires d’autrui. \nOccupez-vous des vôtres !\n'>
+<LTTextBoxHorizontal(21) 246.368,235.966,333.619,301.643 'BALANCE\ndu 23\xa0septembre au 22\xa0octobre\nAMOUR Petits malentendus\nCHANCE\navec l’être cher. Sachez \nfaire preuve de tendresse.\nCARRIÈRE Vous manquez\nd’ordre et de discernement.\nCela vous entraîne dans des\nsituations plus que confuses.\n'>
+<LTTextBoxHorizontal(22) 249.240,252.302,264.285,257.804 'ARGENT\n'>
+<LTTextBoxHorizontal(23) 250.843,264.435,262.682,269.937 'SANTÉ\n'>
+<LTTextBoxHorizontal(24) 348.037,276.568,428.751,301.643 'CAPRICORNE\ndu 22 décembre au 20 janvier\nCHANCE\n'>
+<LTTextBoxHorizontal(25) 352.515,264.435,364.355,269.937 'SANTÉ\n'>
+<LTTextBoxHorizontal(26) 350.912,252.302,365.958,257.804 'ARGENT\n'>
+<LTTextBoxHorizontal(27) 369.361,235.966,435.508,282.867 'AMOUR Vous êtes \négocentrique et sujet \nà la vanité. Deux défauts \npas faciles à dominer.\nCARRIÈRE Des accrochages\net des tensions. Vos collègues\nvous comprennent assez mal.\n'>
+<LTTextBoxHorizontal(28) 43.029,200.989,97.475,226.064 'TAUREAU\ndu 21\xa0avril au 21 mai\nCHANCE\n'>
+<LTTextBoxHorizontal(29) 47.498,188.856,59.337,194.358 'SANTÉ\n'>
+<LTTextBoxHorizontal(30) 45.895,176.723,60.940,182.225 'ARGENT\n'>
+<LTTextBoxHorizontal(31) 64.353,160.386,128.369,207.288 'AMOUR Votre rôle près \nde l’être aimé ne doit pas \nêtre uniquement protecteur.\nCARRIÈRE Des heurts \navec votre entourage. \nIl va vous falloir faire \nde sérieuses concessions.\n'>
+<LTTextBoxHorizontal(32) 43.029,125.410,97.082,150.485 'GÉMEAUX\ndu 22 mai au 21 juin\nCHANCE\n'>
+<LTTextBoxHorizontal(33) 47.498,113.277,59.337,118.779 'SANTÉ\n'>
+<LTTextBoxHorizontal(34) 45.895,101.144,60.940,106.646 'ARGENT\n'>
+<LTTextBoxHorizontal(35) 64.353,84.807,130.274,131.709 'AMOUR Recherchez \nle dialogue avec l’être cher. \nIl en résultera un bon climat.\nCARRIÈRE Pour un travail \nefﬁcace, mieux vaut agir \navec diplomatie et engager\nun vrai dialogue.\n'>
+<LTTextBoxHorizontal(36) 144.698,200.989,206.999,226.064 'LION\ndu 23 juillet au 23 août\nCHANCE\n'>
+<LTTextBoxHorizontal(37) 149.170,188.856,161.010,194.358 'SANTÉ\n'>
+<LTTextBoxHorizontal(38) 147.567,176.723,162.613,182.225 'ARGENT\n'>
+<LTTextBoxHorizontal(39) 166.023,160.386,231.974,207.288 'AMOUR Qu’espérer venant\nde vous ? Par exemple, \nque vous changiez de look !\nCARRIÈRE Ne soyez pas trop\npessimiste. Ayez conﬁance \nen vos qualités, et surtout \nne perdez jamais courage.\n'>
+<LTTextBoxHorizontal(40) 144.698,125.410,221.211,150.485 'VIERGE\ndu 24 août au 22 septembre\nCHANCE\n'>
+<LTTextBoxHorizontal(41) 149.170,113.277,161.010,118.779 'SANTÉ\n'>
+<LTTextBoxHorizontal(42) 147.567,101.144,162.613,106.646 'ARGENT\n'>
+<LTTextBoxHorizontal(43) 166.023,84.807,231.701,131.709 'AMOUR Misez avant tout\nsur l’authenticité et mettez\nrapidement un terme \naux relations superﬁcielles.\nCARRIÈRE Vous n’êtes pas\nassez réaliste. Remettez à \nplat les choses et afﬁnez-les.\n'>
+<LTTextBoxHorizontal(44) 246.368,200.989,328.769,226.064 'SCORPION\ndu 23 octobre au 22 novembre\nCHANCE\n'>
+<LTTextBoxHorizontal(45) 348.037,200.989,415.293,226.064 'VERSEAU\ndu 21\xa0janvier au 18 février\nCHANCE\n'>
+<LTTextBoxHorizontal(46) 250.843,188.856,262.682,194.358 'SANTÉ\n'>
+<LTTextBoxHorizontal(47) 249.240,176.723,264.285,182.225 'ARGENT\n'>
+<LTTextBoxHorizontal(48) 267.692,160.386,335.069,207.288 'AMOUR Vous avez \ncertainement une fausse idée\nde l’amour dans les affaires.\nCARRIÈRE Ne laissez \npas passer une occasion \nd’accroître votre train \nde vie. Ce serait dommage !\n'>
+<LTTextBoxHorizontal(49) 352.515,188.856,364.355,194.358 'SANTÉ\n'>
+<LTTextBoxHorizontal(50) 350.912,176.723,365.958,182.225 'ARGENT\n'>
+<LTTextBoxHorizontal(51) 369.361,160.386,436.144,207.288 'AMOUR Dominez votre \nimpulsivité. Vos proches \nont du mal à vous cerner.\nCARRIÈRE Evitez de répéter\nune conﬁdence pour laquelle\non ne vous aurait pas \ndemandé de garder le secret.\n'>
+<LTTextBoxHorizontal(52) 246.368,125.410,333.012,150.485 'SAGITTAIRE\ndu 23 novembre au 21 décembre\nCHANCE\n'>
+<LTTextBoxHorizontal(53) 348.037,125.410,413.157,150.485 'POISSONS\ndu 19\xa0février au 20\xa0mars\nCHANCE\n'>
+<LTTextBoxHorizontal(54) 250.843,113.277,262.682,118.779 'SANTÉ\n'>
+<LTTextBoxHorizontal(55) 249.240,101.144,264.285,106.646 'ARGENT\n'>
+<LTTextBoxHorizontal(56) 267.692,84.807,334.068,131.709 'AMOUR Comptez \nsur une relation complice, \nquasiment fraternelle.\nCARRIÈRE Ne vous engagez\npas à la légère, car il vous\nmanque encore quelques \néléments importants. \n'>
+<LTTextBoxHorizontal(57) 352.515,113.277,364.355,118.779 'SANTÉ\n'>
+<LTTextBoxHorizontal(58) 350.912,101.144,365.958,106.646 'ARGENT\n'>
+<LTTextBoxHorizontal(59) 369.361,84.807,435.175,131.709 'AMOUR Soyez un peu\nmoins gourmand et vous \ngoûterez au vrai bonheur.\nCARRIÈRE Quand une \nprogression professionnelle\ndépend du bon vouloir de\nl’être cher, il y a un problème.\n'>
+<LTTextBoxHorizontal(60) 449.309,82.256,552.789,300.370 '31-32, quai de Dion-Bouton 92800 Puteaux\nTél. : 01 46 96 31 00 - Fax : 01 46 96 40 94 \nE-mail : lecteur@cnewsmatin.net\nJournal édité par Matin Plus, \nSA au capital de 8 366 963,98 euros\n492 714 779 RCS NANTERRE\nActionnaire détenant au moins\n10 % de la société : Bolloré\nPrésident de Matin Plus : Jean-Christophe Thiery\nDirecteur général, directeur de la publication:\nLudovic Pompignoli\nRédacteur en chef : Thomas Liard\nPublicité : Bolloré Média Régie \nTél. : 01 46 96 31 87\nPrésidente de Bolloré Média Régie : \nFrancine Mayer\nDiffusion : Havas Events, 10, rue Godefroy \nBât. C 92817 Puteaux - Tél. : 01 58 47 95 38\nImprimé par Maury, Manchecourt (45) \net Roto France, Lognes (77) \nN° ISSN : 2606-0035 \nDépôt légal : septembre 2019\nImprimé sur du papier produit en France,\nBelgique, Espagne et Grande-Bretagne,\nà plus de 60 % de fibres recyclées, \ncertifié PEFC. \n448 kg de CO2\némis par tonne \nde papier distribué\n'>
+<LTTextBoxHorizontal(61) 540.925,82.510,553.184,87.982 '1        2\n'>
+<LTImage(Im0) 302.913,522.839,556.929,735.863 (530, 444)>
+<LTImage(Im1) 493.166,83.649,511.765,102.282 (39, 39)>
+<LTImage(Im2) 514.457,85.919,537.914,100.550 (49, 31)>
+<LTImage(Im3) 38.541,327.374,555.838,514.481 (1078, 390)>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'D\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'e\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'm\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'a\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'i\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'n\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 ' \n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'u\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'n\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 ' \n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'A\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'u\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 't\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'r\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'e\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 ' \n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'J\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'o\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'u\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'r\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 ':\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 ' \n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '2\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '0\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '1\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '9\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '-\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '0\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '9\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '-\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '1\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '8\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'T\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '2\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '3\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 ':\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '1\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '6\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 ':\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '2\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '2\n'>
+----START-PAGE 24 ----
+<LTTextBoxHorizontal(0) 179.324,630.436,416.336,651.087 'DES APPARTEMENTS AU MEILLEUR PRIX,\n'>
+<LTTextBoxHorizontal(1) 220.237,616.434,375.082,637.085 'INNOVATIONS INCLUSES*\n'>
+<LTTextBoxHorizontal(2) 83.834,365.920,335.095,481.630 'AUJOURD’HUI,N’HABITEZ\nPLUS CHEZ VOS AMIS\nETDEVENEZ PROPRIÉTAIRE\nAVEC ICADE !\n'>
+<LTTextBoxHorizontal(3) 139.890,266.500,455.401,288.028 '180 RÉSIDENCES POUR HABITER OU INVESTIR\n'>
+<LTTextBoxHorizontal(4) 177.065,251.440,418.635,274.750 'conçues pour vous partout en France.\n'>
+<LTTextBoxHorizontal(5) 130.016,234.682,446.741,249.765 'Nous nous inspirons de vos modes de vie pour vous proposer des logements neufs innovants\n'>
+<LTTextBoxHorizontal(6) 229.574,223.482,347.463,238.565 'qui répondent à toutes vos envies.\n'>
+<LTTextBoxHorizontal(7) 99.990,198.504,129.823,210.390 'UN NÉO\n'>
+<LTTextBoxHorizontal(8) 78.069,189.418,151.733,202.001 'ACCOMPAGNEMENT*\n'>
+<LTTextBoxHorizontal(9) 57.473,167.917,177.163,186.315 'Réservation en ligne,maquettes numériques\n3D,visites virtuelles,conﬁgurateur de logement,\n'>
+<LTTextBoxHorizontal(10) 71.683,160.450,162.953,171.380 'espace client et caméra de chantier…\n'>
+<LTTextBoxHorizontal(11) 234.708,198.504,268.926,210.390 'UNE NÉO\n'>
+<LTTextBoxHorizontal(12) 227.286,189.418,276.343,202.001 'CONCEPTION*\n'>
+<LTTextBoxHorizontal(13) 203.226,175.385,299.821,186.315 'Avec BiHOME® (appartement modulable)\n'>
+<LTTextBoxHorizontal(14) 213.641,167.917,290.805,178.848 'et Imagin’Home (co-conception).\n'>
+<LTTextBoxHorizontal(15) 357.450,189.922,390.367,210.894 'DES NÉO\nUSAGES*\n'>
+<LTTextBoxHorizontal(16) 475.564,198.504,509.782,210.390 'UNE NÉO\n'>
+<LTTextBoxHorizontal(17) 465.920,189.418,519.420,202.001 'CONNECTIVITÉ*\n'>
+<LTTextBoxHorizontal(18) 320.220,160.954,422.309,186.819 'Chambre d’hôtes,salle de réception,local\nbricolage,cuisine et terrasse partagées,\nvéhicules électriques en autopartage…\n'>
+<LTTextBoxHorizontal(19) 447.424,175.385,537.518,186.315 'Logements connectés et intelligents,\n'>
+<LTTextBoxHorizontal(20) 459.458,160.450,525.490,178.848 'conciergerie numérique,\nboîtes à colis connectées…\n'>
+<LTTextBoxHorizontal(21) 60.100,85.720,203.879,133.351 '01 41 72 73 74\nneologis-icade.com\n'>
+<LTTextBoxHorizontal(22) 60.100,60.330,530.500,74.980 '*Selonprogrammedontconditionsetnoticedescriptivedisponiblesauprèsdenosconseillerscommerciauxsurlesespacesdevente.Créditphoto:GettyImages.IcadePromotion-ImmeubleOpen-27,rueCamilleDesmoulins-CS10166-92445Issy-les-\nMoulineauxCedex-SASUaucapitalde29683456euros-RCSNanterre784606576-N°Orias13003036-IOBSPMandataireNonExclusif -CarteTCPI75012016000016385délivréeparlaCCIdeParisÎle-de-France.OSWALDORB.09/2019\n'>
+<LTImage(Im0) 4.016,25.634,590.448,152.642 (1222, 265)>
+<LTImage(Im1) 549.680,147.714,574.320,153.090 (52, 12)>
+<LTImage(Im2) 3.568,136.066,42.096,153.090 (81, 36)>
+<LTImage(Im3) 45.232,147.714,549.904,153.090 (1052, 12)>
+<LTImage(Im4) 45.371,294.781,549.947,764.604 (1052, 979)>
+<LTImage(Im5) 59.928,332.851,346.369,544.025 (597, 440)>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'D\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'e\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'm\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'a\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'i\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'n\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 ' \n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'u\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'n\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 ' \n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'A\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'u\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 't\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'r\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'e\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 ' \n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'J\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'o\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'u\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'r\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 ':\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 ' \n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '2\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '0\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '1\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '9\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '-\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '0\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '9\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '-\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '1\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '8\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'T\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '2\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '3\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 ':\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '1\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '6\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 ':\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '2\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '2\n'>
+----START-PAGE 25 ----
+<LTTextBoxHorizontal(0) 212.073,730.478,383.204,750.175 'SOLUTIONS DES JEUX\n'>
+<LTTextBoxHorizontal(1) 151.003,686.197,443.954,698.161 'Voici les solutions des jeux proposés dans les éditions franciliennes\n'>
+<LTTextBoxHorizontal(2) 200.417,674.518,394.531,686.482 'et régionales de                en date de ce jour.\n'>
+<LTTextBoxHorizontal(3) 158.600,657.839,436.349,669.802 'Rendez-vous dans le prochain numéro pour de nouveaux déﬁs.\n'>
+<LTTextBoxHorizontal(4) 169.088,645.135,172.045,657.421 ' \n'>
+<LTTextBoxHorizontal(5) 195.719,612.457,399.557,635.226 'SUDOKU - MOTS CROISÉS\n'>
+<LTTextBoxHorizontal(6) 137.047,447.058,270.612,595.249 '3 2 5 4 1 9 7 6 8\n4 8 9 3 6 7 1 2 5\n1 6 7 2 5 8 3 4 9\n7 1 3 9 2 5 4 8 6\n5 9 6 7 8 4 2 1 3\n2 4 8 1 3 6 5 9 7\n9 5 1 6 4 3 8 7 2\n8 7 4 5 9 2 6 3 1\n6 3 2 8 7 1 9 5 4\n'>
+<LTTextBoxHorizontal(7) 314.882,448.978,322.319,585.617 'A\nB\nC\nD\nE\nF\nG\nH\nI\nJ\n'>
+<LTTextBoxHorizontal(8) 384.897,545.926,405.168,557.311 'R E\n'>
+<LTTextBoxHorizontal(9) 387.072,518.159,405.364,529.544 'I S\n'>
+<LTTextBoxHorizontal(10) 328.482,448.743,463.200,599.529 '1 2 3 4 5 6 7 8 9 10\nC A R A M E L I S E\nE L U C I D E R A S\nN E S\nR I T\nT R E P A S S E S\nI T E\nM E\nE R W I N\nT O U R T E\nE\nR N\nE T E S\n'>
+<LTTextBoxHorizontal(11) 371.072,448.743,460.966,529.544 'A I E\nR E E L L E S\nP\nS T E\nV O T E R\nE M E S E\n'>
+<LTTextBoxHorizontal(12) 412.908,490.393,431.269,501.778 'A I\n'>
+<LTImage(Im0) -591.260,25.634,-4.828,152.642 (1222, 265)>
+<LTImage(Im1) -45.596,147.714,-20.956,153.090 (52, 12)>
+<LTImage(Im2) -591.708,136.066,-553.180,153.090 (81, 36)>
+<LTImage(Im3) -550.044,147.714,-45.372,153.090 (1052, 12)>
+<LTImage(Im4) -549.905,294.781,-45.329,764.604 (1052, 979)>
+<LTImage(Im5) -535.348,332.851,-248.906,544.025 (597, 440)>
+<LTImage(Im6) 55.306,98.315,539.920,405.577 (581, 368)>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'D\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'e\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'm\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'a\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'i\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'n\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 ' \n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'u\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'n\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 ' \n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'A\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'u\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 't\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'r\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'e\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 ' \n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'J\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'o\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'u\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'r\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 ':\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 ' \n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '2\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '0\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '1\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '9\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '-\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '0\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '9\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '-\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '1\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '8\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 'T\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '2\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '3\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 ':\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '1\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '6\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 ':\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '2\n'>
+<LTTextLineHorizontal 10.000,10.000,10.000,10.000 '2\n'>

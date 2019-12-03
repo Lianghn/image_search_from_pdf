@@ -1,0 +1,439 @@
+----START-PAGE 1 ----
+<LTTextBoxHorizontal(0) 360.690,713.844,471.674,832.499 'Télévision\nAprès l’école, les \nchaînes zappent \nle jeune public \net tentent de \ncoller les parents \ndevant l’écran P.12\n'>
+<LTTextBoxHorizontal(1) 492.206,744.671,617.785,796.388 'Envoyez-nous \nvos plus belles \nphotos de chocolat \n'>
+<LTTextBoxHorizontal(2) 491.945,713.758,615.375,742.884 'Par mail à contribution@20minutes.fr\n* Vos photos ne serviront qu’à la rubrique « Nos \ninternautes ont du talent ». Pour en savoir plus sur \nla gestion de vos données : www.20minutes.fr/\npolitique-protection-donnees-personnelles\n'>
+<LTTextBoxHorizontal(3) 180.402,719.982,187.907,754.461 'V\nT\nF\n \n/\n \na\nl\nl\ne\nr\na\nc\nS\n'>
+<LTTextBoxHorizontal(4) 180.402,717.238,187.907,720.132 ' \n.\n'>
+<LTTextBoxHorizontal(5) 180.402,713.575,187.907,717.388 'G\n'>
+<LTTextBoxHorizontal(6) 188.660,684.130,286.588,695.680 'Mardi 3 septembre 2019\n'>
+<LTTextBoxHorizontal(7) 353.600,684.130,453.787,695.680 'https://www.20minutes.fr\n'>
+<LTTextBoxHorizontal(8) 557.510,684.130,618.731,695.680 'Edition spéciale\n'>
+<LTTextBoxHorizontal(9) 36.970,661.081,132.449,675.510 'ÉDITION NUMÉRIQUE\n'>
+<LTTextBoxHorizontal(10) 194.910,651.920,336.347,673.113 'Lors d’une manifestation pour dénoncer \nles féminicides à Paris, dimanche.\n'>
+<LTTextBoxHorizontal(11) 33.280,491.693,162.805,559.257 'Gouvernement\nJean-Paul Delevoye \nattendu en renfort \nsur les retraites P.2\n'>
+<LTTextBoxHorizontal(12) 33.281,411.598,165.556,479.170 'Economie\nLa privatisation de la \nFrançaise des Jeux, \nun pari gagnant ? P.3\n'>
+<LTTextBoxHorizontal(13) 33.171,331.468,160.767,399.041 'Séries\n« Years and Years » \ndivise la rédaction \nde « 20 Minutes » P.7\n'>
+<LTTextBoxHorizontal(14) 33.173,159.980,167.803,227.543 'Football\nLe PSG se renforce \ndans les dernières \nheures du mercato  P.10\n'>
+<LTTextBoxHorizontal(15) 180.087,159.892,187.593,217.807 'P\nF\nA\n \n/\n \ni\nf\na\nk\nl\ne\nd\nb\nA\na\ni\nr\na\nk\na\nZ\n'>
+<LTTextBoxHorizontal(16) 180.087,178.472,187.593,179.933 ' \n'>
+<LTTextBoxHorizontal(17) 194.210,206.113,610.558,366.829 'Questions de \nvie ou de mort\n'>
+<LTTextBoxHorizontal(18) 194.210,165.299,611.832,201.155 'Un Grenelle s’ouvre, ce mardi, aﬁn de lutter contre les violences conjugales, \nà l’origine de 101 féminicides depuis le 1er janvier. P.4\n'>
+<LTTextBoxHorizontal(19) 617.364,71.074,626.549,73.248 'I\n'>
+<LTTextBoxHorizontal(20) 617.364,63.253,626.549,65.427 'I\n'>
+<LTTextBoxHorizontal(21) 617.364,42.395,626.549,82.813 'É\nT\nC\nL\nB\nU\nP\n'>
+<LTTextBoxHorizontal(22) 24.487,562.302,31.993,605.987 'P\nF\nA\n \n/\n \nd\nr\na\nl\nl\ni\nu\no\nb\ni\nr\nT\n'>
+<LTTextBoxHorizontal(23) 24.487,559.558,31.993,562.452 ' \n.\n'>
+<LTTextBoxHorizontal(24) 24.487,555.895,31.993,559.708 'K\n'>
+<LTTextBoxHorizontal(25) 24.597,230.474,32.103,265.836 'P\nF\nA\n \n/\n \na\nn\ne\nr\nr\na\nB\n'>
+<LTTextBoxHorizontal(26) 24.597,227.730,32.103,230.624 ' \n.\n'>
+<LTTextBoxHorizontal(27) 24.597,224.184,32.103,227.880 'P\n'>
+<LTTextBoxHorizontal(28) 9.166,400.869,20.424,424.950 '!\n \ni\nc\nr\ne\nM\n'>
+<LTTextBoxHorizontal(29) 9.166,345.984,20.424,347.956 ' \n'>
+<LTTextBoxHorizontal(30) 9.166,211.396,20.424,400.869 ' \n.\ne\nl\n-\nz\ne\nl\nc\ny\nc\ne\nr\n \nu\no\ne\nl\n-\nz\ne\nn\nn\no\nd\n \n:\n \ne\nu\nq\ni\nl\nb\nu\np\ne\no\nv\n \na\nl\n \nr\nu\ns\n \nl\na\nn\nr\nu\no\n'>
+<LTTextBoxHorizontal(31) 9.166,266.142,20.424,268.145 'i\n'>
+<LTTextBoxHorizontal(32) 9.166,272.342,20.424,274.314 ' \n'>
+<LTTextBoxHorizontal(33) 9.166,207.421,20.424,211.396 'j\n \n'>
+<LTTextBoxHorizontal(34) 9.166,168.522,20.424,207.421 'e\nc\n \ns\na\np\n \nz\ne\nt\ne\n'>
+<LTTextBoxHorizontal(35) 9.166,164.547,20.424,168.522 'j\n \n'>
+<LTTextBoxHorizontal(36) 9.166,155.900,20.424,164.547 'e\nn\n'>
+<LTTextBoxHorizontal(37) 9.166,151.838,20.424,155.900 ' \n,\n'>
+<LTTextBoxHorizontal(38) 9.166,115.495,20.424,117.498 'i\n'>
+<LTTextBoxHorizontal(39) 9.166,75.886,20.424,151.838 'é\nl\nc\ny\nc\ne\nr\n \nr\ne\np\na\np\n \nr\nu\ns\n \né\nm\n'>
+<LTTextBoxHorizontal(40) 9.166,59.272,20.424,75.886 'i\nr\np\nm\n'>
+<LTTextBoxHorizontal(41) 9.166,57.039,20.424,59.272 'I\n'>
+<LTImage(img0) 34.675,42.391,617.337,139.370 (810, 135)>
+<LTImage(img1) 188.841,160.438,618.560,633.125 (597, 657)>
+<LTImage(img2) 190.921,197.037,454.117,334.893 (366, 192)>
+<LTImage(img3) 453.615,197.037,618.132,334.893 (229, 192)>
+<LTImage(img4) 191.104,154.633,614.523,160.817 (589, 9)>
+<LTImage(img5) 191.104,160.255,614.400,197.661 (588, 52)>
+<LTImage(140656469797744) 191.104,197.221,614.400,198.027 (588, 2)>
+<LTImage(img6) 33.451,555.745,167.992,642.733 (187, 121)>
+<LTImage(img7) 33.084,224.090,168.130,311.017 (188, 121)>
+<LTImage(img8) 188.580,713.766,355.209,824.188 (232, 154)>
+<LTImage(img9) 188.841,632.686,618.560,674.063 (597, 58)>
+<LTImage(img10) 188.657,632.686,618.744,674.246 (598, 58)>
+<LTImage(img11) 191.838,643.378,341.123,672.352 (208, 41)>
+----START-PAGE 2 ----
+<LTTextBoxHorizontal(0) 33.275,764.929,533.514,837.998 'ActuAlité\nPas du genre à battre en retraite \n'>
+<LTTextBoxHorizontal(1) 535.808,811.124,618.737,837.895 '2\nMardi 3 septembre 2019\n'>
+<LTTextBoxHorizontal(2) 33.272,689.844,173.441,755.427 'Politique Jean-Paul \nDelevoye pourrait  \ndevenir ministre pour \nmener à bien la réforme \n'>
+<LTTextBoxHorizontal(3) 33.275,410.948,173.597,674.932 'Actuellement haut-commissaire à la ré-\nforme des retraites, Jean-Paul Delevoye \npourrait sauter une classe. Selon Le \nJDD et Le Figaro, l’ex-médiateur de la \nRépublique devrait entrer au gouver-\nnement avant mercredi pour mener \nà bien ce dossier délicat, alors que le \nPremier ministre, Edouard Philippe, \nlance en ﬁn de semaine une nouvelle \nphase de concertation en recevant syn-\ndicats et patronat.\nA 72 ans, Jean-Paul Delevoye n’incarne \npas vraiment le nouveau monde. Ce \n« gaulliste social » revendiqué s’appuie \nsur une longue expérience politique. \nMaire de Bapaume (Pas-de-Calais) en \n1982, sa ville natale, il est également dé-\nputé, sénateur et ministre chiraquien \nde la Fonction publique (2002-2004). \nL’ancien négociant en aliments pour \nbétail préside aussi l’Association des \nmaires de France pendant dix ans et \nle Conseil économique, social et envi-\nronnemental de 2010 à 2015, dont il est \névincé après avoir échoué à le réformer.\n'>
+<LTTextBoxHorizontal(4) 173.043,528.938,180.549,530.422 'i\n'>
+<LTTextBoxHorizontal(5) 173.043,516.128,180.549,536.405 'a\np\nS\n \n/\n \nt\nt\ni\n'>
+<LTTextBoxHorizontal(6) 173.043,511.259,180.549,516.268 'W\n'>
+<LTTextBoxHorizontal(7) 173.043,505.725,180.549,511.409 ' \n.\nJ\n'>
+<LTTextBoxHorizontal(8) 33.275,316.166,173.556,401.549 '« Savoir-faire et écoute »\nComme Emmanuel Macron, l’homme \na fait ses classes à la Providence, un \nlycée jésuite d’Amiens. Comme le pré-\nsident, il a souvent cultivé l’image d’un \nhomme au-dessus du clivage gauche-\ndroite. En 2013, quittant son mandat \nlocal, il soutient le candidat PS plutôt \n'>
+<LTTextBoxHorizontal(9) 33.280,284.583,176.923,303.243 'La météo en France\n'>
+<LTTextBoxHorizontal(10) 182.415,495.199,530.400,506.444 'l’actuel haut-commissaire à la réforme des retraites est un macroniste de la première heure.\n'>
+<LTTextBoxHorizontal(11) 182.402,316.170,322.684,485.365 'que celui investi par son parti, entraî-\nnant son exclusion de l’UMP. \nAprès la défaite d’Alain Juppé à la pri-\nmaire de droite, Jean-Paul Delevoye \nse tourne logiquement vers le macro-\nnisme. « Depuis ﬁn 2016, il a la conﬁance \ndu président, son écoute, souligne le \nsénateur François Patriat. D’autant \nqu’il a bien réussi son passage à la \nCommission nationale d’investiture \n[CNI] lors des législatives. » A la tête \nde la CNI, chargée de sélectionner les \ncandidats LREM, Jean-Paul Delevoye \noffre en effet une large majorité par-\nlementaire au chef de l’Etat.\nFin 2017, le président lui offre le difﬁcile \n'>
+<LTTextBoxHorizontal(12) 331.549,316.170,471.840,485.377 'chantier des retraites. « Le président \na accepté que l’on prenne le temps », \nse félicite l’intéressé. Avec son équipe, \nle  haut-commissaire  consulte  à \ntout-va pendant dix-huit mois. « C’est \nquelqu’un de droit, qui a des idées af-\nﬁrmées et qui sait les développer, af-\nﬁrme l’ex-député PS Jean Launay. Il a \nmis de la méthode dans le dossier des \nretraites : son savoir-faire et beaucoup \nd’écoute, même si des ajustements \nrestent à faire. »\nJean-Paul Delevoye connaît son sujet : \nen 2003, il pilote avec François Fillon \nla réforme de la retraite des fonction-\nnaires. « Sur le marché en ce moment, \n'>
+<LTTextBoxHorizontal(13) 480.686,316.170,620.948,485.377 'il est le mieux placé pour faire le job », \nassure l’un de ses anciens collègues au \ngouvernement, qui poursuit : « C’est un \npragmatique, pas un idéologue. Un gars \ntrès créatif, mais qui peut se prendre \nles pieds dans le tapis à force de vou-\nloir résoudre seul tous les problèmes. » \nSa méthode n’aura pas permis de \nconvaincre l’ensemble des corps in-\ntermédiaires. L’instauration d’une dé-\ncote avant 64 ans, présentée dans son \nrapport à la mi-juillet, a été unanime-\nment rejetée par les syndicats. CGT et \nFO en faisant même le principal mot \nd’ordre de leurs manifestations prévues \nﬁn septembre.  \nThibaut Le Gal\n'>
+<LTTextBoxHorizontal(14) 182.412,137.427,320.724,263.637 'Une journée de saison \ncomme on en rêve\nTrès bel après-midi sous un soleil \ngénéreux et des températures \ntrès agréables, de saison. On \nnote un risque d’orage en Corse. \nLe mistral faiblit. Le ciel reste \ntoutefois bien nuageux le long des \ncôtes de la Manche et de la mer du \nNord, avec quelques bruines.\n'>
+<LTTextBoxHorizontal(15) 331.549,42.367,585.034,303.191 'La rentrée de l’angoisse dans le \nquartier de Notre-Dame de Paris\nPollution au plomb \nUne fois leurs enfants en classe, lundi \nmatin, les parents d’élèves de l’école \nmaternelle Saint-André-des-Arts \n(Paris, 6e) ne tardent pas à échanger \nsur leur principal sujet d’inquiétude : \nla possibilité d’une pollution au plomb \ncausée par l’incendie de Notre-Dame, \nil y a cinq mois.\nSur les tableaux d’afﬁchage des établis-\nsements scolaires du quartier, ce com-\nmuniqué : « Les taux de plomb obser-\nvés dans certains espaces extérieurs \nétaient supérieurs aux recommanda-\ntions sanitaires. Les interventions et \ntravaux nécessaires ont donc été ef-\nfectués aﬁn de faire redescendre ces \ntaux sous le seuil de référence. » Pas \nde quoi rassurer ou apaiser pour au-\ntant les parents d’élèves. Aux abords \n'>
+<LTTextBoxHorizontal(16) 480.680,42.369,620.934,253.698 'de l’école primaire Saint-Benoît (6e), \nune maman d’élève s’emporte : « On \na été informés mi-juillet, alors que \ntout le monde part en vacances et que \nc’était déjà trop tard pour les prises de \nsang. On sait que la demi-vie du plomb \n[temps nécessaire à l’élimination de la \nmoitié de la charge] est de quarante \njours, donc, on est déjà bien au-delà. » \nA l’école Saint-André-des-Arts, des pa-\nrents se sont concertés. Selon eux, plu-\nsieurs de leurs bambins sont au-des-\nsus du seuil de 25 μg/L. « On pense \nqu’un enfant sur trois est concerné », \navance une maman d’élève.\nDes réunions d’information doivent \nêtre organisées dans la semaine par \nles écoles pour faire le point sur les tra-\nvaux réalisés et sur les conséquences \npour les enfants.  Clément Rodriguez\n'>
+<LTImage(img0) 182.412,505.406,618.725,748.225 (606, 338)>
+<LTImage(img1) 33.275,136.689,171.314,258.944 (192, 170)>
+<LTImage(img2) 33.275,42.394,320.451,120.270 (399, 109)>
+----START-PAGE 3 ----
+<LTTextBoxHorizontal(0) 33.275,728.743,310.418,837.998 'ActuAlité\nPrivatiser la FDJ,  \nun jeu hasardeux\n'>
+<LTTextBoxHorizontal(1) 33.275,667.977,311.176,717.921 'Loteries L’Etat compte réduire sa part dans le \ncapital de la société, qui lui a pourtant apporté  \n90 millions d’euros de dividendes en 2017   \n'>
+<LTTextBoxHorizontal(2) 535.808,811.124,618.737,837.895 '3\nMardi 3 septembre 2019\n'>
+<LTTextBoxHorizontal(3) 322.180,672.626,329.686,674.086 ' \n'>
+<LTTextBoxHorizontal(4) 322.180,665.151,329.686,666.635 'i\n'>
+<LTTextBoxHorizontal(5) 322.180,638.274,329.686,672.617 'a\np\nS\n \n/\n \nd\na\nr\nu\no\nM\n'>
+<LTTextBoxHorizontal(6) 322.180,635.529,329.686,638.424 ' \n.\n'>
+<LTTextBoxHorizontal(7) 322.180,632.095,329.686,635.679 'A\n'>
+<LTTextBoxHorizontal(8) 182.412,547.852,322.644,653.871 'fait polémique au point d’avoir suscité un \nprojet de référendum d’initiative parta-\ngée, le retrait partiel de l’Etat de la FDJ \npeut intriguer. Encore en 2019, le groupe \nannonçait un chiffre d’affaires en pro-\ngression, à 1,8 milliard d’euros. Pour \nRégis Juanico, député socialiste de la \nLoire, dommage, donc, de « brader un \npatrimoine national » au proﬁt d’inves-\ntisseurs privés.\n'>
+<LTTextBoxHorizontal(9) 182.412,421.481,322.653,538.461 'Une valeur sûre\nL’Etat, lui, met en avant la nécessité de se \ndésendetter et rappelle que la taxe sur \nles jeux d’argent, qui continue (et devrait \ncontinuer) de s’appliquer à la FDJ, rap-\nporte bien davantage que les dividendes \n(3,3 milliards d’euros l’an passé).\nSelon Mathieu Plane, économiste à l’Ob-\nservatoire français des conjonctures éco-\nnomiques, au lieu de conserver son ca-\npital dans une valeur sûre telle que la \n'>
+<LTTextBoxHorizontal(10) 331.550,621.566,615.419,632.810 'la privatisation, qui pourrait intervenir en novembre, est vivement critiquée.\n'>
+<LTTextBoxHorizontal(11) 331.543,421.479,471.831,611.745 'FDJ, l’Etat décide de l’investir dans un \nfonds pour l’innovation dont les rende-\nments – 200 à 300 millions d’euros, selon \nle gouvernement – devront être démon-\ntrés. Alors que l’Etat souligne que les pri-\nvatisations aident au désendettement, \nMathieu Plane estime qu’il « aurait mieux \nvalu lever les 10 milliards d’euros sur les \nmarchés » plutôt que de céder son capital \nà la FDJ, pour atteindre le même objec-\ntif. Grâce aux taux d’intérêt actuellement \nnégatifs, « cela lui coûterait moins cher ».\nAutre risque mis en avant : la dérégu-\nlation d’une activité jusqu’ici encadrée \npar l’Etat pour surveiller, notamment, \nles phénomènes d’addiction au jeu. Un \nfaux procès, d’après le gouvernement, \nqui rappelle que la FDJ sera régulée par \n'>
+<LTTextBoxHorizontal(12) 480.686,421.479,621.003,611.747 'l’Autorité des jeux en ligne. Mais pour \nl’économiste Christian Chavagneux, la \nloi du marché pourrait reprendre le des-\nsus. Les nouveaux investisseurs « ne se-\nront intéressés que si les perspectives de \nproﬁts sont croissantes », souligne-t-il \nsur le site Xerﬁ. A terme, poursuit-il, \n« deux voies sont offertes au gouver-\nnement pour les rassurer : augmenter \nle taux de retour aux joueurs pour les \ninciter à miser plus, avec des risques \naccrus d’addiction. Ou bien réduire les \nprélèvements ﬁscaux sur les mises, \naccroissant les bénéﬁces et poussant à \nla hausse le cours de l’action, mais au \nprix de recettes ﬁscales moindres pour \nl’Etat. » L’Etat pourrait perdre sur les deux \ntableaux.  \nCatherine Abou El Khair\n'>
+<LTTextBoxHorizontal(13) 33.275,421.479,173.597,653.871 'La privatisation de la Française des Jeux \n(FDJ) est en marche. Dimanche, le mi-\nnistre de l’Economie, Bruno Le Maire, a \nannoncé qu’elle pourrait débuter « d’ici \nà la ﬁn de l’année, sans doute avant la \nfois du mois de novembre ». L’Etat, qui \ndétient aujourd’hui 72 % du capital de la \nFDJ, compte en effet réduire sa partici-\npation à 20 % au sein de l’organisation \nde loteries. Un retrait qui va réduire à \nproportion les dividendes qu’il en perçoit \nen tant qu’actionnaire, et qui ont atteint \n90 millions d’euros en 2017.\nLes actions qui seront cédées à des in-\nvestisseurs, mais aussi à des particu-\nliers, pourraient rapporter à l’Etat jusqu’à \n1,5 milliard d’euros. Une somme qui doit \nalimenter le fonds consacré à l’innova-\ntion et l’industrie lancé par le ministère \nde l’Economie en 2018, doté de 10 mil-\nliards d’euros. Mais, à l’image d’Aéroports \nde Paris, dont la privatisation annoncée \n'>
+<LTTextBoxHorizontal(14) 33.275,42.372,173.576,408.489 'Aigle Azur  \nen cessation \nde paiement\nTransports Le résultat de \n« plusieurs années d’errance liées à \nde nombreuses décisions stratégiques \ninadaptées », selon les membres de \nson CE. Lundi, la compagnie aérienne \nfrançaise Aigle Azur, spécialiste des \nliaisons vers l’Algérie, s’est déclarée en \ncessation de paiement et a demandé \nson placement en redressement judi-\nciaire au tribunal de commerce d’Evry \n(Essonne) dans l’espoir de trouver des \nrepreneurs. Cette décision lui permet \nà ce stade de maintenir son activité.\n« Plusieurs repreneurs potentiels » au-\nraient un intérêt. Parmi eux se trouvent \nGérard Houa, un actionnaire, Air France \nou encore Lionel Guérin, ancien di-\nrecteur général délégué d’Air France, \na-t-on afﬁrmé de sources syndicales.\nAigle Azur compte 1 150 salariés, dont \n350 en Algérie. Lundi, une soixantaine \nd’employés inquiets pour leur avenir se \nsont rassemblés dans le calme pen-\ndant le CE devant le siège de l’entre-\nprise situé près de l’aéroport parisien \nd’Orly pour faire part de leur « perte \nde conﬁance totale » à l’égard du PDG \nFrantz Yvelin, a constaté l’AFP.\n'>
+<LTTextBoxHorizontal(15) 173.043,69.873,180.549,128.875 'P\nF\nA\n \n/\n \nk\no\no\nb\ne\nc\na\nF\n \n/\n \ng\nn\nK\nA\n'>
+<LTTextBoxHorizontal(16) 173.043,78.297,180.549,79.781 'i\n'>
+<LTTextBoxHorizontal(17) 173.043,73.323,180.549,74.784 ' \n'>
+<LTTextBoxHorizontal(18) 173.043,67.128,180.549,70.023 ' \n.\n'>
+<LTTextBoxHorizontal(19) 173.043,63.430,180.549,67.278 'R\n'>
+<LTTextBoxHorizontal(20) 182.408,252.988,440.106,408.490 'Plus intenses, pas plus fréquents\nOuragans Harvey, Katrina, \nIrma, Matthew… Les cyclones défraient \nrégulièrement la chronique par leur \npuissance, leur bilan meurtrier et leurs \ndégâts. Dernier phénomène en date, \nl’ouragan Dorian, qui s’est abattu sur les \nBahamas dimanche – il a été rétrogradé \nde catégorie 5 à 4 lundi et poursuivait \nsa route vers les Etats-Unis. Pourtant, \n« il n’y a pas plus de phénomènes cyclo-\nniques qu’avant, assure Olivier Proust, \nprévisionniste chez Météo-France. Ce \n'>
+<LTTextBoxHorizontal(21) 331.539,42.371,471.871,380.073 'qui évolue, c’est l’intensité des oura-\ngans et des tempêtes. » \nA ses yeux, le réchauffement clima-\ntique n’est pas la cause de la forma-\ntion de ces phénomènes, mais l’une \ndes raisons pour lesquelles ils sont \nde plus en plus violents : « Plus l’air \nest chaud, plus il peut contenir de la \nvapeur d’eau. Cette concentration \nde vapeur d’eau crée des précipita-\ntions encore plus importantes et donc \ndes phénomènes cycloniques encore \nplus violents. » Par ailleurs, « en ac-\ncentuant la hausse de la tempéra-\nture des océans et en augmentant le \ntaux d’humidité dans l’océan, il y a des \nconditions encore plus propices à la \nformation des ouragans ravageurs », \nexpliquait Fabrice Chauvin, chercheur \nau Centre national de recherches \nmétéorologiques, à 20 Minutes, en \naoût 2017. Enﬁn, anticipe Hervé Le \nTreut, climatologue, professeur à la \nSorbonne et membre de l’Académie \ndes sciences, « avec le réchauffement \ndes océans, les eaux chaudes vont être \nréparties différemment et on pourrait \nassister à des changements de tra-\njectoire des cyclones. Les possibilités \nseront plus fortes dans l’hémisphère \nSud, le long des côtes du Brésil et de \nl’Argentine. » \nManon Aublanc\n'>
+<LTTextBoxHorizontal(22) 480.685,263.511,620.912,369.539 'Une trentaine de disparus dans \nl’incendie d’un bateau en Californie. \nLes autorités américaines \nredoutaient lundi un bilan \ndramatique dans le violent incendie, \nau large de la Californie, d’un \nbateau de tourisme où 34 passagers \nvraisemblablement piégés par les \nﬂammes pendant leur sommeil \nétaient portés disparus.\n'>
+<LTTextBoxHorizontal(23) 480.685,168.727,619.591,253.699 'En état de mort cérébrale et jeune \nmaman. Une Tchèque de 27 ans en \nétat de mort cérébrale depuis cent \ndix-sept jours a donné naissance en \naoût à une petite ﬁlle en bonne \nsanté à Brno, deuxième ville du \npays, a annoncé lundi l’équipe \nmédicale.\n'>
+<LTTextBoxHorizontal(24) 480.685,42.338,620.277,158.905 'Les étudiants hongkongais sèchent \nles cours pour déﬁer Pékin. Des \nmilliers d’étudiants ont manifesté \nlundi à Hong Kong, au premier jour \nd’une campagne de boycott des \ncours de deux semaines. Leur but : \nmaintenir la pression sur un \ngouvernement local loyal à Pékin et \nqui n’a jusqu’à présent fait aucune \nconcession majeure au mouvement \npour la démocratie né en juin.\n'>
+<LTTextBoxHorizontal(25) 191.987,216.433,307.797,223.934 '##JEV#90-254-https://bit.ly/2lvnj9l##JEV#\n'>
+<LTTextBoxHorizontal(26) 182.415,42.370,312.647,64.143 'Dorian a frappé les Bahamas et se \nrapprochait lundi des Etats-unis.\n'>
+<LTImage(img0) 331.549,631.818,618.725,790.058 (399, 220)>
+<LTImage(img1) 182.412,63.060,320.451,242.455 (192, 250)>
+----START-PAGE 4 ----
+<LTTextBoxHorizontal(0) 33.275,764.929,472.866,837.998 'ActuAlité\nUn Grenelle salvateur espéré\n'>
+<LTTextBoxHorizontal(1) 535.808,811.124,618.737,837.895 '4\nMardi 3 septembre 2019\n'>
+<LTTextBoxHorizontal(2) 33.274,674.187,165.590,755.409 'Femmes  Le \ngouvernement promet \ndes actions concrètes \ncontre les violences \nconjugales \n'>
+<LTTextBoxHorizontal(3) 227.499,682.775,413.554,695.273 '##JEV#145-85-https://bit.ly/2lNl5Nu##JEV#\n'>
+<LTTextBoxHorizontal(4) 33.275,421.479,173.574,664.402 'Faire reculer les violences physiques ou \nsexuelles dont sont victimes quelque \n220 000 femmes chaque année dans \nun cadre conjugal, selon les données \nofﬁcielles : tel est l’enjeu du Grenelle \ndes violences conjugales, qui s’ouvre ce \nmardi à Matignon*. Pour mener à bien \nla réﬂexion et dégager des solutions \nconcrètes, la secrétaire d’Etat chargée \nde l’Egalité femmes-hommes, Marlène \nSchiappa, a convié environ 80 acteurs : \nagents publics, responsables associatifs, \npoliciers, magistrats, proches de vic-\ntimes… Il y a urgence : depuis le 1er jan-\nvier, en France, 101 femmes sont mortes, \ntuées par leur compagnon ou ex-com-\npagnon. « Ce qui permettra d’agir efﬁ-\ncacement, c’est une action coordonnée, \nparce que les différents acteurs ne tra-\nvaillent pas en concertation », a souli-\ngné la secrétaire d’Etat. Et d’assurer : \n« Chaque nouvelle politique publique \ndonnera lieu à un ﬁnancement dédié. »\n'>
+<LTTextBoxHorizontal(5) 173.043,500.542,180.549,562.186 ')\ns\ne\nv\ni\nh\nc\nr\na\n(\n \na\np\nS\n \n/\n \nd\nu\na\nn\ny\ne\nR\n'>
+<LTTextBoxHorizontal(6) 173.043,529.779,180.549,531.263 'i\n'>
+<LTTextBoxHorizontal(7) 173.043,497.789,180.549,500.692 ' \n.\n'>
+<LTTextBoxHorizontal(8) 173.043,495.195,180.549,498.409 'T\n'>
+<LTTextBoxHorizontal(9) 33.275,210.860,173.567,412.080 'Formations, recrutements...\nAvant cela, elle entend « faire en sorte \nque les dispositifs existants soient réel-\nlement utilisés ». Parmi eux, le télé-\nphone grave danger, peu attribué. Ou \nle déploiement du « dispositif électro-\nnique de protection antirapproche-\nment » (Depar), prévu par la loi de-\npuis février 2017, mais jamais testé en \nFrance. Le développement de l’héberge-\nment des victimes ou encore la forma-\ntion des policiers et gendarmes – sou-\nvent accusés de refuser d’enregistrer \ncertaines plaintes – seront parmi les \nprincipaux points de réﬂexion. Par ail-\nleurs, 73 psychologues devraient être \nrecrutés aﬁn d’offrir un accompagne-\nment aux victimes.\nPour l’heure, le budget consacré à la \n'>
+<LTTextBoxHorizontal(10) 182.415,210.860,593.525,495.915 'Marlène Schiappa, secrétaire d’Etat chargée de l’Egalité femmes-hommes, au centre d’appel 3919, ﬁn 2017.\n« Certaines femmes n’ont même  \npas conscience d’être victimes »\nLa date ne doit rien au hasard. Ce \nmardi 3 septembre 2019, ou 3/9/19, \ns’ouvre le Grenelle des violences \nconjugales, en écho au trop peu connu \n3919*. Ce numéro d’appel est celui de \nla plateforme d’écoute téléphonique \ndes femmes victimes de violences \nconjugales, créée en 1992.\nIl ne s’agit « pas d’un numéro d’ur-\ngence, tient à préciser Françoise Brié, \ndirectrice générale de la Fédération \nnationale Solidarité femmes (FNSF), \nqui gère la plateforme. En cas de dan-\nger immédiat, il faut en effet appe-\nler la police, la gendarmerie ou les \npompiers. »\nLa mission de la plateforme, elle, est \nd’écouter, d’accompagner et d’aider \nles femmes victimes de violences. \n« Les personnes écoutantes char-\ngées de répondre aux appels sont en \n'>
+<LTTextBoxHorizontal(11) 182.406,210.870,322.717,474.832 'lutte contre les violences conjugales \nest estimé à 79 millions d’euros, selon \nun rapport publié ﬁn 2018 par le Haut \nConseil à l’égalité (HCE). Mais, pour ce \ndernier, c’est une enveloppe annuelle de \n506 millions d’euros qu’il faudrait dé-\nbloquer pour être efﬁcace. Le collectif \n#NousToutes, qui ne participera pas au \nGrenelle, réclame, lui, 1 milliard d’euros.\n« Toute instance de consultation est \nutile et nécessaire », veut croire pour \nsa part Françoise Brié, directrice géné-\nrale de la Fédération nationale Solidarité \nfemmes (lire ci-contre). La présidente de \nla Fondation des femmes, Anne-Cécile \nMailfert, elle, appelle de ses vœux une \njustice « plus rapide, coordonnée et ac-\ncessible, avec des instances spéciali-\nsées », dans une tribune publiée par \nLe Parisien. Des appels entendus par \nMarlène Schiappa, qui promet que « ce \nGrenelle ne sera pas un coup d’épée \ndans l’eau ». \nAnissa Boumediene\n* Il doit s’achever le 25 novembre et être \ndécliné en « 91 Grenelles locaux ». \n'>
+<LTTextBoxHorizontal(12) 480.686,210.875,621.007,432.723 'général des travailleuses sociales, ex-\nplique Françoise Brié. Elles sont là \npour permettre à la personne (femme, \nvictime, tiers) de parler de sa situa-\ntion. En fonction de leurs demandes \net de leurs besoins, nous les orien-\ntons vers les associations et struc-\ntures de notre réseau, qui sont en \nmesure de les accompagner pour \nporter plainte, de leur fournir un hé-\nbergement, ou une aide juridique \npour entamer des démarches judi-\nciaires. Certaines femmes subissent \nla violence de leur conjoint sans avoir \nconscience d’être victimes de violences  \nconjugales. »  \nA.B.\n* L’appel au 3919 est anonyme et gratuit  \n7 jours sur 7, de 9 h à 22 h du lundi  \nau vendredi et de 9 h à 18 h les samedis, \ndimanches et jours fériés,  \nen métropole comme en outre-mer.\n'>
+<LTTextBoxHorizontal(13) 33.272,42.354,322.674,197.890 'Une faille de sécurité rend \naccessibles des milliers de données\nGendarmerie Le minis-\nrésidence de ces militaires, ont indiqué \ndes sources proches du dossier. Le mi-\ntère de l’Intérieur a jugé l’incident « ex-\nnistère a indiqué qu’il fallait « relativiser \ntrêmement regrettable ». Une faille de \nsécurité sur le site d’un prestataire en \nla portée de ces informations, par ail-\nleurs disponibles dans le domaine pu-\nhabillement du ministère a rendu tem-\nporairement accessible en ligne un lis-\nblic ». Selon le ministère de l’Intérieur, \nting avec le nom de quelque 130 000 \nla gendarmerie nationale a lancé un \ngendarmes. Le ﬁchier en question da-\naudit interne et porté plainte pour sa-\ntant de 2018 comprenait les noms, dates \nvoir qui a pu accéder à ce ﬁchier et re-\nde naissance ou encore la commune de \ntracer l’historique des connexions.\n'>
+<LTTextBoxHorizontal(14) 331.550,63.426,469.915,158.947 'Le suspect de l’attaque mortelle  \nà Villeurbanne mis en examen. \nL’Afghan d’une trentaine d’années, \nsoupçonné d’avoir tué samedi une \npersonne et blessé huit autres dans \nune attaque au couteau à \nVilleurbanne, a été mis en examen \nlundi pour assassinat et tentatives \nd’assassinat, a annoncé le parquet.\n'>
+<LTTextBoxHorizontal(15) 331.550,42.368,453.556,53.626 'Une femme à trottinette meurt \n'>
+<LTTextBoxHorizontal(16) 480.683,105.552,618.387,158.937 'percutée à Reims. Elle avait 25 ans \net circulait à trottinette électrique. \nUne femme est morte après un \naccident avec une voiture survenu à \nun carrefour dimanche à Reims.\n'>
+<LTTextBoxHorizontal(17) 480.683,42.358,620.330,95.742 'Un ferry de la Corsica Linea sauve 18 \nmigrants. Dans la nuit de dimanche  \nà lundi, un ferry de la compagnie \nCorsica Linea a secouru 18 migrants \nà la dérive en Méditerranée.\n'>
+<LTImage(img0) 182.412,494.900,618.725,747.242 (606, 351)>
+----START-PAGE 5 ----
+<LTTextBoxHorizontal(0) 33.372,811.124,127.752,837.998 'Dix News\n'>
+<LTTextBoxHorizontal(1) 33.284,728.743,223.649,806.185 'La magie \nde la rentrée\n'>
+<LTTextBoxHorizontal(2) 535.808,811.124,618.737,837.895 '5\nMardi 3 septembre 2019\n'>
+<LTTextBoxHorizontal(3) 33.274,579.444,173.574,717.061 'Un coup de baguette et tout change. \nLe collège épiscopal Saint-Etienne, à \nStrasbourg, a donné des noms tirés de \nla saga « Harry Potter » à ses classes \nde 1re. L’établissement a très sérieuse-\nment annoncé avoir mis en place ces \nnouveaux noms après la suppression \ndes séries L, ES et S, avec la réforme du \nbaccalauréat. « Nous voulions que les \nélèves se créent une nouvelle identité, \nexplique à 20 Minutes Laurent Maltese, \nresponsable de vie scolaire du lycée. \nNous leur avons donc demandé de \n'>
+<LTTextBoxHorizontal(4) 33.272,537.327,151.649,578.160 '2 Deux pandas voient \n'>
+<LTTextBoxHorizontal(5) 58.592,537.327,124.538,548.993 'le jour à Berlin\n'>
+<LTTextBoxHorizontal(6) 169.022,421.475,176.528,461.923 'P\nF\nA\n \n/\n \nn\ni\nl\nr\ne\nB\no\no\nZ\n'>
+<LTTextBoxHorizontal(7) 169.022,430.519,176.528,431.980 ' \n'>
+<LTTextBoxHorizontal(8) 33.272,263.516,173.569,422.205 '« Meng Meng [Petit Rêve en chinois] \net ses deux petits vont bien. » Dans un \ncommuniqué, Andreas Knieriem, le di-\nrecteur du zoo de Berlin, a annoncé la \nnaissance ce week-end de deux pe-\ntits pandas géants, qui pèsent 186 et \n136 grammes. Leur sexe n’a pas en-\ncore été déterminé. Comme les pandas \n« n’élèvent en général qu’un bébé après \nla naissance de jumeaux », le zoo a « dé-\ncidé d’aider Meng Meng activement » \nen gardant les petits dans une cou-\nveuse plusieurs heures par jour, pré-\ncise Andreas Knieriem. Cette naissance \nest une première pour l’Allemagne.\n'>
+<LTTextBoxHorizontal(9) 182.406,579.444,322.708,717.047 'choisir de nouveaux noms de classe, \net ils ont choisi “Harry Potter”. » Ce \nsont donc les quatre classes Gryffondor, \nPoufsoufﬂe, Serpentard, Serdaigle, cor-\nrespondant aux quatre maisons de \nl’école des sorciers, qui ont fait leur \nrentrée lundi. Les écoles de magie \nBeauxbâtons et Durmstrang, soit celles \nqui ont participé au Tournoi des Trois \nSorciers dans le quatrième roman, ont \naussi été sélectionnées par les élèves, \ntout comme l’école d’Ilvermorny. \n \n'>
+<LTTextBoxHorizontal(10) 228.095,579.444,320.447,588.772 'A Strasbourg, Nils Wilcke\n'>
+<LTTextBoxHorizontal(11) 322.180,589.970,329.686,621.379 's\no\nr\nB\n \nr\ne\nn\nr\na\nW\n'>
+<LTTextBoxHorizontal(12) 182.406,537.320,309.451,578.125 '3 L’attraction de ne pas \n'>
+<LTTextBoxHorizontal(13) 207.733,537.320,307.564,548.985 'payer l’entrée du parc\n'>
+<LTTextBoxHorizontal(14) 182.406,400.417,322.683,538.026 'Tel est pris qui croyait prendre. Un \nhomme avait trouvé une combine pour \nne pas payer l’entrée du parc d’attrac-\ntions Fraispertuis-City (Vosges). Il a \nproﬁté de l’opportunité offerte aux vi-\nsiteurs de ressortir momentanément \ndu site après un coup de tampon sur \nla main pour frauder, rapporte Vosges \nMatin. Aidé par une femme qui prétex-\ntait avoir perdu ses clés à l’accueil, l’in-\ndividu proﬁtait de cette diversion pour \nsubtiliser le tampon. Ce petit manège \na ﬁni par être détecté par le parc.\n'>
+<LTTextBoxHorizontal(15) 182.412,358.294,306.754,399.100 '4 Excès de vitesse sur  \n'>
+<LTTextBoxHorizontal(16) 207.739,358.294,308.101,369.960 'les montagnes russes\n'>
+<LTTextBoxHorizontal(17) 182.412,263.516,322.654,359.011 'L’Arabie saoudite souhaite accueillir \nd’ici à 2023 les plus rapides montagnes \nrusses du monde, rapporte Forbes. \nL’attraction extraordinaire, le Falcon’s \nFlight (« Le vol du faucon ») devrait at-\nteindre une vitesse de 250 km/h : un \nrecord. Pour l’heure, c’est le Formula \nRossa, dans un parc à Abu Dhabi, qui \ndétient la vitesse maximale : 240 km/h.\n'>
+<LTTextBoxHorizontal(18) 33.274,221.389,136.703,262.194 '9 Nos internautes  \n'>
+<LTTextBoxHorizontal(19) 58.591,221.389,116.346,233.054 'ont du talent\n'>
+<LTTextBoxHorizontal(20) 135.970,190.606,213.478,212.378 'Typographie vintage \nà Rennes.\n'>
+<LTTextBoxHorizontal(21) 226.423,115.563,316.216,211.577 'Cette photo nous  \na été envoyée  \npar Dominique Huet.\nVous êtes doué pour  \nla photographie ?  \nEnvoyez vos images  \nà contribution@20minutes.fr \nou postez-les sur Instagram \navec le hashtag \n#nosinternautesontdutalent\n'>
+<LTTextBoxHorizontal(22) 226.423,62.108,313.402,110.020 'Vos photos ne seront destinées \nqu’à cette rubrique.  \nPour en savoir plus sur la gestion \nde vos données :  \nhttps://www.20minutes.fr/\npolitique-protection-donnees-\npersonnelles\n'>
+<LTTextBoxHorizontal(23) 211.015,48.935,218.521,60.938 't\ne\nu\nH\n'>
+<LTTextBoxHorizontal(24) 211.015,46.190,218.521,49.085 ' \n.\n'>
+<LTTextBoxHorizontal(25) 211.015,42.393,218.521,46.340 'D\n'>
+<LTTextBoxHorizontal(26) 331.550,579.440,610.555,590.685 'Les noms des classes d’un collège alsacien s’inspirent de « Harry Potter ».\n'>
+<LTTextBoxHorizontal(27) 331.549,537.318,432.293,578.138 '5 Y a-t-il un pilote \n'>
+<LTTextBoxHorizontal(28) 356.868,537.318,463.024,548.984 'conﬁrmé dans l’avion ?\n'>
+<LTTextBoxHorizontal(29) 331.549,410.948,471.851,538.032 'C’est un scénario catastrophe digne de \nHollywood. En Australie, un homme qui \nprenait son premier cours de pilotage a \nété obligé de prendre les commandes, \naprès l’évanouissement en plein vol \nde son formateur. L’atterrissage du \nCessna biplace s’est fait avec l’aide \ndes contrôleurs aériens. Après une \nvingtaine de minutes, l’appareil s’est \nposé sans dommage. « Tu l’as fait, mon \npote, s’est exclamé le contrôleur. Bien \njoué. C’est incroyable ! »\n'>
+<LTTextBoxHorizontal(30) 331.549,368.825,472.330,409.631 '6 Les vilains petits canards \n'>
+<LTTextBoxHorizontal(31) 356.876,368.825,432.587,380.491 'devant la justice \n'>
+<LTTextBoxHorizontal(32) 331.549,284.578,471.805,369.541 'Après  le  coq  Maurice  qui  chante \ntrop tôt sur l’île d’Oléron, c’est au \ntour d’une cinquantaine de canards \net d’oies d’être accusés, à Soustons \n(Landes), de caqueter trop fort. Leur \npropriétaire doit comparaître ce mardi \ndevant le tribunal, mais le procès de-\nvrait être renvoyé.\n'>
+<LTTextBoxHorizontal(33) 480.680,537.325,589.995,578.131 '7 Joaquin Phoenix,  \n'>
+<LTTextBoxHorizontal(34) 506.007,537.325,590.822,548.991 'un acteur qui pèse\n'>
+<LTTextBoxHorizontal(35) 480.680,421.481,620.932,538.041 'Pour interpréter le rôle du Joker, \ndans le ﬁlm du même nom, Joaquin \nPhoenix a perdu du poids. Beaucoup \nde poids : près de 25 kg en quelques \nmois. D’après l’acteur, ce régime ex-\npress lui a permis de rentrer dans la \npeau du personnage de manière sur-\nprenante. « Ça affecte ta psychologie, \nexpliquait l’Américain. Tu commences \nà devenir fou quand tu perds autant \nde poids en si peu de temps. »\n'>
+<LTTextBoxHorizontal(36) 480.686,379.359,609.744,420.164 '8 Elles ont pris le temps \n'>
+<LTTextBoxHorizontal(37) 506.013,379.359,600.313,391.024 'pour la dégustation  \n'>
+<LTTextBoxHorizontal(38) 480.686,284.578,620.998,380.069 'Dimanche, lors de la Braderie de Lille, \ndeux jeunes touristes chinoises ont \ncommandé des moules-frites. Même \nsi les portions étaient généreuses, \nsans être gargantuesques, ce n’est que \ndeux heures et quinze minutes plus \ntard que les jeunes femmes ont ﬁnale-\nment terminé leur repas. Du jamais-vu \nselon le patron de la brasserie.\n'>
+<LTTextBoxHorizontal(39) 331.548,231.936,369.303,272.766 '10\n'>
+<LTTextBoxHorizontal(40) 375.666,232.366,610.027,271.594 'Non, une militante saoudienne \nn’a pas été exécutée\n'>
+<LTTextBoxHorizontal(41) 331.549,42.369,471.809,222.106 'Nouvelle confusion autour du sort \nd’une militante saoudienne. \n« L’Arabie saoudite décapite \naujourd’hui en public Israa al-\nGhomgham, féministe et dé-\nfenseur des droits de l’homme, expli-\nquait à tort un internaute samedi sur \nFacebook. Silence total dans les mé-\ndias de l’Occident car il se nourrit du \npétrole de la dictature saoudienne. »\n« C’est faux, explique à 20 Minutes \nRothna Begum, chercheuse pour l’or-\nganisation Human Rights Watch. La \npeine de mort a été enlevée de l’acte \nd’accusation. » Ce que conﬁrme éga-\nlement Ali Abudisi, directeur de l’Or-\nganisation européenne et saoudienne \n'>
+<LTTextBoxHorizontal(42) 480.686,42.364,620.558,222.107 'pour les droits de l’homme,  \nimplantée à Berlin : « Le pro-\ncureur ne demande plus la \npeine  de  mort,  mais  des \npeines d’emprisonnement et des \namendes. »\nIsraa al-Ghomgham est en prison de-\npuis 2015. Cette Saoudienne, membre \nde la minorité chiite et militante en \nfaveur des droits humains, avait pris \npart à des manifestations paciﬁques \nen 2011. Son mari a également été ar-\nrêté et est, tout comme trois autres \naccusés, toujours menacé de la peine \nde mort. \nMathilde Cousin\n20 Minutes lutte contre les fake news.  \nUn doute ? Ecrivez à fakeoff@20minutes.fr\n'>
+<LTImage(img0) 330.919,589.970,618.746,790.056 (400, 278)>
+<LTImage(img1) 32.949,421.477,171.627,532.892 (193, 155)>
+<LTImage(img2) 33.006,42.367,213.626,210.860 (251, 235)>
+<LTImage(img3) 288.265,214.000,320.449,246.175 (45, 45)>
+----START-PAGE 6 ----
+<LTTextBoxHorizontal(0) 33.372,811.124,97.188,837.998 'Pause\n'>
+<LTTextBoxHorizontal(1) 33.280,778.893,112.860,797.553 'Horoscope\n'>
+<LTTextBoxHorizontal(2) 68.658,127.808,220.482,778.536 'Bélier du 21 mars au 20 avril\nSeul ou en couple, vous saurez séduire. \nSoyez patient et gardez la tête froide, \nvous êtes sollicité de tous côtés.\nTaureau du 21 avril au 21 mai\nVous allez vivre dans votre bulle.  \nVous devez vous montrer plus patient \navec certains de vos collègues.\nGémeaux du 22 mai au 21 juin\nLa configuration des planètes  \nvous fait voir les choses différemment. \nVotre patron apprécie votre travail.\nCancer du 22 juin au 22 juillet\nVotre humour pourrait provoquer  \ndes étincelles avec votre partenaire. \nAttention à ne pas être blessant.\nLion du 23 juillet au 23 août\nVos relations affectives s’améliorent. \nVous savez trouver les arguments les \nplus percutants, les plus persuasifs.\nVierge du 24 août au 23 septembre\nDes idées qui semblent farfelues  \nvous traversent l’esprit. \nEt si elles étaient réalisables ? \nBalance du 24 sept. au 23 octobre\nMieux vaut renoncer à ressasser  \nle passé et se consacrer à l’avenir.  \nUn problème récurrent va se résoudre.\nScorpion du 24 oct. au 22 nov.\nPrendre du recul sur votre vie \nprofessionnelle permettrait de voir  \nles choses sous un angle différent.\nSagittaire du 23 nov. au 21 déc.\nC’est l’heure des remises  \nen question. Vous devez assumer  \ndes responsabilités au pied levé.\nCapricorne du 22 déc. au 20 janv.\nRendez votre relation un peu plus fun. \nVous savez élaborer certains projets \nafin d’améliorer votre qualité de vie.\nVerseau du 21 janv. au 18 février\nVous collaborez efficacement  \navec votre entourage. Vous vous \nfélicitez d’être plus souple.\nPoissons du 19 février au 20 mars\nLa vie amicale est source de bonheur. \nVous êtes dans une période favorable \nsur le plan professionnel. \nCerf-panthère pas avant midi\nCe signe astrologique ne s’use  \nque si l’on s’en cerf.\n'>
+<LTTextBoxHorizontal(3) 33.275,115.801,193.968,125.172 'Retrouvez l’horoscope complet sur le site et nos applis.\n'>
+<LTTextBoxHorizontal(4) 239.373,777.280,331.745,795.940 'Mots fléchés\n'>
+<LTTextBoxHorizontal(5) 339.811,777.280,394.169,795.627 'N° 4787\n'>
+<LTTextBoxHorizontal(6) 535.808,811.124,618.737,837.895 '6\nMardi 3 septembre 2019\n'>
+<LTTextBoxHorizontal(7) 579.684,777.280,616.455,790.947 'Force 1\n'>
+<LTTextBoxHorizontal(8) 243.420,746.420,270.454,766.764 'DÉsIR De \nRÉussITe\nQuI Ne \n'>
+<LTTextBoxHorizontal(9) 243.450,735.080,271.125,748.124 'sONT Pas \nCINTRÉs\n'>
+<LTTextBoxHorizontal(10) 241.963,679.171,272.638,702.054 'ÉMOuVOIR\nQuOTIeNT \nINTeLLeC- \n'>
+<LTTextBoxHorizontal(11) 249.518,673.106,263.682,680.602 'TueL\n'>
+<LTTextBoxHorizontal(12) 244.170,630.460,269.029,637.834 'aCHeVÉe\n'>
+<LTTextBoxHorizontal(13) 243.690,610.890,269.965,624.524 'BOIssON \nDe TaBLe\n'>
+<LTTextBoxHorizontal(14) 246.500,569.130,268.094,576.504 'OuesT- \n'>
+<LTTextBoxHorizontal(15) 251.540,563.550,261.655,570.924 'esT\n'>
+<LTTextBoxHorizontal(16) 242.000,556.160,272.585,563.534 'CYCLes De \n'>
+<LTTextBoxHorizontal(17) 247.530,544.820,267.055,557.864 'DOuZe \nMOIs\n'>
+<LTTextBoxHorizontal(18) 307.962,736.453,331.451,765.394 'De QuOI \nÉCRIRe\nFLeuVe \nD’ITaLIe\n'>
+<LTTextBoxHorizontal(19) 368.850,759.290,396.326,766.664 'aBÎMeR À \n'>
+<LTTextBoxHorizontal(20) 369.760,735.170,394.616,761.094 'FORCe \nDe CON- \nsOMMeR\nNOMMÉe\n'>
+<LTTextBoxHorizontal(21) 430.600,737.890,458.588,763.454 'IL esT \naVaNCÉ \nPOuR Le \nVIeILLaRD\n'>
+<LTTextBoxHorizontal(22) 430.080,719.590,459.966,732.834 'INseCTe À \naIGuILLON\n'>
+<LTTextBoxHorizontal(23) 430.830,706.280,458.360,713.654 'CONVIeNs\n'>
+<LTTextBoxHorizontal(24) 495.800,735.080,519.553,766.764 'CauseR \nDu TORT\nBOÎTe \nÀ BuL- \nLeTINs\n'>
+<LTTextBoxHorizontal(25) 555.950,736.453,585.486,765.394 'MÂLe De \nLa BICHe\nBaRBu De \nLÉGeNDe\n'>
+<LTTextBoxHorizontal(26) 307.840,640.010,331.915,671.694 'BOuCHa \nL’Issue\nÉMaNa- \nTION De \nL’ONu\n'>
+<LTTextBoxHorizontal(27) 473.450,657.780,479.843,665.154 'IL \n'>
+<LTTextBoxHorizontal(28) 464.160,646.050,489.119,659.294 'MaNQue \nau MOu\n'>
+<LTTextBoxHorizontal(29) 401.650,611.090,426.251,636.654 'ON Le \nRaNGe \nPOuR Le \nBRÛLeR\n'>
+<LTTextBoxHorizontal(30) 588.250,623.110,615.632,630.484 'HuRLaNT \n'>
+<LTTextBoxHorizontal(31) 596.960,617.240,605.569,624.614 '(s’)\n'>
+<LTTextBoxHorizontal(32) 526.938,577.923,551.803,606.864 'QuI a Vu \nLe JOuR\nBLOC De \nPIeRRe\n'>
+<LTTextBoxHorizontal(33) 527.580,524.430,551.134,544.764 'FIN De \nVeRBe\nFRONCe \n'>
+<LTTextBoxHorizontal(34) 530.480,513.090,546.841,526.134 'D’uN \nHaBIT\n'>
+<LTTextBoxHorizontal(35) 246.620,487.400,267.975,506.504 'JaRDIN \nD’aNI- \nMauX\n'>
+<LTTextBoxHorizontal(36) 274.900,496.290,302.146,509.734 'aCQuIes- \nCeR D’uN \n'>
+<LTTextBoxHorizontal(37) 276.750,484.180,298.891,497.604 'sIGNe \nDe TÊTe\n'>
+<LTTextBoxHorizontal(38) 404.820,488.887,471.039,501.281 'vingt.minutes\n'>
+<LTTextBoxHorizontal(39) 305.690,429.180,334.046,449.624 'CaDReuR\nPOIssON \nCuIsINÉ À \n'>
+<LTTextBoxHorizontal(40) 315.720,423.530,324.023,430.904 'La \n'>
+<LTTextBoxHorizontal(41) 304.850,417.850,333.530,425.224 'MeuNIÈRe\n'>
+<LTTextBoxHorizontal(42) 345.390,472.570,357.068,479.944 'Jeu \n'>
+<LTTextBoxHorizontal(43) 337.060,451.010,365.059,473.884 'D’aRGeNT\nDÉMONs- \nTRaTIF\n'>
+<LTTextBoxHorizontal(44) 337.700,355.810,364.765,384.754 'aIMÉe De \nTRIsTaN\neXCLa- \nMaTION\n'>
+<LTTextBoxHorizontal(45) 398.733,467.410,429.145,474.781 'DOMINeNT \n'>
+<LTTextBoxHorizontal(46) 407.881,461.542,420.003,468.913 'Des \n'>
+<LTTextBoxHorizontal(47) 400.564,455.674,425.929,463.045 'BasQues\n'>
+<LTTextBoxHorizontal(48) 464.023,451.003,489.296,479.944 'COuCHÉ\nDIsQues \nTOuR- \nNaNTs\n'>
+<LTTextBoxHorizontal(49) 530.506,455.674,547.694,474.781 'TOuT \nPeTIT \nPOIDs\n'>
+<LTTextBoxHorizontal(50) 557.690,464.561,583.742,478.000 'DÉTIeNs \nPeRsON- \n'>
+<LTTextBoxHorizontal(51) 558.841,452.435,581.220,465.864 'NeL- \nLeMeNT\n'>
+<LTTextBoxHorizontal(52) 400.470,386.170,427.420,417.854 'PIQue \nuN FaRD\nMaIGRe \nFORTuNe \nD’aNTaN\n'>
+<LTTextBoxHorizontal(53) 367.629,340.486,397.550,347.858 'FaIRe uNe \n'>
+<LTTextBoxHorizontal(54) 368.430,328.751,395.343,341.990 'sOus- \nTRaCTION\n'>
+<LTTextBoxHorizontal(55) 549.190,379.520,551.948,385.769 'V\n'>
+<LTTextBoxHorizontal(56) 533.280,379.520,536.454,385.769 'G\n'>
+<LTTextBoxHorizontal(57) 525.640,360.560,567.853,385.769 'a\nT R a I N s\nI N s a T\ns I R\n'>
+<LTTextBoxHorizontal(58) 525.520,360.560,536.824,366.809 'e M\n'>
+<LTTextBoxHorizontal(59) 533.300,354.240,575.693,360.489 'P R e T e R\n'>
+<LTTextBoxHorizontal(60) 596.300,379.520,599.058,385.769 'V\n'>
+<LTTextBoxHorizontal(61) 573.390,341.600,614.951,385.769 'G\ne\nO u a I s\nI a B L e s\nN O\nC u I R\ns e\nu s e\n'>
+<LTTextBoxHorizontal(62) 580.550,360.560,591.323,366.809 'L a\n'>
+<LTTextBoxHorizontal(63) 525.530,322.630,544.226,354.169 'F e e\nP\ns e L\nN a\nL u C\n'>
+<LTTextBoxHorizontal(64) 532.840,316.310,551.898,322.559 'M e T\n'>
+<LTTextBoxHorizontal(65) 524.990,309.990,536.294,316.239 'M e\n'>
+<LTTextBoxHorizontal(66) 557.540,344.640,585.397,351.516 'sOLuTION  \n'>
+<LTTextBoxHorizontal(67) 562.890,338.190,578.750,345.066 'De La \n'>
+<LTTextBoxHorizontal(68) 604.010,335.270,606.959,341.519 'e\n'>
+<LTTextBoxHorizontal(69) 551.230,322.630,591.422,338.606 'GRILLe N° 4786\nB\n'>
+<LTTextBoxHorizontal(70) 549.010,309.990,615.039,335.199 'P I C\na\nH\nI C u L e u s e\na D O R a T e u R\n'>
+<LTTextBoxHorizontal(71) 572.110,322.630,576.086,328.879 'M\n'>
+<LTTextBoxHorizontal(72) 244.463,423.925,270.139,443.053 'BIeN Re- \nGaRDeR \nLa CIBLe\n'>
+<LTTextBoxHorizontal(73) 242.450,371.320,272.145,384.754 'DRaMe au \nTHÉÂTRe\n'>
+<LTTextBoxHorizontal(74) 247.031,355.810,266.185,369.359 'FILM \nTRIsTe\n'>
+<LTTextBoxHorizontal(75) 242.618,303.010,271.958,316.249 'ReND Le \nMuR PLus \n'>
+<LTTextBoxHorizontal(76) 248.083,297.152,265.102,304.523 'ÉLeVÉ\n'>
+<LTTextBoxHorizontal(77) 240.616,263.496,295.522,282.162 'Sudoku\n'>
+<LTTextBoxHorizontal(78) 245.439,227.399,267.714,259.130 '9\n5 4\n'>
+<LTTextBoxHorizontal(79) 302.633,227.399,361.779,281.649 'N° 3956\n5 6\n8\n'>
+<LTTextBoxHorizontal(80) 292.734,227.399,314.769,243.641 '6 2\n'>
+<LTTextBoxHorizontal(81) 307.982,212.180,330.017,228.422 '8 4\n'>
+<LTTextBoxHorizontal(82) 245.449,180.443,252.232,211.904 '1\n7\n'>
+<LTTextBoxHorizontal(83) 245.449,133.487,252.232,149.729 '2\n'>
+<LTTextBoxHorizontal(84) 276.199,180.443,299.517,211.904 '9 4\n4 2\n'>
+<LTTextBoxHorizontal(85) 260.957,165.224,267.740,181.466 '3\n'>
+<LTTextBoxHorizontal(86) 355.001,195.662,361.784,211.904 '8\n'>
+<LTTextBoxHorizontal(87) 323.224,165.224,346.541,196.685 '6 3\n8 4\n'>
+<LTTextBoxHorizontal(88) 292.734,148.715,314.769,164.957 '3 7\n'>
+<LTTextBoxHorizontal(89) 307.982,133.487,330.017,149.729 '4 1\n'>
+<LTTextBoxHorizontal(90) 260.967,118.008,283.002,149.729 '3\n1 7\n'>
+<LTTextBoxHorizontal(91) 355.017,118.008,377.302,149.729 '5 8\n9\n'>
+<LTTextBoxHorizontal(92) 525.330,297.350,536.289,303.599 'D e\n'>
+<LTTextBoxHorizontal(93) 533.220,291.040,591.240,309.919 'R a R e M e N T\nC e\ne R e s\n'>
+<LTTextBoxHorizontal(94) 548.979,297.350,567.581,303.599 'a R T\n'>
+<LTTextBoxHorizontal(95) 533.340,291.040,551.228,297.289 'e P I\n'>
+<LTTextBoxHorizontal(96) 473.385,220.973,555.343,225.969 '##JeV#186-238-https://bit.ly/2juzbBh##JeV#\n'>
+<LTTextBoxHorizontal(97) 580.376,251.801,608.752,275.577 'avec  \nvous\n'>
+<LTTextBoxHorizontal(98) 561.928,168.724,622.446,240.791 'La vidéo \ndu jour\nEn visite au \nmusée de la  \nLibération.\n'>
+<LTTextBoxHorizontal(99) 427.368,263.545,445.691,272.656 'Facile\n'>
+<LTTextBoxHorizontal(100) 387.537,196.484,440.127,260.247 'En partant des chiffres \ndéjà inscrits, remplissez \nla grille de manière que \nchaque ligne, chaque \ncolonne et chaque carré \nde 3 par 3 contienne  \nune seule fois tous \nles chiffres de 1 à 9.\n'>
+<LTTextBoxHorizontal(101) 387.537,115.620,446.001,182.471 'solution du sudoku N° 3955\n8 1 4 6 3 2 9 5 7\n6 9 7 8 1 5 4 3 2\n5 2 3 9 7 4 1 6 8\n1 3 5 7 4 6 2 8 9\n9 7 2 3 5 8 6 1 4\n4 6 8 2 9 1 3 7 5\n2 8 9 1 6 7 5 4 3\n7 4 1 5 2 3 8 9 6\n3 5 6 4 8 9 7 2 1\n'>
+<LTTextBoxHorizontal(102) 461.626,152.682,469.417,158.447 'a\np\n'>
+<LTTextBoxHorizontal(103) 461.913,151.349,469.481,152.472 'i\n'>
+<LTTextBoxHorizontal(104) 461.978,143.493,469.859,151.127 'S\n \n/\n \n'>
+<LTTextBoxHorizontal(105) 462.355,122.469,470.870,143.283 'd\nn\na\ng\ne\nr\nB\n'>
+<LTTextBoxHorizontal(106) 463.366,119.728,471.002,122.259 ' \n.\n'>
+<LTTextBoxHorizontal(107) 463.498,116.146,471.174,119.518 'C\n'>
+<LTTextBoxHorizontal(108) 370.509,227.399,377.292,243.641 '7\n'>
+<LTTextBoxHorizontal(109) 370.509,165.224,377.292,196.685 '9\n2\n'>
+<LTTextBoxHorizontal(110) 76.298,48.263,192.588,103.354 '3e marque de presse française\n22,1 millions d’utilisateurs par mois\n1er quotidien avec 3 800 000 lecteurs\n(ACPM ONE Global 2018 V3, ONE 2017)\n24-26, rue du Cotentin, CS 23110,  \n75732 Paris Cedex 15. E-mail : info@20minutes.fr\nTél. : 01 53 26 65 65 Fax : 01 53 26 65 10\n'>
+<LTTextBoxHorizontal(111) 203.297,48.253,307.340,103.295 'Edité par 20 Minutes France,  \nSAS au capital de 5 776 544 €,  \nRCS Paris 438 049 843\nActionnaires : Soﬁouest,  \nRossel France Investissement\nPrésident, directeur de la publication :  \nFrédéric Daruty\n'>
+<LTTextBoxHorizontal(112) 330.276,48.253,452.360,103.285 'Directrice de la rédaction : Armelle Le Goff\nDirecteur général adjoint chargé de  \nl’exploitation et des systèmes d’information :  \nFrédéric Lecarme\nRédacteurs en chef : Laurent Bainier,  \nDavid Blanchard et Anne Kerloc’h\nDirectrice de la marque : Nathalie Desaix\n'>
+<LTTextBoxHorizontal(113) 457.255,48.278,577.630,103.275 'Directrice administrative, ﬁnancière  \net des ressources humaines : Magali Aldon\n© 20 Minutes France, 2019.  \nDépôt légal : à parution\nNos ISSN : 2109-134X, 1777-8301, 2269-1618, 2269-\n1677, 2269-1758, 2269-1790, 2269-1812, 2269-1820, \n2269-3211, 2269-3238, 2269-3343\n'>
+<LTImage(img0) 335.190,480.295,522.722,605.873 (261, 175)>
+<LTImage(140656476271168) 404.698,486.528,470.707,495.993 (92, 14)>
+<LTImage(140656476270944) 335.190,604.257,522.722,605.873 (261, 3)>
+<LTImage(140656476271504) 335.190,480.295,522.722,481.680 (261, 2)>
+<LTImage(140656476274416) 335.189,480.757,336.589,605.873 (2, 174)>
+<LTImage(140656488835672) 521.322,480.757,522.722,605.873 (2, 174)>
+<LTImage(140656476879448) 579.670,67.669,612.965,83.661 (47, 23)>
+<LTImage(140656476879560) 582.086,86.876,610.273,101.462 (40, 21)>
+<LTImage(img1) 458.924,111.531,572.631,280.872 (148, 229)>
+----START-PAGE 7 ----
+<LTTextBoxHorizontal(0) 33.275,764.929,617.586,837.998 'Culture\n« La série m’a plongé dans l’angoisse »\n'>
+<LTTextBoxHorizontal(1) 535.808,811.124,618.737,837.895 '7\nMardi 3 septembre 2019\n'>
+<LTTextBoxHorizontal(2) 33.274,670.308,174.242,751.531 '« Years and Years » \nLa saga familiale  \nde la rentrée de Canal +  \ndivise au sein de notre \nrédaction \n'>
+<LTTextBoxHorizontal(3) 33.275,537.318,173.580,653.871 'Une minisérie attachante et une dysto-\npie anxiogène. « Years and Years », dis-\nponible depuis le 15 mai sur My Canal \net dont le premier épisode a été dif-\nfusé lundi soir sur Canal +, suit sur \nquinze ans une famille britannique, les \nLyons, alors que la Grande-Bretagne se  \nretire de l’Europe. Le futur imaginé par \nRussell T. Davies (« Queer as Folk »),  \neffrayant, n’a pas laissé indifférents trois \nde nos journalistes.\n'>
+<LTTextBoxHorizontal(4) 173.043,579.441,180.549,609.397 'l\na\nn\na\nC\no\nd\nu\nt\nS\n'>
+<LTTextBoxHorizontal(5) 173.043,590.743,180.549,592.227 'i\n'>
+<LTTextBoxHorizontal(6) 41.599,478.864,155.936,535.092 '« Cette minisérie \nprojette avant tout \ndes mauvaises \nnouvelles. »\n'>
+<LTTextBoxHorizontal(7) 33.275,421.479,173.527,464.316 'V « J’ai fui les caisses automatiques ». \n« Ce drame en six épisodes aurait pu \ndurer six saisons, mais Russell T. Davies \na inventé une narration au rythme \n'>
+<LTTextBoxHorizontal(8) 480.685,421.480,620.972,748.647 'en ellipses est que le développement \ndes personnages, qui se fait d’habi-\ntude sur plusieurs saisons, est accé-\nléré à l’extrême. C’est ambitieux, mais \nc’est raté. » \nV « J’y ai trouvé une lueur d’espoir ».\n« Chaque épisode m’a plongé dans \nune spirale d’angoisse et de pessi-\nmisme, reconnaît Fabien Randanne. \nEt l’épisode 4 m’a littéralement sidéré. \nAprès, lorsqu’une minisérie imagine \nles événements qui pourraient mar-\nquer le monde dans un futur proche, \nelle projette avant tout des mauvaises \nnouvelles et oublie les perspectives \nheureuses ou plus légères. Or, rétros-\npectivement, cette série, par certains \naspects, invite à un certain optimisme. \nIl y est beaucoup question de solida-\nrité et d’amour familial. On remarque \naussi que plusieurs des protagonistes \nsont des personnes LGBT, sans que \nleur orientation sexuelle ou leur iden-\ntité de genre soit un sujet en soi.  \n« Years and Years » laisse entrevoir \nun Royaume-Uni plus ouvert, celui du \n« vivre et laisser-vivre », où l’état civil \net la vie sentimentale d’une personne \nne font plus l’objet de crispations ou \nne sont plus un motif de rejet.  \n \n'>
+<LTTextBoxHorizontal(9) 562.094,421.480,618.719,430.808 'A.D., A.Bo., F.R.\n'>
+<LTTextBoxHorizontal(10) 182.415,568.911,467.778,580.156 'la ﬁction suit le quotidien d’une famille britannique sur quinze ans, les lyons.\n'>
+<LTTextBoxHorizontal(11) 182.406,421.477,322.691,559.092 'effréné, qui contribue à la tension, ob-\nserve Anne Demoulin. Le futur imaginé \na gagné en crédibilité avec l’arrivée de \nBoris Johnson à la tête du gouverne-\nment britannique, le 24 juillet. Mais en \nréaction à cette minisérie, cet été, j’ai fui \nles caisses automatiques, je n’ai acheté \naucun tee-shirt. C’est peut-être un dé-\ntail pour vous, mais pour ceux qui ont vu \n« Years and Years », ça veut dire beau-\ncoup… Bref, la diatribe cinglante de la \nmatriarche du clan Lyons m’a ﬁchu un \ncoup de pied salutaire au derrière. »\n'>
+<LTTextBoxHorizontal(12) 331.549,421.479,471.876,559.093 'V « J’ai décroché avant la ﬁn ». « Si j’ai \napprécié la structure très ambitieuse \nde la série, j’ai malgré tout décroché \navant la ﬁn, conﬁe Anaïs Bordages. Et \npas seulement parce que la série est \nanxiogène, mais surtout à cause d’un \nprincipe, celui de survoler des sujets \nsans en creuser aucun. Ce qui paraît \ngrisant au début ﬁnit par donner à la \nsérie un petit côté PMU du coin : “La \ntechnologie nous aliène, les banques \nnous contrôlent, l’humanité court à sa \nperte.” L’autre problème de la structure \n'>
+<LTTextBoxHorizontal(13) 426.621,88.333,518.015,99.992 'Billetterie en ligne\n'>
+<LTTextBoxHorizontal(14) 404.047,78.617,540.581,90.276 'www.festival-deauville.com\n'>
+<LTTextBoxHorizontal(15) 445.259,68.901,499.379,77.070 '#Deauville2019\n'>
+<LTImage(img0) 33.230,317.845,155.628,400.526 (170, 115)>
+<LTImage(img1) 155.392,317.845,292.058,400.526 (190, 115)>
+<LTImage(img2) 291.822,317.845,428.370,400.526 (190, 115)>
+<LTImage(img3) 428.134,317.845,564.682,400.526 (190, 115)>
+<LTImage(img4) 564.446,221.308,618.735,400.517 (76, 249)>
+<LTImage(img5) 33.230,221.308,155.628,318.079 (170, 135)>
+<LTImage(img6) 155.392,221.308,292.058,318.079 (190, 135)>
+<LTImage(img7) 291.822,221.308,428.370,318.079 (190, 135)>
+<LTImage(img8) 428.134,221.308,564.682,318.079 (190, 135)>
+<LTImage(img9) 33.230,124.886,155.628,221.541 (170, 135)>
+<LTImage(img10) 155.392,124.886,292.058,221.541 (190, 135)>
+<LTImage(img11) 291.822,124.886,428.370,221.541 (190, 135)>
+<LTImage(img12) 428.134,124.886,564.682,221.541 (190, 135)>
+<LTImage(img13) 564.446,42.331,618.735,221.541 (76, 249)>
+<LTImage(img14) 33.230,42.339,155.628,125.119 (170, 115)>
+<LTImage(img15) 155.392,42.339,292.058,125.119 (190, 115)>
+<LTImage(img16) 291.822,42.339,428.370,125.119 (190, 115)>
+<LTImage(img17) 428.134,42.339,564.682,125.119 (190, 115)>
+<LTImage(img18) 182.412,579.441,469.979,744.058 (400, 229)>
+----START-PAGE 8 ----
+<LTTextBoxHorizontal(0) 33.278,764.926,467.766,837.998 'Culture\nY en a que pour les parents  !\n'>
+<LTTextBoxHorizontal(1) 33.274,670.320,168.569,751.533 'Télévision Entre 16 h \net 18 h, les chaînes ne \nciblent plus les jeunes, \nmais davantage  \nceux qui achètent\n'>
+<LTTextBoxHorizontal(2) 33.275,421.477,173.587,653.871 'Les temps ont bien changé. La tranche \n16 h-18 h, longtemps acquise à la jeu-\nnesse, avec des émissions comme \n« Récré A2 » et « Club Dorothée », \ndes séries comme « Beverly Hills »  \nà « Hartley, Cœurs à vif » en passant \npar les sitcoms d’AB, a changé de pu-\nblic. Il sufﬁt de regarder la grille des \nprogrammes pour s’en rendre compte. \nAujourd’hui, les chaînes font de l’œil \naux parents. « Quatre Mariages et \nune lune de miel » sur TF1, triple dose \nd’« Affaire conclue » sur France 2, \n« Slam » sur France 3, « C dans l’air » \nsur France 5, « Les Reines du shop-\nping » sur M6… Même en poussant \nplus loin, sur la TNT, on tombe sur \n« Alerte Cobra », « Hercule Poirot » \nou « Un dîner presque parfait », des \nprogrammes – et des rediffusions – \nà destination du sacro-saint respon-\nsable des achats. Voire des retraités.\n'>
+<LTTextBoxHorizontal(3) 33.275,368.824,173.750,412.076 'La rentrée se fait sur YouTube\nSeule France 4 résiste encore et tou-\njours à ce virage générationnel avec  \n« Les Minikeums ». Ressuscité en 2017, \n'>
+<LTTextBoxHorizontal(4) 173.876,491.071,181.381,525.276 'V\nT\nF\n \n/\n \na\nl\nl\ne\nr\na\nc\nS\n'>
+<LTTextBoxHorizontal(5) 173.876,488.327,181.381,491.221 ' \n.\n'>
+<LTTextBoxHorizontal(6) 173.876,484.664,181.381,488.476 'G\n'>
+<LTTextBoxHorizontal(7) 182.327,474.132,468.605,485.376 'le programme jeunesse « les Minikeums » fait de la résistance après l’école.\n'>
+<LTTextBoxHorizontal(8) 182.412,368.825,322.806,464.316 'le rendez-vous culte des années 1990 \nest le dernier vestige des émissions \njeunesse. Mais plus pour longtemps. \nEn effet, la chaîne du groupe France \nTélévisions devrait disparaître en 2020, \nou plutôt devenir 100 % numérique. Il \nne restera alors que Gulli et les chaînes \ncâblées, telles que Cartoon Network, \nNickelodeon ou Disney Channel, pour \n'>
+<LTTextBoxHorizontal(9) 331.549,263.502,471.856,464.316 'attirer les plus jeunes téléspecta-\nteurs. Peu importe, car les habitudes \ndes enfants ont changé. Collégiens et  \nlycéens ne sont plus devant la télé mais \ndavantage devant l’écran de leur or-\ndinateur, de leur tablette ou de leur \nsmartphone. \nÇa tombe plutôt bien, puisque les \nInternets ont fait leur rentrée. Ainsi, \nle youtubeur star Squeezie ne s’est pas \narrêté de poster des vidéos pendant les \nvacances, mais reprend, dès jeudi soir, \nses très suivis lives gaming. Norman et \nLe Joueur du grenier ont, de leur côté, \npublié une nouvelle vidéo ce week-end.  \nA la différence de la télévision, ces you-\ntubeurs n’ont pas d’agenda ou d’ho-\nraire à respecter pour s’inviter dans \nla vie des jeunes. \nVincent Julé\n'>
+<LTTextBoxHorizontal(10) 39.304,274.060,305.687,350.636 'Sans faire de bruit, Netﬂix attire les jeunes\nA l’instar de ce qu’elle a déjà fait avec les comédies romantiques  \net les séries pour ados, la plateforme Netﬂix se positionne sur le créneau \n« jeunesse », déserté par les chaînes historiques. Ainsi, la plateforme  \na accueilli deux stars de YouTube, Ludovik et Jérôme Niel, qui ont fait  \nleur rentrée avec le ﬁlm La Grande Classe. A noter que le teen show  \nitalien « Elite » revient pour une saison 2, à compter de vendredi.\n'>
+<LTTextBoxHorizontal(11) 182.412,116.082,457.072,250.532 'L’Etrange Festival s’annonce  \ndes plus saignants pour ses 25 ans\nCinéma Depuis un quart de \nsiècle, il a les frissons et l’irrévé-\nrence dans le sang. L’Etrange Festival \nouvre ses portes mercredi, et jusqu’au \n15 septembre, au Forum des images \n(Paris 1er). Outre les 25 ﬁlms en com-\npétition, de nombreuses pépites et  \ncuriosités sont à découvrir. \n'>
+<LTTextBoxHorizontal(12) 471.317,194.412,478.823,195.896 'i\n'>
+<LTTextBoxHorizontal(13) 471.317,169.038,478.823,201.891 'a\np\nS\n \n/\n \no\ne\np\ns\ny\nS\n'>
+<LTTextBoxHorizontal(14) 331.543,42.371,471.843,201.034 'franco-chilien de 90 ans sera à l’hon-\nneur le temps d’une soirée, le 8 sep-\ntembre.Parmi les invités attendus, \nJean-Pierre Dionnet, créateur de Métal \nHurlant et ex-animateur de « Cinéma \nde quartier » sur Canal+. L’expert a sé-\nlectionné cinq ﬁlms à faire découvrir \nau public. \nAutre moment phare, le ﬁlm de Gaspar \nNoé Irréversible, Inversion intégrale sera \nprojeté au public parisien. D’autres \nﬁlms seront proposés en avant-pre-\nmière, tels que Les Sources occultes de \nLaurent Courau ou encore Adoration, \nde Fabrice Du Welz. \nF.R.\n'>
+<LTTextBoxHorizontal(15) 169.020,118.791,176.526,120.251 ' \n'>
+<LTTextBoxHorizontal(16) 169.020,63.291,176.526,136.879 's\nr\ne\nk\no\nJ\ne\nh\nT\n \n/\n \ns\nr\ne\nk\na\nm\nk\no\no\nB\n \ns\ne\nL\n'>
+<LTTextBoxHorizontal(17) 33.280,42.370,161.040,64.143 'Fantine Harduin et thomas Gioria \ndans « Adoration ».\n'>
+<LTTextBoxHorizontal(18) 182.412,42.365,322.678,106.692 'Le plein d’avant-premières\nL’une d’entre elles est observable \ndès l’afﬁche de cette 25e édition qui \névoque l’œuvre iconoclaste d’Ale-\njandro Jodorowsky (La Montagne sa-\ncrée, Santa Sangre…). Le réalisateur \n'>
+<LTTextBoxHorizontal(19) 535.808,811.124,618.737,837.895 '8\nMardi 3 septembre 2019\n'>
+<LTTextBoxHorizontal(20) 480.686,421.472,622.261,798.135 'Netﬂix s’offre une \n« Nouvelle Star » \nversion rap US\nShow  Cardi B, Chance the \nRapper et Tip « T.I. » Harris parti-\nront à la recherche de la nouvelle \nstar du rap américain, et ce à partir \ndu 9 octobre, sur Netﬂix. « Rhythm + \nFlow », de son petit nom, est la pre-\nmière émission de concours musical \nlancée par la plateforme de strea-\nming. Elle sera animée par les trois \nstars du hip-hop américain qui par-\ncourront les villes de Los Angeles, \nde New York, d’Atlanta et de Chicago \npour mettre la main sur de nouveaux \ntalents. \nAvec dix épisodes au total, le show \nmusical sera diffusé pendant trois se-\nmaines sur Netﬂix, du 9 au 23 octobre, \nprécise « Deadline ». Les épisodes  \nseront découpés en trois phases avec, \nau programme : les incontournables \nauditions, les battles mais aussi le \ntournage de clips… \nLes trois derniers épisodes de cette \nsaison seront, eux, consacrés aux \nsamples,  aux  collaborations  et  à \nla  ﬁnale  du  programme,  qui  dé-\nsignera  le  premier  vainqueur  de \n« Rhythm + Flow ». A eux de jouer. \nL.B.\n \n'>
+<LTTextBoxHorizontal(21) 480.683,263.519,619.319,369.550 '« Taratata » gagne le Nord. \nL’émission musicale de France 2 \n« Taratata », présentée par Nagui, \nquitte Paris pour un 100 % live inédit \ndans les Hauts-de-France, au Zénith \nde Lille, le 20 septembre. A l’afﬁche : \nVéronique Sanson, Alain Souchon, \nLaurent Voulzy, Michel Jonasz et \n- M -. Le prix des places est unique  \net s’élève à 20 €.\n'>
+<LTTextBoxHorizontal(22) 480.683,42.348,618.818,169.456 ' \nL’un des fondateurs de Taxi Girl est \ndécédé. Laurent Sinclair, clavier  \net membre fondateur du groupe \nfrançais Taxi Girl, connu notamment \npour son tube « Cherchez  \nle garçon », est décédé, lundi  \nà Paris, à l’âge de 58 ans. Le groupe, \nemmené par Daniel Darc, disparu  \nen 2013, s’était imposé dans les \nannées 1980 comme un des fers de \nlance de la new wave à la française.\n'>
+<LTImage(img0) 480.381,168.609,619.015,261.272 (193, 129)>
+<LTImage(img1) 182.008,484.664,470.132,743.765 (401, 360)>
+<LTImage(img2) 32.952,63.430,171.671,242.455 (193, 249)>
+----START-PAGE 9 ----
+<LTTextBoxHorizontal(0) 33.372,811.124,223.405,837.998 'Votre soirée télé\n'>
+<LTTextBoxHorizontal(1) 535.808,811.124,618.737,837.895 '9\nMardi 3 septembre 2019\n'>
+<LTTextBoxHorizontal(2) 58.035,779.186,596.736,797.847 'aime avoir les boules devant l’émouvante dernière de « Mo-Mo-Motus », à revoir sur france.tv\n'>
+<LTTextBoxHorizontal(3) 46.818,723.511,108.826,737.254 '21 h 05 Série\n'>
+<LTTextBoxHorizontal(4) 149.243,723.511,210.529,737.254 '21 h 05 Docu\n'>
+<LTTextBoxHorizontal(5) 245.286,723.511,307.294,737.254 '21 h 05 Série\n'>
+<LTTextBoxHorizontal(6) 353.486,723.511,397.932,737.254 '21 h Film\n'>
+<LTTextBoxHorizontal(7) 447.522,723.511,508.809,737.254 '20 h 50 Docu\n'>
+<LTTextBoxHorizontal(8) 532.387,723.511,614.777,737.254 '21 h 05 Magazine\n'>
+<LTTextBoxHorizontal(9) 33.280,525.952,123.698,655.992 'S.W.A.T.\nAvec Shemar Moore.\n« Les diamants \nde la vengeance ».\nStreet  demande  à  Jessica \nde  travailler  à  l’armurerie\npour  se  faire  pardonner. \nLuca  lui  mène  la  vie  dure \nen tant qu’évaluateur.\n22 h 50 S.W.A.T.\nAvec Shemar Moore,\nStéphanie Sigman.\n« Solution radicale ».\n'>
+<LTTextBoxHorizontal(10) 132.707,526.931,221.137,655.983 'LES POUVOIRS \nEXTRAORDINAIRES\nDU CORPS HUMAIN\nPrésenté \npar Michel Cymes,\nAdriana Karembeu.\n«  Foie,  reins,  intestins  :\ncomment les protéger pour\nune meilleure santé ? »\n23 h LES POUVOIRS \nEXTRAORDINAIRES \nDU CORPS HUMAIN\nDocumentaire.\n'>
+<LTTextBoxHorizontal(11) 232.130,526.442,320.609,655.983 'SOUPÇONS\nAvec Bruno Debrandt,\nJoyce Bibring.\nVictoire  et  Florent  doivent\ngarder leur relation secrète,\nmais  un  mystérieux  maître\nchanteur menace le couple\nde  révéler  leur  liaison  au\ngrand jour. \n22 h 45 LE VAGABOND\nDE LA BAIE DE SOMME\nAvec Sonia Rolland, \nJérôme Robart.\n'>
+<LTTextBoxHorizontal(12) 331.549,525.201,423.962,655.992 'PUPILLE\nDrame. 2018. France. \nDe Jeanne Herry, \navec Elodie Bouchez, \nGilles Lellouche.\nThéo  est  remis  à  l’adoption \nle \njour  de  sa  naissance. \nAlice,  41  ans,  se  bat  pour \navoir un enfant depuis dix ans.\n22 h 50 LE POULAIN \nComédie. 2018. France. \nDe Mathieu Sapin, avec \nAlexandra Lamy.\n'>
+<LTTextBoxHorizontal(13) 454.373,593.409,481.221,603.360 'souvent \n'>
+<LTTextBoxHorizontal(14) 430.968,526.342,521.359,655.982 'LES JUGES\nDE LA DEUXIÈME\nCHANCE\nLes JAP, juges d’application\ndes peines, sont des magis-\ntrats \nincompris \net critiqués : ils sont accusés\nde  relâcher  des  criminels, \nde négliger les victimes… \n22 h 40 C DANS L’AIR\nMagazine.\nPrésenté \npar Caroline Roux.\n'>
+<LTTextBoxHorizontal(15) 529.421,526.442,618.282,655.984 'MAISON \nÀ VENDRE\nPrésenté \npar Stéphane Plaza.\n« Monique / \nStéphane et Delphine ».\nMonique, 78 ans, retraitée,\nne souhaite plus vivre dans\nson 100 m²…\n23 h 05 MAISON \nÀ VENDRE\nPrésenté \npar Stéphane Plaza.\n'>
+<LTTextBoxHorizontal(16) 33.340,423.738,118.608,497.060 '20 h 50 DRÔLE \nDE GUERRE\nDocumentaire.\n22 h 25 LA BLONDE\nPROVINCE DE HIMMLER\n« Une expérimentation\nen Pologne ».\n'>
+<LTTextBoxHorizontal(17) 132.707,424.629,216.117,496.863 '21 h THE SHANGHAÏ \nJOB\nFilm d’aventures. 2017. \nChine. Avec Orlando \nBloom et Simon Yam.\n23 h TÉMOIN GÊNANT \nAvec Josh Duhamel.\n'>
+<LTTextBoxHorizontal(18) 232.132,423.729,320.095,496.853 '21 h 05 JOHN CARTER\nFilm d’aventures. 2012.\nEtats-Unis.\nAvec Taylor Kitsch.\n23 h 25 LONE RANGER,\nNAISSANCE D’UN HÉROS\nFilm d’aventures. 2013.\n'>
+<LTTextBoxHorizontal(19) 331.557,423.729,413.165,497.053 '21 h 15 90’ ENQUÊTES\nMagazine.\nPrésenté \npar Tatiana Silva.\n« Leurs folles vacances\nen camping-car ».\n22 h 50 90’ ENQUÊTES\n'>
+<LTTextBoxHorizontal(20) 430.988,423.738,519.455,496.862 '21 h 05 SEX TAPE\nComédie. 2014. Etats-Unis.\nDe Jake Kasdan, \navec Cameron Diaz,\nJason Segel.\n22 h 55 JACK ET JULIE\nComédie. 2011. Etats-Unis.\n'>
+<LTTextBoxHorizontal(21) 529.726,423.740,616.906,496.864 '21 h 05 LIMITLESS\nThriller. 2010. Etats-Unis.\nDe Neil Burger, \navec Bradley Cooper.\n23 h 05 VICE\nAction. 2015. Etats-Unis.\nAvec Ambyr Childers.\n'>
+<LTTextBoxHorizontal(22) 362.762,221.014,485.703,256.778 'PARIS\n'>
+<LTTextBoxHorizontal(23) 386.438,171.000,461.023,197.835 'C O M P L E T\n'>
+<LTTextBoxHorizontal(24) 358.878,137.602,489.585,151.908 'NOUVELLE DATE\n'>
+<LTTextBoxHorizontal(25) 315.240,102.839,533.242,138.603 '17.11.2019\n'>
+<LTImage(img0) 33.234,42.406,302.726,308.638 (375, 370)>
+<LTImage(img1) 226.689,256.497,618.753,310.382 (545, 75)>
+<LTImage(img2) 226.689,256.497,302.884,308.756 (106, 73)>
+<LTImage(img3) 537.733,52.186,574.660,74.010 (52, 31)>
+<LTImage(img4) 391.860,42.406,440.458,82.538 (68, 56)>
+<LTImage(140656474252120) 340.528,55.395,371.208,70.801 (43, 22)>
+<LTImage(img5) 487.123,48.125,528.012,78.648 (57, 43)>
+<LTImage(140656474329040) 457.405,50.951,481.445,75.045 (34, 34)>
+<LTImage(img6) 33.322,655.744,121.464,716.676 (123, 85)>
+<LTImage(img7) 46.915,744.112,107.995,766.167 (85, 31)>
+<LTImage(img8) 132.840,655.855,220.928,716.572 (123, 85)>
+<LTImage(img9) 136.039,742.085,217.541,768.310 (114, 37)>
+<LTImage(img10) 232.250,655.804,320.341,716.570 (123, 85)>
+<LTImage(img11) 235.464,742.085,316.966,768.310 (114, 37)>
+<LTImage(img12) 331.611,655.791,419.700,716.602 (123, 85)>
+<LTImage(img13) 336.905,745.462,414.429,764.819 (108, 27)>
+<LTImage(img14) 431.114,655.854,519.202,716.570 (123, 85)>
+<LTImage(img15) 433.644,741.099,516.453,767.326 (116, 37)>
+<LTImage(img16) 529.430,655.793,617.756,716.675 (123, 85)>
+<LTImage(140656466992264) 558.424,744.056,588.649,766.225 (42, 31)>
+<LTImage(img17) 42.507,497.357,112.278,516.714 (97, 27)>
+<LTImage(140656465149680) 162.411,499.554,191.309,514.518 (41, 21)>
+<LTImage(140656465149064) 260.855,498.120,291.630,515.951 (43, 25)>
+<LTImage(140656465149904) 354.909,499.347,396.389,514.795 (58, 22)>
+<LTImage(img18) 449.300,497.787,500.970,516.194 (72, 26)>
+<LTImage(140656465147888) 558.346,498.169,588.728,515.903 (43, 25)>
+----START-PAGE 10 ----
+<LTTextBoxHorizontal(0) 33.275,728.743,289.026,837.998 'SportS\nIcardi, ça donne \ndu crédit à Paris\n'>
+<LTTextBoxHorizontal(1) 33.275,667.977,290.118,717.921 'Football Lors du dernier jour du mercato,  \nle PSG a réussi à attirer l’attaquant argentin  \net le gardien du Real Madrid, Keylor Navas\n'>
+<LTTextBoxHorizontal(2) 182.406,421.481,322.686,653.867 'point faible. Ceci n’assure en rien un \nretour en grâce de Neymar dans le ves-\ntiaire et face aux supporters, une bonne \nalchimie offensive entre toutes les stars \net encore moins un bon parcours euro-\npéen, mais le nouveau directeur spor-\ntif a réalisé un mercato dantesque. « Je \npense que ça sera une saison difﬁcile, \non a beaucoup de choses à régler, dé-\nclarait-il pourtant vendredi, après la vic-\ntoire à Metz. Ça ne sera pas une saison \nbling-bling. Les ambitions ne sont pas \nà la baisse, mais on doit régler les pro-\nblèmes avant. On ne va pas dire qu’on \nva gagner la Ligue des champions. »\nFranchement, ce serait dommage de ne \npas au moins y penser. Il faudra bien sûr \nque Neymar joue le jeu, mais il serait \nbien bête de ne pas suivre l’impulsion \nde la révolution Leonardo. Une révolu-\ntion en trois étapes : il a proﬁté du bon \ntravail de son prédécesseur Henrique \n'>
+<LTTextBoxHorizontal(3) 33.275,495.197,173.572,653.871 'Le PSG a toujours des problèmes à ré-\ngler, mais le talent de ses joueurs n’en \nest pas un. En panique la semaine der-\nnière à l’idée de démarrer la Ligue des \nchampions avec Choupo-Moting en lea-\nder d’attaque, les supporters parisiens \nont pris un léger coup de chaud dans \nles dernières heures du mercato, lundi, \navec les arrivées du gardien du Real \nMadrid Keylor Navas (alors qu’Alphonse \nAreola fait le chemin inverse en prêt) et, \nsurtout, le prêt avec option d’achat de \nl’attaquant star de l’Inter Milan, Mauro \nIcardi (à 22 h, le transfert n’avait pas \nété ofﬁcialisé).\n'>
+<LTTextBoxHorizontal(4) 33.275,421.480,173.593,485.796 'Deux faiblesses réglées\nGrâce à ces deux coups de génie de \nLeonardo sur le gong, ce PSG a une \nsacrée gueule. Très possiblement, \nmême, la plus belle de l’ère qatarie. \nSur le papier, cet effectif n’a plus de \n'>
+<LTTextBoxHorizontal(5) 33.275,42.371,173.599,408.489 'Pogba forfait, \nDeschamps \ninquiet\nFootball Une liste bien fournie. \nAprès les forfaits de Tanguy Ndombélé, \nKylian Mbappé, Ousmane Dembélé ou \nN’Golo Kanté avant même l’annonce \ndes 23 joueurs qui déﬁeront l’Albanie \net Andorre, Didier Deschamps a dû \nfaire face aux blessures, ce week-end, \nd’Aymeric Laporte et Paul Pogba. Le \ndéfenseur a été remplacé par Samuel \nUmtiti alors que le milieu de terrain \na été suppléé par Mattéo Guendouzi. \nCette série de blessures préoccupe \nle sélectionneur. «Ce n’est pas lié \nqu’à la préparation, c’est aussi l’en-\nchaînement des matchs et des sai-\nsons, avec des internationaux qui ﬁ-\nnissent plus tard que les autres et qui \nreprennent souvent tôt, a expliqué \nDidier Deschamps. Vacances écour-\ntées, préparation écourtée, parce qu’il \ny a des matchs où il faut qu’ils jouent. \nIl y a énormément de joueurs blessés \nparce que les calendriers sont dé-\nmentiels. Quand vous êtes interna-\ntional et que vous jouez les grandes \ncompétitions, vous enchaînez et à un \nmoment le physique est soumis à de \ntelles cadences. »\n'>
+<LTTextBoxHorizontal(6) 322.180,668.048,329.686,669.533 'i\n'>
+<LTTextBoxHorizontal(7) 322.180,621.563,329.686,675.515 'a\np\nS\n \n/\n \ns\ns\ne\nr\np\no\nt\no\nh\np\nw\ne\nN\n'>
+<LTTextBoxHorizontal(8) 535.809,811.124,618.733,837.895 '10\nMardi 3 septembre 2019\n'>
+<LTTextBoxHorizontal(9) 331.550,611.037,601.532,622.281 'L’attaquant argentin Mauro Icardi a été prêté au pSG avec option d’achat.\n'>
+<LTTextBoxHorizontal(10) 331.543,421.479,471.851,601.217 'pour ﬁnaliser les arrivées de Herrera, \nGueye et Sarabia dans un milieu de ter-\nrain laissé à l’abandon, il n’a rien lâché \nau Barça sur le dossier Neymar et il \na réglé deux faiblesses historiques du \nPSG (le gardien et la rotation au poste \nde n° 9) en vingt-quatre heures.\nToutes  les  « choses »  auxquelles \nLeonardo pensait à Metz ne sont pas \nréglées, mais en un mercato il a déjà \nfait beaucoup pour redonner au PSG un \npeu d’ambition, de stature et de carac-\ntère. Mais ce ne sont que des mots de \ndébut septembre. Ce qui compte, c’est \nla réalité du printemps, quand arrivera \nl’heure des matchs couperets en Ligue \ndes champions.   Bertrand Volpilhac\n'>
+<LTTextBoxHorizontal(11) 486.726,432.037,613.418,592.849 'Luiz Gustavo quitte l’OM\nLe club marseillais a ofﬁcialisé le \ndépart du milieu brésilien, arrivé \nen France il y a deux saisons.  \nPour le remplacer, les Phocéens \nfaisaient le forcing pour recruter \nValentin Rongier, le joueur  \nde Nantes. A 22 h, aucun accord \nn’avait été trouvé entre  \nles dirigeants de l’OM et ceux du \nFCN. Waldemar Kita, le président \ndes Canaris, avait refusé  \nla dernière offre marseillaise :  \n13 millions d’euros plus différents, \nbonus selon nos informations.\n'>
+<LTTextBoxHorizontal(12) 182.408,189.786,471.833,408.490 'Jacques Brunel parie sur l’expérience\nRugby Finalement, Jacques \nle joueur de Toulouse est ﬁnalement \nresté derrière les massifs Picamoles, \nBrunel était bien là. Contrairement à \nce qui avait été dit ces derniers jours, \nLauret et Camara. Le premier nommé \nle sélectionneur du XV de France a \nsemblait hors du coup jusqu’à vendredi, \nmais son bon match contre l’Italie et \nannoncé lui-même, lundi, sur TF1, la \nson expérience ont fait la différence.\nliste des 31 joueurs retenus pour dis-\nL’autre surprise de la liste est l’absence \nputer la Coupe du monde. Peu à l’aise \nde Lambey. Le deuxième ligne, « un \navec l’exercice, il ne s’est pas attardé \npeu en retrait sur la préparation », dixit \npour expliquer ses choix. Mais c’était \nle sélectionneur, fait les frais d’un vrai \nmieux comme ça.\nchoix : celui de prendre un troisième \nPour ce qui est du fond, le suspense se \nsituait surtout en troisième ligne, où des \nligne en plus, et de compter sur la po-\nrevenants ont fait fort en préparation. \nlyvalence d’Iturria. Cette annonce ef-\nOn pense à Ollivon, qui sort de deux \nfectuée, voilà donc les Bleus enﬁn en \nmode compétition. Ils s’envoleront pour \nsaisons pourries par des blessures, et \nle Japon samedi, avant leur premier \nqui a convaincu Brunel de l’embarquer. \nmatch, le 21 septembre, face à l’Ar-\nC’est le seul réserviste ayant réussi à in-\ntégrer la liste ﬁnale. Cros y a cru, mais \ngentine.  \nNicolas Camus\n'>
+<LTTextBoxHorizontal(13) 337.589,52.923,463.773,171.619 'La liste des 31 joueurs\nAvants : Guirado, Chat, Mauvaka, \nBaille, Poirot, Slimani, Bamba, \nSetiano, Vahaamahina, \nGabrillagues, Lauret, Iturria, \nAldritt, Ollivon, Picamoles,  \nLe Roux, Camara.\nArrières : Dupont, Machenaud, \nSerin, Lopez, Ntamack, Fickou, \nFofana, Guitoune, Vakatawa, Raka, \nPenaud, Ramos, Médard, Huget.\n'>
+<LTTextBoxHorizontal(14) 182.415,42.370,311.132,53.614 'Louis picamoles a été sélectionné.\n'>
+<LTTextBoxHorizontal(15) 480.685,263.511,620.907,369.539 'Nairo Quintana s’engage avec \nArkéa-Samsic. En tête du Tour \nd’Espagne, le Colombien va quitter \nMovistar à la ﬁn de la saison pour \nrejoindre l’équipe française. \nQuintana a signé un contrat de trois \nans et verra son frère, Dayer,  \nle rejoindre chez Arkéa-Samsic, \ntout comme son compatriote Winner \nAnacona et l’Italien Diego Rosa.\n'>
+<LTTextBoxHorizontal(16) 480.685,147.661,620.595,253.699 'Luzenac demande sa réintégration \nen Ligue 2. « La Ligue doit nous \nréintégrer en Ligue 2 », a afﬁrmé \nlundi Jérôme Ducros, le président \nde la SASP de Luzenac. Le club \nariégeois, aujourd’hui en Régional 1, \na obtenu en appel l’annulation  \ndu refus de son accession  \nen deuxième division décidé en 2014 \npar les instances du football.\n'>
+<LTTextBoxHorizontal(17) 480.685,42.368,615.741,137.849 'Osaka éliminée de l’US Open.  \nLa tenante du titre a été battue  \ndès les 8es de ﬁnale du tournoi \naméricain par la Suissesse Bencic, \nce qui lui coûte aussi sa place  \nde n°1 mondiale. La Japonaise  \nsera remplacée au sommet  \nde la hiérarchie de la WTA  \npar l’Australienne Ashleigh Barty.\n'>
+<LTTextBoxHorizontal(18) 174.431,59.076,181.936,89.903 'P\nF\nA\n \n/\n \ni\nl\no\nz\nz\ni\nP\n'>
+<LTTextBoxHorizontal(19) 174.431,56.332,181.936,59.226 ' \n.\n'>
+<LTTextBoxHorizontal(20) 174.431,52.898,181.936,56.482 'A\n'>
+<LTImage(img0) 331.549,621.292,619.067,790.335 (400, 235)>
+<LTImage(img1) 182.148,52.898,320.729,176.243 (193, 172)>

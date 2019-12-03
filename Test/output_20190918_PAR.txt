@@ -1,0 +1,1374 @@
+----START-PAGE 1 ----
+<LTTextBoxHorizontal(0) 360.690,713.844,471.254,832.499 'Football\nL’ancien gardien \ndu Real Madrid \nKeylor Navas, \nun atout majeur \npour faire passer \nun cap à Paris  P.14\n'>
+<LTTextBoxHorizontal(1) 492.206,722.516,613.048,790.845 'Partir en vacances \nen septembre, \nc’est « tout bénef » \n(ou presque) \n'>
+<LTTextBoxHorizontal(2) 492.206,713.715,610.495,720.719 'Retrouvez les témoignages sur 20minutes.fr\n'>
+<LTTextBoxHorizontal(3) 179.014,747.460,186.520,748.944 'i\n'>
+<LTTextBoxHorizontal(4) 179.014,719.108,186.520,754.926 'a\np\nS\n \n/\n \nr\ne\nc\nn\ne\np\nS\n'>
+<LTTextBoxHorizontal(5) 179.014,713.575,186.520,719.258 ' \n.\nJ\n'>
+<LTTextBoxHorizontal(6) 36.970,661.081,101.044,675.510 'GRAND PARIS\n'>
+<LTTextBoxHorizontal(7) 196.980,659.990,266.367,671.403 'A Lyon, le 15 février.\n'>
+<LTTextBoxHorizontal(8) 188.655,684.131,303.919,695.677 'Mercredi 18 septembre 2019\n'>
+<LTTextBoxHorizontal(9) 353.605,684.131,453.797,695.677 'https://www.20minutes.fr\n'>
+<LTTextBoxHorizontal(10) 585.192,684.131,618.724,695.677 'N° 3454\n'>
+<LTTextBoxHorizontal(11) 33.280,491.693,155.250,559.257 'Environnement\nPrès d’un millier\nd’écoliers exposés \nà un air pollué P.3\n'>
+<LTTextBoxHorizontal(12) 33.280,411.607,156.638,479.171 'Plan antidrogue\nContre les traﬁcs, \nl’exécutif dégaine \n55 mesures P.4\n'>
+<LTTextBoxHorizontal(13) 24.487,603.844,31.993,605.304 ' \n'>
+<LTTextBoxHorizontal(14) 24.487,609.791,31.993,611.275 'i\n'>
+<LTTextBoxHorizontal(15) 24.487,569.391,31.993,625.105 's\ne\nt\nu\nn\nM\n0\n2\n \n/\n \ni\nf\nf\no\nK\na\nm\nA\n'>
+<LTTextBoxHorizontal(16) 24.487,580.784,31.993,582.245 ' \n'>
+<LTTextBoxHorizontal(17) 24.487,566.647,31.993,569.541 ' \n.\n'>
+<LTTextBoxHorizontal(18) 24.487,555.895,31.993,566.783 'E\n-\n.\nC\n'>
+<LTTextBoxHorizontal(19) 23.320,304.271,30.826,378.364 'e\nc\nn\na\nr\nF\n \nx\no\nF\n \ny\nr\nu\nt\nn\ne\nC\nh\nt\ne\ni\nt\nn\ne\nw\nT\n'>
+<LTTextBoxHorizontal(20) 23.320,328.602,30.826,330.063 ' \n'>
+<LTTextBoxHorizontal(21) 33.280,240.066,162.057,307.629 'Cinéma\n« Ad Astra » voyage \ndans l’univers de \nStanley Kubrick P.12\n'>
+<LTTextBoxHorizontal(22) 33.300,159.980,171.397,227.543 'Vidéo\nL’actualité en images, \nc’est 24 h/24 sur \n20minutes.fr/video\n'>
+<LTTextBoxHorizontal(23) 178.700,197.684,186.206,199.168 'i\n'>
+<LTTextBoxHorizontal(24) 178.700,171.725,186.206,205.151 'a\np\nS\n \n/\n \nd\na\nr\nn\no\nK\n'>
+<LTTextBoxHorizontal(25) 178.700,159.892,186.206,171.875 ' \nl\nr\na\nK\n'>
+<LTTextBoxHorizontal(26) 194.210,212.872,603.353,373.575 'QUALITÉ DE L’AIRDes solutions \ninspirantes\n'>
+<LTTextBoxHorizontal(27) 194.210,166.795,604.651,202.651 'Des industriels planchent sur des technologies qui permettent de capter \nles particules et gaz polluants, aussi bien dans la rue que dans le métro. P.6\n'>
+<LTTextBoxHorizontal(28) 617.364,71.074,626.549,73.248 'I\n'>
+<LTTextBoxHorizontal(29) 617.364,63.253,626.549,65.427 'I\n'>
+<LTTextBoxHorizontal(30) 617.364,42.394,626.549,82.813 'É\nT\nC\nL\nB\nU\nP\n'>
+<LTTextBoxHorizontal(31) 9.168,556.568,20.429,583.328 '!\n \ni\nc\nr\ne\nM\n'>
+<LTTextBoxHorizontal(32) 9.168,495.586,20.429,497.777 ' \n'>
+<LTTextBoxHorizontal(33) 9.168,346.053,20.429,556.568 ' \n.\ne\nl\n-\nz\ne\nl\nc\ny\nc\ne\nr\n \nu\no\ne\nl\n-\nz\ne\nn\nn\no\nd\n \n:\n \ne\nu\nq\ni\nl\nb\nu\np\ne\no\nv\n \na\nl\n \nr\nu\ns\n \nl\na\nn\nr\nu\no\n'>
+<LTTextBoxHorizontal(34) 9.168,406.879,20.429,409.106 'i\n'>
+<LTTextBoxHorizontal(35) 9.168,413.770,20.429,415.961 ' \n'>
+<LTTextBoxHorizontal(36) 9.168,341.635,20.429,346.053 'j\n \n'>
+<LTTextBoxHorizontal(37) 9.168,298.408,20.429,341.635 'e\nc\n \ns\na\np\n \nz\ne\nt\ne\n'>
+<LTTextBoxHorizontal(38) 9.168,293.991,20.429,298.408 'j\n \n'>
+<LTTextBoxHorizontal(39) 9.168,284.382,20.429,293.991 'e\nn\n'>
+<LTTextBoxHorizontal(40) 9.168,279.867,20.429,284.382 ' \n,\n'>
+<LTTextBoxHorizontal(41) 9.168,239.496,20.429,241.722 'i\n'>
+<LTTextBoxHorizontal(42) 9.168,195.488,20.429,279.867 'é\nl\nc\ny\nc\ne\nr\n \nr\ne\np\na\np\n \nr\nu\ns\n \né\nm\n'>
+<LTTextBoxHorizontal(43) 9.168,177.026,20.429,195.488 'i\nr\np\nm\n'>
+<LTTextBoxHorizontal(44) 9.168,172.353,20.429,177.026 'I\n \n'>
+<LTImage(img0) 33.268,304.208,168.175,391.105 (188, 121)>
+<LTImage(img1) 188.596,713.583,355.193,824.432 (232, 154)>
+<LTImage(img2) 188.780,420.299,618.622,642.596 (598, 309)>
+<LTImage(img3) 188.780,642.034,618.622,674.002 (598, 45)>
+<LTImage(img4) 188.535,642.034,618.866,674.246 (598, 45)>
+<LTImage(img5) 193.490,650.710,273.094,670.763 (111, 28)>
+<LTImage(img6) 188.535,355.105,618.866,420.862 (598, 92)>
+<LTImage(img7) 188.535,159.888,222.195,355.667 (47, 272)>
+<LTImage(img8) 585.207,159.888,618.866,355.667 (47, 272)>
+<LTImage(img9) 188.290,159.644,221.950,420.861 (47, 363)>
+<LTImage(img10) 585.451,159.644,619.050,420.861 (47, 363)>
+<LTImage(img11) 190.860,250.134,590.419,368.559 (555, 165)>
+<LTImage(img12) 190.860,191.049,224.764,250.635 (48, 83)>
+<LTImage(img13) 490.138,191.049,590.419,250.635 (140, 83)>
+<LTImage(img14) 224.201,191.049,490.700,221.123 (371, 42)>
+<LTImage(img15) 197.956,198.809,516.945,269.637 (444, 99)>
+<LTImage(img16) 191.104,156.100,611.708,160.206 (585, 6)>
+<LTImage(img17) 191.104,160.071,611.770,199.310 (585, 55)>
+<LTImage(140656476339672) 191.104,159.888,611.770,160.633 (585, 2)>
+<LTImage(img18) 191.104,191.294,590.174,199.310 (555, 12)>
+<LTImage(img19) 34.675,42.391,617.337,139.370 (810, 135)>
+<LTImage(img20) 33.451,555.943,167.992,642.596 (187, 121)>
+----START-PAGE 2 ----
+<LTTextBoxHorizontal(0) 32.931,728.752,479.042,837.998 'Grand Paris\nLe prix du scooter électrique \nfait piler net les acheteurs\n'>
+<LTTextBoxHorizontal(1) 32.928,654.091,172.894,719.687 'Transports  \nL’offre actuelle ne \nsatisfait pas les lecteurs \nde « 20 Minutes » \n'>
+<LTTextBoxHorizontal(2) 172.696,582.132,180.202,613.434 ')\nn\no\ni\nt\na\nr\nt\ns\nu\nl\nl\ni\n(\n \n'>
+<LTTextBoxHorizontal(3) 172.696,547.849,180.202,582.282 'P\nF\nA\n \n/\n \no\na\nh\nZ\nW\n'>
+<LTTextBoxHorizontal(4) 172.696,552.418,180.202,555.315 ' \n.\n'>
+<LTTextBoxHorizontal(5) 89.556,548.287,117.932,572.063 'avec  \nvous\n'>
+<LTTextBoxHorizontal(6) 32.927,421.472,173.230,643.346 'Selon une étude de l’association envi-\nronnementale ICCT, à l’origine du scan-\ndale du « Dieselgate » et dévoilée mardi \ndernier, les émissions polluantes aux \noxydes d’azote (NOx) des voitures die-\nsel qui circulent à Paris dépassent les \nnormes eu-\nropéennes \nen vigueur. \nLes motos \net scooters sont particulièrement mis \nen cause, car ils émettent onze fois plus \nde monoxydes de carbone et six fois plus \nde NOx en moyenne qu’une voiture es-\nsence. Pour y mettre un frein, le scooter \nélectrique est une des solutions. Mais \nces nouveaux deux-roues sont loin de \nconquérir les internautes qui ont ré-\npondu à notre appel à témoins.\nLeur prix est tout d’abord la raison \npour laquelle Reda utilise toujours un \n'>
+<LTTextBoxHorizontal(7) 331.202,674.214,471.426,717.056 'en service, d’équipements, etc. C’est dé-\nrisoire », tranche Sébastien. L’offre est \npar ailleurs restreinte aux véhicules li-\nmités à 45 km/h.\n'>
+<LTTextBoxHorizontal(8) 331.202,421.474,471.494,664.823 'Autonomie trop faible\nLes questions pratiques suivent, comme \nun réseau de bornes de recharge insuf-\nﬁsant. « Je trouve facilement une sta-\ntion essence pour refaire le plein, rap-\npelle Amélie. Or, en électrique, si je ne \nfais pas gaffe, j’ai peur de me retrouver \nen rade. » D’autant que l’autonomie des \nvéhicules électriques est plus faible que \ncelle des scooters thermiques.\nQuelques internautes vantent, pour-\ntant, les mérites de leurs deux-roues \nélectriques. Leur « conduite est plus \nagréable », pour Christophe, et il n’y \na « pas de bruit, pas d’odeur, pas de \ntrace d’huile ou d’essence dans le ga-\nrage ». Certains lecteurs ont trouvé des \nsolutions transitoires, comme Jean-\nChristophe, qui « a ressorti [s]on vélo \nen attendant que des modèles de scoo-\nters électriques soient accessibles en \nmatière de prix et d’autonomie ». \n \n'>
+<LTTextBoxHorizontal(9) 387.483,421.474,469.235,430.802 'Juliette Desmonceaux\n'>
+<LTTextBoxHorizontal(10) 182.063,537.325,307.305,548.569 'L’électrique n’est pas fantastique.\n'>
+<LTTextBoxHorizontal(11) 182.065,421.479,322.318,527.501 'modèle essence : « Un scooter en occa-\nsion comme le mien coûte entre 1 700 € \net 2 200 €, selon le kilométrage et les \néquipements (…). Pour avoir un équiva-\nlent [électrique] il faut débourser près de \n5 000 € à 7 000 € », assure-t-il. Pourtant, \nune aide existe : la Mairie de Paris verse \n400 € aux particuliers qui achètent un \nscooter électrique.  « Avec ce montant, \nvous payez uniquement les frais de mise \n'>
+<LTTextBoxHorizontal(12) 520.660,811.124,618.737,837.895 '2\nMercredi 18 septembre 2019\n'>
+<LTTextBoxHorizontal(13) 480.339,642.613,616.107,759.179 'Une interne en médecine \npoignardée à mort. Une femme  \nde 27 ans a été retrouvée morte  \npar les secours lundi après-midi à \nson domicile de Saint-Ouen (Seine-\nSaint-Denis). Le corps de l’interne \nen médecine présentait « des \nplaies, inﬂigées à l’arme blanche », \na indiqué une source proche  \nde l’enquête. Mardi après-midi, \naucune interpellation n’avait eu lieu.\n'>
+<LTTextBoxHorizontal(14) 616.084,607.702,623.590,609.186 'i\n'>
+<LTTextBoxHorizontal(15) 616.084,563.803,623.590,615.169 'a\np\nS\n \n/\n \nD\nD\nJ\n \n/\n \ns\nn\no\ns\ns\ne\nD\n'>
+<LTTextBoxHorizontal(16) 616.084,561.059,623.590,563.953 ' \n.\n'>
+<LTTextBoxHorizontal(17) 616.084,557.689,623.590,561.209 'E\n'>
+<LTTextBoxHorizontal(18) 480.339,421.460,620.573,559.083 'Villani répond à Macron et dit être \n« déterminé à aller jusqu’au bout ».  \nLors d’une rencontre avec les \nparlementaires de la majorité  \net membres du gouvernement, \nEmmanuel Macron a dénoncé  \nceux qui, au sein de LREM, \ncritiquent la commission \nd’investiture et créent la division. \nDans la foulée, le candidat LREM \ndissident à la Mairie de Paris, \nCédric Villani, a assuré qu’il était \n« déterminé à aller jusqu’au bout ».\n'>
+<LTTextBoxHorizontal(19) 353.932,352.838,596.325,384.870 'DANS L’HÔTELLERIE RESTAURATION ?\n'>
+<LTTextBoxHorizontal(20) 374.720,302.989,592.458,407.310 'VOUS CHERCHEZ UN EMPLOI\nJEUDI19SEPTEMBRE2019\nDE9HÀ18H\nDE9HÀ18H\n'>
+<LTTextBoxHorizontal(21) 366.125,314.127,392.535,319.066 'Organisé par\n'>
+<LTTextBoxHorizontal(22) 207.849,241.950,245.902,259.347 'PARIS\n'>
+<LTTextBoxHorizontal(23) 524.402,289.889,595.118,301.110 'Entrée libre et gratuite\nEntrée libre et gratuite\n'>
+<LTTextBoxHorizontal(24) 536.184,278.187,583.351,289.404 'Se munir de CV\nSe munir de CV\n'>
+<LTTextBoxHorizontal(25) 87.036,67.564,265.551,91.935 '15 Rue de Turin • 75008 Paris\n'>
+<LTTextBoxHorizontal(26) 104.321,48.308,249.663,75.105 'Tél. : 01 83 95 42 54\n'>
+<LTTextBoxHorizontal(27) 392.887,57.940,557.367,104.253 'AU CENTQUATRE\n104 RUE D’AUBERVILLIERS • PARIS 19e\nPré-enregistrez-vous sur : www.lhr-emploi.fr\n'>
+<LTTextBoxHorizontal(28) 565.584,88.446,596.005,94.891 'Flashez-moi\n'>
+<LTImage(img0) 33.233,42.453,320.519,402.069 (400, 500)>
+<LTImage(img1) 86.583,46.201,268.114,84.388 (253, 54)>
+<LTImage(img2) 360.116,311.716,392.963,343.620 (46, 45)>
+<LTImage(img3) 392.877,311.716,425.724,343.620 (46, 45)>
+<LTImage(img4) 425.637,311.716,458.484,343.620 (46, 45)>
+<LTImage(img5) 458.398,311.716,491.288,343.620 (46, 45)>
+<LTImage(img2) 491.202,311.716,524.048,343.620 (46, 45)>
+<LTImage(img2) 523.962,311.716,556.809,343.620 (46, 45)>
+<LTImage(img6) 556.723,319.168,589.569,343.620 (46, 34)>
+<LTImage(img7) 360.116,279.897,392.963,311.802 (46, 45)>
+<LTImage(img8) 392.877,279.897,425.724,311.802 (46, 45)>
+<LTImage(img9) 425.637,279.897,458.484,311.802 (46, 45)>
+<LTImage(img10) 458.398,279.897,491.288,311.802 (46, 45)>
+<LTImage(img11) 491.202,279.897,524.048,311.802 (46, 45)>
+<LTImage(img2) 523.962,279.897,556.809,311.802 (46, 45)>
+<LTImage(img12) 556.723,279.897,589.569,302.952 (46, 33)>
+<LTImage(img13) 360.116,248.078,392.963,279.983 (46, 45)>
+<LTImage(img14) 392.877,248.078,425.724,279.983 (46, 45)>
+<LTImage(img15) 425.637,248.078,458.484,279.983 (46, 45)>
+<LTImage(img16) 458.398,248.078,491.288,279.983 (46, 45)>
+<LTImage(img17) 491.202,248.078,524.048,279.983 (46, 45)>
+<LTImage(img18) 523.962,248.078,556.809,279.983 (46, 45)>
+<LTImage(img2) 556.723,248.078,589.569,279.983 (46, 45)>
+<LTImage(img19) 360.116,216.259,392.963,248.164 (46, 45)>
+<LTImage(img20) 392.877,216.259,425.724,248.164 (46, 45)>
+<LTImage(img21) 425.637,216.259,458.484,248.164 (46, 45)>
+<LTImage(img22) 458.398,216.259,491.288,248.164 (46, 45)>
+<LTImage(img23) 491.202,216.259,524.048,248.164 (46, 45)>
+<LTImage(img24) 523.962,216.259,556.809,248.164 (46, 45)>
+<LTImage(img25) 556.723,216.259,589.569,248.164 (46, 45)>
+<LTImage(img26) 360.116,184.441,392.963,216.345 (46, 45)>
+<LTImage(img27) 392.877,184.441,425.724,216.345 (46, 45)>
+<LTImage(img28) 425.637,184.441,458.484,216.345 (46, 45)>
+<LTImage(img29) 458.398,184.441,491.288,216.345 (46, 45)>
+<LTImage(img30) 491.202,184.441,524.048,216.345 (46, 45)>
+<LTImage(img31) 523.962,184.441,556.809,216.345 (46, 45)>
+<LTImage(img32) 556.723,184.441,589.569,216.345 (46, 45)>
+<LTImage(img33) 360.116,152.622,392.963,184.526 (46, 45)>
+<LTImage(img34) 392.877,155.649,425.724,184.526 (46, 41)>
+<LTImage(img35) 425.637,161.005,458.484,184.526 (46, 33)>
+<LTImage(140656472639360) 458.398,166.362,491.288,184.526 (46, 26)>
+<LTImage(140656472640760) 491.202,171.951,524.048,184.526 (46, 18)>
+<LTImage(140656472639528) 523.962,177.307,556.809,184.526 (46, 11)>
+<LTImage(img36) 556.723,152.622,589.569,184.526 (46, 45)>
+<LTImage(img37) 360.116,120.803,384.282,152.707 (34, 45)>
+<LTImage(140656472638296) 550.474,120.803,556.809,121.967 (9, 2)>
+<LTImage(img38) 556.723,120.803,589.569,152.707 (46, 45)>
+<LTImage(img39) 360.116,88.984,392.963,120.889 (46, 45)>
+<LTImage(140656472640032) 392.877,88.984,425.724,109.477 (46, 29)>
+<LTImage(140656472639304) 425.637,88.984,458.484,108.546 (46, 28)>
+<LTImage(img40) 458.398,88.984,491.288,109.943 (46, 30)>
+<LTImage(img41) 491.202,88.984,524.048,115.998 (46, 38)>
+<LTImage(img2) 523.962,88.984,556.809,120.889 (46, 45)>
+<LTImage(img2) 556.723,88.984,589.569,120.889 (46, 45)>
+<LTImage(img42) 527.760,302.808,589.526,319.339 (86, 23)>
+<LTImage(140656472640424) 524.998,287.948,589.526,296.984 (90, 13)>
+<LTImage(img43) 537.405,93.162,568.476,120.683 (44, 39)>
+<LTImage(img44) 567.282,58.492,594.292,85.290 (38, 38)>
+<LTImage(140656470051360) 391.269,155.534,444.111,164.425 (74, 13)>
+<LTImage(img45) 444.025,155.534,505.402,174.485 (86, 27)>
+<LTImage(img46) 505.316,155.534,566.178,184.312 (85, 40)>
+<LTImage(img47) 383.249,126.798,444.111,155.619 (85, 41)>
+<LTImage(img48) 444.025,126.798,505.402,155.619 (86, 41)>
+<LTImage(img49) 505.316,126.798,566.650,155.619 (86, 41)>
+<LTImage(img50) 382.777,98.106,444.111,126.884 (86, 40)>
+<LTImage(img51) 444.025,101.147,505.402,126.884 (86, 36)>
+<LTImage(img52) 505.316,112.378,561.696,126.884 (79, 21)>
+<LTImage(140656486472504) 537.405,118.331,549.811,120.683 (18, 4)>
+<LTImage(img53) 181.800,547.849,320.372,712.186 (193, 229)>
+<LTImage(img54) 480.339,558.217,618.378,632.362 (192, 103)>
+----START-PAGE 3 ----
+<LTTextBoxHorizontal(0) 33.274,764.906,475.951,837.998 'Grand Paris\nDu danger dans l’air à l’école\n'>
+<LTTextBoxHorizontal(1) 520.660,811.124,618.737,837.895 '3\nMercredi 18 septembre 2019\n'>
+<LTTextBoxHorizontal(2) 33.282,654.647,163.380,751.518 'Pollution  \nUne étude publiée  \nce mercredi révèle  \ndes résultats \ninquiétants pour  \nprès de 1 000 écoliers \n'>
+<LTTextBoxHorizontal(3) 33.275,558.380,173.609,643.357 'Les jeunes élèves de Paris sont-ils \nsoumis à des taux élevés de pollution \natmosphérique ? C’est en tout cas ce \nqu’il ressort d’une étude effectuée au \nmois de mai dans six écoles primaires \net maternelles du centre de la capi-\ntale (soit environ 975 élèves) par France \nNature Environnement (FNE) fédéra-\n'>
+<LTTextBoxHorizontal(4) 173.043,590.168,180.549,593.062 ' \n.\n'>
+<LTTextBoxHorizontal(5) 173.043,579.416,180.549,590.304 'E\n-\n.\nC\n'>
+<LTTextBoxHorizontal(6) 173.043,627.484,180.549,628.945 ' \n'>
+<LTTextBoxHorizontal(7) 173.043,633.431,180.549,634.915 'i\n'>
+<LTTextBoxHorizontal(8) 173.043,592.912,180.549,648.697 's\ne\nt\nu\nn\nM\n0\n2\n \n/\n \nﬁ\nf\no\nK\na\nm\nA\n'>
+<LTTextBoxHorizontal(9) 173.043,604.305,180.549,605.765 ' \n'>
+<LTTextBoxHorizontal(10) 41.599,482.756,157.843,552.663 'La FNE surprise  \npar les résultats \npour les écoles \nsituées à proximité \nde travaux. \n'>
+<LTTextBoxHorizontal(11) 33.275,421.479,173.516,474.847 'tion de 3 500 associations spécialisées, \net dévoilée ce mercredi. Car les tubes \npassifs et les capteurs portatifs dispo-\nsés à l’intérieur des salles de classe et \ndans les cours de récréations ont donné \n'>
+<LTTextBoxHorizontal(12) 480.680,432.013,620.948,748.655 'interactive de la pollution de l’air à \nParis*. On y découvre que le nord-est \nde la capitale est le plus touché.\nJustement, dans le 18e, côté parents \nd’élèves ou côté direction d’école, \nc’est l’impuissance qui domine face \nà ce problème de santé publique. « A \nl’école, les enfants ne sont pas sensibi-\nlisés, déplore Asma, mère de trois en-\nfants. A la maison, je ne sais pas trop \nce qu’on peut faire. On essaye déjà de \nmoins utiliser la voiture. » Une direc-\ntrice conﬁe que, « à [s]on niveau, [elle \nn’a] encore eu aucune réunion d’in-\nformation sur ce sujet ». Alors, dans \nl’attente, « nous aérons les salles de \nclasse pendant la récréation et nous \nutilisons du savon noir, qui est moins \npolluant, pour les nettoyer ». Une bonne \ndémarche, mais insufﬁsante, aux yeux \nde Charlotte Lepitre : « Il faut que les \ndirecteurs d’établissement demandent \naux mairies de modiﬁer la circulation \naux abords des écoles pour les camions \nde livraison et augmentent le nombre \nde rues piétonnes près des établisse-\nments. » Des pistes qui mènent à un \nimportant chantier. \n \n* https://bit.ly/2kOg3oY\n'>
+<LTTextBoxHorizontal(13) 517.716,442.551,618.723,451.879 'Charles-Edouard Ama Kofﬁ\n'>
+<LTTextBoxHorizontal(14) 569.031,421.475,618.811,432.719 'Lire aussi p.6\n'>
+<LTTextBoxHorizontal(15) 182.415,568.911,469.250,580.156 'Les tests ont été réalisés le centre de Paris, mais le nord-est aussi est touché.\n'>
+<LTTextBoxHorizontal(16) 182.412,421.479,322.718,559.093 'des mesures indicatives inquiétantes.\nLe taux de dioxyde d’azote (NO2) est, \npar exemple, décrit comme « excep-\ntionnellement élevé » dans l’un des six \nétablissements. Il était en moyenne \négal à 52 μg/m3 d’air, alors que le ni-\nveau d’alerte est situé à 40 μg/m3 par \nl’Organisation mondiale de la santé \n(OMS). Trois autres établissements \nobtiennent également des résultats \npréoccupants, même si l’un d’entre eux \nse situe à proximité d’un parc. « Je me \ndoutais que les résultats n’allaient pas \n'>
+<LTTextBoxHorizontal(17) 331.549,421.464,471.811,559.093 'être satisfaisants pour les écoles si-\ntuées près des axes routiers, com-\nmente Charlotte Lepitre, responsable \nenvironnement à FNE. Mais je ne pen-\nsais pas que les résultats auraient aussi \nété importants pour les écoles à proxi-\nmité de travaux. » A ses yeux, on devrait \ndonc « obliger les maîtres d’ouvrage \nà communiquer auprès des écoles ».\nCette vaste étude de FNE réalisée sous \nl’égide de l’association européenne \nHealth est rendue publique au lende-\nmain de la présentation d’une carte \n'>
+<LTTextBoxHorizontal(18) 33.280,387.858,287.177,408.499 'SeaBubbles dans le grand bain \n'>
+<LTTextBoxHorizontal(19) 331.549,369.460,453.339,406.570 'La météo à Paris\nAUJOURD’HUI\n'>
+<LTTextBoxHorizontal(20) 480.680,369.460,509.878,380.648 'DEMAIN\n'>
+<LTTextBoxHorizontal(21) 354.677,352.249,377.270,362.526 'matin\n'>
+<LTTextBoxHorizontal(22) 413.789,352.249,456.527,362.526 'après-midi\n'>
+<LTTextBoxHorizontal(23) 504.453,352.249,527.035,362.526 'matin\n'>
+<LTTextBoxHorizontal(24) 562.941,352.249,605.660,362.526 'après-midi\n'>
+<LTTextBoxHorizontal(25) 318.157,239.305,325.663,272.355 'P\nF\nA\n \n/\n \nu\na\ne\nr\nu\nB\n'>
+<LTTextBoxHorizontal(26) 318.157,236.560,325.663,239.455 ' \n.\n'>
+<LTTextBoxHorizontal(27) 318.157,231.924,325.663,236.710 'M\n'>
+<LTTextBoxHorizontal(28) 354.216,289.856,377.737,301.417 '10 °C\n'>
+<LTTextBoxHorizontal(29) 422.359,289.856,447.651,301.417 '20 °C\n'>
+<LTTextBoxHorizontal(30) 505.753,289.862,524.963,301.427 '9 °C\n'>
+<LTTextBoxHorizontal(31) 571.723,289.862,597.022,301.427 '20 °C\n'>
+<LTTextBoxHorizontal(32) 331.550,263.320,384.652,274.508 'ET EN FRANCE\n'>
+<LTTextBoxHorizontal(33) 480.685,152.078,589.174,262.259 'Le sud du pays  \nprend la foudre\nLe temps est instable toute \nla journée avec des ondées \norageuses du Sud-Ouest  \nau Sud-Est. Le soleil  \npersiste dans le Nord,  \noù les températures  \nrestent plutôt fraîches.\n'>
+<LTTextBoxHorizontal(34) 33.270,168.735,313.955,229.513 'Innovation Cinq jours pour savoir si la circulation du taxi volant \nde la société franco-suédoise seaBubbles est viable dans l’intense traﬁc \nde la seine. depuis lundi, des tests en conditions réelles sont effectués \nsur le ﬂeuve parisien. Premier hic : pour « voler », l‘hydroptère doit \natteindre une vitesse de 30 km/h. Elle est limitée jusqu’ici à 18 km/h.\n'>
+<LTTextBoxHorizontal(35) 108.635,116.085,146.623,147.914 'avec  \nvous\n'>
+<LTTextBoxHorizontal(36) 182.415,121.869,311.456,151.698 'Tous les jours, suivez l’actualité  \nde votre région et participez !\nparis@20minutes.fr\n'>
+<LTTextBoxHorizontal(37) 119.212,83.556,121.661,94.053 ' \n'>
+<LTTextBoxHorizontal(38) 121.072,54.228,123.521,64.725 ' \n'>
+<LTTextBoxHorizontal(39) 245.677,93.333,248.126,103.829 ' \n'>
+<LTTextBoxHorizontal(40) 255.103,64.004,257.552,74.501 ' \n'>
+<LTTextBoxHorizontal(41) 305.053,54.228,309.951,64.725 '  \n'>
+<LTTextBoxHorizontal(42) 195.845,44.452,198.294,54.949 ' \n'>
+<LTImage(img0) 182.055,579.416,470.007,744.032 (400, 229)>
+<LTImage(img1) 331.549,41.270,618.725,119.146 (399, 109)>
+<LTImage(img2) 341.155,301.407,390.798,351.288 (69, 70)>
+<LTImage(img3) 410.174,301.407,459.817,351.288 (69, 70)>
+<LTImage(img4) 490.530,301.407,540.173,351.288 (69, 70)>
+<LTImage(img5) 559.550,301.407,609.192,351.288 (69, 70)>
+<LTImage(img6) 331.549,134.573,469.271,257.243 (192, 171)>
+<LTImage(img7) 331.549,134.618,469.588,256.874 (192, 170)>
+<LTImage(img8) 33.275,231.662,320.451,379.661 (399, 206)>
+----START-PAGE 4 ----
+<LTTextBoxHorizontal(0) 33.274,728.747,317.447,837.998 'ActuAlité\nPlan resserré face \nau traﬁc de drogue\n'>
+<LTTextBoxHorizontal(1) 33.274,667.977,282.609,717.895 'Stupéﬁants Le gouvernement a dévoilé  \nmardi une série de 55 mesures davantage \nrépressives que préventives \n'>
+<LTTextBoxHorizontal(2) 33.275,421.479,173.594,653.878 'Plus de trois milliards d’euros par an, \nc’est ce que génère, selon les autori-\ntés, le traﬁc de drogue chaque année \nen France. Son coût sanitaire, lui, est \nestimé à huit milliards d’euros. Les ef-\nforts entrepris par la police et la gendar-\nmerie ne sufﬁsant plus, « une réforme \nétait devenue nécessaire, impérative, \nmême », a souligné le ministre de l’In-\ntérieur, Christophe Castaner, mardi à \nMarseille, où il a dévoilé un nouveau \nplan antidrogue de 55 mesures.\nLa plus emblématique ? Le remplace-\nment de l’OCRTIS (Ofﬁce central pour \nla répression du traﬁc illicite de stupé-\nﬁants), dont la réputation a été entachée \nces dernières années par une série de \nscandales, par l’Ofast (Ofﬁce antistupé-\nﬁants). Cette structure, qui comptera \n150 enquêteurs, aura pour mission de \ncentraliser les informations recueillies \npar l’ensemble des unités luttant contre \n'>
+<LTTextBoxHorizontal(3) 182.412,589.973,322.709,653.871 'le traﬁc de drogue et de « coordonner » \nleur action. Disposant de 16 antennes \nréparties sur tout le territoire, l’Ofast \ndevrait être opérationnel dès le 1er jan-\nvier. Il sera dirigé par une contrôleuse \ngénérale, Stéphanie Cherbonnier, ac-\n'>
+<LTTextBoxHorizontal(4) 190.736,497.216,314.964,580.812 'Une plateforme \nd’appels permettant \naux habitants \nde signaler les \npoints de vente  \nva être lancée.\n'>
+<LTTextBoxHorizontal(5) 182.412,421.479,322.619,485.377 'tuelle conseillère « justice » du direc-\nteur général de la police nationale. Elle-\nmême sera secondée par le procureur \nde Bayonne, Samuel Vuelta-Simon. \nAutre objectif du plan : « améliorer la col-\nlecte et le partage de renseignement ». \n'>
+<LTTextBoxHorizontal(6) 322.180,628.251,329.686,691.537 ')\nn\no\ni\nt\na\nr\nt\ns\nu\nl\nl\ni\n(\n \na\np\nS\n \n/\n \no\ni\nl\ni\ng\nr\ni\nV\n'>
+<LTTextBoxHorizontal(7) 322.180,652.909,329.686,654.393 'i\n'>
+<LTTextBoxHorizontal(8) 322.180,625.506,329.686,628.401 ' \n.\n'>
+<LTTextBoxHorizontal(9) 322.180,620.870,329.686,625.656 'M\n'>
+<LTTextBoxHorizontal(10) 520.660,811.124,618.737,837.895 '4\nMercredi 18 septembre 2019\n'>
+<LTTextBoxHorizontal(11) 331.550,611.037,617.996,622.281 'le ministère de l’intérieur veut davantage coordonner la lutte antistupéﬁants.\n'>
+<LTTextBoxHorizontal(12) 331.549,421.479,471.871,601.217 'Pour cela, le premier ﬂic de France \ncompte pour cela s’appuyer sur les \n28 cellules du renseignement opéra-\ntionnel contre les stupéﬁants (Cross) \ndéjà existantes et les 3 nouvelles qui \ndevraient être opérationnelles d’ici à \nla ﬁn de l’année. \nPar ailleurs, le locataire de la Place \nBeauvau souhaite s’attaquer plus lour-\ndement « au patrimoine des dealers, \nqu’il s’agisse des grands pontes ou \ndes petites mains ». « Aujourd’hui, sur \n500 millions d’avoirs criminels saisis, \nseulement 10 % sont issus des traﬁcs de \nstupéﬁants », déplore-t-il. Avant d’ajou-\nter : « Lutter contre la drogue, c’est lut-\nter pour nos territoires. » Comment ? \n'>
+<LTTextBoxHorizontal(13) 480.680,421.479,621.002,601.215 '« En éloignant plus systématiquement \nles traﬁquants » des quartiers, en lan-\nçant une plateforme d’appels per-\nmettant aux habitants de signaler les \npoints de vente et, enﬁn, en lançant une \n« grande campagne de sensibilisation » \naﬁn de « casser l’image festive et joviale \nde la drogue », « alerter sur les risques \nsanitaires et rappeler les sanctions pé-\nnales encourues ».\nAlors que plusieurs pays européens \nont dépénalisé l’usage de cannabis \n(de loin la drogue la plus consommée \nen France, 30 t sont importées chaque \nmois), le gouvernement fait donc le pari \nde la répression davantage que celui de \nla prévention. \nThibaut Chevillard\n'>
+<LTTextBoxHorizontal(14) 33.372,385.449,222.624,412.323 'VOtRE SOiRéE télé\n'>
+<LTTextBoxHorizontal(15) 58.034,352.408,605.703,371.061 'aime pousser les meubles et prolonger l’été devant « La Story de la musique latino », sur CStar\n'>
+<LTTextBoxHorizontal(16) 46.818,296.735,108.826,310.478 '21 h 05 Série\n'>
+<LTTextBoxHorizontal(17) 145.856,296.735,207.864,310.478 '21 h 05 Série\n'>
+<LTTextBoxHorizontal(18) 235.096,296.735,317.486,310.478 '21 h 05 Magazine\n'>
+<LTTextBoxHorizontal(19) 353.231,296.735,400.327,310.478 '21 h Docu\n'>
+<LTTextBoxHorizontal(20) 433.946,296.735,516.336,310.478 '20 h 50 Magazine\n'>
+<LTTextBoxHorizontal(21) 546.502,296.735,600.660,310.478 '21 h 05 Jeu\n'>
+<LTTextBoxHorizontal(22) 33.271,138.631,123.807,270.119 'GOOD DOCTOR\nDe Sharat Raju, \navec Freddie Highmore. \n« Deux poids, \nGOOD DOCTOR\ndeux mesures ».\nLa convalescence du docteur \nDe Sharat Raju, \nGlassman est plus laborieuse \navec Freddie Highmore. \nque  Shaun  ne  le  pensait \n« Deux poids, \net ce dernier s’inquiète. \ndeux mesures ».\n21 h 55 GOOD DOCTOR \nLa convalescence du docteur \nAvec Freddie Highmore, \nGlassman est plus laborieuse \nNicholas Gonzalez.\nque  Shaun  ne  le  pensait \n« Une oreille attentive ».\net ce dernier s’inquiète. \n'>
+<LTTextBoxHorizontal(23) 132.700,138.811,223.138,270.109 'ALEX HUGO\nAvec Samuel Le Bihan. \n« Sur la route ».\nLors d’un braquage de banque, \nALEX HUGO\nune adolescente de Lusagne \nest blessée. Alex est touché \nAvec Samuel Le Bihan. \npar son sort et le désespoir \n« Sur la route ».\ndu père. Il commence alors \nLors d’un braquage de banque, \nson enquête.\nune adolescente de Lusagne \n22 h 40 ALEX HUGO \nest blessée. Alex est touché \nAvec Samuel Le Bihan, \npar son sort et le désespoir \nLionnel Astier.\ndu père. Il commence alors \n« L’étrangère ».\nson enquête.\n'>
+<LTTextBoxHorizontal(24) 232.130,127.598,322.648,270.109 "DES RACINES \nET DES AILES\n« La tour Eiffel a 130 ans ». \nCarole Gaessler nous invite \nDES RACINES \nà redécouvrir ce chef-d’œuvre \nde l’architecture, lieu d'inno-\nET DES AILES\nvations,  théâtre  de  grands \n« La tour Eiffel a 130 ans ». \névènements et emblème de \nCarole Gaessler nous invite \nla France. \nà redécouvrir ce chef-d’œuvre \n23 h 10 RÉSEAU \nde l’architecture, lieu d'inno-\nD’ENQUÊTES\nvations,  théâtre  de  grands \nPrésenté par \névènements et emblème de \nCharles-Henry Boudet.\nla France. \n23 h 10 RÉSEAU\n">
+<LTTextBoxHorizontal(25) 331.550,138.631,422.647,270.109 'MEILLEURS ENNEMIS\nDe Benjamin Carle \net  Félix Seger.\nEntre anecdotes historiques, \nMEILLEURS ENNEMIS\nquestionnement  personnel \net rencontres, Benjamin Carle \nDe Benjamin Carle \nfait  le  bilan  de  la  relation \net  Félix Seger.\nentre la France et l’Angleterre, \nEntre anecdotes historiques, \nvieux ennemis historiques. \nquestionnement  personnel \n22 h 20 LA GAULE \net rencontres, Benjamin Carle \nD’ANTOINE\nfait  le  bilan  de  la  relation \n« La Gaule \nentre la France et l’Angleterre, \nsave the Queen ».\nvieux ennemis historiques. \n'>
+<LTTextBoxHorizontal(26) 430.130,137.030,523.629,269.933 'LA GRANDE \nLIBRAIRIE\n« Thème : La mère ».\nNathacha  Appanah  (Le  Ciel \nLA GRANDE \npar-dessus \nle \ntoit),  Eric-\nLIBRAIRIE\nEmmanuel  Schmitt  (Journal \nd’un  amour  perdu)  et \n« Thème : La mère ».\nBrigitte  Giraud  (Jour  de \nNathacha  Appanah  (Le  Ciel \ncourage) sont invités.\npar-dessus \ntoit),  Eric-\n22 h 25 C DANS L’AIR \nEmmanuel  Schmitt  (Journal \nMagazine. \nd’un  amour  perdu)  et \nPrésenté par \nBrigitte  Giraud  (Jour  de \nCaroline Roux.\ncourage) sont invités.\n'>
+<LTTextBoxHorizontal(27) 471.807,174.707,479.299,185.262 'le \n'>
+<LTTextBoxHorizontal(28) 529.825,138.233,618.646,269.992 'LE MEILLEUR\nPÂTISSIER\nPrésenté par \nJulia Vignali.\nLE MEILLEUR\n« Au camping ».\ndeuxième \ncette \nPour \nPÂTISSIER\nsemaine  de  concours,  la \nPrésenté par \npromotion  de  pâtissiers \nJulia Vignali.\nva  partir… au camping.\n« Au camping ».\n23 h 30 LE MEILLEUR \ndeuxième \nPour \ncette \nPÂTISSIER : \nsemaine  de  concours,  la \nÀ VOS FOURNEAUX !\npromotion  de  pâtissiers \n« Au camping ».\nva  partir… au camping.\n'>
+<LTTextBoxHorizontal(29) 33.339,37.852,118.174,111.186 '20 h 55 CORPORATE\nThriller. 2016. France.\nAvec Céline Sallette.\n22 h 30 LA FRÉNÉSIE\nDES COLLECTIONNEURS\nCHINOIS\nDocumentaire.\n'>
+<LTTextBoxHorizontal(30) 132.709,37.855,211.567,110.976 '21 h ENQUÊTE \nSOUS HAUTE TENSION\nMagazine.\n« Un été chaud \nsur la Côte d’Azur ».\n23 h ENQUÊTE\nSOUS HAUTE TENSION\n'>
+<LTTextBoxHorizontal(31) 232.139,38.325,302.294,110.987 '21 h 05 ENQUÊTES \nCRIMINELLES \nPrésenté par \nNathalie Renoux. \nDeux reportages. \n23 h 10 ENQUÊTES \nCRIMINELLES\n'>
+<LTTextBoxHorizontal(32) 331.567,38.744,401.564,111.188 '21 h 15 FLORENCE \nFORESTI\n« Motherfucker ». \n23 h 10 FLORENCE \nFORESTI \nFAIT DES SKETCHS \nÀ LA CIGALE\n'>
+<LTTextBoxHorizontal(33) 430.988,37.845,518.119,110.987 '21 h 05 CAMPING \nPARADIS\nAvec Laurent Ournac.\n« Eclipse au camping ».\n23 h CAMPING PARADIS\nAvec Laurent Ournac.\n« Cœur à cœur ».\n'>
+<LTTextBoxHorizontal(34) 529.716,37.872,606.801,110.966 '21 h 05 ELITE SQUAD\nDe Matthew Hope, \navec William Fichtner,\nMilo Gibson.\n23 h PAY THE GHOST\nD’Uli Edel, \navec Nicolas Cage.\n'>
+<LTImage(img0) 33.237,269.856,121.543,307.132 (123, 52)>
+<LTImage(img1) 132.840,269.978,220.928,307.122 (123, 52)>
+<LTImage(img2) 232.187,269.901,320.278,307.147 (123, 52)>
+<LTImage(img3) 331.655,269.933,419.746,307.108 (123, 52)>
+<LTImage(img4) 431.123,269.950,519.211,307.094 (123, 52)>
+<LTImage(img5) 529.498,269.826,617.640,307.102 (123, 52)>
+<LTImage(img6) 42.506,111.480,112.278,130.836 (97, 27)>
+<LTImage(140656476829120) 162.411,113.676,191.309,128.641 (41, 21)>
+<LTImage(140656476828896) 260.855,112.242,291.630,130.074 (43, 25)>
+<LTImage(140656476829792) 354.909,113.469,396.389,128.917 (58, 22)>
+<LTImage(img7) 449.301,111.910,500.970,130.316 (72, 26)>
+<LTImage(140656476827832) 558.346,112.291,588.728,130.026 (43, 25)>
+<LTImage(img8) 33.237,228.957,121.543,289.890 (123, 85)>
+<LTImage(img9) 46.915,317.336,107.995,339.391 (85, 31)>
+<LTImage(img10) 132.840,229.079,220.928,289.796 (123, 85)>
+<LTImage(img11) 136.039,315.309,217.541,341.534 (114, 37)>
+<LTImage(img12) 232.187,229.002,320.278,289.885 (123, 85)>
+<LTImage(img13) 235.464,315.309,316.966,341.534 (114, 37)>
+<LTImage(img14) 331.655,229.034,419.746,289.801 (123, 85)>
+<LTImage(img15) 336.905,318.686,414.429,338.043 (108, 27)>
+<LTImage(img16) 431.123,229.051,519.211,289.767 (123, 85)>
+<LTImage(img17) 433.644,314.323,516.453,340.550 (116, 37)>
+<LTImage(img18) 529.498,228.927,617.640,289.859 (123, 85)>
+<LTImage(140656466717944) 558.424,317.279,588.649,339.449 (42, 31)>
+<LTImage(img19) 331.549,621.258,618.725,790.376 (399, 235)>
+----START-PAGE 5 ----
+<LTTextBoxHorizontal(0) 66.033,568.751,414.242,797.711 'EXPERT\nEN OPÉRATIONS \nDENTAIRES\nMAIS PAS\nEN OPÉRATIONS \nBANCAIRES ? \n'>
+<LTTextBoxHorizontal(1) 67.560,460.221,371.301,526.818 'Vous êtes 100% dédié à votre activité,\nnos conseillers sont 100% dédiés aux pros.\nCe sont les mieux placés pour\nvous accompagner au quotidien.\n'>
+<LTTextBoxHorizontal(2) 68.393,61.414,583.545,68.469 'Société Générale – S.A. au capital de 1 066 714 367,50 € – 552 120 222 RCS PARIS – Siège social : 29, bd Haussmann, 75009 PARIS – Crédit photo : Julien Lienard – Septembre 2019.\n'>
+<LTImage(img0) 33.263,42.407,618.874,824.887 (814, 1087)>
+----START-PAGE 6 ----
+<LTTextBoxHorizontal(0) 33.278,764.929,468.996,837.998 'ActuAlité\nUne bouffée d’idées fraîches\n'>
+<LTTextBoxHorizontal(1) 520.660,811.124,618.737,837.895 '6\nMercredi 18 septembre 2019\n'>
+<LTTextBoxHorizontal(2) 33.282,670.316,158.965,751.548 'Pollution Des \nindustriels proposent \nde nombreuses \nsolutions pour capter \nles émissions nocives\n'>
+<LTTextBoxHorizontal(3) 33.275,495.192,173.577,653.871 'La couleur n’est pas appétissante. Mais \nsi l’on regarde sous le capot de la co-\nlonne de 4 m de haut, plantée en face \nde la gare de Poissy (Yvelines), et que \nl’eau du tube au centre a cette teinte \nverdâtre, c’est bon signe. Cela veut \ndire que ce puits de carbone remplit \nson rôle : capter les particules ﬁnes \net le dioxyde d’azote (NO2) présents \ndans l’air pour le rendre, à la sortie, \nplus propre – ces deux polluants ma-\njeurs dans les villes et pour lesquels \nla France accuse des dépassements \nrépétés des seuils d’exposition déﬁ-\nnis par l’Union européenne – \n'>
+<LTTextBoxHorizontal(4) 172.960,516.256,180.466,529.818 ' \nz\ne\nu\nS\n'>
+<LTTextBoxHorizontal(5) 33.275,263.516,173.596,485.801 'Résultats probants\nL’installation est curieuse, mais pas \nunique, comme le constate 20 Minutes \nà l’occasion, ce mercredi, de la Journée \nmondiale de la qualité de l’air. Suez \net Fermentalg, PME bordelaise spé-\ncialisée dans les biotechnologies, ses \nconcepteurs, ont mis en place un pre-\nmier puits de carbone près de la sta-\ntion Alésia (Paris, 14e), de l’été 2017 à \nl’été 2018. En parallèle, le groupe Suez \ndéveloppe une autre solution de puits \nde carbone, placés cette fois-ci dans \nles cheminées d’usine, où l’enjeu pre-\nmier est de capter le CO2 et ainsi lutter \ncontre le réchauffement climatique. \n« Vous avez cent fois plus de CO2 dans \nune fumée industrielle que dans l’air \nambiant d’une ville », rappelle Jérôme \nArnaudis, directeur du pôle air de Suez.\nCes diverses expérimentations ont \n'>
+<LTTextBoxHorizontal(6) 169.020,94.121,176.526,95.605 'i\n'>
+<LTTextBoxHorizontal(7) 169.020,69.386,176.526,101.600 'a\np\nS\n \n/\n \nt\ne\nr\nf\nf\nu\nA\n'>
+<LTTextBoxHorizontal(8) 169.020,66.642,176.526,69.536 ' \n.\n'>
+<LTTextBoxHorizontal(9) 169.020,63.430,176.526,66.791 'L\n'>
+<LTTextBoxHorizontal(10) 33.280,42.370,150.283,64.143 'les feux de forêt pourraient  \nse multiplier, selon les experts.\n'>
+<LTTextBoxHorizontal(11) 182.327,505.728,453.361,516.973 'A l’intérieur de cette colonne, des microalgues mangeuses de polluants. \n'>
+<LTTextBoxHorizontal(12) 182.406,263.512,322.699,495.903 'abouti à de premiers résultats. Dans \nles cheminées d’usine, un puits de car-\nbone permettrait de remplir le rôle de \n75 arbres, indique Suez. En milieu ur-\nbain, entre le moment où il entre dans \nla colonne et celui où il en sort, « l’air \nest déchargé de 66 à 99 % de ses par-\nticules ﬁnes et de 76 à 97 % du dioxyde \nd’azote, annonce Jérôme Arnaudis. \nNous estimons qu’un puits de car-\nbone permet de capter l’équivalent \ndes émissions de 150 voitures. »\nSuez et Fermentalg ne sont pas les \nseuls à plancher sur le sujet. On peut \nciter Airlab, un accélérateur de so-\nlutions innovantes sur la qualité de \nl’air. Toutefois, c’est surtout dans les \nstations de métro que les projets se \nmultiplient, car la pollution aux parti-\ncules ﬁnes peut y être jusqu’à 30 fois \nplus élevée qu’à l’air libre, relevait  \nLe Parisien en mars. En collaboration \n'>
+<LTTextBoxHorizontal(13) 331.549,263.524,471.837,495.908 'avec la RATP, Suez expérimente ainsi \nle projet « Ip’Air » à la station de métro \nAlexandre-Dumas, depuis juin. Le \nconcept : installer des ﬁltres capables \nd’aimanter et de collecter les parti-\ncules ﬁnes. Air Liquide ou l’entreprise \nTallano misent elles aussi sur ces « as-\npirateurs » de polluants.\n« Tout progrès est bon à prendre, relève \nOlivier Blond, président de Respire, as-\nsociation nationale pour la prévention \net la qualité de l’air. Mais ces projets \nne doivent pas faire oublier que le pre-\nmier combat est de baisser nos émis-\nsions de gaz à effet de serre et de pol-\nluants. » Les industriels ne devraient \ntoutefois pas se détourner de sitôt d’un \nmarché aussi porteur. En 2015, un rap-\nport du Sénat évaluait à 100 milliards \nd’euros le coût de la pollution de l’air, \nchaque année en France.  \n \n'>
+<LTTextBoxHorizontal(14) 403.266,263.524,469.581,272.852 'Fabrice Pouliquen\n'>
+<LTTextBoxHorizontal(15) 182.412,42.371,418.709,250.532 'Des scénarios pires que prévu\nClimat Le réchauffement cli-\nmatique s’annonce plus prononcé que \nprévu, ont averti mardi une centaine de \nchercheurs et d’ingénieurs français, no-\ntamment du CNRS, du Commissariat à \nl’énergie atomique et de Météo-France.\nDans le scénario le plus pessimiste, \nbasé sur une croissance économique \nrapide alimentée par les énergies \nfossiles, la hausse de la température \nmoyenne mondiale atteint 6,5 à 7 °C \nen 2100. Dans le dernier rapport du \nGroupe d’experts intergouvernemen-\ntal sur l’évolution du climat (Giec) de \n2014, le pire scénario prévoyait +4,8 °C \npar rapport à la période préindus-\ntrielle. Qu’est-ce que cela signiﬁerait \n'>
+<LTTextBoxHorizontal(16) 331.539,42.369,471.992,222.107 'concrètement pour les sociétés hu-\nmaines ? En France, la canicule de 2003, \nqui avait tué 15 000 personnes dans \nl’Hexagone, deviendrait la norme dès \nles années 2050. Cela s’accompagne-\nrait de « sécheresses beaucoup plus \nlongues et étendues », « des feux de \nforêt qui se multiplient dans des ré-\ngions où aujourd’hui ils ne sont pas \ntrop fréquents ».\nL’accord de Paris sur le climat de \n2015 prévoit de limiter le réchauffement \nde la planète bien en dessous de 2 °C, \nvoire 1,5 °C. Le monde n’en prend pas \nle chemin, puisque les engagements \npris jusqu’à présent par les Etats en-\ntraîneraient un réchauffement de 3 °C.\n'>
+<LTTextBoxHorizontal(17) 480.683,642.628,620.259,759.198 'Cinq femmes suspectées dans \nl’attentat de Condé-sur-Sarthe. \nElles ont été interpellées dans  \nles Alpes-Maritimes, les Bouches-\ndu-Rhône, les Hauts-de-Seine, la \nSeine-Saint-Denis et le Loiret. Cinq \nfemmes étaient en garde à vue, \nmardi, dans l’enquête sur l’attaque \nau couteau survenue le 5 mars \ndans la prison de Condé-sur-Sarthe \n(Orne), a révélé Le Parisien.\n'>
+<LTTextBoxHorizontal(18) 480.683,526.758,615.504,632.818 'Le bras de fer de la CGT contre \nFord à Blanquefort continue. La \nCGT de l’usine Ford de Blanquefort \n(Gironde) a annoncé qu’elle  \nse pourvoyait en cassation après \nle rejet, mardi, par la cour d’appel \nde Bordeaux, de sa demande \nde reconnaître que la fermeture  \ndu site n’était pas motivée  \npar des impératifs économiques.\n'>
+<LTTextBoxHorizontal(19) 480.683,431.985,613.912,516.968 'L’égalité salariale à la peine dans \n17 % d’entreprises. Près de 17 % \ndes entreprises ayant publié leur \nindex de l’égalité professionnelle \nentre les femmes et les hommes \n(800 sur 4 772) sont en deçà de la \nnote limite de 75 sur 100, a indiqué \nmardi la ministre Muriel Pénicaud.\n'>
+<LTTextBoxHorizontal(20) 480.683,337.203,618.558,422.175 'En Israël, Nétanyahou et Gantz  \nau coude-à-coude. Mardi à 21 h 30, \nselon de premiers sondages, les \npartis du Premier ministre \nisraélien, Benjamin Nétanyahou \n(droite), et de son rival Benny Gantz \n(centre) étaient au coude-à-coude à \nl’issue des législatives israéliennes.\n'>
+<LTTextBoxHorizontal(21) 480.683,231.882,620.740,327.393 'Explosion dans un centre d’armes \nbiologiques russes. Une explosion \na frappé lundi un ancien centre de \ndéveloppement d’armes biologiques \nde l’époque soviétique, l’une des \ndeux seules structures au monde \nrenfermant le virus de la variole. \nMoscou a démenti toute menace  \nde contamination.\n'>
+<LTTextBoxHorizontal(22) 480.683,147.629,613.472,222.072 'L’Espagne se prépare à retourner \naux urnes. Faute de majorité, le \nchef du gouvernement socialiste \nespagnol sortant, Pedro Sanchez, \na annoncé que les Espagnols \ndevront retourner aux urnes, pour \nla quatrième fois en quatre ans.\n'>
+<LTTextBoxHorizontal(23) 519.680,126.870,579.725,138.459 'LE CHIFFRE\n'>
+<LTTextBoxHorizontal(24) 536.593,100.072,562.800,130.689 '33\n'>
+<LTTextBoxHorizontal(25) 487.615,84.493,616.321,95.681 'milliards d’euros d’investissements  \n'>
+<LTTextBoxHorizontal(26) 493.312,52.906,610.625,85.152 'sur quinze ans sont nécessaires  \npour moderniser et numériser  \nle système électrique français.\n'>
+<LTTextBoxHorizontal(27) 542.830,42.386,556.605,54.161 'RTE\n'>
+<LTImage(img0) 182.412,515.948,469.588,744.094 (399, 317)>
+<LTImage(img1) 32.964,63.430,171.596,242.455 (193, 249)>
+----START-PAGE 7 ----
+<LTTextBoxHorizontal(0) 45.835,565.068,605.061,771.490 'L A IT  BON P OUR\nM O N  T E I N T\n'>
+<LTTextBoxHorizontal(1) 51.076,508.534,603.403,560.481 'PURELY ESSENTIAL LAIT MICELLAIRE DISPONIBLE CHEZ MONOPRIX\nJUSQU’AU 23 SEPTEMBRE *\n'>
+<LTTextBoxHorizontal(2) 385.927,425.159,476.220,473.980 '-70 %\n-70 %\n'>
+<LTTextBoxHorizontal(3) 384.288,392.616,477.595,426.783 'SUR LE 2ÈME ARTICLE\nSUR LE 2ÈME ARTICLE\nSUR LE 2ÈME ARTICLE\nIMMÉDIATEMENT\nIMMÉDIATEMENT\n'>
+<LTTextBoxHorizontal(4) 471.623,438.403,478.692,448.682 '**\n'>
+<LTTextBoxHorizontal(5) 52.689,56.604,601.047,88.298 '* Le 22 septembre, uniquement pour les magasins ouverts le dimanche. ** Remise immédiate en caisse sur le moins cher des 2 produits au choix sur présentation de la Carte de\nFidélité Monoprix. Offre non cumulable avec toute autre offre ou promotion en cours. Panachage possible avec les soins et la toilette du visage de la marque Diadermine (hors\nparapharmacie).Voir conditions de la Carte de Fidélité Monoprix en magasin ou sur monoprix.fr. Monoprix – SAS au capital de 78 365 040 € - 14-16, rue Marc Bloch – 92110 Clichy \n– 552 018 020 R.C.S. Nanterre – \n'>
+<LTTextBoxHorizontal(6) 174.313,56.609,221.191,64.651 ' – Pré-presse : \n'>
+<LTImage(img0) 241.979,488.204,543.501,521.715 (419, 47)>
+<LTImage(img1) 108.415,86.303,409.937,119.815 (419, 47)>
+<LTImage(img2) 240.331,165.126,412.056,497.643 (239, 462)>
+<LTImage(img3) 240.331,99.047,412.056,165.598 (239, 93)>
+<LTImage(140656467105048) 378.607,403.481,386.616,416.461 (12, 19)>
+----START-PAGE 8 ----
+<LTTextBoxHorizontal(0) 33.372,811.124,127.752,837.998 'Dix News\n'>
+<LTTextBoxHorizontal(1) 55.751,764.933,296.849,806.207 'Un futur record \n'>
+<LTTextBoxHorizontal(2) 33.285,728.757,228.143,770.030 'au sommet ?\n'>
+<LTTextBoxHorizontal(3) 520.660,811.124,618.737,837.895 '8\nMercredi 18 septembre 2019\n'>
+<LTTextBoxHorizontal(4) 33.275,579.427,173.537,717.056 'Foncer jusqu’en haut, dévaler jusqu’au \ncamp de base, sauter dans un hélico, \nenchaîner avec un autre pic enneigé : \nl’alpiniste népalais Nirmal Purja n’est \nqu’à quelques longueurs de réussir son \npari. Il s’est ﬁxé comme objectif surhu-\nmain de gravir 14 montagnes de plus \nde 8 000 m d’altitude en seulement \nsept mois – contre près de huit ans \npour le record actuel. « Personne ne \ncroyait que je pouvais le faire lorsque \nje l’ai dit pour la première fois », a ra-\nconté « Nims » à l’AFP par téléphone \n'>
+<LTTextBoxHorizontal(5) 33.282,537.327,140.636,578.160 '2 Chuang Chuang,  \n'>
+<LTTextBoxHorizontal(6) 58.592,537.327,150.104,548.993 'chaste jusqu’à la ﬁn\n'>
+<LTTextBoxHorizontal(7) 170.199,436.253,177.705,477.863 'P\nF\nA\n \n/\n \nl\nu\nk\na\ns\ng\nn\no\nw\n'>
+<LTTextBoxHorizontal(8) 170.199,426.302,177.705,436.391 'i\nt\nt\ni\nK\n'>
+<LTTextBoxHorizontal(9) 170.199,423.560,177.705,426.452 ' \n.\n'>
+<LTTextBoxHorizontal(10) 170.199,420.655,177.705,424.350 'P\n'>
+<LTTextBoxHorizontal(11) 33.275,263.516,173.572,422.192 'Les Thaïlandaises et les Thaïlandais se \nsont réveillés mardi matin en appre-\nnant la mort au zoo de Chiang Mai du \npanda géant Chuang Chuang. Il avait \nété prêté par la Chine en 2003 en com-\npagnie d’une femelle, Lin Hui. Ils vi-\nvaient tous les deux dans un enclos \nclimatisé où tout était fait pour favo-\nriser leur accouplement. Mais l’appé-\ntit sexuel quasi inexistant du panda \nmâle était devenu un sujet d’intrigue \ndans le pays. Chuang Chuang, âgé de  \n19  ans,  a  consacré  ses  dernières \nheures à manger du bambou, son acti-\nvité favorite, selon le directeur du zoo.\n'>
+<LTTextBoxHorizontal(12) 182.406,579.444,322.738,717.060 'depuis le camp de base chinois du \nCho Oyu (8 188 m), où il est engagé \ndans la troisième et dernière phase \nde son Project Possible. « Je suis si \nﬁer d’inspirer des générations de tous \nâges à travers cette aventure. C’est ce \nqui me motive », a déclaré ce vétéran \ndes forces spéciales britanniques de \n36 ans à la ﬁne moustache brune, dont \nle dos est tatoué des 14 « 8 000 » de la \nTerre – tous situés dans l’Himalaya. Il \nlui reste trois sommets à gravir d’ici \nﬁn novembre.\n'>
+<LTTextBoxHorizontal(13) 322.250,589.841,329.755,650.146 'P\nF\nA\n \n/\n \na\nm\ne\nh\nt\na\nM\nh\ns\na\nk\na\nr\nP\n'>
+<LTTextBoxHorizontal(14) 322.250,610.436,329.755,611.897 ' \n'>
+<LTTextBoxHorizontal(15) 182.412,537.318,302.138,578.138 '3 Un ancien continent \n'>
+<LTTextBoxHorizontal(16) 182.412,400.420,322.728,548.984 'découvert sous l’Europe\nLe bassin méditerranéen cacherait dans \nses profondeurs les vestiges du Grand \nAdria, un immense continent qui aurait \npercuté le sud de l’Europe il y a 120 mil-\nlions d’années, selon une étude publiée \ndans la revue Gondwana Research. Selon \nles géologues, la masse de terre serait \nnée il y a 240 millions d’années. Au mo-\nment du choc tectonique avec l’Europe, \nla quasi-intégralité du Grand Adria au-\nrait glissé sous le Vieux Continent. Les \nrestes seraient disséminés entre l’Es-\npagne et l’Iran.\n'>
+<LTTextBoxHorizontal(17) 182.412,358.297,322.861,399.102 '4 Brad Pitt est de nouveau \n'>
+<LTTextBoxHorizontal(18) 207.736,358.297,283.370,369.962 'connecté à la foi\n'>
+<LTTextBoxHorizontal(19) 182.412,263.516,322.688,359.007 'Il se disait athée ou agnostique, mais \nrécemment Brad Pitt a renoué avec la \nreligion (sans préciser laquelle). Il n’a \njamais caché sa lutte contre l’alcoo-\nlisme ni les difﬁcultés de son divorce \nd’avec Angelina Jolie. « J’ai grandi avec \nle christianisme. Je n’aime pas le mot \n“spiritualité”, mais je pense que nous \nsommes tous connectés. »\n'>
+<LTTextBoxHorizontal(20) 33.275,221.400,136.701,262.220 '9 Nos internautes  \n'>
+<LTTextBoxHorizontal(21) 58.594,221.400,116.342,233.066 'ont du talent\n'>
+<LTTextBoxHorizontal(22) 226.423,105.032,316.216,211.577 'Cette photo nous a été \nenvoyée par Valentin \nLam, via Instagram \n(@Lamspics).\nVous êtes doué pour  \nla photographie ?  \nEnvoyez vos images  \nà contribution@20minutes.fr \nou postez-les sur Instagram \navec le hashtag \n#nosinternautesontdutalent\n'>
+<LTTextBoxHorizontal(23) 226.423,51.577,313.402,99.489 'Vos photos ne seront destinées \nqu’à cette rubrique.  \nPour en savoir plus sur la gestion \nde vos données :  \nhttps://www.20minutes.fr/\npolitique-protection-donnees-\npersonnelles\n'>
+<LTTextBoxHorizontal(24) 127.483,52.107,212.128,73.890 'Une coccinelle s’invite  \nsur un épi de blé.\n'>
+<LTTextBoxHorizontal(25) 211.015,48.423,218.521,59.733 'm\na\nL\n'>
+<LTTextBoxHorizontal(26) 211.015,45.669,218.521,48.573 ' \n.\n'>
+<LTTextBoxHorizontal(27) 211.015,43.086,218.521,46.288 'V\n'>
+<LTTextBoxHorizontal(28) 331.550,579.440,615.632,590.685 'Nirmal Purja voulait gravir quatorze montagnes en sept mois. il en reste trois.\n'>
+<LTTextBoxHorizontal(29) 331.543,537.320,442.752,578.125 '5 Le prince Charles  \n'>
+<LTTextBoxHorizontal(30) 356.870,537.320,449.423,548.985 'et la mode, ça pique\n'>
+<LTTextBoxHorizontal(31) 331.543,421.479,471.821,538.026 'En donnant les orties de son jardin au \nduo de stylistes Vin + Omie, le prince \nCharles a fait une incursion inattendue \ndans la mode. Ils en ont fait robes et \nmanteaux, des créations écolos présen-\ntées lors d’un déﬁlé mardi à Londres. \nParmi les pièces, un manteau beige res-\nsemblant à de la laine mais créé avec \nplusieurs milliers de plants d’orties. Les \ndeux stylistes ont rencontré l’an der-\nnier le prince de Galles, féru d’écologie.\n'>
+<LTTextBoxHorizontal(32) 331.549,379.355,471.388,420.176 '6 Les fantômes retrouvent \n'>
+<LTTextBoxHorizontal(33) 356.868,379.355,454.263,391.022 'leur chasseur préféré\n'>
+<LTTextBoxHorizontal(34) 480.680,537.328,589.916,578.133 '7 Justin Trudeau en \n'>
+<LTTextBoxHorizontal(35) 506.007,537.328,603.811,548.993 'français dans le texte\n'>
+<LTTextBoxHorizontal(36) 480.680,410.948,620.948,538.024 'Le parti de Justin Trudeau va réenre-\ngistrer la chanson ofﬁcielle de sa cam-\npagne électorale, a déclaré lundi un \nporte-parole du Premier ministre. Les \nparoles de la chanson « One Hand Up », \ndu groupe The Strumbrellas, traduites \nen français de manière approximative, \navaient provoqué de nombreuses mo-\nqueries sur les réseaux sociaux. « C’est \nquoi ça “Enlevez une main haute” ? \nTrès, très, très gênant », s’interrogeait \nainsi le député libéral Gaétan Barrette.\n'>
+<LTTextBoxHorizontal(37) 480.686,368.825,600.251,409.645 '8 Le climat, malade, a \n'>
+<LTTextBoxHorizontal(38) 506.005,368.825,615.044,380.491 'désormais son Téléthon\n'>
+<LTTextBoxHorizontal(39) 331.549,295.109,471.831,380.072 'Dan Aykroyd l’a enﬁn annoncé dans le \npodcast The Joe Rogan Experience : \nil sera au casting du prochain SOS \nFantômes. L’interprète de Ray Stantz \ndans les deux ﬁlms originaux a ﬁna-\nlement conﬁrmé qu’il reprendrait son \nrôle. « Il y aura presque toutes les stars \noriginales et de nouvelles stars. »\n'>
+<LTTextBoxHorizontal(40) 375.666,179.267,620.917,369.541 'Le Danemark a organisé samedi le \ntout premier Téléthon en faveur du \nclimat. Au total, 2,4 millions d’euros \nont été récoltés. Pour chaque don \nde 2,70 €, un arbre sera planté. La \nsomme récoltée va donc permettre \nde planter 914 233 arbres.\nL’Etat n’a aucun lien avec  \nla hausse récente de l’essence\navant, c’est une honte ! » Mais comme \nl’explique Francis Duseux, « lundi, en \npratique, les rafﬁneries ont \nacheté leur pétrole brut 10 % \nplus cher que la semaine \ndernière ». \n'>
+<LTTextBoxHorizontal(41) 331.548,252.982,369.303,293.811 '10\n'>
+<LTTextBoxHorizontal(42) 331.549,42.369,471.767,243.168 'Si quelques jours se sont déjà écoulés \ndepuis l’attaque de drones contre deux \ninstallations pétrolières d’Arabie saou-\ndite, ses premiers effets ne \ndevraient pas tarder à se faire \nsentir pour les consomma-\nteurs français. Francis Duseux, \nprésident de l’Union française des in-\ndustries pétrolières (Uﬁp) a annoncé \npour les jours qui viennent une aug-\nmentation de « 4 à 5 centimes » sur le \nprix à la pompe en France.\nDe quoi susciter la colère de nombreux \ninternautes, qui dénoncent une « ar-\nnaque », jugeant une telle augmenta-\ntion aussi prématurée qu’injustiﬁée : \n« La hausse des carburants à la pompe \n[ne] devrait être répercutée que dans \n45 jours environ. L’Etat va le faire bien \n'>
+<LTTextBoxHorizontal(43) 480.686,42.364,620.690,179.983 'Ce qui devrait logiquement entraîner \nune hausse du prix à la pompe pour \ncompenser cette ﬂuctuation, sans que \ncelle-ci ait en réalité le moindre lien \navec « l’Etat ». Contacté par 20 Minutes, \nle ministère de la Transition écolo-\ngique et solidaire souligne en outre \nque « le gouvernement [se montre] \ntrès vigilant quant à l’évolution des \nprix et appelle les pétroliers à la mo-\ndération. » \nAlexis Orsini\n20 Minutes lutte contre les fake news.  \nUn doute ? Ecrivez à fakeoff@20minutes.fr\n'>
+<LTImage(img0) 331.549,589.653,618.725,790.383 (399, 279)>
+<LTImage(img1) 32.581,421.477,171.597,532.892 (194, 155)>
+<LTImage(img2) 32.990,42.367,213.125,210.860 (251, 235)>
+<LTImage(img3) 288.265,214.000,320.449,246.175 (45, 45)>
+----START-PAGE 9 ----
+----START-PAGE 10 ----
+<LTTextBoxHorizontal(0) 33.384,811.124,97.190,837.998 'Pause\n'>
+<LTTextBoxHorizontal(1) 33.284,778.894,112.837,797.550 'Horoscope\n'>
+<LTTextBoxHorizontal(2) 240.538,778.902,332.910,797.563 'Mots fléchés\n'>
+<LTTextBoxHorizontal(3) 340.986,778.902,393.389,797.250 'N°4802\n'>
+<LTTextBoxHorizontal(4) 308.540,738.075,333.476,767.014 'aRBRe À \nPOMMes\neMPOI- \nGNeRas\n'>
+<LTTextBoxHorizontal(5) 370.130,736.750,397.385,768.334 'BaRaQue \nDe FÊTe \nFORaINe\nOuTIL \nCOuPaNT\n'>
+<LTTextBoxHorizontal(6) 438.140,757.710,454.805,765.084 'PeTIT \n'>
+<LTTextBoxHorizontal(7) 433.100,739.520,459.806,759.014 'POIDs Ou \nGRaND \nFÉLIN\n'>
+<LTTextBoxHorizontal(8) 434.596,674.746,458.175,703.674 'FaMeuX \nROMaIN\nCuBe À \nLaNCeR\n'>
+<LTTextBoxHorizontal(9) 345.370,662.635,359.438,670.007 'NeW \n'>
+<LTTextBoxHorizontal(10) 337.793,656.578,367.021,663.949 'DeLHI esT \n'>
+<LTTextBoxHorizontal(11) 348.212,650.510,356.615,657.881 'sa \n'>
+<LTTextBoxHorizontal(12) 338.814,644.452,364.614,651.823 'CaPITaLe\n'>
+<LTTextBoxHorizontal(13) 525.797,517.529,555.262,543.083 'MONNaIe \nau PaYs \nDu sOLeIL \nLeVaNT\n'>
+<LTTextBoxHorizontal(14) 589.283,523.586,616.931,543.083 'Que L’ON \nReFuse \nD’aDMeT- \n'>
+<LTTextBoxHorizontal(15) 597.160,517.529,607.659,524.900 'TRe\n'>
+<LTTextBoxHorizontal(16) 405.952,489.941,472.270,502.468 'vingt.minutes\n'>
+<LTTextBoxHorizontal(17) 520.662,811.124,618.739,853.011 '*\n10\nMercredi 18 septembre 2019\n'>
+<LTTextBoxHorizontal(18) 580.849,778.902,617.619,792.569 'Force 1\n'>
+<LTTextBoxHorizontal(19) 494.310,738.075,522.656,767.014 'eNTRÉe \nOu sORTIe\nRÈGLe À \nDessIN\n'>
+<LTTextBoxHorizontal(20) 557.715,748.617,586.036,761.857 'DÉsIReuX \nDe TOuT \n'>
+<LTTextBoxHorizontal(21) 564.982,742.750,577.388,750.121 'VOIR\n'>
+<LTTextBoxHorizontal(22) 556.974,714.070,585.394,727.309 'PRÉNOM \nMasCuLIN\n'>
+<LTTextBoxHorizontal(23) 495.963,656.578,522.400,670.007 'COMMe \nuN TIssu \n'>
+<LTTextBoxHorizontal(24) 498.495,644.452,518.467,657.881 'saNs \nMOTIFs\n'>
+<LTTextBoxHorizontal(25) 463.158,615.944,492.495,635.051 'eLLe se \nPReND eN \nMeNaNT\n'>
+<LTTextBoxHorizontal(26) 527.220,594.300,553.845,607.544 'aDVeRBe \nDe LIeu\n'>
+<LTTextBoxHorizontal(27) 528.170,580.970,551.499,588.344 'CHIFFRe\n'>
+<LTTextBoxHorizontal(28) 467.790,473.440,486.449,480.814 'CaLMe\n'>
+<LTTextBoxHorizontal(29) 466.070,453.870,488.195,467.494 'Me MIs \nÀ TaBLe\n'>
+<LTTextBoxHorizontal(30) 527.780,472.260,553.271,479.634 'eXPRIMe \n'>
+<LTTextBoxHorizontal(31) 527.490,454.060,552.186,473.564 'uNe \nJeuNe \nVOLONTÉ\n'>
+<LTTextBoxHorizontal(32) 559.040,460.220,584.755,473.454 'TRaVauX \nDIRIGÉs\n'>
+<LTTextBoxHorizontal(33) 581.780,381.140,584.518,387.389 'T\n'>
+<LTTextBoxHorizontal(34) 598.130,381.140,599.568,387.389 'I\n'>
+<LTTextBoxHorizontal(35) 526.630,362.190,561.221,368.439 'P R e a u\n'>
+<LTTextBoxHorizontal(36) 535.310,381.140,536.748,387.389 'I\n'>
+<LTTextBoxHorizontal(37) 526.530,374.830,553.175,387.389 's\nu s a I\n'>
+<LTTextBoxHorizontal(38) 573.740,362.190,583.839,368.439 'C I\n'>
+<LTTextBoxHorizontal(39) 581.340,355.860,600.265,362.109 'N u s\n'>
+<LTTextBoxHorizontal(40) 534.480,355.860,568.877,362.109 'a R R e e\n'>
+<LTTextBoxHorizontal(41) 534.560,330.580,616.163,387.389 'D\nT\nC H a R G e R\ne N T R a I N e u s e\nV e T s\nO\nC R\ns O I\nu e\nR e R\n'>
+<LTTextBoxHorizontal(42) 552.730,311.620,616.072,340.246 'GRILLe N°4801\nB\nI s T e\nR O s s e R\n'>
+<LTTextBoxHorizontal(43) 558.710,346.270,586.558,353.146 'sOLuTION  \n'>
+<LTTextBoxHorizontal(44) 566.010,317.940,584.487,324.189 'T a L\n'>
+<LTTextBoxHorizontal(45) 564.060,339.820,579.931,346.696 'De La \n'>
+<LTTextBoxHorizontal(46) 526.500,324.270,545.372,330.519 'D u C\n'>
+<LTTextBoxHorizontal(47) 526.670,311.620,561.291,330.519 'R\nC a P I\ns I M O N\n'>
+<LTTextBoxHorizontal(48) 526.490,336.910,545.319,355.799 'u N I\ne\nI F s\n'>
+<LTTextBoxHorizontal(49) 574.010,324.270,576.484,330.519 'J\n'>
+<LTTextBoxHorizontal(50) 605.280,324.270,608.018,330.519 'T\n'>
+<LTTextBoxHorizontal(51) 534.460,330.580,537.516,336.829 'a\n'>
+<LTTextBoxHorizontal(52) 534.550,305.290,537.357,311.539 'L\n'>
+<LTTextBoxHorizontal(53) 526.670,298.980,553.018,305.229 'F L O T\n'>
+<LTTextBoxHorizontal(54) 543.077,292.650,592.389,311.539 'I N G e R I e\nV e R T\nJ e T e s\n'>
+<LTTextBoxHorizontal(55) 534.470,292.650,545.559,298.899 'e N\n'>
+<LTTextBoxHorizontal(56) 578.439,252.042,606.815,275.809 'avec  \nvous\n'>
+<LTTextBoxHorizontal(57) 559.931,168.724,620.449,238.092 'La vidéo \ndu jour\nLes plus  \nbelles photos \nde l’espace.\n'>
+<LTTextBoxHorizontal(58) 470.283,208.084,552.922,213.081 '##JeV#185-237-https://bit.ly/2kOh54k##JeV#\n'>
+<LTTextBoxHorizontal(59) 460.063,143.636,467.926,150.903 'o\nl\nl\ni\n'>
+<LTTextBoxHorizontal(60) 460.893,132.544,468.460,133.643 ' \n'>
+<LTTextBoxHorizontal(61) 460.423,121.947,468.970,143.417 'b\no\nB\nz\na\nD\n'>
+<LTTextBoxHorizontal(62) 461.219,125.740,468.787,126.862 'i\n'>
+<LTTextBoxHorizontal(63) 461.466,116.377,469.238,121.720 ' \n.\nI\n \n'>
+<LTTextBoxHorizontal(64) 402.650,463.170,427.580,481.684 'L’aBOMI- \nNaBLe \nHOMMe \n'>
+<LTTextBoxHorizontal(65) 404.430,452.030,424.414,464.964 'Des \nNeIGes\n'>
+<LTTextBoxHorizontal(66) 407.010,412.050,423.205,419.424 'LONG \n'>
+<LTTextBoxHorizontal(67) 400.720,387.840,429.505,413.854 'DIsCOuRs \neN sCÈNe\nBOuCHe \nD’OIseau\n'>
+<LTTextBoxHorizontal(68) 308.927,460.222,333.177,473.472 'QuI a Vu \nLe JOuR\n'>
+<LTTextBoxHorizontal(69) 339.290,473.240,365.519,480.614 'auTHeN- \n'>
+<LTTextBoxHorizontal(70) 343.230,467.380,360.188,474.754 'TICITÉ\n'>
+<LTTextBoxHorizontal(71) 338.220,454.060,365.219,461.434 'CYLINDRe\n'>
+<LTTextBoxHorizontal(72) 308.370,379.010,333.725,386.384 'MauVaIs \n'>
+<LTTextBoxHorizontal(73) 315.790,372.940,324.907,380.314 'VIN\n'>
+<LTTextBoxHorizontal(74) 309.746,357.442,332.348,370.992 'FLeuVe \nITaLIeN\n'>
+<LTTextBoxHorizontal(75) 248.321,304.637,268.603,317.876 'DIReC- \nTIONs \n'>
+<LTTextBoxHorizontal(76) 243.517,298.769,272.023,306.140 'OPPOsÉes\n'>
+<LTTextBoxHorizontal(77) 339.402,304.637,365.401,317.876 'COFFReT \nPOuR uN \n'>
+<LTTextBoxHorizontal(78) 343.676,298.769,359.753,306.140 'BIJOu\n'>
+<LTTextBoxHorizontal(79) 241.791,244.510,296.696,283.794 'Sudoku\n1 7\n'>
+<LTTextBoxHorizontal(80) 303.803,264.928,356.206,283.276 'N°3971\n'>
+<LTTextBoxHorizontal(81) 246.617,213.803,253.399,230.045 '5\n'>
+<LTTextBoxHorizontal(82) 246.617,150.338,253.399,166.580 '4\n'>
+<LTTextBoxHorizontal(83) 262.105,182.066,284.140,198.308 '3 7\n'>
+<LTTextBoxHorizontal(84) 293.896,213.803,315.922,230.045 '2 8\n'>
+<LTTextBoxHorizontal(85) 309.140,197.284,331.174,213.526 '5 8\n'>
+<LTTextBoxHorizontal(86) 309.140,166.857,331.174,183.099 '1 6\n'>
+<LTTextBoxHorizontal(87) 293.896,150.338,315.922,166.580 '1 6\n'>
+<LTTextBoxHorizontal(88) 246.617,119.631,268.892,135.873 '2 8\n'>
+<LTTextBoxHorizontal(89) 340.927,229.032,347.709,245.274 '1\n'>
+<LTTextBoxHorizontal(90) 371.677,229.032,378.459,245.274 '9\n'>
+<LTTextBoxHorizontal(91) 356.165,197.284,362.947,213.526 '2\n'>
+<LTTextBoxHorizontal(92) 356.165,166.857,362.947,183.099 '8\n'>
+<LTTextBoxHorizontal(93) 340.927,135.120,347.709,151.362 '2\n'>
+<LTTextBoxHorizontal(94) 371.677,135.120,378.459,151.362 '3\n'>
+<LTTextBoxHorizontal(95) 433.435,339.274,459.486,352.703 'DÉTIeNs \nPeRsON- \n'>
+<LTTextBoxHorizontal(96) 434.576,327.149,456.954,340.578 'NeL- \nLeMeNT\n'>
+<LTTextBoxHorizontal(97) 426.369,265.167,446.874,274.279 'Expert\n'>
+<LTTextBoxHorizontal(98) 388.707,198.111,441.297,261.874 'En partant des chiffres \ndéjà inscrits, remplissez \nla grille de manière que \nchaque ligne, chaque \ncolonne et chaque carré \nde 3 par 3 contienne  \nune seule fois tous \nles chiffres de 1 à 9.\n'>
+<LTTextBoxHorizontal(99) 388.707,117.240,445.881,184.098 'solution du sudoku n°3970\n3 2 1 8 5 6 9 7 4\n7 5 9 3 2 4 8 6 1\n8 6 4 7 1 9 5 2 3\n6 9 5 4 7 2 3 1 8\n4 1 8 6 9 3 7 5 2\n2 7 3 5 8 1 6 4 9\n1 3 2 9 6 7 4 8 5\n9 8 7 1 4 5 2 3 6\n5 4 6 2 3 8 1 9 7\n'>
+<LTTextBoxHorizontal(100) 282.570,632.850,296.825,640.224 'ÉTaT \n'>
+<LTTextBoxHorizontal(101) 277.630,626.790,301.775,634.164 'sCaNDI- \n'>
+<LTTextBoxHorizontal(102) 281.850,620.720,296.164,628.094 'NaVe\n'>
+<LTTextBoxHorizontal(103) 276.978,611.276,301.030,618.771 'ReVeNIR\n'>
+<LTTextBoxHorizontal(104) 243.650,753.660,271.897,768.434 'CHeVROTa\nsOLIDes \n'>
+<LTTextBoxHorizontal(105) 246.610,736.650,268.941,755.364 'FaCe \nÀ L’aD- \nVeRsITÉ\n'>
+<LTTextBoxHorizontal(106) 247.250,693.470,268.286,700.844 'eNVOYa\n'>
+<LTTextBoxHorizontal(107) 244.734,677.559,270.811,685.054 'CONTeNT\n'>
+<LTTextBoxHorizontal(108) 245.231,615.942,271.539,635.049 'C’esT uN \nTRaVaIL \nDe CHOIX\n'>
+<LTTextBoxHorizontal(109) 245.600,547.822,271.331,576.764 'FIN D’IN- \nFINITIF\nBaIN À \nReMOus\n'>
+<LTTextBoxHorizontal(110) 248.940,499.870,267.868,513.294 'BeLLe \nCaRTe\n'>
+<LTTextBoxHorizontal(111) 243.251,484.366,272.303,497.906 'COuLeuR \nDe TOIsON\n'>
+<LTTextBoxHorizontal(112) 253.110,443.790,263.813,451.164 'QuI \n'>
+<LTTextBoxHorizontal(113) 247.970,432.640,268.965,445.584 'aRRIVe \naVaNT\n'>
+<LTTextBoxHorizontal(114) 243.730,419.570,273.205,432.614 'De BONNe \nHuMeuR\n'>
+<LTTextBoxHorizontal(115) 246.040,365.040,270.472,378.274 'uNe aP- \nPReNTIe\n'>
+<LTTextBoxHorizontal(116) 68.655,127.802,215.983,778.535 'Bélier du 21 mars au 20 avril\nNe laissez pas votre esprit \nvagabonder, vous pourriez  \nsubir des désillusions.\nTaureau du 21 avril au 21 mai\nBien que vous soyez en forme,  \nvous avez du mal à mobiliser  \nvotre énergie pour travailler.\nGémeaux du 22 mai au 21 juin\nMalgré les obstacles semés  \nsur votre route, vous réussissez  \nà maintenir le cap fixé droit devant.\nCancer du 22 juin au 22 juillet\nAujourd’hui règne une grande \nlégèreté. Cependant, n’oubliez rien \nd’important. Soignez les détails.\nLion du 23 juillet au 23 août\nVotre conjoint pourrait vous bouder. \nVos projets sont en très bonne voie. \nNe baissez pas les bras maintenant.\nVierge du 24 août au 23 septembre\nDes mises au point avec votre \npartenaire sont nécessaires.  \nVous traversez une phase créatrice. \nBalance du 24 sept. au 23 octobre\nVous constatez que votre conjoint  \nvous fait toujours un effet incroyable. \nVotre audace se révèle payante.\nScorpion du 24 oct. au 22 nov.\nUn de vos proches pourrait s’éloigner \npour son travail ou ses études.  \nIl faut vous retrousser les manches.\nSagittaire du 23 nov. au 21 déc.\nNe vous laissez pas manipuler par  \ndes personnes sans scrupule. Vous \nfaites preuve d’une belle audace. \nCapricorne du 22 déc. au 20 janv.\nVos liens affectifs vous paraissent \npesants. Repensez vos priorités  \npour pallier les retards accumulés.\nVerseau du 21 janv. au 18 février\nLes échanges avec votre partenaire \ndeviennent plus agréables. Vous \nobtenez des résultats notables.\nPoissons du 19 février au 20 mars\nCélibataires, le grand amour arrive. \nVous vous sentez très performant  \net vous allez au bout de vos idées.\nCerf-panthère pas avant midi\nMaintenant, c’est sûr :  \nvous le faites exprès.\n'>
+<LTTextBoxHorizontal(117) 33.275,115.801,193.968,125.172 'Retrouvez l’horoscope complet sur le site et nos applis.\n'>
+<LTTextBoxHorizontal(118) 76.435,49.094,192.735,104.185 '3e marque de presse française\n22,1 millions d’utilisateurs par mois\n1er quotidien avec 3 800 000 lecteurs\n(ACPM ONE Global 2018 V3, ONE 2017)\n24-26, rue du Cotentin, CS 23110,  \n75732 Paris Cedex 15. E-mail : info@20minutes.fr\nTél. : 01 53 26 65 65    Fax : 01 53 26 65 10\n'>
+<LTTextBoxHorizontal(119) 203.434,49.084,311.546,104.126 'Edité par 20 Minutes France, SAS au capital\nde 5 776 544 €, RCS Paris 438 049 843\nActionnaires : Soﬁouest,  \nRossel France Investissement\nPrésident, directeur de la publication :  \nFrédéric Daruty\nDirectrice de la rédaction : Armelle Le Goff\n'>
+<LTTextBoxHorizontal(120) 330.413,46.173,452.996,104.116 'Impression : L’Imprimerie, Midi Print, Rotoga-\nronne, Rossel Printing Company, Imprimeries IPS, \nRPI, CILA. Imprimé sur du papier produit en France, \nBelgique et Espagne, à partir de 60 % à 100 % \nde ﬁbres recyclées, papiers porteurs des écolabels \nFSC ou PEFC ou Ecolabel européen, etc. 442 kg  \nde CO²\n'>
+<LTTextBoxHorizontal(121) 346.591,49.094,430.538,56.834 ' émis par tonne de papier distribué.\n'>
+<LTTextBoxHorizontal(122) 457.402,56.918,577.635,104.126 '© 20 Minutes France, 2019.  \nDépôt légal : à parution\nNos ISSN : 2109-134X, 1777-8301, 2269-1618, \n2269-1677, 2269-1758, 2269-1790, 2269-\n1812, 2269-1820, 2269-3211, 2269-3238, \n2269-3343\n'>
+<LTImage(img0) 336.210,481.256,524.040,608.186 (261, 177)>
+<LTImage(140656470997368) 405.829,487.556,471.943,497.123 (92, 14)>
+<LTImage(140656466698928) 336.210,606.553,524.040,608.186 (261, 3)>
+<LTImage(140656466700720) 336.210,481.256,524.040,482.656 (261, 2)>
+<LTImage(140656466698368) 336.211,481.723,337.612,608.186 (2, 176)>
+<LTImage(140656466701560) 522.638,481.723,524.040,608.186 (2, 176)>
+<LTImage(140656476962488) 579.814,68.499,613.108,84.491 (47, 23)>
+<LTImage(140656476961760) 583.144,45.814,597.663,60.315 (21, 21)>
+<LTImage(140656476961088) 582.230,87.706,610.416,102.292 (40, 21)>
+<LTImage(img1) 456.962,115.418,570.516,281.649 (148, 225)>
+----START-PAGE 11 ----
+<LTTextBoxHorizontal(0) 219.323,546.040,486.671,740.179 'Rentrée\nsolaire.\n'>
+<LTTextBoxHorizontal(1) 77.815,62.865,347.883,87.110 '*Prix aller simple par personne avec 2 passagers voyageant sur la même réservation, taxes d’aéroport et frais\nde gestion inclus. Frais supplémentaires pour bagages. 300 000 sièges disponibles à ce prix au 18.07.19, pour\ndes vols vers l’Europe entre le 09.09.19 et le 28.03.20 inclus depuis la France et selon disponibilités.\nVoir easyJet.com pour plus d’informations.\n'>
+<LTImage(img0) 33.193,42.523,618.803,824.776 (814, 1087)>
+<LTImage(img1) 33.193,42.759,618.803,177.035 (814, 187)>
+----START-PAGE 12 ----
+<LTTextBoxHorizontal(0) 33.275,728.743,265.395,837.998 'CinéMa\nL’odyssée  \nde James Gray\n'>
+<LTTextBoxHorizontal(1) 33.275,667.977,312.181,717.921 'Espace Aidé par la performance de Brad Pitt,  \nle réalisateur marche sur les traces de Stanley \nKubrick avec son conte spatial, « Ad Astra »\n'>
+<LTTextBoxHorizontal(2) 33.275,547.851,173.536,653.878 'Ad Astra de James Gray est revenu \nbredouille de la Mostra de Venise… \net ce n’est pas juste. Le voyage d’un \nastronaute incarné par Brad Pitt à la \nrecherche de son père savant (Tommy \nLee Jones) est une source d’émerveil-\nlement comparable à l’expérience que \npropose 2001, l’Odyssée de l’espace de \nStanley Kubrick. 20 Minutes explique \npourquoi.\n'>
+<LTTextBoxHorizontal(3) 33.275,421.479,173.572,538.031 'V « Ad Astra » fait voyager. A l’image \nde 2001, Ad Astra (« vers les étoiles » \nen latin) emporte le spectateur dans \nun monde où aller dans l’espace n’est \nplus exceptionnel. La Lune est d’ail-\nleurs devenue une destination tou-\nristique. Tandis que la Terre est me-\nnacée par un étrange phénomène, le \nhéros monte dans des vaisseaux spa-\ntiaux avec (presque) autant de facilité \nque nous prenons l’avion. \n'>
+<LTTextBoxHorizontal(4) 182.406,421.479,322.703,653.866 'V « Ad Astra » fait aimer Brad Pitt. \nDans 2001, Keir Dullea incarnait un as-\ntronaute confronté à une expérience \nmétaphysique. Ici, Brad Pitt laisse af-\nﬂeurer ses émotions en interprétant \nun homme qui apprend progressive-\nment à laisser libre cours à ses senti-\nments. Après sa performance brillante \ndans Once Upon a Time… in Hollywood \nde Quentin Tarantino, il semblerait que \n2019 soit son année. Rarement l’ac-\nteur n’a été aussi sobre et aussi juste \nque sous la direction de James Gray.\nV « Ad Astra » fait rêver. Les plans \ndans l’espace sont si beaux qu’on a \nenvie de retourner immédiatement \nvoir le ﬁlm au format Imax. Cette im-\nmersion aux conﬁns de l’espace rap-\npelle certaines scènes de 2001, tant \nl’ampleur de la mise en scène du réali-\nsateur de La nuit nous appartient donne \nl’impression au spectateur d’évoluer \n'>
+<LTTextBoxHorizontal(5) 322.180,621.563,329.686,694.660 'e\nc\nn\na\nr\nF\n \nx\no\nF\n \ny\nr\nu\nt\nn\ne\nC\nh\nt\ne\ni\nt\nn\ne\nw\nT\n'>
+<LTTextBoxHorizontal(6) 322.180,645.544,329.686,647.005 ' \n'>
+<LTTextBoxHorizontal(7) 520.662,811.124,618.739,837.895 '12\nMercredi 18 septembre 2019\n'>
+<LTTextBoxHorizontal(8) 381.840,765.318,564.522,777.816 '##JEV#171-57-https://bit.ly/2kFUszh##JEV#\n'>
+<LTTextBoxHorizontal(9) 331.550,611.037,618.509,622.281 'Le ﬁlm narre le voyage d’un astronaute (Brad Pitt) à la recherche de son père.\n'>
+<LTTextBoxHorizontal(10) 331.539,421.464,471.831,601.217 'au milieu des étoiles. Il est exception-\nnel de se laisser à ce point emporter \npar la simple splendeur d’images, ren-\nvoyant à l’essence même du cinéma.\nV « Ad Astra » fait frémir. Bien sûr, il \nn’y a pas d’ordinateur fou, ni de mo-\nnolithe menaçant comme dans 2001. \nJames Gray les a remplacés par une \ncorporation qui ne pense qu’à dé-\nfendre ses intérêts et des pirates cu-\npides. Le suspense est constant dans \nson ﬁlm, qui, avec l’avenir de la pla-\nnète comme enjeu, se révèle un di-\nvertissement haletant. De quoi rester \naccroché à son siège en assistant à \nune course-poursuite sur la Lune ou \nà une attaque de singes voraces. On \n'>
+<LTTextBoxHorizontal(11) 480.686,421.481,620.992,601.217 'pense aussi parfois à Apocalypse Now \nde Francis Ford Coppola en suivant le \npériple semé d’embûches du héros \nvers une ﬁgure paternelle imposante.\nV « Ad Astra » fait réﬂéchir. « J’adore \nquand les gens trouvent dans mes \nﬁlms des interprétations auxquelles je \nn’avais pas pensé », a déclaré James \nGray à l’issue d’une présentation de \nson ﬁlm. Comme 2001, Ad Astra est un \nﬁlm intense qui pousse aux réﬂexions \nphilosophiques. Moins hermétique \nque l’œuvre de Stanley Kubrick, le ﬁlm \naborde des sujets aussi sérieux que \nla paternité et l’engagement. De quoi \nalimenter des discussions jusqu’au \nbout de la nuit.  \nCaroline Vié\n'>
+<LTTextBoxHorizontal(12) 331.541,200.331,620.953,407.812 'Woody Allen recroque dans la Pomme\nLove story Entre Woody Allen \nun rôle si j’avais été plus jeune, ra-\net New York, le lien gagne en matu-\nconte-t-il. Là, je me retrouve un peu \nrité de ﬁlm en ﬁlm. Un jour de pluie à \ndans chaque personnage. » Le sen-\nNew York le conﬁrme de façon écla-\ntiment amoureux est toujours aussi \ntante. Ce vaudeville aux saveurs sub-\nprésent dans cette comédie tendre et \ncruelle. « Il n’y a rien de plus roman-\ntiles comme celles de l’olive dans le dry \nmartini d’un bar de Manhattan clame \ntique que d’échanger un baiser sous \nla pluie », déclare le cinéaste. Son ﬁlm \nune fois de plus l’amour du cinéaste \ndonne envie de se rendre à New York \npour la Grosse Pomme. Les chas-\net d’y explorer la carte du Tendre avec \nsés-croisés amoureux de personnages \nla personne de son choix. \nincarnés par Elle Fanning, Timothée \nC.V.\nChalamet, Selena Gomez, Rebecca \nHall, Jude Law et Liev Schreiber per-\nmettent au cinéaste de crier « I Love \nYou » à New York. « Comme Paris, c’est \nune ville sophistiquée où tout peut ar-\nriver », explique-t-il à 20 Minutes. \n'>
+<LTTextBoxHorizontal(13) 331.549,42.369,471.837,190.818 'Une comédie tendre et cruelle\nQui évoque Woody Allen et New York \npense à Manhattan (1979). « Le pu-\nblic adore ce ﬁlm, mais je ne com-\nprends pas pourquoi, reconnaît Woody \nAllen. Je le trouve bourré de mala-\ndresses. » On n’oublie pourtant pas \nle couple formé par Diane Keaton et \nle cinéaste contemplant l’Hudson sur \nun banc tandis que résonne Rhapsody \nin Blue de George Gershwin. \nDans Un jour de pluie à New York, Woody \nAllen a cédé la place à de jeunes co-\nmédiens. « J’aurais certainement joué \n'>
+<LTTextBoxHorizontal(14) 471.317,83.534,478.823,91.449 's\nm\n'>
+<LTTextBoxHorizontal(15) 471.317,63.430,478.823,83.684 'l\ni\nF\n \ns\nr\na\nM\n'>
+<LTTextBoxHorizontal(16) 480.685,42.370,620.858,64.143 'Selena Gomez et Timothée Chalamet \ndans Un jour de pluie à New York.\n'>
+<LTTextBoxHorizontal(17) 36.945,202.782,42.056,203.715 'I\nI\n'>
+<LTTextBoxHorizontal(18) 36.945,196.286,42.056,205.887 'S\nS\nR\nR\nA\nA\nP\nP\n'>
+<LTTextBoxHorizontal(19) 36.945,164.462,42.056,195.091 'E\nE\nL\nL\nA\nA\nN\nN\nO\nO\nI\nI\nT\nT\nA\nA\nN\nN\nR\nR\nE\nE\nT\nT\nN\nN\n'>
+<LTTextBoxHorizontal(20) 36.945,163.527,42.056,164.460 'I\nI\n'>
+<LTTextBoxHorizontal(21) 36.945,149.991,42.056,162.325 'E\nE\nL\nL\nA\nA\nN\nN\nF\nF\n'>
+<LTTextBoxHorizontal(22) 36.945,151.868,42.056,152.801 'I\nI\n'>
+<LTTextBoxHorizontal(23) 36.945,145.372,42.056,147.597 '/\n/\n'>
+<LTTextBoxHorizontal(24) 36.945,128.536,42.056,144.163 '8\n8\n5\n5\n6\n6\n4\n4\n1\n1\n9\n9\n'>
+<LTTextBoxHorizontal(25) 36.945,110.816,42.056,127.327 '2\n2\n0\n0\n5\n5\ns\ns\ni\ni\nr\nr\na\na\nP\nP\n'>
+<LTTextBoxHorizontal(26) 36.945,102.513,42.056,109.609 'S\nS\nC\nC\nR\nR\n'>
+<LTTextBoxHorizontal(27) 36.945,100.112,42.056,101.314 ',\n,\n'>
+<LTTextBoxHorizontal(28) 36.945,90.345,42.056,100.112 'U\nU\nS\nS\nA\nA\nS\nS\n'>
+<LTTextBoxHorizontal(29) 36.945,77.761,42.056,89.132 'e\ne\nc\nc\nn\nn\na\na\nr\nr\nF\nF\n'>
+<LTTextBoxHorizontal(30) 36.945,74.785,42.056,76.557 'l\nl\nl\nl\n'>
+<LTTextBoxHorizontal(31) 36.945,70.569,42.056,74.785 'u\nu\nB\nB\n'>
+<LTTextBoxHorizontal(32) 36.945,62.981,42.056,69.375 'd\nd\ne\ne\nR\nR\n'>
+<LTTextBoxHorizontal(33) 122.671,145.906,233.695,160.123 'À TOI DE DÉCIDER !\nÀ TOI DE DÉCIDER !\n'>
+<LTTextBoxHorizontal(34) 92.190,77.906,262.768,126.292 '12 OCTOBRE PARIS\n12 OCTOBRE PARIS\nLA GRANDE HALLE DE LA VILLETTE\nLA GRANDE HALLE DE LA VILLETTE\nLA GRANDE HALLE DE LA VILLETTE\nLA GRANDE HALLE DE LA VILLETTE\nBILLETS EN VENTE MAINTENANT !\nBILLETS EN VENTE MAINTENANT !\n'>
+<LTTextBoxHorizontal(35) 189.643,104.831,224.315,126.292 'E P\nE P\n'>
+<LTImage(img0) 33.158,42.394,320.491,402.160 (400, 500)>
+<LTImage(img1) 120.112,163.766,239.570,273.902 (166, 153)>
+<LTImage(img2) 115.496,138.344,240.608,164.107 (174, 36)>
+<LTImage(img3) 119.981,160.125,239.663,164.107 (167, 6)>
+<LTImage(img4) 84.977,84.485,270.049,124.769 (258, 56)>
+<LTImage(img5) 196.620,101.831,215.392,120.545 (27, 26)>
+<LTImage(img6) 84.585,69.078,269.772,94.123 (258, 35)>
+<LTImage(img7) 84.978,84.485,269.813,94.088 (257, 14)>
+<LTImage(img8) 92.957,92.106,97.678,93.979 (7, 3)>
+<LTImage(img9) 97.442,92.106,104.996,93.979 (11, 3)>
+<LTImage(img10) 108.301,91.871,115.619,93.979 (11, 3)>
+<LTImage(img11) 116.563,92.106,122.700,93.979 (9, 3)>
+<LTImage(img9) 122.464,92.106,130.018,93.979 (11, 3)>
+<LTImage(img12) 130.254,92.106,136.628,93.979 (9, 3)>
+<LTImage(img13) 137.808,92.106,144.418,93.979 (10, 3)>
+<LTImage(img14) 145.598,92.106,150.320,93.979 (7, 3)>
+<LTImage(img12) 154.096,92.106,160.470,93.979 (9, 3)>
+<LTImage(img9) 160.706,92.106,168.260,93.979 (11, 3)>
+<LTImage(img14) 168.732,92.106,173.453,93.979 (7, 3)>
+<LTImage(img14) 173.926,92.106,178.647,93.979 (7, 3)>
+<LTImage(img14) 179.119,92.106,183.840,93.979 (7, 3)>
+<LTImage(img13) 187.617,92.106,194.227,93.979 (10, 3)>
+<LTImage(img14) 195.407,92.106,200.128,93.979 (7, 3)>
+<LTImage(img15) 203.905,92.106,208.390,93.979 (7, 3)>
+<LTImage(img9) 208.390,92.106,215.944,93.979 (11, 3)>
+<LTImage(img16) 220.193,92.106,223.734,93.979 (5, 3)>
+<LTImage(img17) 226.095,92.106,228.219,93.979 (3, 3)>
+<LTImage(img15) 229.400,92.106,233.885,93.979 (7, 3)>
+<LTImage(img15) 234.593,92.106,239.078,93.979 (7, 3)>
+<LTImage(img14) 239.786,92.106,244.508,93.979 (7, 3)>
+<LTImage(img18) 246.632,92.106,248.993,93.979 (4, 3)>
+<LTImage(img18) 252.534,92.106,254.894,93.979 (4, 3)>
+<LTImage(img19) 257.491,92.106,262.212,93.979 (7, 3)>
+<LTImage(img20) 126.468,295.243,235.327,398.349 (152, 144)>
+<LTImage(img21) 127.411,296.412,234.149,397.180 (149, 140)>
+<LTImage(img22) 156.457,354.657,159.998,357.467 (5, 4)>
+<LTImage(img23) 159.054,356.296,160.706,357.467 (3, 2)>
+<LTImage(img24) 155.041,352.315,159.526,356.531 (7, 6)>
+<LTImage(img25) 157.873,353.486,160.706,357.233 (4, 6)>
+<LTImage(img26) 153.860,349.738,158.110,353.720 (6, 6)>
+<LTImage(img27) 156.693,350.675,160.706,354.657 (6, 6)>
+<LTImage(img28) 159.762,351.612,160.706,353.954 (2, 4)>
+<LTImage(img29) 152.680,346.928,156.929,350.910 (6, 6)>
+<LTImage(img30) 155.749,347.631,160.234,351.846 (7, 6)>
+<LTImage(img31) 159.054,348.333,160.706,351.846 (3, 5)>
+<LTImage(img32) 151.972,344.117,156.221,347.865 (6, 6)>
+<LTImage(img33) 155.277,344.586,159.290,348.567 (6, 6)>
+<LTImage(img34) 158.582,345.054,160.706,348.802 (3, 6)>
+<LTImage(img35) 151.500,341.073,155.513,344.820 (6, 6)>
+<LTImage(img36) 154.805,341.307,158.818,345.288 (6, 6)>
+<LTImage(img37) 158.110,341.541,160.706,345.523 (4, 6)>
+<LTImage(img38) 151.500,338.028,155.041,341.541 (5, 5)>
+<LTImage(img39) 154.569,338.028,158.582,341.775 (6, 6)>
+<LTImage(img40) 158.110,338.028,160.706,342.009 (4, 6)>
+<LTImage(img41) 151.500,334.749,155.041,338.262 (5, 5)>
+<LTImage(img42) 154.569,334.515,158.346,338.262 (6, 6)>
+<LTImage(img43) 158.110,334.515,160.706,338.262 (4, 6)>
+<LTImage(img44) 205.558,334.515,208.626,338.262 (5, 6)>
+<LTImage(img45) 151.736,331.704,155.513,335.217 (6, 5)>
+<LTImage(img46) 154.805,331.236,158.818,334.983 (6, 6)>
+<LTImage(img47) 158.110,331.001,160.706,334.749 (4, 6)>
+<LTImage(img48) 205.558,331.236,208.390,334.983 (4, 6)>
+<LTImage(img49) 207.682,331.704,211.695,335.217 (6, 5)>
+<LTImage(img50) 155.277,327.957,159.290,331.938 (6, 6)>
+<LTImage(img51) 158.582,327.488,160.706,331.470 (3, 6)>
+<LTImage(img52) 205.558,328.191,208.154,331.938 (4, 6)>
+<LTImage(img53) 207.210,328.425,211.223,332.407 (6, 6)>
+<LTImage(img54) 155.749,324.678,159.998,328.659 (6, 6)>
+<LTImage(img55) 159.054,324.444,160.706,328.191 (3, 6)>
+<LTImage(img56) 205.558,325.380,207.446,328.659 (3, 5)>
+<LTImage(img57) 206.266,325.615,210.515,329.596 (6, 6)>
+<LTImage(img58) 205.558,323.273,206.502,325.849 (2, 4)>
+<LTImage(img59) 205.558,322.804,209.571,326.786 (6, 6)>
+<LTImage(img60) 206.581,321.429,207.523,322.831 (2, 2)>
+<LTImage(img61) 205.558,320.930,208.154,324.209 (4, 5)>
+<LTImage(img62) 205.403,320.026,206.816,321.662 (2, 3)>
+<LTImage(img63) 205.558,320.462,206.738,321.633 (2, 2)>
+<LTImage(img64) 172.273,309.688,172.745,310.859 (1, 2)>
+<LTImage(img65) 172.273,309.220,175.578,310.859 (5, 3)>
+<LTImage(img66) 175.478,308.570,178.777,309.505 (5, 2)>
+<LTImage(img67) 175.106,308.751,178.647,310.859 (5, 3)>
+<LTImage(img68) 178.306,308.336,181.840,309.037 (5, 1)>
+<LTImage(img69) 178.175,308.517,181.716,310.859 (5, 4)>
+<LTImage(img70) 181.605,308.336,184.903,309.037 (5, 1)>
+<LTImage(img71) 181.480,308.517,185.020,310.859 (5, 4)>
+<LTImage(img72) 184.668,308.570,187.731,309.271 (5, 1)>
+<LTImage(img73) 184.548,308.751,188.089,310.859 (5, 3)>
+<LTImage(img74) 187.495,309.037,190.794,310.206 (5, 2)>
+<LTImage(img75) 187.617,309.220,190.922,310.859 (5, 3)>
+<LTImage(img76) 190.450,309.922,190.922,310.859 (1, 2)>
+<LTImage(img77) 192.421,310.406,205.837,361.838 (19, 72)>
+<LTImage(img78) 160.411,310.406,205.837,361.838 (64, 72)>
+<LTImage(img79) 160.411,356.928,161.353,357.396 (2, 1)>
+<LTImage(img80) 160.411,354.824,162.059,357.396 (3, 4)>
+<LTImage(img81) 160.882,354.591,164.648,357.396 (6, 4)>
+<LTImage(img82) 163.942,355.526,164.883,357.396 (2, 3)>
+<LTImage(img83) 170.532,356.928,172.415,357.396 (3, 1)>
+<LTImage(img84) 192.421,356.695,195.952,357.396 (5, 1)>
+<LTImage(img85) 195.716,355.526,199.247,357.396 (5, 3)>
+<LTImage(img86) 198.776,354.591,202.542,357.396 (6, 4)>
+<LTImage(img87) 160.411,353.656,161.117,354.824 (1, 2)>
+<LTImage(img88) 160.411,351.785,164.177,355.760 (6, 6)>
+<LTImage(img89) 163.236,352.253,167.472,356.461 (6, 6)>
+<LTImage(img90) 166.531,352.954,171.003,357.162 (7, 6)>
+<LTImage(img91) 170.061,353.422,174.298,357.396 (6, 6)>
+<LTImage(img92) 173.827,353.889,178.064,357.396 (6, 5)>
+<LTImage(img93) 177.593,354.123,179.947,357.396 (4, 5)>
+<LTImage(img94) 183.477,354.123,185.596,355.292 (3, 2)>
+<LTImage(img95) 185.360,353.889,189.126,357.396 (6, 5)>
+<LTImage(img96) 188.891,353.422,193.127,357.396 (6, 6)>
+<LTImage(img97) 192.421,353.422,196.423,357.162 (6, 6)>
+<LTImage(img98) 195.952,352.253,200.188,356.227 (6, 6)>
+<LTImage(img99) 199.012,351.552,203.484,355.760 (7, 6)>
+<LTImage(img100) 160.411,348.512,163.471,352.487 (5, 6)>
+<LTImage(img101) 162.530,348.980,166.766,353.188 (6, 6)>
+<LTImage(img102) 166.060,349.448,170.532,353.656 (7, 6)>
+<LTImage(img103) 169.826,349.681,174.063,354.123 (6, 7)>
+<LTImage(img104) 173.827,349.915,177.829,354.357 (6, 7)>
+<LTImage(img105) 177.593,350.149,180.888,354.357 (5, 6)>
+<LTImage(img106) 182.536,350.149,185.831,354.357 (5, 6)>
+<LTImage(img107) 185.360,350.149,189.597,354.357 (6, 6)>
+<LTImage(img108) 189.126,349.681,193.127,354.123 (6, 7)>
+<LTImage(img109) 192.892,349.448,197.129,353.656 (6, 6)>
+<LTImage(img110) 196.423,348.980,200.659,353.188 (6, 6)>
+<LTImage(img111) 160.411,345.239,162.765,349.214 (4, 6)>
+<LTImage(img112) 162.059,345.473,166.296,349.681 (6, 6)>
+<LTImage(img113) 165.825,345.941,170.061,349.915 (6, 6)>
+<LTImage(img114) 169.591,345.941,173.827,350.149 (6, 6)>
+<LTImage(img115) 173.357,346.175,177.358,350.383 (6, 6)>
+<LTImage(img116) 179.005,346.175,181.359,350.383 (4, 6)>
+<LTImage(img117) 182.771,346.175,185.831,350.383 (5, 6)>
+<LTImage(img118) 185.596,346.175,189.832,350.383 (6, 6)>
+<LTImage(img119) 189.597,345.941,193.834,350.149 (6, 6)>
+<LTImage(img120) 193.363,345.707,197.599,349.681 (6, 6)>
+<LTImage(img121) 196.893,345.473,201.130,349.681 (6, 6)>
+<LTImage(img122) 160.411,341.966,162.294,345.707 (3, 6)>
+<LTImage(img123) 161.824,341.733,165.825,345.941 (6, 6)>
+<LTImage(img124) 165.589,341.967,169.826,346.175 (6, 6)>
+<LTImage(img125) 169.355,342.200,173.592,346.408 (6, 6)>
+<LTImage(img126) 173.357,342.200,177.593,346.408 (6, 6)>
+<LTImage(img127) 177.358,342.200,181.830,346.642 (7, 7)>
+<LTImage(img128) 181.594,342.200,185.831,346.408 (6, 6)>
+<LTImage(img129) 185.596,342.200,190.068,346.408 (7, 6)>
+<LTImage(img130) 189.597,342.200,193.834,346.408 (6, 6)>
+<LTImage(img131) 193.598,341.967,197.835,346.175 (6, 6)>
+<LTImage(img132) 197.364,341.733,201.601,345.941 (6, 6)>
+<LTImage(img133) 200.895,341.499,205.131,345.707 (6, 6)>
+<LTImage(img134) 160.411,338.226,162.059,341.967 (3, 6)>
+<LTImage(img135) 161.588,337.992,165.825,342.200 (6, 6)>
+<LTImage(img136) 165.354,337.992,169.591,342.434 (6, 7)>
+<LTImage(img137) 169.355,337.992,173.592,342.434 (6, 7)>
+<LTImage(img138) 173.357,337.992,177.593,342.434 (6, 7)>
+<LTImage(img139) 177.358,337.992,181.830,342.434 (7, 7)>
+<LTImage(img140) 181.594,337.992,185.831,342.434 (6, 7)>
+<LTImage(img141) 185.596,338.226,190.068,342.434 (7, 6)>
+<LTImage(img142) 189.832,337.992,194.069,342.434 (6, 7)>
+<LTImage(img143) 193.598,337.992,197.835,342.434 (6, 7)>
+<LTImage(img144) 197.599,338.226,201.601,342.200 (6, 6)>
+<LTImage(img145) 201.130,338.226,205.131,341.967 (6, 6)>
+<LTImage(img146) 160.411,336.590,162.059,338.460 (3, 3)>
+<LTImage(img147) 161.588,334.252,165.825,338.460 (6, 6)>
+<LTImage(img148) 165.354,334.252,169.591,338.460 (6, 6)>
+<LTImage(img149) 169.355,334.018,173.592,338.460 (6, 7)>
+<LTImage(img150) 173.357,334.018,177.593,338.460 (6, 7)>
+<LTImage(img151) 177.358,334.018,181.830,338.460 (7, 7)>
+<LTImage(img152) 181.594,334.018,186.066,338.460 (7, 7)>
+<LTImage(img153) 185.596,334.018,190.068,338.460 (7, 7)>
+<LTImage(img154) 189.832,334.018,194.069,338.460 (6, 7)>
+<LTImage(img155) 193.598,334.018,197.835,338.460 (6, 7)>
+<LTImage(img156) 197.599,334.252,201.601,338.460 (6, 6)>
+<LTImage(img157) 201.130,334.486,205.131,338.460 (6, 6)>
+<LTImage(img158) 204.896,334.486,205.837,338.460 (2, 6)>
+<LTImage(img159) 160.411,330.745,162.294,334.719 (3, 6)>
+<LTImage(img160) 161.824,330.511,166.060,334.719 (6, 6)>
+<LTImage(img161) 165.589,330.278,169.826,334.486 (6, 6)>
+<LTImage(img162) 169.355,330.044,173.592,334.486 (6, 7)>
+<LTImage(img163) 173.357,329.810,177.593,334.252 (6, 7)>
+<LTImage(img164) 177.358,329.810,181.830,334.252 (7, 7)>
+<LTImage(img165) 181.594,329.810,185.831,334.252 (6, 7)>
+<LTImage(img166) 185.596,330.044,190.068,334.252 (7, 6)>
+<LTImage(img167) 189.597,330.044,194.069,334.486 (7, 7)>
+<LTImage(img168) 193.598,330.278,197.835,334.486 (6, 6)>
+<LTImage(img169) 197.364,330.511,201.601,334.719 (6, 6)>
+<LTImage(img170) 200.895,330.745,205.131,334.953 (6, 6)>
+<LTImage(img171) 204.425,331.213,205.837,334.953 (2, 6)>
+<LTImage(img172) 160.411,327.238,162.765,331.213 (4, 6)>
+<LTImage(img173) 162.059,326.771,166.296,330.979 (6, 6)>
+<LTImage(img174) 165.589,326.537,170.061,330.745 (7, 6)>
+<LTImage(img175) 169.591,326.069,173.827,330.511 (6, 7)>
+<LTImage(img176) 173.357,326.070,177.829,330.278 (7, 6)>
+<LTImage(img177) 177.358,325.836,181.830,330.278 (7, 7)>
+<LTImage(img178) 181.594,326.070,185.831,330.278 (6, 6)>
+<LTImage(img179) 185.596,326.070,189.832,330.278 (6, 6)>
+<LTImage(img180) 189.362,326.069,193.834,330.511 (7, 7)>
+<LTImage(img181) 193.127,326.537,197.599,330.745 (7, 6)>
+<LTImage(img182) 196.893,326.771,201.130,330.979 (6, 6)>
+<LTImage(img183) 200.424,327.238,204.660,331.446 (6, 6)>
+<LTImage(img184) 203.954,327.940,205.837,331.446 (3, 5)>
+<LTImage(img185) 160.411,323.965,163.471,327.940 (5, 6)>
+<LTImage(img186) 162.530,323.264,166.766,327.472 (6, 6)>
+<LTImage(img187) 166.060,322.797,170.532,327.005 (7, 6)>
+<LTImage(img188) 169.826,322.563,174.063,326.771 (6, 6)>
+<LTImage(img189) 173.592,322.095,177.829,326.537 (6, 7)>
+<LTImage(img190) 177.593,322.095,181.830,326.303 (6, 6)>
+<LTImage(img191) 181.594,322.095,185.831,326.303 (6, 6)>
+<LTImage(img192) 185.360,322.095,189.597,326.537 (6, 7)>
+<LTImage(img193) 189.126,322.329,193.598,326.771 (7, 7)>
+<LTImage(img194) 192.892,322.797,197.129,327.005 (6, 6)>
+<LTImage(img195) 196.423,323.264,200.659,327.472 (6, 6)>
+<LTImage(img196) 199.953,323.965,204.190,328.174 (6, 6)>
+<LTImage(img197) 203.248,324.667,205.837,328.407 (4, 6)>
+<LTImage(img198) 160.411,320.692,164.177,324.667 (6, 6)>
+<LTImage(img199) 163.236,319.991,167.472,324.199 (6, 6)>
+<LTImage(img200) 166.531,319.290,170.768,323.498 (6, 6)>
+<LTImage(img201) 170.061,318.822,174.298,323.030 (6, 6)>
+<LTImage(img202) 173.827,318.589,178.064,322.797 (6, 6)>
+<LTImage(img203) 177.593,318.355,181.830,322.563 (6, 6)>
+<LTImage(img204) 181.594,318.355,185.596,322.563 (6, 6)>
+<LTImage(img205) 185.125,318.589,189.362,322.797 (6, 6)>
+<LTImage(img206) 188.891,318.822,193.127,323.030 (6, 6)>
+<LTImage(img207) 192.421,319.290,196.658,323.498 (6, 6)>
+<LTImage(img208) 195.716,319.991,200.188,324.199 (7, 6)>
+<LTImage(img209) 199.012,320.693,203.484,324.901 (7, 6)>
+<LTImage(img210) 202.307,321.628,205.837,325.602 (5, 6)>
+<LTImage(img211) 205.131,322.563,205.837,323.732 (1, 2)>
+<LTImage(img212) 160.882,317.653,165.119,321.861 (6, 6)>
+<LTImage(img213) 163.942,316.718,168.178,320.926 (6, 6)>
+<LTImage(img214) 167.237,316.017,171.474,320.225 (6, 6)>
+<LTImage(img215) 170.532,315.316,174.769,319.524 (6, 6)>
+<LTImage(img216) 174.063,315.082,178.299,319.056 (6, 6)>
+<LTImage(img217) 177.829,314.848,181.830,318.822 (6, 6)>
+<LTImage(img218) 181.594,314.848,185.596,318.822 (6, 6)>
+<LTImage(img219) 185.125,315.082,189.126,319.056 (6, 6)>
+<LTImage(img220) 188.420,315.316,192.657,319.524 (6, 6)>
+<LTImage(img221) 191.715,315.783,195.952,320.225 (6, 7)>
+<LTImage(img222) 195.010,316.718,199.247,320.926 (6, 6)>
+<LTImage(img223) 198.070,317.653,202.542,321.861 (7, 6)>
+<LTImage(img224) 201.130,318.589,205.367,323.030 (6, 7)>
+<LTImage(img225) 203.954,319.991,205.837,323.030 (3, 5)>
+<LTImage(img226) 160.411,316.017,163.471,319.524 (5, 5)>
+<LTImage(img227) 161.824,314.614,166.060,319.056 (6, 7)>
+<LTImage(img228) 164.883,313.445,169.120,317.887 (6, 7)>
+<LTImage(img229) 167.943,312.744,172.180,316.952 (6, 6)>
+<LTImage(img230) 171.238,312.043,175.239,316.251 (6, 6)>
+<LTImage(img231) 174.533,311.575,178.535,315.549 (6, 6)>
+<LTImage(img232) 178.064,311.575,181.830,315.316 (6, 6)>
+<LTImage(img233) 181.594,311.575,185.360,315.316 (6, 6)>
+<LTImage(img234) 184.890,311.575,188.655,315.549 (6, 6)>
+<LTImage(img235) 187.949,312.043,192.186,316.017 (6, 6)>
+<LTImage(img236) 191.244,312.744,195.246,316.952 (6, 6)>
+<LTImage(img237) 194.069,313.445,198.305,317.887 (6, 7)>
+<LTImage(img238) 197.129,314.614,201.365,318.822 (6, 6)>
+<LTImage(img239) 199.718,316.017,204.190,320.225 (7, 6)>
+<LTImage(img240) 204.660,319.056,205.837,320.225 (2, 2)>
+<LTImage(img241) 202.307,317.419,205.837,321.160 (5, 6)>
+<LTImage(img242) 160.647,313.679,164.648,317.653 (6, 6)>
+<LTImage(img243) 163.236,312.043,167.237,316.251 (6, 6)>
+<LTImage(img244) 165.825,310.874,170.061,314.848 (6, 6)>
+<LTImage(img245) 168.885,310.406,172.650,313.679 (6, 5)>
+<LTImage(img246) 171.944,310.406,175.475,312.978 (5, 4)>
+<LTImage(img247) 175.004,310.406,178.535,312.276 (5, 3)>
+<LTImage(img248) 178.299,310.406,181.830,311.809 (5, 2)>
+<LTImage(img249) 181.594,310.406,185.125,311.809 (5, 2)>
+<LTImage(img250) 184.654,310.406,188.420,312.276 (6, 3)>
+<LTImage(img251) 187.714,310.406,191.480,312.978 (6, 4)>
+<LTImage(img252) 190.774,310.406,194.304,313.679 (5, 5)>
+<LTImage(img253) 193.127,310.640,196.187,312.276 (5, 3)>
+<LTImage(img254) 193.363,310.874,197.364,314.848 (6, 6)>
+<LTImage(img255) 195.952,311.809,198.776,313.913 (4, 3)>
+<LTImage(img256) 195.952,312.043,199.953,316.251 (6, 6)>
+<LTImage(img257) 198.306,313.212,201.130,315.549 (4, 4)>
+<LTImage(img258) 198.541,313.679,202.542,317.653 (6, 6)>
+<LTImage(img259) 200.424,314.848,205.131,319.524 (7, 7)>
+<LTImage(img260) 200.895,315.316,204.896,319.290 (6, 6)>
+<LTImage(img261) 158.132,357.284,203.752,373.798 (64, 23)>
+<LTImage(img262) 158.368,357.284,160.719,359.610 (4, 4)>
+<LTImage(img263) 163.541,361.703,164.952,363.099 (2, 2)>
+<LTImage(img264) 164.011,361.703,167.538,364.494 (5, 4)>
+<LTImage(img265) 166.598,362.168,170.125,365.890 (5, 6)>
+<LTImage(img266) 168.949,362.634,172.947,366.820 (6, 6)>
+<LTImage(img267) 171.771,363.564,175.769,367.518 (6, 6)>
+<LTImage(img268) 175.298,364.262,178.355,367.518 (5, 5)>
+<LTImage(img269) 178.355,364.727,180.942,366.355 (4, 3)>
+<LTImage(img270) 181.412,364.494,184.939,367.518 (5, 5)>
+<LTImage(img271) 184.704,364.494,188.232,367.518 (5, 5)>
+<LTImage(img272) 187.761,363.564,191.524,367.518 (6, 6)>
+<LTImage(img273) 190.348,363.099,192.934,366.820 (4, 6)>
+<LTImage(img274) 194.346,362.168,195.521,365.425 (2, 5)>
+<LTImage(img275) 196.932,361.703,198.343,364.029 (2, 4)>
+<LTImage(img276) 158.368,357.284,160.719,358.912 (4, 3)>
+<LTImage(img277) 159.779,357.284,160.719,358.679 (2, 2)>
+<LTImage(img278) 167.303,361.703,169.184,362.866 (3, 2)>
+<LTImage(img279) 168.479,361.703,172.006,363.796 (5, 3)>
+<LTImage(img280) 171.536,361.703,174.828,364.262 (5, 4)>
+<LTImage(img281) 174.593,361.703,178.355,364.727 (6, 5)>
+<LTImage(img282) 178.120,362.866,181.882,364.959 (6, 3)>
+<LTImage(img283) 181.412,361.703,185.175,364.959 (6, 5)>
+<LTImage(img284) 184.704,361.703,188.702,364.727 (6, 5)>
+<LTImage(img285) 188.232,361.703,191.524,364.262 (5, 4)>
+<LTImage(img286) 191.053,361.703,194.581,363.796 (5, 3)>
+<LTImage(img287) 194.346,361.703,195.521,362.866 (2, 2)>
+<LTImage(img288) 160.484,357.284,203.751,361.936 (61, 7)>
+<LTImage(img289) 160.484,358.680,162.600,361.471 (3, 4)>
+<LTImage(img290) 160.719,358.679,164.246,361.936 (5, 5)>
+<LTImage(img291) 163.306,360.308,165.892,361.936 (4, 3)>
+<LTImage(img292) 196.932,360.308,199.989,361.936 (5, 3)>
+<LTImage(img293) 199.284,358.679,202.576,361.936 (5, 5)>
+<LTImage(img294) 200.459,357.982,203.751,361.471 (5, 5)>
+<LTImage(img295) 160.484,357.284,163.541,360.540 (5, 5)>
+<LTImage(img296) 161.895,357.517,166.127,361.703 (6, 6)>
+<LTImage(img297) 164.952,358.679,168.714,361.936 (6, 5)>
+<LTImage(img298) 168.009,359.610,171.771,361.936 (6, 4)>
+<LTImage(img299) 171.301,360.308,174.828,361.936 (5, 3)>
+<LTImage(img300) 174.593,360.773,178.120,361.936 (5, 2)>
+<LTImage(img301) 177.885,361.238,180.942,361.703 (5, 1)>
+<LTImage(img302) 181.412,361.238,182.588,361.936 (2, 1)>
+<LTImage(img303) 186.115,360.773,188.702,361.936 (4, 2)>
+<LTImage(img304) 188.467,360.308,191.994,361.936 (5, 3)>
+<LTImage(img305) 191.759,359.610,195.286,361.936 (5, 4)>
+<LTImage(img306) 194.345,358.679,198.343,361.936 (6, 5)>
+<LTImage(img307) 196.932,357.517,201.400,361.936 (7, 7)>
+<LTImage(img308) 199.754,357.284,203.516,360.540 (6, 5)>
+<LTImage(img309) 161.189,357.284,162.130,357.749 (2, 1)>
+<LTImage(img310) 161.895,357.284,165.187,358.912 (5, 3)>
+<LTImage(img311) 164.481,357.284,168.244,359.842 (6, 4)>
+<LTImage(img312) 167.538,357.284,171.536,360.540 (6, 5)>
+<LTImage(img313) 170.595,357.284,174.828,361.238 (6, 6)>
+<LTImage(img314) 174.123,357.517,178.355,361.471 (6, 6)>
+<LTImage(img315) 177.885,357.749,181.647,361.471 (6, 6)>
+<LTImage(img316) 181.412,357.749,185.410,361.471 (6, 6)>
+<LTImage(img317) 184.939,357.517,189.172,361.471 (6, 6)>
+<LTImage(img318) 188.467,357.284,192.699,361.238 (6, 6)>
+<LTImage(img319) 191.759,357.284,195.992,360.540 (6, 5)>
+<LTImage(img320) 195.051,357.284,198.813,359.842 (6, 4)>
+<LTImage(img321) 198.108,357.284,201.400,358.912 (5, 3)>
+<LTImage(img322) 172.006,357.284,174.358,357.749 (4, 1)>
+<LTImage(img323) 174.123,357.284,178.120,357.982 (6, 1)>
+<LTImage(img324) 177.650,357.284,181.883,357.982 (6, 1)>
+<LTImage(img325) 181.412,357.517,184.939,357.982 (5, 1)>
+<LTImage(img326) 186.115,357.284,189.172,357.982 (5, 1)>
+<LTImage(img327) 188.937,357.284,190.113,357.749 (2, 1)>
+<LTImage(img328) 166.128,357.284,199.048,359.610 (46, 4)>
+<LTImage(img329) 161.248,379.258,201.332,387.371 (56, 12)>
+<LTImage(img330) 161.248,373.695,201.332,387.140 (56, 19)>
+<LTImage(img331) 161.248,367.204,201.332,373.926 (56, 10)>
+<LTImage(img332) 175.313,367.204,178.594,367.899 (5, 1)>
+<LTImage(img333) 180.001,367.899,181.642,368.131 (3, 1)>
+<LTImage(img334) 181.408,367.204,184.924,368.131 (5, 2)>
+<LTImage(img335) 184.690,367.204,186.096,368.131 (2, 2)>
+<LTImage(img336) 195.239,367.204,197.114,370.217 (3, 5)>
+<LTImage(img337) 161.950,367.204,167.577,369.754 (8, 4)>
+<LTImage(img338) 178.360,367.204,180.235,370.217 (3, 5)>
+<LTImage(img339) 182.345,367.204,187.971,369.754 (8, 4)>
+<LTImage(img340) 202.347,59.109,215.729,69.125 (19, 14)>
+<LTImage(img341) 202.347,68.892,215.729,72.386 (19, 5)>
+<LTImage(img0) 33.158,42.394,320.491,402.160 (400, 500)>
+<LTImage(img1) 120.112,163.766,239.570,273.902 (166, 153)>
+<LTImage(img2) 115.496,138.344,240.608,164.107 (174, 36)>
+<LTImage(img3) 119.981,160.125,239.663,164.107 (167, 6)>
+<LTImage(img4) 84.977,84.485,270.049,124.769 (258, 56)>
+<LTImage(img5) 196.620,101.831,215.392,120.545 (27, 26)>
+<LTImage(img6) 84.585,69.078,269.772,94.123 (258, 35)>
+<LTImage(img7) 84.978,84.485,269.813,94.088 (257, 14)>
+<LTImage(img8) 92.957,92.106,97.678,93.979 (7, 3)>
+<LTImage(img9) 97.442,92.106,104.996,93.979 (11, 3)>
+<LTImage(img10) 108.301,91.871,115.619,93.979 (11, 3)>
+<LTImage(img11) 116.563,92.106,122.700,93.979 (9, 3)>
+<LTImage(img9) 122.464,92.106,130.018,93.979 (11, 3)>
+<LTImage(img12) 130.254,92.106,136.628,93.979 (9, 3)>
+<LTImage(img13) 137.808,92.106,144.418,93.979 (10, 3)>
+<LTImage(img14) 145.598,92.106,150.320,93.979 (7, 3)>
+<LTImage(img12) 154.096,92.106,160.470,93.979 (9, 3)>
+<LTImage(img9) 160.706,92.106,168.260,93.979 (11, 3)>
+<LTImage(img14) 168.732,92.106,173.453,93.979 (7, 3)>
+<LTImage(img14) 173.926,92.106,178.647,93.979 (7, 3)>
+<LTImage(img14) 179.119,92.106,183.840,93.979 (7, 3)>
+<LTImage(img13) 187.617,92.106,194.227,93.979 (10, 3)>
+<LTImage(img14) 195.407,92.106,200.128,93.979 (7, 3)>
+<LTImage(img15) 203.905,92.106,208.390,93.979 (7, 3)>
+<LTImage(img9) 208.390,92.106,215.944,93.979 (11, 3)>
+<LTImage(img16) 220.193,92.106,223.734,93.979 (5, 3)>
+<LTImage(img17) 226.095,92.106,228.219,93.979 (3, 3)>
+<LTImage(img15) 229.400,92.106,233.885,93.979 (7, 3)>
+<LTImage(img15) 234.593,92.106,239.078,93.979 (7, 3)>
+<LTImage(img14) 239.786,92.106,244.508,93.979 (7, 3)>
+<LTImage(img18) 246.632,92.106,248.993,93.979 (4, 3)>
+<LTImage(img18) 252.534,92.106,254.894,93.979 (4, 3)>
+<LTImage(img19) 257.491,92.106,262.212,93.979 (7, 3)>
+<LTImage(img20) 126.468,295.243,235.327,398.349 (152, 144)>
+<LTImage(img21) 127.411,296.412,234.149,397.180 (149, 140)>
+<LTImage(img22) 156.457,354.657,159.998,357.467 (5, 4)>
+<LTImage(img23) 159.054,356.296,160.706,357.467 (3, 2)>
+<LTImage(img24) 155.041,352.315,159.526,356.531 (7, 6)>
+<LTImage(img25) 157.873,353.486,160.706,357.233 (4, 6)>
+<LTImage(img26) 153.860,349.738,158.110,353.720 (6, 6)>
+<LTImage(img27) 156.693,350.675,160.706,354.657 (6, 6)>
+<LTImage(img28) 159.762,351.612,160.706,353.954 (2, 4)>
+<LTImage(img29) 152.680,346.928,156.929,350.910 (6, 6)>
+<LTImage(img30) 155.749,347.631,160.234,351.846 (7, 6)>
+<LTImage(img31) 159.054,348.333,160.706,351.846 (3, 5)>
+<LTImage(img32) 151.972,344.117,156.221,347.865 (6, 6)>
+<LTImage(img33) 155.277,344.586,159.290,348.567 (6, 6)>
+<LTImage(img34) 158.582,345.054,160.706,348.802 (3, 6)>
+<LTImage(img35) 151.500,341.073,155.513,344.820 (6, 6)>
+<LTImage(img36) 154.805,341.307,158.818,345.288 (6, 6)>
+<LTImage(img37) 158.110,341.541,160.706,345.523 (4, 6)>
+<LTImage(img38) 151.500,338.028,155.041,341.541 (5, 5)>
+<LTImage(img39) 154.569,338.028,158.582,341.775 (6, 6)>
+<LTImage(img40) 158.110,338.028,160.706,342.009 (4, 6)>
+<LTImage(img41) 151.500,334.749,155.041,338.262 (5, 5)>
+<LTImage(img42) 154.569,334.515,158.346,338.262 (6, 6)>
+<LTImage(img43) 158.110,334.515,160.706,338.262 (4, 6)>
+<LTImage(img44) 205.558,334.515,208.626,338.262 (5, 6)>
+<LTImage(img45) 151.736,331.704,155.513,335.217 (6, 5)>
+<LTImage(img46) 154.805,331.236,158.818,334.983 (6, 6)>
+<LTImage(img47) 158.110,331.001,160.706,334.749 (4, 6)>
+<LTImage(img48) 205.558,331.236,208.390,334.983 (4, 6)>
+<LTImage(img49) 207.682,331.704,211.695,335.217 (6, 5)>
+<LTImage(img50) 155.277,327.957,159.290,331.938 (6, 6)>
+<LTImage(img51) 158.582,327.488,160.706,331.470 (3, 6)>
+<LTImage(img52) 205.558,328.191,208.154,331.938 (4, 6)>
+<LTImage(img53) 207.210,328.425,211.223,332.407 (6, 6)>
+<LTImage(img54) 155.749,324.678,159.998,328.659 (6, 6)>
+<LTImage(img55) 159.054,324.444,160.706,328.191 (3, 6)>
+<LTImage(img56) 205.558,325.380,207.446,328.659 (3, 5)>
+<LTImage(img57) 206.266,325.615,210.515,329.596 (6, 6)>
+<LTImage(img58) 205.558,323.273,206.502,325.849 (2, 4)>
+<LTImage(img59) 205.558,322.804,209.571,326.786 (6, 6)>
+<LTImage(img60) 206.581,321.429,207.523,322.831 (2, 2)>
+<LTImage(img61) 205.558,320.930,208.154,324.209 (4, 5)>
+<LTImage(img62) 205.403,320.026,206.816,321.662 (2, 3)>
+<LTImage(img63) 205.558,320.462,206.738,321.633 (2, 2)>
+<LTImage(img64) 172.273,309.688,172.745,310.859 (1, 2)>
+<LTImage(img65) 172.273,309.220,175.578,310.859 (5, 3)>
+<LTImage(img66) 175.478,308.570,178.777,309.505 (5, 2)>
+<LTImage(img67) 175.106,308.751,178.647,310.859 (5, 3)>
+<LTImage(img68) 178.306,308.336,181.840,309.037 (5, 1)>
+<LTImage(img69) 178.175,308.517,181.716,310.859 (5, 4)>
+<LTImage(img70) 181.605,308.336,184.903,309.037 (5, 1)>
+<LTImage(img71) 181.480,308.517,185.020,310.859 (5, 4)>
+<LTImage(img72) 184.668,308.570,187.731,309.271 (5, 1)>
+<LTImage(img73) 184.548,308.751,188.089,310.859 (5, 3)>
+<LTImage(img74) 187.495,309.037,190.794,310.206 (5, 2)>
+<LTImage(img75) 187.617,309.220,190.922,310.859 (5, 3)>
+<LTImage(img76) 190.450,309.922,190.922,310.859 (1, 2)>
+<LTImage(img77) 192.421,310.406,205.837,361.838 (19, 72)>
+<LTImage(img78) 160.411,310.406,205.837,361.838 (64, 72)>
+<LTImage(img79) 160.411,356.928,161.353,357.396 (2, 1)>
+<LTImage(img80) 160.411,354.824,162.059,357.396 (3, 4)>
+<LTImage(img81) 160.882,354.591,164.648,357.396 (6, 4)>
+<LTImage(img82) 163.942,355.526,164.883,357.396 (2, 3)>
+<LTImage(img83) 170.532,356.928,172.415,357.396 (3, 1)>
+<LTImage(img84) 192.421,356.695,195.952,357.396 (5, 1)>
+<LTImage(img85) 195.716,355.526,199.247,357.396 (5, 3)>
+<LTImage(img86) 198.776,354.591,202.542,357.396 (6, 4)>
+<LTImage(img87) 160.411,353.656,161.117,354.824 (1, 2)>
+<LTImage(img88) 160.411,351.785,164.177,355.760 (6, 6)>
+<LTImage(img89) 163.236,352.253,167.472,356.461 (6, 6)>
+<LTImage(img90) 166.531,352.954,171.003,357.162 (7, 6)>
+<LTImage(img91) 170.061,353.422,174.298,357.396 (6, 6)>
+<LTImage(img92) 173.827,353.889,178.064,357.396 (6, 5)>
+<LTImage(img93) 177.593,354.123,179.947,357.396 (4, 5)>
+<LTImage(img94) 183.477,354.123,185.596,355.292 (3, 2)>
+<LTImage(img95) 185.360,353.889,189.126,357.396 (6, 5)>
+<LTImage(img96) 188.891,353.422,193.127,357.396 (6, 6)>
+<LTImage(img97) 192.421,353.422,196.423,357.162 (6, 6)>
+<LTImage(img98) 195.952,352.253,200.188,356.227 (6, 6)>
+<LTImage(img99) 199.012,351.552,203.484,355.760 (7, 6)>
+<LTImage(img100) 160.411,348.512,163.471,352.487 (5, 6)>
+<LTImage(img101) 162.530,348.980,166.766,353.188 (6, 6)>
+<LTImage(img102) 166.060,349.448,170.532,353.656 (7, 6)>
+<LTImage(img103) 169.826,349.681,174.063,354.123 (6, 7)>
+<LTImage(img104) 173.827,349.915,177.829,354.357 (6, 7)>
+<LTImage(img105) 177.593,350.149,180.888,354.357 (5, 6)>
+<LTImage(img106) 182.536,350.149,185.831,354.357 (5, 6)>
+<LTImage(img107) 185.360,350.149,189.597,354.357 (6, 6)>
+<LTImage(img108) 189.126,349.681,193.127,354.123 (6, 7)>
+<LTImage(img109) 192.892,349.448,197.129,353.656 (6, 6)>
+<LTImage(img110) 196.423,348.980,200.659,353.188 (6, 6)>
+<LTImage(img111) 160.411,345.239,162.765,349.214 (4, 6)>
+<LTImage(img112) 162.059,345.473,166.296,349.681 (6, 6)>
+<LTImage(img113) 165.825,345.941,170.061,349.915 (6, 6)>
+<LTImage(img114) 169.591,345.941,173.827,350.149 (6, 6)>
+<LTImage(img115) 173.357,346.175,177.358,350.383 (6, 6)>
+<LTImage(img116) 179.005,346.175,181.359,350.383 (4, 6)>
+<LTImage(img117) 182.771,346.175,185.831,350.383 (5, 6)>
+<LTImage(img118) 185.596,346.175,189.832,350.383 (6, 6)>
+<LTImage(img119) 189.597,345.941,193.834,350.149 (6, 6)>
+<LTImage(img120) 193.363,345.707,197.599,349.681 (6, 6)>
+<LTImage(img121) 196.893,345.473,201.130,349.681 (6, 6)>
+<LTImage(img122) 160.411,341.966,162.294,345.707 (3, 6)>
+<LTImage(img123) 161.824,341.733,165.825,345.941 (6, 6)>
+<LTImage(img124) 165.589,341.967,169.826,346.175 (6, 6)>
+<LTImage(img125) 169.355,342.200,173.592,346.408 (6, 6)>
+<LTImage(img126) 173.357,342.200,177.593,346.408 (6, 6)>
+<LTImage(img127) 177.358,342.200,181.830,346.642 (7, 7)>
+<LTImage(img128) 181.594,342.200,185.831,346.408 (6, 6)>
+<LTImage(img129) 185.596,342.200,190.068,346.408 (7, 6)>
+<LTImage(img130) 189.597,342.200,193.834,346.408 (6, 6)>
+<LTImage(img131) 193.598,341.967,197.835,346.175 (6, 6)>
+<LTImage(img132) 197.364,341.733,201.601,345.941 (6, 6)>
+<LTImage(img133) 200.895,341.499,205.131,345.707 (6, 6)>
+<LTImage(img134) 160.411,338.226,162.059,341.967 (3, 6)>
+<LTImage(img135) 161.588,337.992,165.825,342.200 (6, 6)>
+<LTImage(img136) 165.354,337.992,169.591,342.434 (6, 7)>
+<LTImage(img137) 169.355,337.992,173.592,342.434 (6, 7)>
+<LTImage(img138) 173.357,337.992,177.593,342.434 (6, 7)>
+<LTImage(img139) 177.358,337.992,181.830,342.434 (7, 7)>
+<LTImage(img140) 181.594,337.992,185.831,342.434 (6, 7)>
+<LTImage(img141) 185.596,338.226,190.068,342.434 (7, 6)>
+<LTImage(img142) 189.832,337.992,194.069,342.434 (6, 7)>
+<LTImage(img143) 193.598,337.992,197.835,342.434 (6, 7)>
+<LTImage(img144) 197.599,338.226,201.601,342.200 (6, 6)>
+<LTImage(img145) 201.130,338.226,205.131,341.967 (6, 6)>
+<LTImage(img146) 160.411,336.590,162.059,338.460 (3, 3)>
+<LTImage(img147) 161.588,334.252,165.825,338.460 (6, 6)>
+<LTImage(img148) 165.354,334.252,169.591,338.460 (6, 6)>
+<LTImage(img149) 169.355,334.018,173.592,338.460 (6, 7)>
+<LTImage(img150) 173.357,334.018,177.593,338.460 (6, 7)>
+<LTImage(img151) 177.358,334.018,181.830,338.460 (7, 7)>
+<LTImage(img152) 181.594,334.018,186.066,338.460 (7, 7)>
+<LTImage(img153) 185.596,334.018,190.068,338.460 (7, 7)>
+<LTImage(img154) 189.832,334.018,194.069,338.460 (6, 7)>
+<LTImage(img155) 193.598,334.018,197.835,338.460 (6, 7)>
+<LTImage(img156) 197.599,334.252,201.601,338.460 (6, 6)>
+<LTImage(img157) 201.130,334.486,205.131,338.460 (6, 6)>
+<LTImage(img158) 204.896,334.486,205.837,338.460 (2, 6)>
+<LTImage(img159) 160.411,330.745,162.294,334.719 (3, 6)>
+<LTImage(img160) 161.824,330.511,166.060,334.719 (6, 6)>
+<LTImage(img161) 165.589,330.278,169.826,334.486 (6, 6)>
+<LTImage(img162) 169.355,330.044,173.592,334.486 (6, 7)>
+<LTImage(img163) 173.357,329.810,177.593,334.252 (6, 7)>
+<LTImage(img164) 177.358,329.810,181.830,334.252 (7, 7)>
+<LTImage(img165) 181.594,329.810,185.831,334.252 (6, 7)>
+<LTImage(img166) 185.596,330.044,190.068,334.252 (7, 6)>
+<LTImage(img167) 189.597,330.044,194.069,334.486 (7, 7)>
+<LTImage(img168) 193.598,330.278,197.835,334.486 (6, 6)>
+<LTImage(img169) 197.364,330.511,201.601,334.719 (6, 6)>
+<LTImage(img170) 200.895,330.745,205.131,334.953 (6, 6)>
+<LTImage(img171) 204.425,331.213,205.837,334.953 (2, 6)>
+<LTImage(img172) 160.411,327.238,162.765,331.213 (4, 6)>
+<LTImage(img173) 162.059,326.771,166.296,330.979 (6, 6)>
+<LTImage(img174) 165.589,326.537,170.061,330.745 (7, 6)>
+<LTImage(img175) 169.591,326.069,173.827,330.511 (6, 7)>
+<LTImage(img176) 173.357,326.070,177.829,330.278 (7, 6)>
+<LTImage(img177) 177.358,325.836,181.830,330.278 (7, 7)>
+<LTImage(img178) 181.594,326.070,185.831,330.278 (6, 6)>
+<LTImage(img179) 185.596,326.070,189.832,330.278 (6, 6)>
+<LTImage(img180) 189.362,326.069,193.834,330.511 (7, 7)>
+<LTImage(img181) 193.127,326.537,197.599,330.745 (7, 6)>
+<LTImage(img182) 196.893,326.771,201.130,330.979 (6, 6)>
+<LTImage(img183) 200.424,327.238,204.660,331.446 (6, 6)>
+<LTImage(img184) 203.954,327.940,205.837,331.446 (3, 5)>
+<LTImage(img185) 160.411,323.965,163.471,327.940 (5, 6)>
+<LTImage(img186) 162.530,323.264,166.766,327.472 (6, 6)>
+<LTImage(img187) 166.060,322.797,170.532,327.005 (7, 6)>
+<LTImage(img188) 169.826,322.563,174.063,326.771 (6, 6)>
+<LTImage(img189) 173.592,322.095,177.829,326.537 (6, 7)>
+<LTImage(img190) 177.593,322.095,181.830,326.303 (6, 6)>
+<LTImage(img191) 181.594,322.095,185.831,326.303 (6, 6)>
+<LTImage(img192) 185.360,322.095,189.597,326.537 (6, 7)>
+<LTImage(img193) 189.126,322.329,193.598,326.771 (7, 7)>
+<LTImage(img194) 192.892,322.797,197.129,327.005 (6, 6)>
+<LTImage(img195) 196.423,323.264,200.659,327.472 (6, 6)>
+<LTImage(img196) 199.953,323.965,204.190,328.174 (6, 6)>
+<LTImage(img197) 203.248,324.667,205.837,328.407 (4, 6)>
+<LTImage(img198) 160.411,320.692,164.177,324.667 (6, 6)>
+<LTImage(img199) 163.236,319.991,167.472,324.199 (6, 6)>
+<LTImage(img200) 166.531,319.290,170.768,323.498 (6, 6)>
+<LTImage(img201) 170.061,318.822,174.298,323.030 (6, 6)>
+<LTImage(img202) 173.827,318.589,178.064,322.797 (6, 6)>
+<LTImage(img203) 177.593,318.355,181.830,322.563 (6, 6)>
+<LTImage(img204) 181.594,318.355,185.596,322.563 (6, 6)>
+<LTImage(img205) 185.125,318.589,189.362,322.797 (6, 6)>
+<LTImage(img206) 188.891,318.822,193.127,323.030 (6, 6)>
+<LTImage(img207) 192.421,319.290,196.658,323.498 (6, 6)>
+<LTImage(img208) 195.716,319.991,200.188,324.199 (7, 6)>
+<LTImage(img209) 199.012,320.693,203.484,324.901 (7, 6)>
+<LTImage(img210) 202.307,321.628,205.837,325.602 (5, 6)>
+<LTImage(img211) 205.131,322.563,205.837,323.732 (1, 2)>
+<LTImage(img212) 160.882,317.653,165.119,321.861 (6, 6)>
+<LTImage(img213) 163.942,316.718,168.178,320.926 (6, 6)>
+<LTImage(img214) 167.237,316.017,171.474,320.225 (6, 6)>
+<LTImage(img215) 170.532,315.316,174.769,319.524 (6, 6)>
+<LTImage(img216) 174.063,315.082,178.299,319.056 (6, 6)>
+<LTImage(img217) 177.829,314.848,181.830,318.822 (6, 6)>
+<LTImage(img218) 181.594,314.848,185.596,318.822 (6, 6)>
+<LTImage(img219) 185.125,315.082,189.126,319.056 (6, 6)>
+<LTImage(img220) 188.420,315.316,192.657,319.524 (6, 6)>
+<LTImage(img221) 191.715,315.783,195.952,320.225 (6, 7)>
+<LTImage(img222) 195.010,316.718,199.247,320.926 (6, 6)>
+<LTImage(img223) 198.070,317.653,202.542,321.861 (7, 6)>
+<LTImage(img224) 201.130,318.589,205.367,323.030 (6, 7)>
+<LTImage(img225) 203.954,319.991,205.837,323.030 (3, 5)>
+<LTImage(img226) 160.411,316.017,163.471,319.524 (5, 5)>
+<LTImage(img227) 161.824,314.614,166.060,319.056 (6, 7)>
+<LTImage(img228) 164.883,313.445,169.120,317.887 (6, 7)>
+<LTImage(img229) 167.943,312.744,172.180,316.952 (6, 6)>
+<LTImage(img230) 171.238,312.043,175.239,316.251 (6, 6)>
+<LTImage(img231) 174.533,311.575,178.535,315.549 (6, 6)>
+<LTImage(img232) 178.064,311.575,181.830,315.316 (6, 6)>
+<LTImage(img233) 181.594,311.575,185.360,315.316 (6, 6)>
+<LTImage(img234) 184.890,311.575,188.655,315.549 (6, 6)>
+<LTImage(img235) 187.949,312.043,192.186,316.017 (6, 6)>
+<LTImage(img236) 191.244,312.744,195.246,316.952 (6, 6)>
+<LTImage(img237) 194.069,313.445,198.305,317.887 (6, 7)>
+<LTImage(img238) 197.129,314.614,201.365,318.822 (6, 6)>
+<LTImage(img239) 199.718,316.017,204.190,320.225 (7, 6)>
+<LTImage(img240) 204.660,319.056,205.837,320.225 (2, 2)>
+<LTImage(img241) 202.307,317.419,205.837,321.160 (5, 6)>
+<LTImage(img242) 160.647,313.679,164.648,317.653 (6, 6)>
+<LTImage(img243) 163.236,312.043,167.237,316.251 (6, 6)>
+<LTImage(img244) 165.825,310.874,170.061,314.848 (6, 6)>
+<LTImage(img245) 168.885,310.406,172.650,313.679 (6, 5)>
+<LTImage(img246) 171.944,310.406,175.475,312.978 (5, 4)>
+<LTImage(img247) 175.004,310.406,178.535,312.276 (5, 3)>
+<LTImage(img248) 178.299,310.406,181.830,311.809 (5, 2)>
+<LTImage(img249) 181.594,310.406,185.125,311.809 (5, 2)>
+<LTImage(img250) 184.654,310.406,188.420,312.276 (6, 3)>
+<LTImage(img251) 187.714,310.406,191.480,312.978 (6, 4)>
+<LTImage(img252) 190.774,310.406,194.304,313.679 (5, 5)>
+<LTImage(img253) 193.127,310.640,196.187,312.276 (5, 3)>
+<LTImage(img254) 193.363,310.874,197.364,314.848 (6, 6)>
+<LTImage(img255) 195.952,311.809,198.776,313.913 (4, 3)>
+<LTImage(img256) 195.952,312.043,199.953,316.251 (6, 6)>
+<LTImage(img257) 198.306,313.212,201.130,315.549 (4, 4)>
+<LTImage(img258) 198.541,313.679,202.542,317.653 (6, 6)>
+<LTImage(img259) 200.424,314.848,205.131,319.524 (7, 7)>
+<LTImage(img260) 200.895,315.316,204.896,319.290 (6, 6)>
+<LTImage(img261) 158.132,357.284,203.752,373.798 (64, 23)>
+<LTImage(img262) 158.368,357.284,160.719,359.610 (4, 4)>
+<LTImage(img263) 163.541,361.703,164.952,363.099 (2, 2)>
+<LTImage(img264) 164.011,361.703,167.538,364.494 (5, 4)>
+<LTImage(img265) 166.598,362.168,170.125,365.890 (5, 6)>
+<LTImage(img266) 168.949,362.634,172.947,366.820 (6, 6)>
+<LTImage(img267) 171.771,363.564,175.769,367.518 (6, 6)>
+<LTImage(img268) 175.298,364.262,178.355,367.518 (5, 5)>
+<LTImage(img269) 178.355,364.727,180.942,366.355 (4, 3)>
+<LTImage(img270) 181.412,364.494,184.939,367.518 (5, 5)>
+<LTImage(img271) 184.704,364.494,188.232,367.518 (5, 5)>
+<LTImage(img272) 187.761,363.564,191.524,367.518 (6, 6)>
+<LTImage(img273) 190.348,363.099,192.934,366.820 (4, 6)>
+<LTImage(img274) 194.346,362.168,195.521,365.425 (2, 5)>
+<LTImage(img275) 196.932,361.703,198.343,364.029 (2, 4)>
+<LTImage(img276) 158.368,357.284,160.719,358.912 (4, 3)>
+<LTImage(img277) 159.779,357.284,160.719,358.679 (2, 2)>
+<LTImage(img278) 167.303,361.703,169.184,362.866 (3, 2)>
+<LTImage(img279) 168.479,361.703,172.006,363.796 (5, 3)>
+<LTImage(img280) 171.536,361.703,174.828,364.262 (5, 4)>
+<LTImage(img281) 174.593,361.703,178.355,364.727 (6, 5)>
+<LTImage(img282) 178.120,362.866,181.882,364.959 (6, 3)>
+<LTImage(img283) 181.412,361.703,185.175,364.959 (6, 5)>
+<LTImage(img284) 184.704,361.703,188.702,364.727 (6, 5)>
+<LTImage(img285) 188.232,361.703,191.524,364.262 (5, 4)>
+<LTImage(img286) 191.053,361.703,194.581,363.796 (5, 3)>
+<LTImage(img287) 194.346,361.703,195.521,362.866 (2, 2)>
+<LTImage(img288) 160.484,357.284,203.751,361.936 (61, 7)>
+<LTImage(img289) 160.484,358.680,162.600,361.471 (3, 4)>
+<LTImage(img290) 160.719,358.679,164.246,361.936 (5, 5)>
+<LTImage(img291) 163.306,360.308,165.892,361.936 (4, 3)>
+<LTImage(img292) 196.932,360.308,199.989,361.936 (5, 3)>
+<LTImage(img293) 199.284,358.679,202.576,361.936 (5, 5)>
+<LTImage(img294) 200.459,357.982,203.751,361.471 (5, 5)>
+<LTImage(img295) 160.484,357.284,163.541,360.540 (5, 5)>
+<LTImage(img296) 161.895,357.517,166.127,361.703 (6, 6)>
+<LTImage(img297) 164.952,358.679,168.714,361.936 (6, 5)>
+<LTImage(img298) 168.009,359.610,171.771,361.936 (6, 4)>
+<LTImage(img299) 171.301,360.308,174.828,361.936 (5, 3)>
+<LTImage(img300) 174.593,360.773,178.120,361.936 (5, 2)>
+<LTImage(img301) 177.885,361.238,180.942,361.703 (5, 1)>
+<LTImage(img302) 181.412,361.238,182.588,361.936 (2, 1)>
+<LTImage(img303) 186.115,360.773,188.702,361.936 (4, 2)>
+<LTImage(img304) 188.467,360.308,191.994,361.936 (5, 3)>
+<LTImage(img305) 191.759,359.610,195.286,361.936 (5, 4)>
+<LTImage(img306) 194.345,358.679,198.343,361.936 (6, 5)>
+<LTImage(img307) 196.932,357.517,201.400,361.936 (7, 7)>
+<LTImage(img308) 199.754,357.284,203.516,360.540 (6, 5)>
+<LTImage(img309) 161.189,357.284,162.130,357.749 (2, 1)>
+<LTImage(img310) 161.895,357.284,165.187,358.912 (5, 3)>
+<LTImage(img311) 164.481,357.284,168.244,359.842 (6, 4)>
+<LTImage(img312) 167.538,357.284,171.536,360.540 (6, 5)>
+<LTImage(img313) 170.595,357.284,174.828,361.238 (6, 6)>
+<LTImage(img314) 174.123,357.517,178.355,361.471 (6, 6)>
+<LTImage(img315) 177.885,357.749,181.647,361.471 (6, 6)>
+<LTImage(img316) 181.412,357.749,185.410,361.471 (6, 6)>
+<LTImage(img317) 184.939,357.517,189.172,361.471 (6, 6)>
+<LTImage(img318) 188.467,357.284,192.699,361.238 (6, 6)>
+<LTImage(img319) 191.759,357.284,195.992,360.540 (6, 5)>
+<LTImage(img320) 195.051,357.284,198.813,359.842 (6, 4)>
+<LTImage(img321) 198.108,357.284,201.400,358.912 (5, 3)>
+<LTImage(img322) 172.006,357.284,174.358,357.749 (4, 1)>
+<LTImage(img323) 174.123,357.284,178.120,357.982 (6, 1)>
+<LTImage(img324) 177.650,357.284,181.883,357.982 (6, 1)>
+<LTImage(img325) 181.412,357.517,184.939,357.982 (5, 1)>
+<LTImage(img326) 186.115,357.284,189.172,357.982 (5, 1)>
+<LTImage(img327) 188.937,357.284,190.113,357.749 (2, 1)>
+<LTImage(img328) 166.128,357.284,199.048,359.610 (46, 4)>
+<LTImage(img329) 161.248,379.258,201.332,387.371 (56, 12)>
+<LTImage(img330) 161.248,373.695,201.332,387.140 (56, 19)>
+<LTImage(img331) 161.248,367.204,201.332,373.926 (56, 10)>
+<LTImage(img332) 175.313,367.204,178.594,367.899 (5, 1)>
+<LTImage(img333) 180.001,367.899,181.642,368.131 (3, 1)>
+<LTImage(img334) 181.408,367.204,184.924,368.131 (5, 2)>
+<LTImage(img335) 184.690,367.204,186.096,368.131 (2, 2)>
+<LTImage(img336) 195.239,367.204,197.114,370.217 (3, 5)>
+<LTImage(img337) 161.950,367.204,167.577,369.754 (8, 4)>
+<LTImage(img338) 178.360,367.204,180.235,370.217 (3, 5)>
+<LTImage(img339) 182.345,367.204,187.971,369.754 (8, 4)>
+<LTImage(img340) 202.347,59.109,215.729,69.125 (19, 14)>
+<LTImage(img341) 202.347,68.892,215.729,72.386 (19, 5)>
+<LTImage(img342) 331.198,621.563,618.996,790.058 (400, 235)>
+<LTImage(img343) 480.393,63.430,618.994,253.262 (193, 264)>
+----START-PAGE 13 ----
+<LTTextBoxHorizontal(0) 33.280,728.748,259.179,837.998 'CinéMa\nL’amour érigé  \nen modèle\n'>
+<LTTextBoxHorizontal(1) 33.280,667.981,291.541,717.926 'Drame Céline Sciamma propose avec  \n« Portrait de la jeune ﬁlle en feu » un ﬁlm  \nen costumes d’époque d’une rare modernité\n'>
+<LTTextBoxHorizontal(2) 33.275,484.649,173.509,653.876 'C’est une histoire d’amour qui ré-\nsonne de la plus belle des manières, \nun portrait en costumes du xviiie siècle, \ntraité avec une ardeur contempo-\nraine, comme le titre du ﬁlm de Céline \nSciamma, Portrait de la jeune ﬁlle en \nfeu, le laisse présager. Hostile au ma-\nriage qui la destine à un homme qu’elle \nn’a jamais vu, la jeune ﬁlle en question \n(Adèle Haenel) refuse de se laisser tirer \nle portrait. Sa mère recrute une jeune \nfemme comme dame de compagnie \n(Noémie Merlant) chargée de la peindre \nen secret. Voilà pour le pitch qui sent \nbon les robes en taffetas, la mousse-\nline de soie… mais pas la naphtaline.\n'>
+<LTTextBoxHorizontal(3) 41.600,410.352,165.770,479.879 '« J’avais envie de \nraconter pas à pas \nce que c’est que de \ntomber amoureux. »\nCéline Sciamma, réalisatrice\n'>
+<LTTextBoxHorizontal(4) 33.275,316.173,173.493,401.131 'Au Festival de Cannes, Céline Sciamma \nconﬁait avoir longtemps cherché « l’al-\nchimie qui produirait le résultat es-\ncompté », à savoir un ﬁlm sur un \namour aussi incandescent qu’intem-\nporel. Cette alchimie, Céline Sciamma \nla doit à une histoire truffée de dialo-\ngues drôles et directs, qui a valu au \n'>
+<LTTextBoxHorizontal(5) 182.412,316.156,322.704,653.871 'ﬁlm le prix du scénario à Cannes, ainsi \nqu’à la complicité entre ses deux in-\nterprètes (lire l’encadré).\nA Cannes, Céline Sciamma a insisté sur \nson « envie de faire un ﬁlm d’amour, de \nraconter pas à pas ce que c’est que de \ntomber amoureux ». Elle joue ainsi sur \nles gestes, les regards comme celui \nque pose une peintre sur son modèle \nou celui que pose la réalisatrice sur \nses deux interprètes. Avec l’idée qu’un \ndialogue amoureux peut naître de ce \njeu de regards.\nAlors oui, c’est un ﬁlm en costumes. \nMais « tous les ﬁlms sont en costumes », \nnote malicieusement Céline Sciamma, \nqui souligne qu’« on peut avoir l’illu-\nsion romantique que certains sont plus \nproches de la vie, mais tous les ﬁlms \nsont fabriqués ». Alors oui, il y a en toile \nde fond « le projet de parler du travail de \nfemmes peintres comme Vigée-Lebrun \nou Gentileschi, à l’origine d’une véri-\ntable ébullition artistique féminine au \nxviiie siècle », selon Céline Sciamma, qui \ns’est beaucoup documentée pour évi-\nter les anachronismes. Et la cinéaste \nd’ajouter : « Plus que la reconstitution \nd’une époque ou des costumes, celle \nqui m’importait le plus était celle du \ncœur, des âmes et des corps de ces \nfemmes ».  \nStéphane Leblanc\n'>
+<LTTextBoxHorizontal(6) 520.662,811.124,618.739,837.895 '13\nMercredi 18 septembre 2019\n'>
+<LTTextBoxHorizontal(7) 331.550,611.037,612.022,622.281 'noémie Merlant (à g.) et adèle Haenel incarnent une peintre et son modèle.\n'>
+<LTTextBoxHorizontal(8) 331.550,421.478,519.198,432.722 'L’action du long-métrage se déroule au xviiie siècle.\n'>
+<LTTextBoxHorizontal(9) 337.588,326.712,612.692,403.299 '« Le ﬁlm a été écrit pour Adèle Haenel »\nCéline Sciamma retrouve Adèle Haenel douze ans après Naissance des \npieuvres. « Le ﬁlm a été écrit pour Adèle, conﬁrme la cinéaste. En se fondant \nsur ce qu’on sait d’elle, sur ce que je sais d’elle aussi, mais avec le projet \nexcitant de créer une Adèle neuve. » Et de la confronter à une autre ﬁgure \nféminine, incarnée par Noémie Merlant. Cette dernière n’avait jamais tourné \navec la cinéaste, qui dit en souriant : « C’était si facile de travailler avec elles. »\n'>
+<LTTextBoxHorizontal(10) 322.180,621.563,329.686,675.353 'n\no\ni\nt\nu\nb\ni\nr\nt\ns\ni\nD\ne\nd\nm\na\nr\ny\nP\n'>
+<LTTextBoxHorizontal(11) 322.180,637.798,329.686,639.282 'i\n'>
+<LTTextBoxHorizontal(12) 322.180,645.155,329.686,646.616 ' \n'>
+<LTTextBoxHorizontal(13) 322.180,432.006,329.686,485.796 'n\no\ni\nt\nu\nb\ni\nr\nt\ns\ni\nD\ne\nd\nm\na\nr\ny\nP\n'>
+<LTTextBoxHorizontal(14) 322.180,448.241,329.686,449.725 'i\n'>
+<LTTextBoxHorizontal(15) 322.180,455.598,329.686,457.059 ' \n'>
+<LTTextBoxHorizontal(16) 71.206,78.104,83.777,81.181 'MINISTÈRE\n'>
+<LTTextBoxHorizontal(17) 68.483,75.301,86.500,78.378 'DE LA CULTURE\n'>
+<LTTextBoxHorizontal(18) 433.458,75.410,460.790,79.501 'Avec le support de\n'>
+<LTTextBoxHorizontal(19) 494.517,75.439,501.880,79.531 'Avec\n'>
+<LTTextBoxHorizontal(20) 69.029,68.805,85.357,71.881 'MINISTÈRE DE\n'>
+<LTTextBoxHorizontal(21) 66.893,60.376,88.110,69.068 'L’ENSEIGNEMENT\nSUPÉRIEUR, DE LA\nRECHERCHE ET DE\n'>
+<LTTextBoxHorizontal(22) 69.298,57.553,85.694,60.630 'L’INNOVATION\n'>
+<LTTextBoxHorizontal(23) 101.645,55.140,147.540,62.544 '#CiteAventuriers\n'>
+<LTTextBoxHorizontal(24) 594.758,55.140,597.696,83.950 'e\ng\na\nm\nI\ny\nt\nt\ne\nG\n/\nk\na\nv\no\nN\na\nn\na\nh\nS\n'>
+<LTImage(img0) 33.153,42.624,618.731,295.508 (814, 352)>
+<LTImage(140656486473512) 512.284,59.261,536.830,64.014 (35, 7)>
+<LTImage(img1) 331.143,432.080,619.138,600.505 (400, 234)>
+<LTImage(img2) 331.258,621.492,619.054,790.058 (400, 235)>
+----START-PAGE 14 ----
+<LTTextBoxHorizontal(0) 33.275,764.929,530.240,837.998 'SportS\nKeylor, la clé dorée qui manquait\n'>
+<LTTextBoxHorizontal(1) 520.662,811.124,618.739,837.895 '14\nMercredi 18 septembre 2019\n'>
+<LTTextBoxHorizontal(2) 33.277,689.833,159.389,755.409 'Football Opposé  \nau Real ce mercredi, \nNavas est une recrue \nde choix pour Paris \n'>
+<LTTextBoxHorizontal(3) 173.043,528.990,180.549,530.474 'i\n'>
+<LTTextBoxHorizontal(4) 173.043,500.728,180.549,536.456 'a\np\nS\n \n/\n \nr\ne\nc\nn\ne\np\nS\n'>
+<LTTextBoxHorizontal(5) 173.043,495.195,180.549,500.878 ' \n.\nJ\n'>
+<LTTextBoxHorizontal(6) 33.275,463.602,173.541,674.932 'Pour mesurer ce que l’on gagne, il suf-\nﬁt parfois de regarder ce que l’autre a \nperdu. Et cela saute aux yeux : le Real \nMadrid, qui affronte Paris ce mercredi \nen Ligue des champions (21 h), s’est af-\nfaibli avec le départ de Keylor Navas au \nPSG. Les regrets sortent de la bouche \nmême de Zinédine Zidane : « J’ai beau-\ncoup de respect pour lui, beaucoup \nd’admiration. Tout ce que je peux faire, \nc’est lui souhaiter bonne chance pour \nla suite. » L’entraîneur madrilène a tou-\njours voulu garder le portier costaricain. \nMais cela s’est joué au-dessus de lui. \n« Zidane voulait à tout prix Pobga cet \nété, alors il était prêt à faire ce que lui \ndisait le président sur les autres points, \nrésume Fernando Burgos, journaliste \nà la radio Cadena Cope. Et le président \nvoulait que ce soit Courtois qui joue. »\n'>
+<LTTextBoxHorizontal(7) 33.275,305.640,173.669,454.201 '« Il a fait proﬁl bas »\nAlors, Navas est arrivé au PSG. Double \nquine au bingo du dimanche à Saint-\nGermain-en-Laye. « Le très, très haut \nniveau ne lui fait pas peur, expliquait \nSantiago Cañizares dans Le Parisien. \nAu contraire, il arrive à se sublimer \ndans les grandes compétitions. Il a eu \nune inﬂuence énorme dans les trois \nLigues des champions remportées par \nle Real. » Tout le contraire des gardiens \nparisiens, jusqu’alors. Trapp, Buffon ou \nAreola ont tous connu quelques galères \nen C1 ces dernières années.\n'>
+<LTTextBoxHorizontal(8) 182.412,305.643,322.674,474.847 'Le représentant et ami proche de Navas, \nRicardo Cabanas, avait eu des mots très \njustes dans La Nacion : « C’est plus \ncompliqué de garder les buts du Real \nque de marcher sur la lune. Prendre \nla suite d’une icône comme Casillas, \nc’est très complexe. Keylor s’est imposé \navec humilité, en faisant proﬁl bas, et \nil est apprécié dans le vestiaire parce \nque c’est un exemple dans tout ce qu’il \nfait ». Comprendre que le PSG n’a pas \nseulement recruté un grand gardien, \nil a aussi pris un garçon résilient dont \nla force de caractère ne fera pas tâche \ndans un vestiaire aussi complexé par \nles ratés européens.   Julien Laloye\n'>
+<LTTextBoxHorizontal(9) 182.415,484.671,595.840,495.915 'Keylor Navas a été décisif à plusieurs reprises face à Strasbourg, samedi, pour son premier match avec le pSG.\n'>
+<LTTextBoxHorizontal(10) 331.543,379.355,541.454,477.778 'Raphaël Varane se projette\nUne semaine en haut de l’afﬁche. Ce \nmercredi, Raphaël Varane sera le pa-\ntron de la défense madrilène au Parc en \nl’absence de Sergio Ramos, suspendu. \nPuis, à partir de lundi, il fait l’objet d’un \ndocumentaire en trois épisodes d’Ama-\nzon Prime, qui revient sur sa carrière.\n'>
+<LTTextBoxHorizontal(11) 331.549,210.863,471.841,369.955 'Une référence à son poste\n« Je n’ai pas l’habitude de parler de \nmon intimité, a expliqué le défenseur \nfrançais. Ce documentaire me montre \nmoi, tel que je suis. On ne se forme pas \ntout seul dans la vie, c’est une façon \nde remercier tous ceux qui m’ont ac-\ncompagné. Chacun apporte quelque \nchose à ma carrière. » Sa mère, ensei-\ngnante dans le Nord ; son frère, qui est \naussi son agent d’image ; sa femme, \nqui était sa petite amie quand il n’était \nencore qu’un espoir à Lens… Tous ont \ndroit à une part de lumière dans le \ndocumentaire.\n'>
+<LTTextBoxHorizontal(12) 480.686,210.865,620.997,453.785 'Ce reportage montre aussi, à notre avis, \nle besoin de valoriser un chemin à la \nhauteur de ce qu’il représente dans le \npanorama du foot français, alors que \nles projecteurs se laissent plus naturel-\nlement attirer par l’aura de Mbappé ou \nla personnalité de Griezmann. Comme \nlors de la course au Ballon d’or, à l’au-\ntomne 2018, où Varane a terminé à une \nhonnête septième place, alors qu’il pos-\nsédait des atouts pour faire bien mieux \n(une Ligue des champions et un titre \nmondial, avec un but-clé en quart).\nA son poste, l’ex-Lensois est plus que \njamais top 5. Une évidence que vient \nrappeler un casting cinq étoiles dans \nle documentaire : Marcelo, Ramos, \nModric, Zidane, Mourinho. « Il a fallu \nle pousser pour aller demander à cer-\ntains, mais on n’a pas eu un seul refus, \ntémoigne Théo Schuster, le réalisateur. \nPour parler de Rafa, tout le monde est \npartant. »  \nJ.L.\n'>
+<LTTextBoxHorizontal(13) 331.551,73.955,471.646,158.937 'La Ligue féminine de hand retrouve \nun diffuseur TV. La chaîne gratuite \nSport en France, lancée ﬁn mai  \npar le Comité national olympique  \net sportif français, sera la nouvelle \nvitrine du championnat de France \nféminin de handball, après le \ndésengagement de beIN Sports.\n'>
+<LTTextBoxHorizontal(14) 331.551,42.358,471.156,64.155 'Le Colombien Egan Bernal renonce \naux Mondiaux. Le vainqueur  \n'>
+<LTTextBoxHorizontal(15) 480.685,105.542,620.917,158.927 'du Tour de France a annoncé qu’il \navait décliné l’invitation pour les \nMondiaux de cyclisme, prévus  \nle 29 septembre en Angleterre. Il est \nremplacé par Carlos Betancur.\n'>
+<LTTextBoxHorizontal(16) 480.685,42.348,620.882,95.742 'Johann Zarco privé de guidon. \nL’équipe KTM a décidé de remplacer \nle pilote français dès le GP d’Aragon, \ndimanche. Zarco avait des résultats \ndécevants en Moto GP.\n'>
+<LTTextBoxHorizontal(17) 39.313,221.397,310.719,287.464 'Lille et Lyon se ratent pour leur entrée en lice\nDe retour en Ligue des champions après sept ans d’absence, Lille s’est \nincliné à Amsterdam (3-0). Malgré un gros match, et des occasions de but,  \nle Losc n’a rien pu faire face au réalisme du dernier demi-ﬁnaliste de la C1. \nLyon, de son côté, continue d’inquiéter. Irrégulier en championnat,  \nl’OL a été tenu en échec par le Zénith Saint-Pétersbourg (1-1) à domicile.\n'>
+<LTTextBoxHorizontal(18) 33.275,42.369,307.609,197.890 'Une Coupe du monde très rentable\nRugby L’organe suprême du bal-\nlon ovale n’en espérait pas tant : avec \n260 millions de livres sterling (293 mil-\nlions d’euros) de retombées écono-\nmiques attendues, le Japon devrait ﬁ-\nnalement faire mieux que l’Angleterre \net le pays de Galles n 2015, jusqu’ici \nle Mondial le plus rentable. « On avait \nfait des prévisions d’à peu près 25 % de \nmoins en revenus commerciaux et, en \nfait, on va dépasser les revenus com-\nmerciaux de l’Angleterre, s’est réjoui le \n'>
+<LTTextBoxHorizontal(19) 182.412,42.369,322.714,169.452 'directeur général de World Rugby, Brett \nGosper. C’est une réussite commer-\nciale formidable, de développement, \non l’espère aussi. Pour la compétition, \non verra sur le terrain. » Presque tous \nles billets (96 %) ont été vendus, a in-\ndiqué mardi le comité d’organisation. \n« On a 5,5 millions de demandes pour \n1,8 million de sièges, donc on sait que \nça va être un “sold out”, s’est encore \nfélicité Gosper. On ne l’a pas encore an-\nnoncé, mais ça va venir. »\n'>
+<LTImage(img0) 182.074,494.792,619.071,748.195 (607, 352)>
+----START-PAGE 15 ----
+<LTImage(img0) 33.197,110.989,618.748,824.704 (814, 992)>
+<LTImage(img1) 387.670,231.677,539.741,375.007 (212, 200)>
+----START-PAGE 16 ----
+<LTTextBoxHorizontal(0) 249.108,144.848,581.403,201.766 'L’ALBUM QUI RÉJOUIT !\nDÉJÀ DISPONIBLE AU RAYON BD\n'>
+<LTTextBoxHorizontal(1) 66.670,74.068,75.962,115.066 ' \nt\nr\nu\no\nc\nl\ne\nD\n \ns\nn\no\ni\nt\ni\nd\nÉ\n \n'>
+<LTTextBoxHorizontal(2) 58.291,74.068,67.582,97.783 '9\n1\n0\n2\n \nP\nE\nZ\n \n'>
+<LTTextBoxHorizontal(3) 58.291,68.106,67.582,74.068 '©\n'>
+<LTTextBoxHorizontal(4) 66.670,68.106,75.962,74.068 '©\n'>
+<LTTextBoxHorizontal(5) 469.767,71.328,531.507,89.206 'Découvrez plus \nde #HappySex\n'>
+<LTImage(img0) 169.834,255.150,507.169,655.139 (469, 556)>
+<LTImage(img1) 178.303,668.029,348.391,766.683 (2883, 1669)>
+<LTImage(img2) 296.299,656.383,417.041,766.683 (2047, 1866)>
+<LTImage(img3) 402.564,675.849,461.694,753.795 (950, 1250)>
+<LTImage(img4) 536.326,70.047,592.126,126.008 (946, 947)>
+<LTImage(img5) 296.167,68.208,399.788,99.659 (144, 44)>
+<LTImage(140656488384552) 330.865,90.909,367.687,97.058 (52, 9)>
+<LTImage(140656474768104) 329.005,90.898,367.715,97.046 (54, 9)>
+<LTImage(140656474768776) 344.319,70.573,353.288,77.431 (13, 10)>
+<LTImage(140656474769224) 343.167,70.562,353.081,77.419 (14, 10)>
+<LTImage(140656474767880) 363.202,90.909,364.382,92.328 (2, 2)>
+<LTImage(140656474771184) 363.202,90.909,364.382,92.328 (2, 2)>
+<LTImage(140656474770960) 352.108,76.012,353.288,77.431 (2, 2)>
+<LTImage(140656474768440) 352.108,76.012,353.288,77.431 (2, 2)>
+<LTImage(140656474770232) 331.838,90.898,364.647,92.790 (46, 3)>
+<LTImage(140656474770176) 363.202,90.909,364.382,92.328 (2, 2)>
+<LTImage(140656474770064) 332.074,90.898,364.411,92.317 (45, 2)>
+<LTImage(140656474769896) 343.139,75.539,344.555,77.431 (2, 3)>
+<LTImage(140656474769840) 343.139,75.539,352.344,77.431 (13, 3)>
+<LTImage(140656474769784) 343.167,75.527,353.081,77.419 (14, 3)>
+<LTImage(140656474769616) 352.108,76.012,353.288,77.431 (2, 2)>
+<LTImage(140656474770680) 343.167,76.000,353.081,77.419 (14, 2)>
+<LTImage(img6) 255.059,70.471,286.023,101.492 (44, 44)>
+<LTImage(140656474770344) 64.018,273.743,170.284,288.200 (148, 8)>
+<LTImage(140656474768048) 169.783,283.224,210.981,291.600 (58, 12)>
+<LTImage(img7) 82.554,62.201,229.672,79.537 (205, 7)>
+<LTImage(img8) 215.397,79.275,234.815,235.905 (9, 218)>
+<LTImage(img9) 60.364,65.790,82.891,236.110 (11, 237)>
+<LTImage(img10) 64.582,230.167,127.061,279.300 (82, 62)>
+<LTImage(img11) 123.106,230.121,186.094,284.434 (82, 69)>
+<LTImage(140656469558048) 184.232,232.667,215.582,257.852 (41, 32)>
+<LTImage(img12) 169.738,255.091,213.774,286.973 (62, 45)>
+<LTImage(img13) 67.961,201.553,158.879,243.180 (123, 48)>
+<LTImage(img14) 156.482,209.252,217.403,240.537 (82, 37)>
+<LTImage(img15) 70.913,167.749,161.831,209.376 (123, 48)>
+<LTImage(img16) 158.756,175.448,220.355,214.505 (82, 48)>
+<LTImage(img17) 73.865,134.002,164.778,175.572 (123, 48)>
+<LTImage(img18) 161.708,141.702,223.302,180.702 (82, 48)>
+<LTImage(img19) 76.812,100.198,167.730,141.825 (123, 48)>
+<LTImage(img20) 164.655,107.898,226.254,146.955 (82, 48)>
+<LTImage(img21) 79.764,66.395,170.682,108.021 (123, 48)>
+<LTImage(img22) 167.607,74.094,229.206,113.151 (82, 48)>
+<LTImage(img23) 291.721,771.176,361.966,799.743 (484, 1191)>

@@ -1,0 +1,1122 @@
+----START-PAGE 1 ----
+<LTTextBoxHorizontal(0) 36.970,661.081,101.044,675.510 'GRAND PARIS\n'>
+<LTTextBoxHorizontal(1) 33.280,491.693,168.514,559.257 'Education\nDes lycéens toujours \nsans affectation \naprès la rentrée P.3\n'>
+<LTTextBoxHorizontal(2) 33.280,411.607,167.798,479.171 'Enquête\n« Partout en Europe, \nil y a un recul de la \nliberté de la presse »  P.4\n'>
+<LTTextBoxHorizontal(3) 33.280,331.241,162.921,398.804 'Littérature\nLaurent Binet fait \ngagner les perdants \nde l’histoire P.18\n'>
+<LTTextBoxHorizontal(4) 33.231,159.980,171.158,227.543 'Ligue 1\nL’OM met Monaco \nK.-O. (3-4) et se hisse \ndans le top 5 P.24\n'>
+<LTTextBoxHorizontal(5) 188.655,817.044,291.350,828.590 'Lundi 16 septembre 2019\n'>
+<LTTextBoxHorizontal(6) 353.593,817.044,453.797,828.590 'https://www.20minutes.fr\n'>
+<LTTextBoxHorizontal(7) 585.192,817.044,618.724,828.590 'N° 3453\n'>
+<LTTextBoxHorizontal(8) 194.210,779.333,356.681,800.185 'HARCÈLEMENT, SEXISME\n'>
+<LTTextBoxHorizontal(9) 194.210,644.096,611.702,803.658 'Des victimes \nmises hors jeu\n'>
+<LTTextBoxHorizontal(10) 194.210,595.566,571.478,631.422 'Contrairement aux Etats-Unis, la parole des femmes dans l’industrie \ndu jeu vidéo en France se libère difﬁcilement. P.6\n'>
+<LTTextBoxHorizontal(11) 188.390,159.890,613.529,181.210 'A nos lecteurs. Chaque mardi, retrouvez « 20 Minutes » en version PDF sur le site et les applications mobiles. \nEt suivez toute l’actualité sur l’ensemble de nos supports numériques.\n'>
+<LTTextBoxHorizontal(12) 293.376,81.142,358.636,100.334 '\t\x01\n\x05\x0b\n\t\x01\n\x05\x0b\n'>
+<LTTextBoxHorizontal(13) 278.160,68.090,373.841,75.292 '\x02\x01\x0c\x03 \x0b\r\t\t\x06\x04\x07\x03\x08\x0c\x01\x05\n\x03\n'>
+<LTTextBoxHorizontal(14) 617.364,71.074,626.549,73.248 'I\n'>
+<LTTextBoxHorizontal(15) 617.364,63.253,626.549,65.427 'I\n'>
+<LTTextBoxHorizontal(16) 617.364,42.394,626.549,82.813 'É\nT\nC\nL\nB\nU\nP\n'>
+<LTTextBoxHorizontal(17) 180.087,228.904,187.593,230.364 ' \n'>
+<LTTextBoxHorizontal(18) 180.087,234.851,187.593,236.335 'i\n'>
+<LTTextBoxHorizontal(19) 180.087,214.025,187.593,215.509 'i\n'>
+<LTTextBoxHorizontal(20) 180.087,179.290,187.593,250.158 's\ne\nt\nu\nn\nM\n0\n2\n \n/\n \nn\na\nl\nl\no\nF\n \nt\nn\ne\nm\né\nl\nC\n'>
+<LTTextBoxHorizontal(21) 24.739,561.492,31.619,637.750 ')\nn\no\ni\nt\na\nr\nt\ns\nu\nl\nl\ni\n(\n \ns\ne\nt\nu\nn\nM\n0\n2\n \n/\n \nt\nr\na\nb\ne\nl\ne\nG\n'>
+<LTTextBoxHorizontal(22) 24.739,595.572,31.619,596.932 'i\n'>
+<LTTextBoxHorizontal(23) 24.739,590.173,31.619,591.512 ' \n'>
+<LTTextBoxHorizontal(24) 24.739,559.010,31.619,561.631 ' \n.\n'>
+<LTTextBoxHorizontal(25) 24.739,555.895,31.619,559.180 'A\n'>
+<LTTextBoxHorizontal(26) 9.168,556.568,20.429,583.328 '!\n \ni\nc\nr\ne\nM\n'>
+<LTTextBoxHorizontal(27) 9.168,495.586,20.429,497.777 ' \n'>
+<LTTextBoxHorizontal(28) 9.168,346.053,20.429,556.568 ' \n.\ne\nl\n-\nz\ne\nl\nc\ny\nc\ne\nr\n \nu\no\ne\nl\n-\nz\ne\nn\nn\no\nd\n \n:\n \ne\nu\nq\ni\nl\nb\nu\np\ne\no\nv\n \na\nl\n \nr\nu\ns\n \nl\na\nn\nr\nu\no\n'>
+<LTTextBoxHorizontal(29) 9.168,406.879,20.429,409.106 'i\n'>
+<LTTextBoxHorizontal(30) 9.168,413.770,20.429,415.961 ' \n'>
+<LTTextBoxHorizontal(31) 9.168,341.635,20.429,346.053 'j\n \n'>
+<LTTextBoxHorizontal(32) 9.168,298.408,20.429,341.635 'e\nc\n \ns\na\np\n \nz\ne\nt\ne\n'>
+<LTTextBoxHorizontal(33) 9.168,293.991,20.429,298.408 'j\n \n'>
+<LTTextBoxHorizontal(34) 9.168,284.382,20.429,293.991 'e\nn\n'>
+<LTTextBoxHorizontal(35) 9.168,279.867,20.429,284.382 ' \n,\n'>
+<LTTextBoxHorizontal(36) 9.168,239.496,20.429,241.722 'i\n'>
+<LTTextBoxHorizontal(37) 9.168,195.488,20.429,279.867 'é\nl\nc\ny\nc\ne\nr\n \nr\ne\np\na\np\n \nr\nu\ns\n \né\nm\n'>
+<LTTextBoxHorizontal(38) 9.168,177.026,20.429,195.488 'i\nr\np\nm\n'>
+<LTTextBoxHorizontal(39) 9.168,172.353,20.429,177.026 'I\n \n'>
+<LTTextBoxHorizontal(40) 23.272,229.794,30.778,270.789 'P\nF\nA\n \n/\n \nu\no\ni\nl\na\ns\nt\na\no\nC\n'>
+<LTTextBoxHorizontal(41) 23.272,224.184,30.778,229.944 ' \n.\nY\n'>
+<LTImage(img0) 33.390,224.090,167.931,311.017 (187, 121)>
+<LTImage(img1) 188.718,180.601,618.683,811.784 (598, 877)>
+<LTImage(img2) 191.227,657.920,354.826,798.831 (228, 196)>
+<LTImage(img3) 354.447,657.920,518.047,798.831 (228, 196)>
+<LTImage(img4) 517.667,622.726,615.991,798.831 (137, 245)>
+<LTImage(img5) 191.227,622.726,518.046,658.299 (454, 50)>
+<LTImage(img6) 190.921,585.210,574.513,628.299 (533, 60)>
+<LTImage(img7) 191.410,622.909,574.513,628.298 (533, 8)>
+<LTImage(img8) 76.092,42.330,172.335,138.943 (134, 135)>
+<LTImage(140656465474952) 593.343,46.424,611.647,57.434 (26, 16)>
+<LTImage(140656465476464) 513.507,42.208,543.680,61.589 (42, 27)>
+<LTImage(140656465474560) 491.973,48.013,507.218,55.785 (22, 11)>
+<LTImage(img9) 204.502,89.561,447.509,123.118 (338, 47)>
+<LTImage(140656472783896) 568.138,45.019,587.115,59.328 (27, 20)>
+<LTImage(140656487151768) 549.969,46.302,561.176,57.679 (16, 16)>
+<LTImage(img10) 33.451,555.699,168.236,642.793 (188, 121)>
+----START-PAGE 2 ----
+<LTTextBoxHorizontal(0) 32.580,764.923,468.882,837.998 'Grand Paris\nUne arrestation controversée\n'>
+<LTTextBoxHorizontal(1) 532.033,811.124,618.737,837.895 '2\nLundi 16 septembre 2019\n'>
+<LTTextBoxHorizontal(2) 172.350,637.734,179.855,717.108 ')\nn\no\ni\nt\na\nr\nt\ns\nu\nl\nl\ni\n(\n \ns\ne\nt\nu\nn\nM\n0\n2\n \n/\n \nn\na\nl\nl\no\nF\n'>
+<LTTextBoxHorizontal(3) 172.350,649.867,179.855,651.351 'i\n'>
+<LTTextBoxHorizontal(4) 172.350,670.704,179.855,672.188 'i\n'>
+<LTTextBoxHorizontal(5) 172.350,664.742,179.855,666.202 ' \n'>
+<LTTextBoxHorizontal(6) 172.350,634.989,179.855,637.884 ' \n.\n'>
+<LTTextBoxHorizontal(7) 172.350,631.403,179.855,635.139 'C\n'>
+<LTTextBoxHorizontal(8) 32.575,671.013,169.197,752.251 'Violences L’annonce \nde la suspension d’un \nagent impliqué dans \nune bagarre à Sevran \ncrée la confusion\n'>
+<LTTextBoxHorizontal(9) 32.581,421.479,172.892,653.871 'Quand une vidéo sur les réseaux sociaux \nse charge d’un enjeu politique. Mercredi \nsoir, dans le quartier des Beaudottes, à \nSevran, une violente altercation a opposé \nun policier et un médiateur de la com-\nmune de Seine-Saint-Denis. Les images \ndu corps-à-corps, ﬁlmé par un riverain, \nsont devenues virales. Consciente de \nl’émoi qu’elles ont suscité, la préfec-\nture de police a annoncé jeudi avoir « or-\ndonn[é] la suspension immédiate » du \nfonctionnaire.\n« On ne comprend pas un tel emballe-\nment de l’administration sur le seul fait \nd’une vidéo virale, sans que le contexte \nsoit pris en compte », a déploré Frédéric \nLagache, secrétaire général du syndicat \npolicier Alliance. Jeudi soir, une centaine \nde policiers se sont rassemblés devant le \ncommissariat d’Aulnay-sous-Bois pour \ndénoncer une décision « scandaleuse », \nvisant avant tout à « s’acheter une paix \n'>
+<LTTextBoxHorizontal(10) 181.720,621.566,425.569,632.810 'Préfecture de police et direction de la police nationale s’opposent.\n'>
+<LTTextBoxHorizontal(11) 181.718,421.479,322.021,611.747 'sociale ». Coup de théâtre, vendredi, Eric \nMorvan, le directeur général de la police \nnationale, a fait savoir qu’aucune déci-\nsion n’était arrêtée concernant le sort de \nl’agent. Un désaveu rarissime – les de-\nmandes du préfet aboutissent presque \nsystématiquement –, signe d’une oppo-\nsition grandissante entre la police natio-\nnale, qui a compétence sur tout le ter-\nritoire, excepté la capitale et la petite \ncouronne, et la préfecture de police pa-\nrisienne, considérée comme une police \ndans la police. D’autant plus que, malgré \nl’annonce du préfet, le fonctionnaire ne \npouvait être formellement suspendu : \nlégèrement blessé lors de l’opération, \nil était en arrêt maladie depuis mercredi \net ne pouvait donc pas se voir notiﬁer \n'>
+<LTTextBoxHorizontal(12) 330.849,558.380,471.088,611.743 'cette suspension. La préfecture a pré-\ncisé maintenir sa demande de suspen-\nsion, mais qu’il ne s’agissait pas d’une \n« sanction » à l’encontre du fonctionnaire.\n \nCaroline Politi \n'>
+<LTTextBoxHorizontal(13) 336.894,432.035,461.716,540.198 'Deux enquêtes ouvertes\nLa préfecture a annoncé la saisine \nde l’IGPN pour déterminer \nnotamment si la réponse de l’agent \nétait « proportionnelle ». Une \nenquête judiciaire pour violences  \na été ouverte par le parquet de \nBobigny après la plainte du \nmédiateur, qui dit avoir pris la \ndéfense de jeunes du quartier. \n'>
+<LTTextBoxHorizontal(14) 479.992,621.556,618.016,759.179 'L’incarcération de Balkany divise. \nLa ministre de la Justice, Nicole \nBelloubet, a estimé dimanche que \nl’incarcération de Patrick Balkany, \ncondamné vendredi à quatre ans  \nde prison ferme et à dix ans \nd’inéligibilité pour avoir soustrait \ndes millions d’euros au ﬁsc, n’avait \nrien « d’exceptionnel ». Elle a trouvé \n« choquant » que son épouse, \nIsabelle, également condamnée,  \nlui ait succédé à la mairie de \nLevallois-Perret (Hauts-de-Seine).\n'>
+<LTTextBoxHorizontal(15) 479.992,505.716,616.191,611.734 'L’inquiétude des riverains a raison \ndu festival hip-hop Revolution.  \nLe festival de musiques urbaines \nRévolution, programmé  \nle 22 septembre  \net qui suscitait l’inquiétude  \ndes riverains du stade Jean-Bouin \n(Paris, 16e), a été reporté à l’été  \npar ses organisateurs, soucieux  \nde « désamorcer la situation ».\n'>
+<LTTextBoxHorizontal(16) 479.992,421.480,613.688,495.914 'Le Forum des Halles s’afﬁche aux \ncouleurs de la marque Westﬁeld. \nAprès Les Quatre Temps  \n(Hauts-de-Seine), entre autres,  \nle Forum des Halles (Paris, 1er)  \nest lui aussi passé sous le pavillon \ndu groupe australien Westﬁeld.\n'>
+<LTTextBoxHorizontal(17) 554.145,372.828,595.922,423.079 '2019\n'>
+<LTTextBoxHorizontal(18) 352.329,385.766,506.502,401.329 '20 septembre au 5 octobre\n'>
+<LTTextBoxHorizontal(19) 366.702,242.273,427.942,272.164 'CINQ : CHLOÉ LACAN,\nIMBERT\nGUILHEM VALAYÉ,\nIMBERT, NICOLAS JULES,\nVALÉRIAN RENAULT\n'>
+<LTTextBoxHorizontal(20) 365.761,196.761,438.384,224.490 "STEVE WARING, ALAIN SCHNEIDER,\nKUZYLARSEN, CHLOÉ BRÉAULT,\nPIERRE HERVÉ GOULET, MARSU,\nBAKEL, LES HOTESSES D'HILAIRE\n">
+<LTTextBoxHorizontal(21) 365.068,153.427,436.402,182.276 'NICOLAS HAAS, BENOIT PARADIS\nL E S F O U T E U R S D E J O I E, VAS LO,\nNICOLAS FRAISSINET, BASTIEN\nLUCAS, LAURENT LAMARCA\n'>
+<LTTextBoxHorizontal(22) 364.679,116.382,438.274,143.846 'GÉRARD MOREL, NICOLAU,\nMICKA ROCK, TÉOL, BATLIK,\nBELFOUR, SHONEN BAT, DESSOLAS,\nDANNY BUCKTON, BOULE\n'>
+<LTTextBoxHorizontal(23) 470.609,259.324,581.918,310.574 'JÉRÉMY FREROT\nLES OGRES DE BARBACK\n'>
+<LTTextBoxHorizontal(24) 470.126,199.648,576.184,245.857 'CAMILLE ET JULIE\nBERTHOLLET\nLES INNOCENTS\n'>
+<LTTextBoxHorizontal(25) 464.471,110.488,574.793,184.917 'SANSEVERINO\nMAXIMELEFORESTIER\nMARC LAVOINE\n'>
+<LTTextBoxHorizontal(26) 367.176,62.009,577.095,68.031 'AVEC LA PARTICIPATION DU THÉÂTRE ALEXANDRE DUMAS, DU THÉÂTRE DU VÉSINET, DU QUAI 3 DU PECQ ET DU THÉÂTRE DE POISSY\n'>
+<LTImage(img0) 33.246,221.452,320.579,402.175 (400, 252)>
+<LTImage(img1) 331.431,94.536,618.772,402.164 (400, 428)>
+<LTImage(img2) 458.352,94.536,602.495,334.973 (201, 334)>
+<LTImage(img3) 428.789,93.509,614.990,339.817 (253, 338)>
+<LTImage(img4) 445.086,91.919,606.775,337.568 (219, 338)>
+<LTImage(140656466332472) 464.926,147.439,474.545,158.602 (14, 16)>
+<LTImage(140656468783960) 473.426,146.416,480.457,157.768 (10, 16)>
+<LTImage(140656468785920) 480.284,145.832,488.953,156.511 (12, 15)>
+<LTImage(140656468783736) 488.081,145.499,491.789,155.390 (5, 14)>
+<LTImage(140656468786816) 490.913,143.910,500.537,155.306 (14, 16)>
+<LTImage(140656468784072) 500.600,143.375,506.441,154.004 (8, 15)>
+<LTImage(140656468786424) 508.401,142.340,514.238,152.735 (8, 15)>
+<LTImage(140656488119152) 514.065,141.735,519.906,152.365 (8, 15)>
+<LTImage(140656488116576) 522.106,140.938,528.406,150.873 (9, 14)>
+<LTImage(140656488116520) 526.827,139.850,534.318,150.507 (11, 15)>
+<LTImage(140656488119432) 533.674,139.032,541.404,149.928 (11, 15)>
+<LTImage(140656488117304) 540.764,138.218,546.604,148.847 (8, 15)>
+<LTImage(140656488116408) 545.725,137.602,552.508,148.247 (10, 15)>
+<LTImage(140656488120048) 552.104,136.776,558.416,147.413 (9, 15)>
+<LTImage(140656488119040) 557.073,136.627,560.776,146.284 (5, 14)>
+<LTImage(140656488118424) 560.376,135.514,566.217,146.144 (8, 15)>
+<LTImage(140656488118088) 565.804,134.906,573.299,145.798 (11, 15)>
+<LTImage(img5) 437.900,192.175,450.892,274.519 (17, 115)>
+<LTImage(140656488116352) 447.802,192.346,451.128,274.289 (3, 114)>
+<LTImage(140656488119824) 347.648,189.232,354.714,273.883 (10, 118)>
+<LTImage(140656488119320) 449.405,192.739,455.529,273.883 (9, 113)>
+<LTImage(img6) 354.479,190.401,435.743,273.181 (113, 115)>
+<LTImage(img7) 434.094,192.506,449.641,273.883 (22, 114)>
+<LTImage(140656487810048) 449.405,192.973,449.641,273.883 (1, 113)>
+<LTImage(img8) 346.855,94.605,354.628,189.459 (11, 132)>
+<LTImage(140656487812232) 449.555,94.605,454.737,192.496 (8, 136)>
+<LTImage(img9) 354.393,94.605,437.777,190.860 (116, 134)>
+<LTImage(img10) 435.422,94.605,449.555,192.730 (20, 137)>
+<LTImage(140656487812512) 449.319,94.605,449.791,192.496 (1, 136)>
+<LTImage(140656487811448) 347.798,180.114,354.628,190.627 (10, 15)>
+<LTImage(img11) 354.393,180.815,435.658,194.833 (113, 20)>
+<LTImage(140656487809600) 435.422,190.627,440.369,192.964 (7, 4)>
+<LTImage(img12) 348.638,273.545,433.907,294.525 (119, 30)>
+<LTImage(140656487812848) 433.671,294.292,449.453,294.525 (22, 1)>
+<LTImage(140656487812736) 449.218,274.011,456.520,294.525 (11, 29)>
+<LTImage(img13) 354.291,273.545,434.142,294.525 (111, 30)>
+<LTImage(140656487812288) 433.671,273.545,449.453,294.525 (22, 30)>
+<LTImage(140656487810776) 449.218,274.011,449.689,294.525 (1, 29)>
+<LTImage(140656487809152) 348.638,270.281,354.527,273.778 (9, 5)>
+<LTImage(140656466693312) 354.291,270.514,434.378,273.778 (112, 5)>
+<LTImage(140656466693704) 433.907,273.079,439.560,273.778 (8, 1)>
+<LTImage(140656466781240) 449.555,108.856,450.733,147.172 (2, 54)>
+<LTImage(img14) 357.926,108.856,437.306,147.172 (111, 54)>
+<LTImage(140656466855472) 436.364,108.856,449.555,147.172 (19, 54)>
+<LTImage(140656466855920) 449.319,108.856,449.791,147.172 (1, 54)>
+<LTImage(140656466856088) 450.433,116.893,451.465,119.946 (2, 5)>
+<LTImage(140656466856648) 357.499,136.643,358.421,143.879 (1, 11)>
+<LTImage(140656466856816) 449.256,116.906,451.099,123.472 (3, 10)>
+<LTImage(img15) 357.045,111.257,438.088,147.596 (112, 48)>
+<LTImage(140656466857656) 435.342,116.017,450.341,145.761 (20, 41)>
+<LTImage(140656466810808) 449.021,116.941,449.936,123.945 (1, 10)>
+<LTImage(140656466872696) 559.443,74.273,575.287,85.818 (23, 17)>
+<LTImage(140656466680464) 565.820,73.246,572.466,74.307 (10, 2)>
+<LTImage(img16) 181.718,631.810,468.894,743.813 (399, 156)>
+----START-PAGE 3 ----
+<LTTextBoxHorizontal(0) 33.275,728.752,286.427,837.998 'Grand Paris\nAffectés, car   \nsans affectation \n'>
+<LTTextBoxHorizontal(1) 33.275,667.972,294.919,717.910 'Réforme du lycée Quinze jours après \nla rentrée scolaire, certains jeunes Franciliens \nn’ont toujours pas repris les cours    \n'>
+<LTTextBoxHorizontal(2) 33.275,421.464,173.598,653.871 'Ils ont fait leur rentrée dans leur canapé. \nLa ﬁlle de Fatima K. n’a reçu que ven-\ndredi une affectation pour intégrer une \nclasse de 1re dans un établissement pu-\nblic parisien. Mais, pour rejoindre ses \nnouveaux camarades, elle a dû renon-\ncer aux spécialités arts plastiques et \nSVT qu’elle avait choisies et « compo-\nser avec ce qu’il restait », explique sa \nmère. Le ﬁls de Sylvie P., lui, n’a tou-\njours pas mis un pied en classe : « Nous \navons dû refuser l’affectation [dans un \nlycée de Villeneuve-la-Garenne], car \ncela n’était pas en cohérence avec son \nchoix d’études ni son projet profession-\nnel. En plus, c’était en dehors de notre \ncommune [Clichy]. » \nUne situation incompréhensible pour \nces familles, qui assurent avoir accompli \nles démarches dans les délais et sans \nfausse note. La réforme des lycées \naurait-elle retardé des affectations ? \n'>
+<LTTextBoxHorizontal(3) 322.181,627.741,329.686,711.656 ')\nn\no\ni\nt\na\nr\nt\ns\nu\nl\nl\ni\n(\n \ns\ne\nt\nu\nn\nM\n0\n2\n \n/\n \nt\nr\na\nb\ne\nl\ne\nG\n'>
+<LTTextBoxHorizontal(4) 322.181,665.251,329.686,666.735 'i\n'>
+<LTTextBoxHorizontal(5) 322.181,659.289,329.686,660.750 ' \n'>
+<LTTextBoxHorizontal(6) 532.033,811.124,618.737,837.895 '3\nLundi 16 septembre 2019\n'>
+<LTTextBoxHorizontal(7) 331.550,611.037,611.684,622.281 'Pour intégrer un établissement, des lycéens ont dû changer de spécialités. \n'>
+<LTTextBoxHorizontal(8) 331.543,421.481,471.841,601.215 'sufﬁsamment anticipées et en dernier \nle reliquat du baby-boom de l’an 2000 », \najoute-t-il. Enﬁn, il ne faut pas oublier \nles élèves qui ont échoué au bac. \nRévolté par la situation, Abdelkrim \nMesbahi a appelé « 25 familles » à se \nmobiliser vendredi matin devant la pré-\nfecture de Nanterre. « On m’a répondu \nque mon ﬁls avait été affecté, il fallait \nque je fasse avec et que, si je n’étais \npas satisfaite, je n’avais qu’à faire un \nrecours par recommandé à l’académie, \ns’exaspère Sylvie, qui a été reçue par un \nmembre du personnel. On est dans un \npays où l’éducation est reconnue, et là, \non est en train de faire n’importe quoi \navec nos enfants. »\n'>
+<LTTextBoxHorizontal(9) 480.680,421.464,620.932,601.217 'Abdelkrim Mesbahi a bon espoir que \nles choses s’arrangent : « J’ai l’impres-\nsion que la direction de l’académie a pris \nla mesure de la situation. On m’a an-\nnoncé l’ouverture d’une division dans \nle Nord et une autre dans le Sud pour, \nd’une part, intégrer les nouveaux en-\ntrants en 2de, et, d’autre part, pour les \nélèves qui ont échoué au bac. » Le rec-\ntorat projette aussi de créer des mo-\ndules sur mesure qui vont permettre aux \nélèves de terminale qui n’ont pas eu leur \ndiplôme de préparer leur bac. En atten-\ndant, Abdelkrim Mesbahi continue de re-\ncevoir les doléances de ces élèves tou-\njours sur le carreau, quinze jours après \nla rentrée. \nSélène Agapé \n'>
+<LTTextBoxHorizontal(10) 331.549,370.150,453.340,407.263 'La météo à Paris\nAUJOURD’HUI\n'>
+<LTTextBoxHorizontal(11) 480.680,370.150,509.878,381.338 'DEMAIN\n'>
+<LTTextBoxHorizontal(12) 354.677,352.943,377.270,363.220 'matin\n'>
+<LTTextBoxHorizontal(13) 413.789,352.943,456.527,363.220 'après-midi\n'>
+<LTTextBoxHorizontal(14) 504.453,352.943,527.035,363.220 'matin\n'>
+<LTTextBoxHorizontal(15) 562.941,352.943,605.660,363.220 'après-midi\n'>
+<LTTextBoxHorizontal(16) 354.696,290.549,377.257,302.110 '13 °C\n'>
+<LTTextBoxHorizontal(17) 422.649,290.549,447.342,302.110 '29 °C\n'>
+<LTTextBoxHorizontal(18) 503.780,290.556,526.947,302.121 '14 °C\n'>
+<LTTextBoxHorizontal(19) 572.193,290.556,596.550,302.121 '22 °C\n'>
+<LTTextBoxHorizontal(20) 331.550,264.010,384.652,275.198 'ET EN FRANCE\n'>
+<LTTextBoxHorizontal(21) 480.686,152.765,605.455,262.952 'Souriez,  \nc’est encore l’été\nLe soleil s’impose encore sur \nla plus grande partie du pays \net ce malgré quelques nuages \nau nord de la Seine. Près des \nPyrénées, le temps est instable \navec un risque d’averses \norageuses sur les reliefs.\n'>
+<LTTextBoxHorizontal(22) 182.412,589.975,322.649,653.871 'Contactée, l’académie de Paris indique \nque « tous les emménageants de l’été \nont été affectés en 1re LGT [lycée d’en-\nseignement général et technologique] », \nque les derniers cas de 2de ont été ré-\nsolus et dit rester à l’écoute.\n'>
+<LTTextBoxHorizontal(23) 322.181,624.997,329.686,627.891 ' \n.\n'>
+<LTTextBoxHorizontal(24) 322.181,621.563,329.686,625.147 'A\n'>
+<LTTextBoxHorizontal(25) 182.402,421.479,322.715,580.574 'La FCPE mobilisée\nPour Abdelkrim Mesbahi, le président \nde la Fédération des conseils de parents \nd’élèves (FCPE) des Hauts-de-Seine, la \nréforme est en partie responsable du dé-\nsarroi des lycéens, et de leurs parents. \n« L’un des impacts de la réforme, c’est \nle choix des spécialités en ﬁn de 2de », \nestime-t-il. Chaque élève avait la pos-\nsibilité de changer de lycée si les spé-\ncialités qu’il souhaitait suivre n’y étaient \npas enseignées. Ce qui « a impacté le \nnombre de places dans les établisse-\nments ». Mais il y a aussi « des arrivées \ndans le département qui n’ont pas été \n'>
+<LTTextBoxHorizontal(26) 33.275,168.739,303.065,408.528 'Hidalgo en tête dans les sondages\nMunicipales A six mois du \npremier tour des municipales à Paris, \nla maire PS sortante, Anne Hidalgo, \narrive en tête des intentions de vote, \nsept points devant le candidat LREM \ninvesti Benjamin Griveaux, suivi du \n« marcheur » dissident Cédric Villani, \nselon un sondage publié dimanche.\nSelon cette enquête Ifop-Fiducial pour \nLe JDD et Sud Radio, si le premier tour \ndes municipales avait eu lieu dimanche, \n24 % des voix seraient allées à une liste \nde la majorité municipale « Paris en \ncommun » menée par Anne Hidalgo et \nsoutenue par le PS, le Parti commu-\nniste, Les Radicaux de gauche, centre \net indépendants.\nAvec 17 %, la seconde place revien-\ndrait à une liste LREM conduite par \nBenjamin Griveaux, deux points devant \n'>
+<LTTextBoxHorizontal(27) 182.412,168.742,322.729,380.069 'celle menée par Cédric Villani (15 %).\nCe sondage est le premier à paraître \ndepuis l’annonce de la candidature dis-\nsidente du mathématicien il y a deux \nsemaines. L’étude semble conﬁrmer \nque la maire sortante pourrait tirer pro-\nﬁt de la rivalité entre les marcheurs en \nvue du scrutin.\nInvité de Radio J, le président de l’UDI, \nJean-Christophe Lagarde, soutien de \nBenjamin Griveaux, a estimé que « [s]on \nami Pierre-Yves Bournazel [député de \ncentre-droit et membre à l’Assemblée \ndu groupe présidé par Jean-Christophe \nLagarde] qui est donné à 5 % dans les \nsondages, pourrait et devrait trouver \nun accord [avec Benjamin Griveaux]. \nParce que, à 5 %, on ne devient pas \nmaire de Paris, mais on peut contri-\nbuer à une victoire. »\n'>
+<LTTextBoxHorizontal(28) 108.635,116.113,146.623,147.941 'avec  \nvous\n'>
+<LTTextBoxHorizontal(29) 182.415,121.898,311.456,151.727 'Tous les jours, suivez l’actualité  \nde votre région et participez !\nparis@20minutes.fr\n'>
+<LTTextBoxHorizontal(30) 119.212,83.586,121.661,94.082 ' \n'>
+<LTTextBoxHorizontal(31) 121.072,54.257,123.521,64.754 ' \n'>
+<LTTextBoxHorizontal(32) 245.677,93.362,248.126,103.859 ' \n'>
+<LTTextBoxHorizontal(33) 255.103,64.034,257.552,74.530 ' \n'>
+<LTTextBoxHorizontal(34) 305.053,54.257,309.951,64.754 '  \n'>
+<LTTextBoxHorizontal(35) 195.845,44.481,198.294,54.978 ' \n'>
+<LTImage(img0) 331.222,621.236,618.209,790.382 (399, 235)>
+<LTImage(img1) 331.549,41.963,618.725,119.839 (399, 109)>
+<LTImage(img2) 341.155,302.100,390.798,351.981 (69, 70)>
+<LTImage(img3) 410.174,302.100,459.817,351.981 (69, 70)>
+<LTImage(img4) 490.531,302.100,540.173,351.981 (69, 70)>
+<LTImage(img5) 559.550,302.100,609.193,351.981 (69, 70)>
+<LTImage(img6) 331.550,135.266,469.271,257.936 (192, 171)>
+<LTImage(img7) 331.550,135.311,469.588,257.567 (192, 170)>
+----START-PAGE 4 ----
+<LTTextBoxHorizontal(0) 33.111,727.623,318.625,837.998 'ActuALité\nSous Macron, la \npresse en question\n'>
+<LTTextBoxHorizontal(1) 33.111,666.856,316.159,716.800 'Médias « 20 Minutes » tente de comprendre les \nchangements dans les relations entre le pouvoir \net ceux qui « font » ou « sortent » l’information \n'>
+<LTTextBoxHorizontal(2) 532.033,811.124,618.737,837.895 '4\nLundi 16 septembre 2019\n'>
+<LTTextBoxHorizontal(3) 33.101,421.481,173.429,653.878 '« Les journalistes ne m’intéressent \npas », avait tranché Emmanuel Macron \nquelques mois après son élection à la \ntête de l’Etat français, en 2017. Coup de \ncom, simple maladresse ou vérité toute \ncrue ? Quoi qu’il en soit, au-delà des pa-\nroles, il y a des lois, votées sous sa pré-\nsidence. Celle contre les fake news, celle \nsur le secret des affaires ou encore la \nréforme de la loi de 1881 sur la liberté \nde la presse. Il y a aussi la création d’un \nconseil de déontologie des médias.\nLes médias semblent avoir rarement \nété autant secoués. Pourtant, le pré-\nsident de la République avait prévenu \nl’ensemble de la profession, dès jan-\nvier 2018 : « La proximité à laquelle \nnous avions pu parfois nous habituer, \nje pense, n’était bonne ni pour le pou-\nvoir politique, ni pour l’exercice du mé-\ntier de journaliste. » Pour Alexis Lévrier, \nhistorien de la presse et des médias, « il \n'>
+<LTTextBoxHorizontal(4) 322.016,651.842,329.522,653.326 'i\n'>
+<LTTextBoxHorizontal(5) 322.016,626.486,329.522,659.321 'a\np\nS\n \n/\n \ny\na\nl\na\nc\nl\nA\n'>
+<LTTextBoxHorizontal(6) 322.016,623.741,329.522,626.636 ' \n.\n'>
+<LTTextBoxHorizontal(7) 322.016,620.442,329.522,623.891 'S\n'>
+<LTTextBoxHorizontal(8) 182.248,484.664,322.525,653.871 'est objectivement plus difﬁcile d’exercer \nle métier de journaliste depuis l’élection \nd’Emmanuel Macron. Quand on se re-\nvendique de l’héritage gaulliste et bo-\nnapartien, ça pose un certain nombre de \nproblèmes en ce qui concerne la liberté \nde la presse. » Car le chef de l’Etat est un \njupitérien convaincu. Il ne croit pas au \n« président normal » qu’a prétendu être \nson prédécesseur, François Hollande. \nQuitte à briser quelques règles, avec \nla perquisition des locaux d’un journal \n(Mediapart, en février) et la convocation \nde plusieurs journalistes par la Direction \ngénérale de la sécurité intérieure – huit \njusqu’à présent.\n'>
+<LTTextBoxHorizontal(9) 182.248,421.479,322.495,475.263 '« Pas de dictature »\nBien que nous ne soyons « pas dans \nune dictature », précise Alexis Lévrier, \ncertains points inquiètent. Onzième au \nclassement mondial de la liberté de la \n'>
+<LTTextBoxHorizontal(10) 252.957,381.247,289.960,386.858 'https://:sinorama.fr\n'>
+<LTTextBoxHorizontal(11) 148.759,357.709,306.085,370.219 'SINORAMA TRAVEL S.A.S. Numéro de licence:IM075190016\n" 23-25 rue de Berri, 75008 Paris, France I✉ info@sinorama.fr/bustour@sinorama.fr\n'>
+<LTTextBoxHorizontal(12) 192.636,351.284,292.601,356.867 '☎ T : +33(01)1 81 70 96 20 I  Æ F.+33(0)1 53 75 37 88\n'>
+<LTTextBoxHorizontal(13) 67.280,312.399,158.753,328.366 'Charme de L’Europe de l’Est\nDépart: le vendredi ou samedi selon dispo.\n'>
+<LTTextBoxHorizontal(14) 91.930,299.548,121.709,307.259 '20/09/2019\n'>
+<LTTextBoxHorizontal(15) 60.543,281.197,74.251,287.453 '8 jours\n'>
+<LTTextBoxHorizontal(16) 67.281,266.117,130.306,287.453 'A partir de\nCircuit Nord Maroc\nDépart: tous les jours  selon dispo.\n'>
+<LTTextBoxHorizontal(17) 134.418,283.490,157.415,291.195 '479€/P.P\n'>
+<LTTextBoxHorizontal(18) 169.181,295.743,250.115,328.375 'Tomber amoureux de la\nMéditerranée\n(France, Suisse, Italie et Vatican)\nDépart: le vendredi ou samedi selon dispo.\n'>
+<LTTextBoxHorizontal(19) 237.939,309.259,275.807,319.060 '04/10/2019\n'>
+<LTTextBoxHorizontal(20) 225.541,283.882,246.845,290.130 'A partir de\n'>
+<LTTextBoxHorizontal(21) 169.173,247.424,276.694,292.440 '499€/P.P\n8 jours\nUn des plus beaux villages Série 2\nDétendrez-vous au village\nvignoble-Chablis\nDépart: le  samedi d’Octobre selon dispo.\n'>
+<LTTextBoxHorizontal(22) 134.418,239.168,157.415,246.873 '479€/P.P\n'>
+<LTTextBoxHorizontal(23) 57.171,205.726,153.842,242.467 '6 jours\nA partir de\nBelgique Hollande       \nAllemagne Luxembourg\n(Bruges, Bruxelles, Amsterdam, Trèves, Luxembourg)\nDépart: le samedi.\n'>
+<LTTextBoxHorizontal(24) 169.173,217.268,245.788,241.817 '2 jours\nA partir de\nBaden-Baden Therme &\nStrasbourg\n'>
+<LTTextBoxHorizontal(25) 170.302,205.076,245.148,210.657 'Départ: Oct 19, 26 ; Nov 02, 09, 16, 23, 30\n'>
+<LTTextBoxHorizontal(26) 253.696,239.168,273.659,246.873 '99€/P.P\n'>
+<LTTextBoxHorizontal(27) 57.171,187.894,70.870,194.148 '4 jours\n'>
+<LTTextBoxHorizontal(28) 97.845,187.894,119.143,194.148 'A partir de\n'>
+<LTTextBoxHorizontal(29) 219.978,185.863,241.301,192.118 'A partir de\n'>
+<LTTextBoxHorizontal(30) 253.696,188.880,273.659,196.585 '99€/P.P\n'>
+<LTTextBoxHorizontal(31) 133.732,170.263,197.576,197.043 '229€/P.P\nCharme de la Chine \n( Visite : Pékin, Xi’an, Shanghai)\n'>
+<LTTextBoxHorizontal(32) 169.173,185.863,182.872,192.118 '2 jours\n'>
+<LTTextBoxHorizontal(33) 139.249,142.064,180.612,155.201 'Départ : 10/11/19 ; \n08/12/19 ; 26/03/20\n'>
+<LTTextBoxHorizontal(34) 131.109,100.629,147.040,107.182 '9  jours\n'>
+<LTTextBoxHorizontal(35) 170.689,100.629,194.241,107.182 'A partir de\n'>
+<LTTextBoxHorizontal(36) 201.624,101.744,224.621,109.449 '999€/P.P\n'>
+<LTTextBoxHorizontal(37) 96.950,74.338,243.859,81.255 'Autres destinations et plus d’informations : (cid:231)Tel : 01 81 70 96 20\n'>
+<LTTextBoxHorizontal(38) 127.083,68.175,189.093,74.425 'Code promotionnel : 20M1906\n'>
+<LTTextBoxHorizontal(39) 57.168,62.733,300.580,68.316 'Prix comprend : autocar climatisé, hôtels ¾*(petit déjeuners) guide en français. Prix valable jusqu’à la fin Septembre, selon disponibilité.\n'>
+<LTTextBoxHorizontal(40) 331.384,611.037,580.423,622.281 'La France est 32e au classement mondial de la liberté de la presse.\n'>
+<LTTextBoxHorizontal(41) 331.385,421.479,471.667,601.217 'presse en 2002, la France est désormais \n32e. Derrière la Namibie et Chypre, entre \nautres. Ce qui n’est « pas excellent du \ntout, souligne Pauline Adès-Mével, en \ncharge du secteur Europe à Reporters \nsans frontières (RSF). Voire très surpre-\nnant pour un pays comme la France. » \nEn cause, des échanges musclés et ré-\ncurrents entre les « gilets jaunes », les \nforces de l’ordre et les journalistes, ces \nsix derniers mois.\n« La liberté de la presse présente des \ninconvénients. Mais moins que l’ab-\nsence de liberté », disait le président \nFrançois Mitterrand. Malgré les dis-\ncours déﬁants des débuts, Emmanuel \nMacron ne semble, au fond, pas penser \n'>
+<LTTextBoxHorizontal(42) 480.522,463.587,620.758,601.217 'différemment. En attestent ses vœux aux \njournalistes, en janvier 2018 : « Lorsque \nle contre-pouvoir que la presse constitue \ncommence à être bâillonné, limité, enca-\ndré (…), c’est la vitalité de nos démocra-\nties dans ce qu’elles portent depuis plu-\nsieurs siècles qui est ainsi bousculée. »\nPauline Adès-Mével élargit le débat : \n« En Europe, partout, il y a eu un recul de \nla liberté de la presse. » Une journaliste \na ainsi été assassinée à Malte en 2017, \nune autre en Bulgarie en 2018, une en \nIrlande du Nord, en avril…  Emilie Petit\n'>
+<LTTextBoxHorizontal(43) 519.535,441.910,560.328,460.571 'Vidéo\n'>
+<LTTextBoxHorizontal(44) 519.535,422.108,610.214,439.059 'La presse est-elle  \nmoins libre sous Macron ?\n'>
+<LTTextBoxHorizontal(45) 331.377,42.354,620.836,407.369 'Les attaques en Arabie saoudite \n« auront des répercussions pour tous »\nGéopolitique Une attaque \nmanœuvres orchestrées par Téhéran \npour déstabiliser le golfe Persique. » \npar drones a provoqué samedi des in-\ncendies dans deux installations pé-\nThierry Coville voit plus loin : «Si Téhéran \nest derrière ces attaques, l’enjeu serait \ntrolières du groupe Aramco en Arabie \nsaoudite, obligeant le pays, premier ex-\nde montrer que les sanctions améri-\ncaines auront des répercussions pour \nportateur mondial d’or noir, à réduire \ntemporairement de moitié sa produc-\ntout le monde, pas que l’Iran. La Turquie \net la Chine ont dit qu’elles contourne-\ntion. L’attaque a été revendiquée par les \nraient l’embargo en continuant donc \nrebelles yéménites houthis, en conﬂit \navec le gouvernement de la République \nà acheter du pétrole iranien. L’Union \ndu Yémen, soutenu par l’Arabie saou-\neuropéenne est restée discrète sur ce  \ndite. Mais pour Mike Pompeo, le se-\ndossier. »  \nFabrice Pouliquen\ncrétaire d’Etat américain, il faut y voir \nla main de l’Iran. \nSans trancher le débat, Thierry Coville, \nchercheur à l’Institut de relations in-\nternationales et stratégiques, rappelle \nauprès de 20 Minutes que « le pétrole \nreprésente 80 % des exportations ira-\nniennes et 50 % des recettes budgétaires \nde l’Etat. Les conséquences de l’em-\nbargo américain sont donc très lourdes, \nd’autant plus que l’Iran fait face à une in-\nﬂation qui pourrait atteindre 40 % cette \nannée. » A ses yeux, « l’Iran ne pouvait \npas ne pas réagir. Depuis mai, il hausse \nle ton (…) et prend des mesures qui font \npeu à peu sortir le pays de l’accord de \n2015 sur le nucléaire iranien. Il est \ntentant de voir dans ces attaques des \n'>
+<LTTextBoxHorizontal(46) 480.518,42.370,607.417,64.143 'L’installation d’Aramco, en Arabie \nsaoudite, a été attaquée samedi. \n'>
+<LTTextBoxHorizontal(47) 471.153,63.430,478.659,73.812 'P\nF\nA\n'>
+<LTImage(img0) 60.470,363.804,116.404,392.759 (78, 41)>
+<LTImage(img1) 62.978,99.982,115.214,163.363 (73, 89)>
+<LTImage(img2) 235.226,100.476,281.484,159.122 (65, 82)>
+<LTImage(img3) 331.385,620.167,618.561,788.938 (399, 235)>
+<LTImage(img4) 480.106,63.430,619.207,221.393 (194, 220)>
+----START-PAGE 5 ----
+<LTImage(img0) 33.233,42.643,618.844,824.888 (814, 1087)>
+----START-PAGE 6 ----
+<LTTextBoxHorizontal(0) 33.275,764.931,593.600,837.998 'ActuALité\nOmerta dans l’industrie du jeu vidéo \n'>
+<LTTextBoxHorizontal(1) 532.033,811.124,618.737,837.895 '6\nLundi 16 septembre 2019\n'>
+<LTTextBoxHorizontal(2) 33.272,674.197,161.843,755.419 'Harcèlement En \nFrance, la parole des \nfemmes qui travaillent \ndans le secteur  \na du mal à se libérer\n'>
+<LTTextBoxHorizontal(3) 33.275,505.725,173.518,664.402 '« J’ai écrit un post que vous devriez lire, \nj’y dénonce mon violeur. » Fin août, le \ntémoignage de Nathalie Lawhead, une \nconceptrice indépendante aux Etats-\nUnis, a ébranlé l’industrie du jeu vidéo. \nLa jeune femme a raconté, dans un \nthread posté sur Twitter, avoir été vio-\nlée par un grand ponte de l’industrie vi-\ndéoludique. Très rapidement, les lan-\ngues se sont déliées, et une vingtaine \nd’autres femmes du milieu ont à leur \ntour raconté sur les réseaux sociaux \navoir été abusées ou harcelées sexuel-\nlement, dénonçant publiquement leurs \nagresseurs.\n'>
+<LTTextBoxHorizontal(4) 41.600,443.809,156.190,500.038 '« On nous fait \ncomprendre qu’on \nest très facilement \nremplaçables. »\n'>
+<LTTextBoxHorizontal(5) 56.037,430.510,165.771,442.177 'Zoé**, victime de harcèlement\n'>
+<LTTextBoxHorizontal(6) 173.043,510.023,180.549,558.045 ')\nn\no\ni\nt\na\nr\nt\ns\nu\nl\nl\ni\n(\n \ns\ne\ng\na\nm\n'>
+<LTTextBoxHorizontal(7) 173.043,494.504,180.549,510.173 'I\n \ny\nt\nt\ne\nG\n'>
+<LTTextBoxHorizontal(8) 33.275,210.862,173.569,422.186 'En France, où l’industrie du jeu vidéo \nemploie près de 5 000 personnes pour \nun chiffre d’affaires de 4,3 milliards \nd’euros, cette « libération » de la pa-\nrole outre-Atlantique est quasiment \npassée inaperçue. Alors que « ces \nproblèmes [y] sont bien présents », \nconﬁrme le Syndicat des travailleurs \ndu jeu vidéo (STJV)*. « Quand les té-\nmoignages ont commencé à se mul-\ntiplier sur Twitter, ﬁn août, nous avons \nouvert nos DM [messages privés] pour \nencourager les femmes en France à té-\nmoigner », rappelle Audrey Leprince, \nprésidente de l’association Women in \nGames, qui œuvre pour la promotion \nde la mixité dans le milieu du jeu vidéo. \nMais très peu de victimes se sont ma-\nnifestées. Pourquoi une telle omerta ?\n« La faible proportion de femmes dans \n'>
+<LTTextBoxHorizontal(9) 182.415,484.671,506.206,495.915 'Outre-Atlantique, le mouvement #metoo commence à gagner l’industrie vidéoludique. \n'>
+<LTTextBoxHorizontal(10) 182.412,210.862,322.681,474.847 'les studios, la culture du crunch [pé-\nriode intense de travail avant le rendu \nd’un projet], l’entre-soi de l’industrie \net le culte du secret qui en résulte \ncontribuent à réprimer les possibili-\ntés d’action des victimes », analyse le \nSTJV. Les cas de harcèlement au tra-\nvail sont pourtant « nombreux », conﬁe \nà 20 Minutes Zoé**, elle-même victime \nqui travaille dans un grand studio fran-\nçais : « Dès le départ, on nous fait com-\nprendre que nous sommes très faci-\nlement remplaçables. » Des victimes \nqui ont osé parler publiquement, il y \nen a peu. Parmi elles, Fanny**, qui a \ndécidé de tout plaquer il y a trois ans.\n« Lors d’une soirée entre camarades de \nboulot, l’un de mes collègues masculins \na soudainement mis sa main dans mon \npantalon. Personne n’a réagi, comme \nsi c’était normal. J’ai été choquée, mais \nje n’ai pas voulu faire d’esclandre, j’ai \nmoi-même downplayed [minimisé] ce \nqui s’était passé », raconte-t-elle, la voix \némue. « La semaine d’après, j’ai décidé \n'>
+<LTTextBoxHorizontal(11) 331.549,283.393,471.800,474.847 'd’aller voir le PDG de ma boîte pour \nlui en parler. Il m’a dit, d’une manière \ncomplètement détachée : “C’est ta pa-\nrole contre la sienne.” » 20 Minutes a \nrecueilli plusieurs témoignages comme \ncelui de Fanny. « A chaque fois que je \nm’absente et que je reviens à mon \nposte, ma page Web est ouverte sur \nun ﬁlm porno », raconte ainsi une jeune \ndéveloppeuse, qui vient tout juste d’être \nembauchée dans un studio.\nDes groupes de \nsoutien se créent, \nune liste des \n« prédateurs \nsexuels » circule... \n'>
+<LTTextBoxHorizontal(12) 331.549,210.847,471.851,274.754 'A défaut de pouvoir témoigner publi-\nquement, plusieurs femmes ont dé-\ncidé de créer des groupes de soutien ; \nd’autres ont pris l’initiative de créer \nune liste des « prédateurs sexuels » ; \nd’autres, à l’inverse, souhaiteraient \n'>
+<LTTextBoxHorizontal(13) 480.686,210.880,620.958,474.839 'établir « une liste des entreprises \n“safe”, où la lutte contre les compor-\ntements sexistes est une priorité », ex-\nplique Audrey Leprince.\nAujourd’hui, les choses semblent donc \nbouger un peu. « Le fait que ces affaires \ndeviennent de plus en plus médiatiques \namène les mentalités à changer », ex-\nplique Zoé, qui milite pour une véritable \n« libération » de la parole. Women in \nGames doit, elle, prochainement lan-\ncer une formation sur « comment ré-\nagir face aux remarques sexistes dans \nles entreprises ». Hakima Bounemoura\n* Interrogé, le Syndicat des éditeurs de \nlogiciels de loisirs (Sell) a simplement indiqué \nque, « en ce qui concerne le territoire \nfrançais, c’est la loi qui prévaut dans ce type \nd’affaires ». Contacté à plusieurs reprises, \nle Syndicat national du jeu vidéo (SNJV), \nl’autre grand syndicat d’éditeurs, n’a,  \nlui, pas donné suite à nos sollicitations.\n** Les prénoms ont été changés à la demande \ndes témoins, par peur de représailles \nde la part de leur hiérarchie.\n'>
+<LTTextBoxHorizontal(14) 33.272,42.354,325.335,197.890 'Les « antisystèmes » au second tour ? \nTunisie Rarement l’issue d’une \nont afﬁrmé être qualiﬁés pour le 2e \nélection aura été aussi incertaine en \ntour. Les sondages, effectués par les \nTunisie. Dans ce pays pionnier du \ninstituts tunisiens Sigma Conseil et \nEmrhod, donnent Kais Saied à environ \nPrintemps arabe, sept millions d’élec-\n19 %, et Nabil Karoui à environ 15 %.\nteurs ont été appelés à choisir di-\nLe candidat à la magistrature su-\nmanche leur président parmi 24 can-\ndidats, après une campagne intense \nprême présenté par le parti d’inspi-\nsans clivage politique clair.\nration islamiste Ennahdha, Abdelfattah \nMourou, arrive troisième avec 11 à 12 %, \nDimanche soir, l’homme d’affaires \ndevant le Premier ministre, Youssef \nNabil Karoui, actuellement incar-\nChahed, situé entre 7 et 8 %, selon \ncéré, et Kais Saied, universitaire in-\ndépendant, tous deux « antisystèmes », \nces sondages.\n'>
+<LTTextBoxHorizontal(15) 331.550,42.358,470.075,158.937 'Contaminé en 2011 par la bactérie \nEscherichia coli, Nolan est décédé. \nLe jeune Nolan, intoxiqué en 2011 \npar un steak haché contaminé par \nla bactérie E. coli, est décédé \nsamedi à l’âge de 10 ans, a indiqué \ndimanche l’avocate de la famille. En \nfévrier, le gérant du fournisseur de \nLidl mis en cause dans ce scandale \nalimentaire avait été condamné en \nappel à trois ans de prison.\n'>
+<LTTextBoxHorizontal(16) 480.683,42.348,620.930,158.927 'Nouvelles violences à Hong Kong. \nDes dizaines de milliers de militants \nprodémocratie ont bravé \nl’interdiction de manifester \ndimanche soir à Hong Kong. \nGrenades lacrymogènes, cocktails \nMolotov… Le rassemblement  \na dégénéré en violences  \nentre policiers et groupes radicaux \nqui tentaient de s’en prendre  \nau siège de l’exécutif.\n'>
+<LTImage(img0) 182.120,494.935,618.803,748.268 (607, 352)>
+----START-PAGE 7 ----
+<LTTextBoxHorizontal(0) 113.889,497.517,537.133,725.883 'NE SURVOLEZ PAS VOTRE VOYAGE, VIVEZ-LE\nLONDRES\nLONDRES\n'>
+<LTTextBoxHorizontal(1) 156.300,338.819,195.994,366.871 'DÈS \n'>
+<LTTextBoxHorizontal(2) 461.900,352.698,557.130,423.736 'PAR TRAJET\n54 000 places\ndisponibles\n'>
+<LTTextBoxHorizontal(3) 62.502,56.258,587.106,93.392 '*Offre promotionnelle à partir de 34 € par personne, pour un aller simple en Standard, basé sur un A/R obligatoire, soit 68 € aller-retour. 54 000 places disponibles à partir du 10/09/2019. Valable au \ndépart de Paris Gare du Nord, Lille Europe et Calais Fréthun à destination de Londres St Pancras International, Ebbsfleet International et Ashford International. Réservation ouverte du 10/09/2019 au \n23/09/2019 inclus, pour des voyages du 01/10/2019 au 17/01/2020 inclus. Certaines dates sont exclues. Disponibilité limitée les vendredis et les weekends. Offre disponible dans tous les points de vente\nEurostar, y compris eurostar.com. Billets non remboursables, et échangeables selon les conditions applicables au moment de l’échange. Plus d’informations sur eurostar.com.  \nEurostar International Limited, société de droit britannique enregistrée en Angleterre et au Pays de Galles sous le n°2462001. Times House, Bravingtons Walk, Londres N1 9AW, Royaume-Uni.\n'>
+<LTImage(img0) 32.939,52.411,396.717,153.682 (501, 72)>
+<LTImage(img1) 14.640,349.846,204.955,506.008 (241, 186)>
+<LTImage(img2) 186.128,325.690,376.519,481.863 (242, 186)>
+<LTImage(img3) 326.498,93.653,445.208,457.707 (97, 497)>
+<LTImage(img4) 14.634,218.345,186.486,371.753 (216, 185)>
+<LTImage(img5) 167.680,194.189,358.050,350.204 (242, 185)>
+<LTImage(img6) 14.668,82.086,202.382,237.652 (238, 185)>
+<LTImage(img7) 188.161,95.367,339.602,213.868 (193, 140)>
+<LTImage(img8) 186.568,91.704,271.084,115.046 (117, 17)>
+<LTImage(img9) 246.404,704.085,279.926,729.200 (47, 35)>
+<LTImage(img10) 279.900,704.085,313.422,729.200 (47, 35)>
+<LTImage(img11) 313.395,704.085,346.905,729.200 (47, 35)>
+<LTImage(img12) 346.878,704.085,380.400,729.200 (47, 35)>
+<LTImage(img13) 380.374,704.085,413.896,729.200 (47, 35)>
+<LTImage(img14) 246.404,679.009,279.926,704.111 (47, 35)>
+<LTImage(img15) 279.900,680.417,313.422,704.111 (47, 33)>
+<LTImage(140656473400768) 313.395,685.813,346.905,704.111 (47, 26)>
+<LTImage(140656473399480) 346.878,691.443,380.400,704.111 (47, 18)>
+<LTImage(140656473402448) 380.374,697.073,413.896,704.111 (47, 10)>
+----START-PAGE 8 ----
+<LTTextBoxHorizontal(0) 33.372,811.124,127.752,837.998 'Dix News\n'>
+<LTTextBoxHorizontal(1) 55.761,764.926,237.545,806.199 'Bon calcul  \n'>
+<LTTextBoxHorizontal(2) 33.275,728.750,311.293,770.023 'pour les testicules\n'>
+<LTTextBoxHorizontal(3) 532.033,811.124,618.737,837.895 '8\nLundi 16 septembre 2019\n'>
+<LTTextBoxHorizontal(4) 182.406,579.426,322.664,717.054 'Nobel, prix décerné par les Annals of \nImprobable Research et qui récom-\npense les recherches qui peuvent prê-\nter à rire, mais qui donnent à réﬂéchir. \nLors de la 29e cérémonie de remise des \nprix, qui a eu lieu à Harvard vendredi, \nles spécialistes de la fertilité ont reçu \nle prix « anatomie » de Ig Nobel. Depuis \ncette fameuse étude, Roger Mieusset, \nandrologue à l’hôpital Paule-de-Viguier, \na mis au point une technique pour ré-\nduire la fertilité masculine grâce à un \nprocédé de slip chauffant.\n'>
+<LTTextBoxHorizontal(5) 322.180,597.351,329.686,601.164 'G\n'>
+<LTTextBoxHorizontal(6) 322.180,594.607,329.686,597.501 ' \n.\n'>
+<LTTextBoxHorizontal(7) 322.180,614.635,329.686,616.119 'i\n'>
+<LTTextBoxHorizontal(8) 322.180,601.022,329.686,622.114 'a\np\nS\n \n/\n \ne\nl\ni\n'>
+<LTTextBoxHorizontal(9) 322.180,589.970,329.686,594.757 'M\n'>
+<LTTextBoxHorizontal(10) 331.550,579.440,617.546,590.685 'Des chercheurs toulousains ont étudié la température des bourses des facteurs.\n'>
+<LTTextBoxHorizontal(11) 182.406,537.320,313.718,578.125 '3 Facebook lutte contre  \n'>
+<LTTextBoxHorizontal(12) 182.406,421.479,322.661,548.985 'la dépendance affective\nPour voir si cela rendrait ses utilisa-\nteurs « plus heureux », Facebook est en \ntrain de tester la disparition des likes. La \nmention « J’aime » permet de montrer \nson approbation à des contenus publiés \nsur le réseau social. Mais cette forme \nd’interaction entraîne une certaine dé-\npendance et, en cas d’absence de like, \nles utilisateurs peuvent se sentir aban-\ndonnés ou jugés. Une pression sociale \nque Facebook chercherait à réduire.\n'>
+<LTTextBoxHorizontal(13) 331.543,537.310,462.332,578.116 '5 En Bretagne, on barre  \n'>
+<LTTextBoxHorizontal(14) 356.870,537.320,442.828,548.986 'la rue aux Pélicans\n'>
+<LTTextBoxHorizontal(15) 331.543,421.479,471.804,538.027 'Une manifestation a eu lieu samedi à \nTelgruc-sur-Mer (Finistère) pour pro-\ntester contre la francisation de noms \nde lieux en Bretagne, et surtout celle de  \n32 nouvelles rues. « Nous étions plus de \n600 sur la plage de Trez Bellec », s’est \nfélicité Tangi Louarn, président de Kevre \nBreizh, l’une des associations organi-\nsatrices de la manifestation. La nou-\nvelle rue des Pélicans était notamment \ndans le collimateur des manifestants.\n'>
+<LTTextBoxHorizontal(16) 480.680,537.328,621.060,578.133 '7 Je suis un bébé manchot \n'>
+<LTTextBoxHorizontal(17) 506.007,537.328,577.842,548.993 'et je m’appelle ?\n'>
+<LTTextBoxHorizontal(18) 480.686,421.479,620.968,538.032 'Le carnet rose du centre Planet Ocean, \nà Montpellier, était bien rempli cet \nété. Mais la naissance qui rend tout \nle monde gaga, c’est celle d’un bébé \nmanchot,  sorti de son œuf en juin. \nPlanet Ocean vient de lancer un son-\ndage  pour le baptiser. Les internautes \npeuvent choisir entre Wako (« éveillé » \nen afrikaans), Coumba (« qui a de la \nforce ») ou encore Fluffy (« duveteux » \nen anglais).\n'>
+<LTTextBoxHorizontal(19) 33.275,579.441,173.527,717.047 'Ils ont passé au crible la température \ndes testicules de plusieurs hommes, \nnotamment de postiers et de chauf-\nfeurs de bus. En menant cette très \nsérieuse étude, Roger Mieusset et \nBourras Bengoudifa, du groupe de re-\ncherche en fertilité humaine de l’uni-\nversité de Toulouse, ont montré en 2007 \nqu’en fonction de la position et des vê-\ntements portés il y avait une différence \nde chaleur entre les deux bourses. Et \nde possibles conséquences sur la fer-\ntilité. De quoi inspirer le jury de l’Ig \n'>
+<LTTextBoxHorizontal(20) 33.272,537.327,154.925,578.160 '2 Les latrines victimes \n'>
+<LTTextBoxHorizontal(21) 58.592,537.327,132.438,548.993 'd’un larcin en or\n'>
+<LTTextBoxHorizontal(22) 169.022,421.475,176.528,465.142 'P\nF\nA\n \n/\n \ns\nd\nr\na\nw\nd\nE\nW\n'>
+<LTTextBoxHorizontal(23) 169.022,426.044,176.528,428.941 ' \n.\n'>
+<LTTextBoxHorizontal(24) 33.275,263.516,173.537,422.192 'Un WC en or massif de l’artiste italien \nMaurizio Cattelan a été volé samedi \nau palais de Blenheim, occasionnant \nd’importants dégâts dans cet impo-\nsant château baroque du sud de l’An-\ngleterre classé au patrimoine mon-\ndial de l’Unesco, a annoncé la police \nbritannique. Un homme de 66 ans a \nété arrêté, mais le précieux lieu d’ai-\nsances n’a pas été retrouvé « pour \nle moment », selon la police locale. \nBaptisée America, l’œuvre en or 18 ca-\nrats comprend siège, cuvette et chasse \nd’eau opérationnels. Sa valeur est es-\ntimée à environ 1,13 million d’euros.\n'>
+<LTTextBoxHorizontal(25) 33.275,221.393,136.703,262.213 '9 Nos internautes  \n'>
+<LTTextBoxHorizontal(26) 58.594,221.393,116.342,233.059 'ont du talent\n'>
+<LTTextBoxHorizontal(27) 182.412,379.356,300.821,420.162 '4 Un cadavre déterré  \n'>
+<LTTextBoxHorizontal(28) 207.739,379.356,286.467,391.022 'par Google Maps\n'>
+<LTTextBoxHorizontal(29) 182.412,263.517,322.654,380.072 'La police de Floride (Etats-Unis) vient \nde résoudre une affaire vieille de vingt-\ndeux ans grâce à Google Maps. En août, \nun internaute, qui faisait du repérage \npour acheter une propriété, a remarqué \nune tache de couleur dans l’eau d’une \nmare. En utilisant le mode satellite, il \ns’est aperçu qu’il s’agissait d’une voi-\nture, à l’intérieur de laquelle les po-\nliciers ont retrouvé le squelette d’un \nhomme porté disparu en 1997.\n'>
+<LTTextBoxHorizontal(30) 226.423,112.144,316.216,211.577 'Cette photo nous  \na été envoyée  \npar Pascal Marini.\nVous êtes doué pour  \nla photographie ?  \nEnvoyez vos images  \nà contribution@20minutes.fr \nou postez-les sur Instagram \navec le hashtag \n#nosinternautesontdutalent\n'>
+<LTTextBoxHorizontal(31) 226.423,51.846,313.402,105.620 'Vos photos ne seront destinées \nqu’à cette rubrique.  \nPour en savoir plus sur la gestion \nde vos données :  \nhttps://www.20minutes.fr/\npolitique-protection-donnees-\npersonnelles\n'>
+<LTTextBoxHorizontal(32) 138.607,49.986,211.270,71.768 'A Grasse  \n(Alpes-Maritimes).\n'>
+<LTTextBoxHorizontal(33) 211.015,62.437,218.521,63.921 'i\n'>
+<LTTextBoxHorizontal(34) 211.015,42.393,218.521,62.587 'n\ni\nr\na\nM\nP\n'>
+<LTTextBoxHorizontal(35) 211.015,45.299,218.521,48.190 ' \n.\n'>
+<LTTextBoxHorizontal(36) 331.549,379.356,461.108,420.162 '6 Manuel Valls n’est pas \n'>
+<LTTextBoxHorizontal(37) 356.876,379.356,435.815,391.022 'maire mais marié\n'>
+<LTTextBoxHorizontal(38) 331.549,295.109,471.815,380.069 'L’ex-Premier ministre français Manuel \nValls s’est marié avec sa compagne es-\npagnole, Susana Gallardo, samedi sur \nl’île de Minorque, dans l’archipel des \nBaléares. A 57 ans, il s’était présenté \nen mai aux municipales à Barcelone, \noù il avait échoué à se faire élire maire, \narrivant en quatrième position.\n'>
+<LTTextBoxHorizontal(39) 480.686,379.356,598.602,420.162 '8 Un « Tchernobyl sur \n'>
+<LTTextBoxHorizontal(40) 480.686,295.109,620.908,391.022 'glace » jetterait un froid\nLa première centrale nucléaire ﬂot-\ntante du monde, développée par la \nRussie, l’Akademik Lomonosov, est \narrivée samedi à son port de station-\nnement à Pevek. Les associations en-\nvironnementales ont mis en garde à \npropos des dangers d’un « Tchernobyl \nsur glace » ou d’un « Titanic nucléaire ».\n'>
+<LTTextBoxHorizontal(41) 331.548,252.991,369.303,293.821 '10\n'>
+<LTTextBoxHorizontal(42) 375.666,42.364,620.569,288.380 'Non, la Mégane noire n’est  \npas une nouvelle voiture-radar\nvoitures de police ou de gendarmerie \nbanalisées. Un dispositif qui a suscité \nla déﬁance de nombreux in-\nternautes et donné naissance, \nsur les réseaux sociaux, à cette \n« alerte » sur l’arrivée de la fa-\nmeuse Mégane noire. Les CRS indi-\nquaient déjà à L’Est Républicain en 2013 : \n« Cette Mégane est celle qui a été mon-\ntrée à la télévision, mais elle n’est pas \nreproduite pour tous les services dotés \ndu nouveau radar. » La reprise de cet \n« avertissement » ces jours-ci paraît en \noutre d’autant moins vraisemblable que \nla Sécurité routière a choisi de conﬁer \nla conduite de ces voitures-radar à des \nsociétés privées en 2018. Alexis Orsini\n20 Minutes lutte contre les fake news.  \nUn doute ? Ecrivez à fakeoff@20minutes.fr\n'>
+<LTTextBoxHorizontal(43) 331.549,42.369,471.856,243.173 'Un nouveau type de radar vient-il de \nfaire son apparition sur les routes \nfrançaises ? C’est ce que laisse pen-\nser un post Facebook mon-\ntrant un véhicule en pleine \nvoie d’insertion, avec la lé-\ngende : « Et voilà, elle est ar-\nrivée dans notre région, la fameuse voi-\nture avec radar embarqué ! Elle met  \n9 PV à la minute, rien que ça ! C’est une \nRenault Mégane noire. » Mais l’aver-\ntissement accuse quelques années \nde retard, puisque ce type de radar a \nété déployé pour la première fois il y \na six ans et a connu, depuis, d’impor-\ntants changements. En mars 2013, la \nSécurité routière avait en effet annoncé \nle lancement de vingt radars mobiles de \nnouvelle génération, installés dans des \n'>
+<LTImage(img0) 331.549,589.709,618.725,790.357 (399, 279)>
+<LTImage(img1) 32.976,421.209,171.576,533.195 (193, 156)>
+<LTImage(img2) 33.275,41.869,213.309,211.186 (251, 236)>
+<LTImage(img3) 288.265,214.000,320.449,246.175 (45, 45)>
+----START-PAGE 9 ----
+----START-PAGE 10 ----
+<LTTextBoxHorizontal(0) 33.095,728.758,280.991,837.970 'LA SEMAINE en partenariat avec\nChouette, youpi,\non est lundi !\n'>
+<LTTextBoxHorizontal(1) 33.280,699.255,303.791,717.916 'Vie de bureau Sept raisons de sourire au taf\n'>
+<LTTextBoxHorizontal(2) 529.943,811.124,616.614,838.840 '10\nLundi 16 septembre 2019\n'>
+<LTTextBoxHorizontal(3) 55.768,663.689,300.141,677.680 'Le feu d’artiﬁce annulé pour cause d’ivresse\n'>
+<LTTextBoxHorizontal(4) 33.275,547.849,173.514,664.405 'L’histoire du jour nous vient directe-\nment de Beauvais, dans les Hauts-\nde-France. Ce vendredi 30 août, un \nfeu d’artiﬁce devait illuminer le ciel \npour clôturer la fête des 75 ans de \nla libération de la ville. Mais comme \nle rapporte Le Parisien, tout ne s’est \npas passé comme prévu. Très tôt, cer-\ntains habitants remarquent le com-\nportement inhabituel d’un individu \nposté sur le toit de l’hôtel de ville. « Ils \n'>
+<LTTextBoxHorizontal(5) 182.412,547.851,322.644,664.402 'avaient peur que quelqu’un tombe », \nexplique Caroline Cayeux, la maire. \nEn effet, il semblerait que les artiﬁ-\nciers aient bu quelques verres en pré-\nparant le spectacle. « Ils étaient tota-\nlement ivres, incapables de faire leur \ntravail », ajoute une spectatrice, citée \npar nos confrères. Un test d’alcoolémie \npositif plus tard et « pour des raisons \névidentes de sécurité », la municipa-\nlité a décidé de mettre ﬁn à la soirée.\n'>
+<LTTextBoxHorizontal(6) 33.275,505.725,52.323,546.546 '2\n'>
+<LTTextBoxHorizontal(7) 58.600,505.720,154.150,527.928 'Les plantes \nvous veulent du bien\n'>
+<LTTextBoxHorizontal(8) 33.275,421.479,173.511,506.430 'Selon une étude de l’université de \nl’Oregon (Etats-Unis), la producti-\nvité des travailleurs augmenterait \nde 8 % dans un environnement riche \nen plantes. Ce n’est pas le seul béné-\nﬁce d’un cadre végétal : l’absentéisme \ndiminuerait également de 10 % chez \nles salariés en contact avec la nature.\n'>
+<LTTextBoxHorizontal(9) 168.794,328.485,176.300,345.341 's\ne\ng\na\nm\n'>
+<LTTextBoxHorizontal(10) 168.794,275.708,176.300,328.635 'I\n \ny\nt\nt\ne\nG\n \n/\n \ne\nc\nr\nu\no\nS\ne\ng\na\nm\n'>
+<LTTextBoxHorizontal(11) 168.794,289.654,176.300,291.114 ' \n'>
+<LTTextBoxHorizontal(12) 168.794,274.204,176.300,275.858 'I\n'>
+<LTTextBoxHorizontal(13) 182.492,505.725,201.540,546.546 '3\n'>
+<LTTextBoxHorizontal(14) 207.814,505.729,298.529,527.922 'Eleveur d’insectes, \nun métier d’avenir ?\n'>
+<LTTextBoxHorizontal(15) 182.412,274.047,322.650,506.439 'Un jour, les lycées agricoles de France \nprépareront-ils leurs élèves à un bac \npro éleveur d’insectes mention sau-\nterelles et grillons ? Peut-être. Alors \nque l’entomophagie (le fait de manger \ndes insectes) est une pratique très ré-\npandue dans de nombreuses cultures, \nen Europe, elle reste marginale. Les \néleveurs de ces bestioles se comptent \nsur les doigts de la main. Pourtant, \nles bénéﬁces pour le climat semblent \nconsidérables. Un rapport de l’Orga-\nnisation des Nations unies pour l’ali-\nmentation et l’agriculture rappelait \nque « les grillons ont besoin de six fois \nmoins de nourriture que les bovins, \nquatre fois moins que les moutons » \npour produire une quantité de pro-\ntéines équivalente. Par ailleurs, le rap-\nport souligne qu’un élevage d’insectes \némettrait 10 à 100 fois moins de gaz à \neffet de serre qu’un élevage de porcs.\n'>
+<LTTextBoxHorizontal(16) 36.021,231.919,55.069,272.739 '6\n'>
+<LTTextBoxHorizontal(17) 67.735,231.924,305.720,254.125 'Le gadget parfait pour impressionner les collègues\nZoom sur une lampe globe terrestre magnétique\n'>
+<LTTextBoxHorizontal(18) 45.631,204.801,152.097,224.768 'Le socle mesure 80 x 170 mm \net le globe, 90 mm de diamètre.\n'>
+<LTTextBoxHorizontal(19) 33.235,43.494,316.469,74.687 'Eclairé par plusieurs leds, ce globe tourne et flotte dans le vide, un peu \ncomme notre planète en ce moment même. A la différence que notre Terre \nfait sa révolution autour d’elle-même à 1 700 km/h (au niveau de l’équateur).\n'>
+<LTTextBoxHorizontal(20) 23.507,73.961,31.012,101.053 's\ne\nt\nu\nn\nM\n0\n2\n'>
+<LTTextBoxHorizontal(21) 23.507,85.743,31.012,87.227 'i\n'>
+<LTTextBoxHorizontal(22) 23.507,79.785,31.012,81.246 ' \n'>
+<LTTextBoxHorizontal(23) 341.835,559.821,572.119,667.481 '\x13\x0e\x16\x12\t\x07\x18\n\x04\x11\x07\x13\x15 \x0b\x16\r\x06\t\n'>
+<LTTextBoxHorizontal(24) 608.036,611.040,612.031,648.615 '\x19\n\x0c\n\r\n\x12\n\t\n \n\x17\n\x1d\n\x0c\n\x1a\n \n\x0c\n\x12\n\x18\n\x08\n\x1a\n\x11\n\x17\n\x1d\n\x17\n\x12\n\x18\n'>
+<LTTextBoxHorizontal(25) 608.036,628.849,612.031,629.609 '\x14\n'>
+<LTTextBoxHorizontal(26) 608.036,600.330,612.031,601.090 '\x14\n'>
+<LTTextBoxHorizontal(27) 608.036,583.222,612.031,611.040 ' \n\x0b\n\x15\n\x0c\n\x16\n\x0c\n!\n\x17\n\x07\n \n"\n\x1a\n\x17\n\x11\n\r\n\x1a\n\x02\n'>
+<LTTextBoxHorizontal(28) 608.036,580.368,612.031,583.222 ' \n\n\n \n'>
+<LTTextBoxHorizontal(29) 608.036,535.873,612.031,580.368 '\x17\n\x1d\n\x17\n\x12\n\x04\n \n\x13\n \n\x1b\n\x0c\n\x1d\n\x16\n\x08\n\x03\n\x06\n\x01\n\x05\n\x0e\n\x1f\n\x0f\n\x10\n\x1f\n#\n'>
+<LTTextBoxHorizontal(30) 608.036,541.580,612.031,542.532 ' \n'>
+<LTTextBoxHorizontal(31) 608.036,548.239,612.031,549.190 ' \n'>
+<LTTextBoxHorizontal(32) 608.036,556.222,612.031,557.173 ' \n'>
+<LTTextBoxHorizontal(33) 608.036,534.922,612.031,535.873 ' \n'>
+<LTTextBoxHorizontal(34) 607.943,528.263,612.031,529.215 ' \n'>
+<LTTextBoxHorizontal(35) 607.943,514.320,612.031,534.922 '\x10\n\x1e\n\x1e\n\x05\n\x08\n\x03\n\x02\n\x07\n\x04\n\x01\n'>
+<LTTextBoxHorizontal(36) 358.730,451.910,456.851,489.034 '\x01\x12\x0e\x16\x17\x07\x18 \x0b\x07 \n\x0e\x03\n\x10\x16\t \x17\x02 \x17\x0e\x16\x13 \x08\x02\t\x12\x07 \n\x02\t\x0c\x07\x12 \x0b\x07 \x0b\x16\r\x06\t \x05 \x0f\n'>
+<LTTextBoxHorizontal(37) 331.546,379.359,350.594,420.179 '4\n'>
+<LTTextBoxHorizontal(38) 356.870,379.350,461.332,401.548 'Un accident du travail \nau bout de l’orgasme\n'>
+<LTTextBoxHorizontal(39) 331.757,105.557,472.004,380.064 'Ce 17 mai, la cour d’appel de Paris a \nété sollicitée pour trancher une ques-\ntion particulièrement épineuse : l’ar-\nrêt cardiaque d’un salarié intervenu \nen mission de déplacement profes-\nsionnel vers 22 h, après avoir eu une \nrelation sexuelle avec une femme \nrencontrée le soir, constitue-t-il un \naccident du travail ? Et la réponse fut \npositive ! Pour justiﬁer sa décision, \nla cour d’appel s’est basée sur l’ar-\nticle L411-1 du Code de la sécurité so-\nciale : « Est considéré comme accident \ndu travail, quelle qu’en soit la cause, \nl’accident survenu par le fait ou à l’oc-\ncasion du travail à toute personne sa-\nlariée ou travaillant, à quelque titre ou \nen quelque lieu que ce soit, pour un ou \nplusieurs employeurs ou chefs d’en-\ntreprise. » L’employeur ne pouvant pas \nfournir l’emploi du temps précis du \nsalarié – et donc la preuve qu’il avait \n« interrompu sa mission » –, celui-ci se \ntrouvait donc « dans la sphère de l’au-\ntorité de l’employeur ». Il s’agit alors \nbien d’un accident du travail.\n'>
+<LTTextBoxHorizontal(40) 480.682,379.359,499.730,420.179 '5\n'>
+<LTTextBoxHorizontal(41) 506.005,379.350,602.005,401.549 'Trouver son « ikigai » \npour se sentir bien\n'>
+<LTTextBoxHorizontal(42) 480.683,231.932,620.922,380.067 'Trouver un job épanouissant, rému-\nnérateur et utile à la société, est-ce \npossible ? Oui, grâce au Japon et au \nconcept de l’ikigai. Traduit en français, \ncela donne un mélange entre « joie de \nvivre » et « raison d’être ». Pour trouver \nson ikigai, il faut mener une réﬂexion \nsur soi et se poser quatre questions \nessentielles : Qu’est-ce que j’aime \nfaire ? Pour quoi suis-je doué ? Pour \nquoi puis-je être payé ? De quoi le \nmonde a-t-il besoin ? Les différentes \nréponses devraient ainsi dessiner la \ncarte des métiers faits pour vous.\n'>
+<LTTextBoxHorizontal(43) 615.744,151.103,623.249,167.972 's\ne\ng\na\nm\n'>
+<LTTextBoxHorizontal(44) 615.744,105.476,623.249,151.253 'I\n \ny\nt\nt\ne\nG\n \n/\n \nr\ne\nh\ns\ne\nn\ny\nk\ns\n'>
+<LTTextBoxHorizontal(45) 331.556,62.981,351.672,106.112 '7\n'>
+<LTTextBoxHorizontal(46) 331.556,42.244,620.918,81.181 'Les bons comptes font les bons lundis\nSelon une étude menée par Régions Job, 83 % des salariés interrogés \nestiment que « parler salaire » est tabou avec leurs collègues.\n'>
+<LTImage(img0) 33.268,73.598,320.827,228.532 (400, 216)>
+<LTImage(img1) 332.027,508.692,618.009,785.942 (398, 386)>
+<LTImage(img2) 33.192,274.024,171.371,410.719 (192, 190)>
+<LTImage(img3) 480.655,105.875,618.820,221.444 (192, 161)>
+----START-PAGE 11 ----
+----START-PAGE 12 ----
+<LTTextBoxHorizontal(0) 55.784,811.007,184.219,837.732 'PRODUCTION \n'>
+<LTTextBoxHorizontal(1) 181.612,811.003,196.146,820.948 'pour\n'>
+<LTTextBoxHorizontal(2) 33.181,728.850,305.713,805.924 'Les métiers de la \ndéfense recrutent\n'>
+<LTTextBoxHorizontal(3) 33.202,681.112,305.591,715.243 'Emploi MBDA embauche 900 personnes par \nan sur une centaine de métiers\n'>
+<LTTextBoxHorizontal(4) 33.179,423.266,172.792,665.023 'Travailler dans le secteur de la dé-\nfense, vous y avez déjà songé ? Si vous \nêtes  ingénieurs, techniciens  ou  ou-\nvriers, la question mérite d’être posée. \nCe secteur d’excellence a le double \navantage d’être à la pointe de l’inno-\nvation et de recruter en nombre. MBDA \npar exemple, leader Européen et nu-\nméro 3 mondial des missiles et des \nsystèmes de missiles, a vu ses effectifs \naugmenter de 30% ces trois dernières \nannées. L’entreprise compte désor-\nmais 10 000 salariés (dont 5 000 en \nFrance). Elle a un objectif d’un peu \nplus de 900 recrutements cette année, \nle même pour 2020. \nMarie-Ange M., responsable du ser-\nvice recrutement et mobilité de MBDA \nFrance, assure avoir des besoins sur \nla  centaine  de  métiers  que  compte \nMBDA. Elle précise : « Nous recher-\nchons des cadres dans la sphère tech-\nnique des ingénieurs et techniciens \n'>
+<LTTextBoxHorizontal(5) 181.551,559.457,321.108,664.963 'supérieurs de toutes spécialités, dans \nles domaines support, mais également \ndes opérateurs pour nos sites de pro-\nduction. Cela sur nos quatre sites de \nla région parisienne et de la région \nCentre. » Des embauches massives \nqui sont liées pour moitié au renouvel-\nlement  des  effectifs  pour  cause  de \ndéparts en retraite, et pour une autre \nmoitié à la forte croissance de MBDA. \n'>
+<LTTextBoxHorizontal(6) 320.353,591.658,327.821,622.565 's\ne\ng\na\nm\nI\ny\nt\nt\ne\nG\n'>
+<LTTextBoxHorizontal(7) 181.590,423.296,321.188,550.200 'Séduire les jeunes diplômés\n« Le marché de l’industrie en général \net de la défense et de l’aéronautique \nen  particulier  est  très  dynamique. \nParmi  nos  candidats,  nous  rencon-\ntrons des jeunes diplômés sur-sollici-\ntés. Charge à nous de faire la diffé-\nrence  auprès  des  profils  les  plus \nprometteurs. » ajoute Marie-Ange M. \nPour cela, MBDA a des arguments de \npoids : un parcours d’intégration avec \nséminaire,  rencontres  avec  des  RH \n'>
+<LTTextBoxHorizontal(8) 223.281,381.413,265.526,399.493 'Technologie\nTechnologie\nde pointe\nde pointe\n'>
+<LTTextBoxHorizontal(9) 239.150,354.047,291.134,372.130 'Environnement\nEnvironnement\nEnvironnement\nstimulant\nstimulant\n'>
+<LTTextBoxHorizontal(10) 253.416,326.681,290.703,344.766 'Evolution\nEvolution\nde carrière\nde carrière\n'>
+<LTTextBoxHorizontal(11) 61.034,74.333,286.572,130.406 'MON MÉTIER N’EST PAS \nSEULEMENT INNOVANT, \nIL EST AUSSI ENGAGEANT.\n'>
+<LTTextBoxHorizontal(12) 526.788,811.007,614.765,820.952 'Lundi 16 septembre 2019\n'>
+<LTTextBoxHorizontal(13) 330.052,580.486,615.719,591.668 'Le groupe a pour objectif le recrutement de 500 salariés en CDI cette année.\n'>
+<LTTextBoxHorizontal(14) 330.000,423.286,469.499,570.725 'business partners et programmes de \nformation ; la possibilité pour les tech-\nniciens d’acquérir un diplôme d’Ingé-\nnieur  en  Mécanique  ou  en  Électro-\nnique ; une mobilité géographique et \nune mobilité interne facilitées. Sur-\ntout, l’assurance de rentrer dans une \nentreprise extrêmement innovante : \n« Nous avons concrètement des pro-\ngrammes d’innovation qui permettent \naux salariés d’être créatifs et inno-\nvants. Plus qu’une promesse, l’inno-\nvation est une réalité chez MBDA. »\nRésultat  ?  l’entreprise  aux  3,2  mil-\n'>
+<LTTextBoxHorizontal(15) 478.419,496.668,617.958,570.685 'liards de chiffre d’affaires, qui compte \nles  trois  forces  armées  (Air,  Terre, \nMarine) parmi ses clients, a un taux de \nfidélisation de 94% sur trois ans. Des \nsalariés qui se portent bien dans une \nentreprise qui se porte bien. \n \n'>
+<LTTextBoxHorizontal(16) 537.328,486.190,615.785,505.951 'Anne Suiram\n20 Minutes Production\n'>
+<LTTextBoxHorizontal(17) 483.975,429.627,599.357,472.286 'Ce contenu a été réalisé \npour MBDA, par 20 Minutes \nProduction, l’agence contenu de  \n20 Minutes.\n'>
+<LTTextBoxHorizontal(18) 384.840,337.460,539.439,376.242 'MBDA, AU CŒUR\nDE NOTRE DÉFENSE \n'>
+<LTTextBoxHorizontal(19) 384.838,233.699,591.728,316.613 'Nos 10 000 collaborateurs en Europe \ntravaillent dans un esprit de coopération\net d’excellence. Ils unissent leurs compétences \ntechniques et leurs qualités humaines pour \ndévelopper des solutions de défense aﬁ n\nde répondre aux besoins opérationnels\nde nos clients.\n'>
+<LTTextBoxHorizontal(20) 384.838,175.967,583.050,225.172 'Avec plus de 100 métiers et de belles \nperspectives de carrière, MBDA le leader \neuropéen de l’industrie missilière,\nvous propose bien plus qu’un travail. \n'>
+<LTTextBoxHorizontal(21) 384.818,123.957,554.891,159.830 'Postulez sur\nwww.mbda-systems.com/careers/hr-france/\nMBDA est une fi liale commune de AIRBUS Group (37,5 %), \nBAE SYSTEMS (37,5 %), et Leonardo (25 %).\n'>
+<LTTextBoxHorizontal(22) 603.116,201.732,607.672,222.203 's\ne\ng\na\nm\ny\nt\nt\ne\nG\n'>
+<LTTextBoxHorizontal(23) 603.116,210.297,607.672,211.174 'I\n'>
+<LTTextBoxHorizontal(24) 603.116,199.624,607.672,201.802 ' \n:\n \n'>
+<LTTextBoxHorizontal(25) 603.116,187.843,607.672,188.686 ' \n'>
+<LTTextBoxHorizontal(26) 603.116,176.564,607.672,199.694 's\no\nt\no\nh\np\ns\nt\ni\nd\né\nr\nC\n'>
+<LTImage(img0) 329.831,590.968,615.899,789.852 (398, 277)>
+<LTImage(img1) 198.627,806.636,280.336,825.949 (114, 27)>
+<LTImage(img2) 329.403,155.576,364.368,243.120 (49, 122)>
+<LTImage(img3) 328.911,162.893,364.425,244.694 (112, 43)>
+<LTImage(img4) 331.119,157.995,364.260,244.675 (119, 39)>
+<LTImage(img5) 34.217,46.755,364.265,362.852 (706, 677)>
+<LTImage(img6) 345.258,242.749,364.368,281.180 (27, 54)>
+<LTImage(140656466583112) 325.920,147.027,331.279,159.861 (8, 18)>
+<LTImage(img7) 295.162,69.342,326.390,147.267 (44, 109)>
+<LTImage(140656466582776) 122.869,46.710,125.899,46.942 (5, 1)>
+<LTImage(140656466582720) 285.848,46.710,295.403,70.428 (14, 33)>
+<LTImage(img8) 310.741,280.944,349.572,345.786 (88, 49)>
+<LTImage(img9) 125.661,35.577,296.487,80.165 (47, 235)>
+<LTImage(img10) 195.942,69.475,292.875,142.544 (94, 129)>
+<LTImage(img11) 233.482,232.326,365.770,274.391 (47, 182)>
+<LTImage(img12) 237.307,136.312,299.451,240.335 (140, 78)>
+<LTImage(img13) 271.444,267.802,340.238,372.260 (140, 87)>
+<LTImage(img14) 276.853,370.566,303.441,405.712 (47, 34)>
+<LTImage(img15) 288.303,67.379,331.472,236.709 (233, 45)>
+<LTImage(img16) 325.443,143.294,363.579,234.613 (125, 45)>
+<LTImage(140656466485992) 333.476,266.567,354.722,301.363 (47, 27)>
+<LTImage(img17) 197.520,260.256,268.079,380.968 (163, 88)>
+<LTImage(img18) 216.339,375.504,287.891,409.341 (41, 97)>
+<LTImage(img19) 260.405,260.527,299.489,376.861 (160, 44)>
+<LTImage(img20) 135.672,249.314,237.436,350.950 (142, 142)>
+<LTImage(img21) 34.021,249.314,135.897,342.791 (142, 130)>
+<LTImage(img22) 237.211,122.922,271.086,258.891 (48, 189)>
+<LTImage(img23) 135.672,147.901,237.436,249.538 (142, 142)>
+<LTImage(img24) 34.021,147.901,135.897,249.538 (142, 142)>
+<LTImage(img25) 135.672,46.722,237.436,148.125 (142, 141)>
+<LTImage(img26) 34.021,46.722,135.897,148.125 (142, 141)>
+<LTImage(img27) 174.268,196.646,227.450,340.417 (74, 200)>
+<LTImage(img28) 215.841,336.096,246.662,384.794 (66, 39)>
+<LTImage(img29) 254.714,201.972,286.534,238.515 (49, 42)>
+<LTImage(140656466406368) 273.571,236.193,291.970,270.629 (47, 23)>
+<LTImage(img30) 239.219,269.778,280.888,335.498 (89, 53)>
+<LTImage(img31) 224.757,164.201,257.631,204.930 (46, 57)>
+<LTImage(img32) 192.108,124.343,224.982,166.003 (46, 58)>
+<LTImage(img33) 159.458,84.830,192.332,126.257 (46, 58)>
+<LTImage(img34) 127.042,46.601,159.683,86.632 (46, 56)>
+<LTImage(140656466604552) 222.852,384.567,265.825,397.358 (14, 59)>
+<LTImage(140656466513816) 222.959,377.504,256.028,388.953 (13, 46)>
+<LTImage(140656466511072) 286.975,361.436,291.372,367.537 (9, 6)>
+<LTImage(140656471345584) 239.131,358.464,288.824,370.394 (13, 69)>
+<LTImage(140656471346424) 238.884,351.760,272.193,361.576 (11, 46)>
+<LTImage(140656474483624) 253.458,332.228,285.807,341.981 (11, 45)>
+<LTImage(140656474483288) 253.211,324.107,290.905,334.557 (12, 52)>
+<LTImage(img35) 179.712,349.724,220.866,407.601 (78, 53)>
+<LTImage(img36) 34.133,336.943,203.440,405.298 (236, 95)>
+<LTImage(img37) 139.263,340.080,175.502,405.298 (51, 91)>
+<LTImage(140656487152048) 206.326,383.034,220.477,405.392 (30, 18)>
+<LTImage(140656487150480) 214.465,389.465,215.868,393.200 (3, 8)>
+<LTImage(140656487152216) 213.063,390.866,217.270,391.800 (9, 2)>
+----START-PAGE 13 ----
+<LTTextBoxHorizontal(0) 33.347,811.007,240.861,837.736 'EMPLOI & FORMATION\n'>
+<LTTextBoxHorizontal(1) 258.940,811.007,429.548,820.952 'Pour passer une annonce : mobilite@20minutes.fr\n'>
+<LTTextBoxHorizontal(2) 529.880,811.007,616.138,820.952 'Lundi 16 septembre 2019\n'>
+<LTTextBoxHorizontal(3) 213.585,686.499,511.716,766.718 'venez paRcouRiR\nles avenues de la\nplus belle ville du monde\n'>
+<LTTextBoxHorizontal(4) 221.107,673.179,511.332,684.859 'La Ratp RecRute  000 CONDUCTEUR.RICE.S DE BUS\n'>
+<LTTextBoxHorizontal(5) 46.275,649.357,49.980,650.228 'i\n'>
+<LTTextBoxHorizontal(6) 46.275,626.198,49.980,627.070 'i\n'>
+<LTTextBoxHorizontal(7) 46.275,554.367,49.980,652.463 'n\ns\ns\nu\no\nb\nu\na\nM\n \ns\no\nç\nn\na\nr\nF\n-\nn\na\ne\nJ\n/\nP\nT\nA\nR\n©\n \n–\n \n8\n3\n4\n \n3\n6\n6\n \n5\n7\n7\n \nB\n \ns\n'>
+<LTTextBoxHorizontal(8) 46.275,590.753,49.980,591.845 ' \n'>
+<LTTextBoxHorizontal(9) 46.275,546.128,49.980,547.219 ' \n'>
+<LTTextBoxHorizontal(10) 46.275,523.608,49.980,554.299 'i\nr\na\nP\nS\nC\nR\nP\nT\nA\nR\n \n–\n'>
+<LTTextBoxHorizontal(11) 46.275,536.797,49.980,537.888 ' \n'>
+<LTTextBoxHorizontal(12) 155.230,436.800,513.857,464.835 'Conduisez  nos  voyageurs  dans  les  meilleures  conditions  de  sécurité  et  de  confort  et  devenez  un \nacteur.rice de la ville durable en vous formant à l’éco-conduite. Découvrez la diversité de nos parcours \nprofessionnels et postulez sur ratp.fr/Nousrejoindre ou déposez un CV sur ratprecrute@ratp.fr \n'>
+<LTTextBoxHorizontal(13) 543.878,455.890,583.798,460.447 'Retrouvez-nous sur \n'>
+<LTTextBoxHorizontal(14) 184.843,334.865,465.797,409.428 'VOUS CHERCHEZ UN EMPLOI\nDANS L’HÔTELLERIE RESTAURATION ?\nDANS L’HÔTELLERIE RESTAURATION ?\nDANS L’HÔTELLERIE RESTAURATION ?\n'>
+<LTTextBoxHorizontal(15) 505.743,360.616,561.191,378.910 'ENTRÉE LIBRE \nET GRATUITE\n'>
+<LTTextBoxHorizontal(16) 502.598,350.053,562.391,359.465 'SE MUNIR DE CV\n'>
+<LTTextBoxHorizontal(17) 69.563,374.244,106.759,382.193 'Flashez-moi\n'>
+<LTTextBoxHorizontal(18) 71.866,317.010,104.452,323.141 'Organisé par\nOrganisé par\n'>
+<LTTextBoxHorizontal(19) 410.307,144.642,497.626,254.085 'JEUDI19\nDE9HÀ18H\n'>
+<LTTextBoxHorizontal(20) 356.612,84.138,551.332,220.933 'SEPTEMBRE2019\nSEPTEMBRE2019\nAU CENTQUATRE\nPré-enregistrez-vous sur : www.lhr-emploi.fr\n'>
+<LTTextBoxHorizontal(21) 345.988,103.226,561.948,118.317 '104 RUE D’AUBERVILLIERS • PARIS 19e\n'>
+<LTTextBoxHorizontal(22) 336.092,70.105,571.832,79.528 'Contactez-nous : 01 45 48 64 64 • lhr-emploi@lhotellerie-restauration.fr\nContactez-nous : 01 45 48 64 64 • lhr-emploi\n'>
+<LTTextBoxHorizontal(23) 42.558,84.381,47.272,95.233 'S\nS\nE\nE\nG\nG\nA\nA\nM\nM\n'>
+<LTTextBoxHorizontal(24) 42.558,69.742,47.272,84.182 'I\nI\nY\nY\nT\nT\nT\nT\nE\nE\nG\nG\n©\n©\n'>
+<LTTextBoxHorizontal(25) 42.558,72.272,47.272,72.972 ' \n \n'>
+<LTImage(img0) 34.737,420.979,614.659,779.564 (806, 499)>
+<LTImage(140656488681256) 48.528,495.217,51.567,496.851 (5, 3)>
+<LTImage(140656488677672) 44.087,495.217,47.126,496.851 (5, 3)>
+<LTImage(img1) 341.831,259.165,410.409,326.233 (96, 94)>
+<LTImage(img2) 410.273,259.165,478.851,326.233 (96, 94)>
+<LTImage(img3) 478.715,259.165,547.293,326.233 (96, 94)>
+<LTImage(img4) 547.157,192.301,581.514,326.233 (48, 187)>
+<LTImage(img5) 341.831,192.300,410.409,259.301 (96, 94)>
+<LTImage(img6) 410.273,192.300,478.851,259.301 (96, 94)>
+<LTImage(img7) 478.715,225.733,547.293,259.301 (96, 47)>
+<LTImage(img8) 478.715,326.979,581.514,355.597 (143, 40)>
+<LTImage(140656465175272) 341.899,326.030,581.446,327.183 (333, 2)>
+<LTImage(img9) 498.917,192.370,552.921,239.749 (76, 66)>
+<LTImage(img10) 71.650,347.858,104.669,370.357 (46, 32)>
+<LTImage(img11) 39.979,284.334,107.188,348.109 (94, 89)>
+<LTImage(img12) 107.053,284.334,174.329,326.230 (94, 59)>
+<LTImage(img13) 174.195,284.334,241.403,326.230 (94, 59)>
+<LTImage(img14) 241.269,284.334,308.545,326.230 (94, 59)>
+<LTImage(img15) 39.979,220.693,107.188,284.468 (94, 89)>
+<LTImage(img16) 107.053,220.693,174.329,284.468 (94, 89)>
+<LTImage(img17) 174.195,220.693,241.403,284.468 (94, 89)>
+<LTImage(img18) 241.269,220.693,308.545,284.468 (94, 89)>
+<LTImage(img19) 39.979,157.052,107.188,220.827 (94, 89)>
+<LTImage(img20) 107.053,157.052,174.329,220.827 (94, 89)>
+<LTImage(img21) 174.195,157.052,241.403,220.827 (94, 89)>
+<LTImage(img22) 241.269,157.052,308.545,220.827 (94, 89)>
+<LTImage(img23) 308.410,93.411,342.082,220.827 (47, 177)>
+<LTImage(img24) 39.979,93.411,107.188,157.186 (94, 89)>
+<LTImage(img25) 107.053,93.411,174.329,157.186 (94, 89)>
+<LTImage(img26) 174.195,93.411,241.403,157.186 (94, 89)>
+<LTImage(img27) 241.269,93.411,308.545,157.186 (94, 89)>
+<LTImage(img28) 39.979,61.590,174.329,93.545 (187, 45)>
+<LTImage(img29) 174.195,61.590,308.545,93.545 (187, 45)>
+<LTImage(img30) 308.410,61.590,342.082,93.545 (47, 45)>
+<LTImage(140656470087104) 48.430,220.693,50.055,348.110 (3, 177)>
+<LTImage(img31) 48.430,61.590,179.024,93.545 (182, 45)>
+<LTImage(img32) 50.107,326.940,257.635,348.110 (289, 30)>
+<LTImage(img33) 49.168,326.003,257.367,348.109 (290, 31)>
+<LTImage(img34) 326.521,192.356,342.015,326.203 (22, 186)>
+<LTImage(140656470140352) 72.108,315.887,104.639,321.112 (46, 8)>
+<LTImage(140656470142200) 104.706,303.762,108.059,310.461 (5, 10)>
+<LTImage(img35) 186.536,334.577,326.655,348.043 (195, 19)>
+<LTImage(140656470191408) 71.571,337.324,104.706,348.043 (47, 15)>
+----START-PAGE 14 ----
+<LTTextBoxHorizontal(0) 33.384,811.124,97.190,837.998 'Pause\n'>
+<LTTextBoxHorizontal(1) 33.284,778.894,112.837,797.550 'Horoscope\n'>
+<LTTextBoxHorizontal(2) 33.275,115.801,219.997,778.535 'Bélier du 21 mars au 20 avril\nUn parent proche pourrait vous \ndonner quelques soucis. Il est temps \nde remettre les choses à plat.\nTaureau du 21 avril au 21 mai\nVos rapports affectifs sont plus  \ndoux. Vous pouvez vous concentrer  \nsur des questions pédagogiques.\nGémeaux du 22 mai au 21 juin\nL’amour vous tend les bras. Sur  \nle plan professionnel, un accord lié  \nà votre carrière pourrait se conclure.\nCancer du 22 juin au 22 juillet\nVous oubliez certains proches.  \nDe nouveaux contacts vous ouvrent  \nde belles perspectives d’avenir.\nLion du 23 juillet au 23 août\nVous donnez des preuves d’amour  \nà votre partenaire. Au travail, vous \nrécoltez les fruits de votre labeur.\nVierge du 24 août au 23 septembre\nUne grande énergie vous anime.  \nVotre entourage est impressionné  \npar votre endurance et votre courage.\nBalance du 24 sept. au 23 octobre\nSachez profiter des douceurs de la vie. \nVos projets en cours se concrétisent. \nPrenez tout votre temps.\nScorpion du 24 oct. au 22 nov.\nLa vie à deux vous semble agréable. \nDe nouveaux horizons s’ouvrent  \nà vous dans des domaines inconnus.\nSagittaire du 23 nov. au 21 déc.\nVous traversez une période de doutes. \nFaites le point sur vos attentes, et \nlaissez les choses venir doucement.\nCapricorne du 22 déc. au 20 janv.\nBienveillant, vous aidez vos proches \ndans leurs démarches. Votre ambition \nest en train de s’éveiller.\nVerseau du 21 janv. au 18 février\nVos doutes vous rendent moins \nréceptif aux réjouissances de la vie. \nEcoutez les conseils de vos proches.\nPoissons du 19 février au 20 mars\nIl vous reste encore des démarches \nadministratives à accomplir. Ne vous \ndécouragez pas.\nCerf-panthère pas avant midi\nRendez-vous à l’évidence, un baobab  \na bien poussé dans votre jardin.\nRetrouvez l’horoscope complet sur le site et nos applis.\n'>
+<LTTextBoxHorizontal(3) 240.538,778.902,332.910,797.563 'Mots fléchés\n'>
+<LTTextBoxHorizontal(4) 340.986,778.902,393.389,797.250 'N°4800\n'>
+<LTTextBoxHorizontal(5) 309.260,736.750,332.851,768.334 'ÉCOLe \nDes \nÉLITes\nBIeN eN \nCHaIR\n'>
+<LTTextBoxHorizontal(6) 372.390,738.075,395.030,767.014 'FaCILe \nÀ TeNIR\naNCIeN \nJaMaIs\n'>
+<LTTextBoxHorizontal(7) 244.340,738.075,272.595,767.014 'DRÔLe De \nsaINTe\nBase De \nTuLIPe\n'>
+<LTTextBoxHorizontal(8) 248.110,695.550,267.429,702.924 'LIVReR\n'>
+<LTTextBoxHorizontal(9) 250.430,682.230,266.479,689.604 'GROs \n'>
+<LTTextBoxHorizontal(10) 245.180,675.970,270.371,683.344 'seRPeNT\n'>
+<LTTextBoxHorizontal(11) 338.810,644.440,365.985,670.014 'DÉTeR- \nMINaNT \nDÉMONs- \nTRaTIF\n'>
+<LTTextBoxHorizontal(12) 312.070,587.150,330.053,600.394 'CaPa- \nCITÉs\n'>
+<LTTextBoxHorizontal(13) 359.819,568.579,361.604,576.012 ',\n'>
+<LTTextBoxHorizontal(14) 252.560,634.170,264.360,641.544 'CLÉ \n'>
+<LTTextBoxHorizontal(15) 246.250,615.620,270.663,635.964 'D’ORDI- \nNaTeuR\nRaCING- \n'>
+<LTTextBoxHorizontal(16) 250.470,609.950,265.070,617.324 'CLuB\n'>
+<LTTextBoxHorizontal(17) 245.400,557.730,270.139,578.184 'HeCTaRe\nIL PeuT \nÊTRe \n'>
+<LTTextBoxHorizontal(18) 246.440,552.070,270.488,559.444 'suIVI De \n'>
+<LTTextBoxHorizontal(19) 250.350,546.400,265.192,553.774 'TaXI !\n'>
+<LTTextBoxHorizontal(20) 372.950,624.840,394.565,638.294 'PLuMÉ \nCOMMe \n'>
+<LTTextBoxHorizontal(21) 379.030,618.780,388.475,626.154 'uN \n'>
+<LTTextBoxHorizontal(22) 372.840,612.720,393.296,620.094 'PIGeON\n'>
+<LTTextBoxHorizontal(23) 532.035,811.124,618.739,837.895 '14\nLundi 16 septembre 2019\n'>
+<LTTextBoxHorizontal(24) 580.849,778.902,617.619,792.569 'Force 2\n'>
+<LTTextBoxHorizontal(25) 558.790,755.440,584.958,768.384 'CLÔTuRe \nBasse\n'>
+<LTTextBoxHorizontal(26) 556.540,748.040,587.224,755.414 'COMPLeXe \n'>
+<LTTextBoxHorizontal(27) 567.530,742.370,576.237,749.744 'De \n'>
+<LTTextBoxHorizontal(28) 558.340,736.700,584.023,744.074 'L’eNFaNT\n'>
+<LTTextBoxHorizontal(29) 498.590,755.440,519.753,768.384 'eXTRÉ- \nMIsTe\n'>
+<LTTextBoxHorizontal(30) 495.580,736.700,522.745,755.414 'TÉHÉRaN \nesT sa \nCaPITaLe\n'>
+<LTTextBoxHorizontal(31) 432.894,742.750,460.026,761.857 'MessaGe \nPuBLI- \nCITaIRe\n'>
+<LTTextBoxHorizontal(32) 436.600,711.130,456.285,730.234 'COTON \nPeLu- \nCHeuX\n'>
+<LTTextBoxHorizontal(33) 431.520,650.610,460.009,663.844 'se FaIT \naTTeNDRe\n'>
+<LTTextBoxHorizontal(34) 464.090,610.670,491.561,640.334 'aRRIVe \naPRÈs Le \nTRaVaIL \nD’uNe \nFeMMe\n'>
+<LTTextBoxHorizontal(35) 527.240,581.000,553.813,606.554 'aPPeLa \nBRuYaM- \nMeNT sa \nBICHe\n'>
+<LTTextBoxHorizontal(36) 588.180,581.000,617.136,606.554 'TeLLe La \nVOIX De \nCeLuI QuI \na TROP Bu\n'>
+<LTTextBoxHorizontal(37) 477.710,562.400,517.090,569.394 '/ La Randonnée\n'>
+<LTTextBoxHorizontal(38) 496.400,557.510,521.890,564.504 'du Souﬄe\n'>
+<LTTextBoxHorizontal(39) 422.029,535.879,521.680,552.060 'Dimanche 29 Septembre 2019\nDépart à partir de9 h00 au\n'>
+<LTTextBoxHorizontal(40) 525.280,520.750,554.389,539.854 'IL ResTe \nReBeLLe \nau PeIGNe\n'>
+<LTTextBoxHorizontal(41) 557.340,535.710,586.423,543.084 'PRÉPaRa- \n'>
+<LTTextBoxHorizontal(42) 559.660,517.530,584.081,537.024 'TION À \nBase De \nFaRINe\n'>
+<LTTextBoxHorizontal(43) 250.760,506.040,266.181,513.414 'CeLa \n'>
+<LTTextBoxHorizontal(44) 245.620,483.740,271.315,507.834 'PeRMeT \nDe FaIRe \nuNe sÉ- \nLeCTION\n'>
+<LTTextBoxHorizontal(45) 275.980,489.020,302.020,508.124 'CONs- \nTRuIT À \nNOuVeau\n'>
+<LTTextBoxHorizontal(46) 352.037,497.082,393.338,501.473 'de Paris Bois de Boulogne\n'>
+<LTTextBoxHorizontal(47) 494.620,496.104,519.513,501.634 'Les Sablons\n'>
+<LTTextBoxHorizontal(48) 338.690,485.270,454.174,493.297 'http://viradeparis.wixsite.com/viradeparis\n'>
+<LTTextBoxHorizontal(49) 338.740,469.020,366.085,476.394 'eNTaILLe \n'>
+<LTTextBoxHorizontal(50) 347.970,463.150,356.856,470.524 'au \n'>
+<LTTextBoxHorizontal(51) 338.980,457.290,364.450,464.664 'COuTeau\n'>
+<LTTextBoxHorizontal(52) 400.680,452.626,429.293,481.574 'GÉNITeuR\nMÉLaNGe \nD’ÉPICes \nINDIeN\n'>
+<LTTextBoxHorizontal(53) 465.430,451.310,490.215,482.894 'FaIs uN \nBOuT De \nCHeMIN\nPOIDs \nMORTs\n'>
+<LTTextBoxHorizontal(54) 528.450,469.950,552.586,482.894 'QuaTRe \nTRIMes- \n'>
+<LTTextBoxHorizontal(55) 532.880,464.370,546.774,471.744 'TRes\n'>
+<LTTextBoxHorizontal(56) 529.140,456.980,551.916,464.354 'DeVaNT \n'>
+<LTTextBoxHorizontal(57) 533.730,451.310,545.939,458.684 'J.-C.\n'>
+<LTTextBoxHorizontal(58) 340.010,393.840,364.787,412.944 'eFFLeu- \nRÉe De \nLa MaIN\n'>
+<LTTextBoxHorizontal(59) 496.570,371.000,521.777,384.444 'C’esT-À- \nDIRe eN \n'>
+<LTTextBoxHorizontal(60) 499.350,358.880,517.621,372.314 'PLus \nCOuRT\n'>
+<LTTextBoxHorizontal(61) 337.070,330.370,367.746,349.474 'INTRODuIT \nuNe suP- \nPOsITION\n'>
+<LTTextBoxHorizontal(62) 431.680,330.370,460.574,349.474 'sYMBOLe \nCHIMIQue \nDu TITaNe\n'>
+<LTTextBoxHorizontal(63) 526.510,324.270,545.434,355.799 'R s a\nM L\nR e a\nG\nD I e\n'>
+<LTTextBoxHorizontal(64) 534.610,381.140,537.471,387.389 'F\n'>
+<LTTextBoxHorizontal(65) 526.940,374.830,553.281,387.389 'C\nJ a V a\n'>
+<LTTextBoxHorizontal(66) 534.260,368.500,569.050,374.749 'N a B a B\n'>
+<LTTextBoxHorizontal(67) 526.720,362.190,537.374,368.439 's T\n'>
+<LTTextBoxHorizontal(68) 550.320,362.190,553.127,368.439 'L\n'>
+<LTTextBoxHorizontal(69) 558.847,362.190,583.848,368.439 'I R a I\n'>
+<LTTextBoxHorizontal(70) 534.480,355.860,568.899,362.109 'a C e R e\n'>
+<LTTextBoxHorizontal(71) 597.260,381.140,600.434,387.389 'G\n'>
+<LTTextBoxHorizontal(72) 581.540,381.140,584.743,387.389 'R\n'>
+<LTTextBoxHorizontal(73) 566.010,343.220,616.171,387.389 'F\nC\nI R O N I s a\ns I R O P\nO u T\ns O N D e\na u\ns I R\n'>
+<LTTextBoxHorizontal(74) 558.710,346.270,586.558,353.146 'sOLuTION  \n'>
+<LTTextBoxHorizontal(75) 564.060,339.820,579.931,346.696 'De La \n'>
+<LTTextBoxHorizontal(76) 604.900,336.910,608.431,343.159 'N\n'>
+<LTTextBoxHorizontal(77) 557.950,324.270,561.124,330.519 'G\n'>
+<LTTextBoxHorizontal(78) 552.730,324.270,592.295,340.246 'GRILLe N°4797\nZ\n'>
+<LTTextBoxHorizontal(79) 550.160,311.620,616.113,336.829 'M e C\nR\nC L a I R I e R e\nP u C e\n'>
+<LTTextBoxHorizontal(80) 557.877,311.620,576.862,317.869 'u s B\n'>
+<LTTextBoxHorizontal(81) 573.260,324.270,577.236,330.519 'M\n'>
+<LTTextBoxHorizontal(82) 526.700,311.620,537.521,324.189 'C\nF I\n'>
+<LTTextBoxHorizontal(83) 526.680,298.980,536.698,305.229 's I\n'>
+<LTTextBoxHorizontal(84) 542.350,305.290,553.047,317.869 'L\ne T\n'>
+<LTTextBoxHorizontal(85) 565.850,305.290,584.679,311.539 'C a R\n'>
+<LTTextBoxHorizontal(86) 549.920,292.650,592.456,305.229 'N O I s e s\nR a\n'>
+<LTTextBoxHorizontal(87) 534.430,292.650,568.108,298.899 'P e T R I\n'>
+<LTTextBoxHorizontal(88) 578.439,249.853,606.815,273.630 'avec  \nvous\n'>
+<LTTextBoxHorizontal(89) 467.458,198.009,618.446,244.393 'Vous témoignez\nConducteurs de scooters, êtes-vous prêts  \nà passer à l’électrique pour moins polluer ?\nRéagissez en écrivant à temoignez@20minutes.fr\n'>
+<LTTextBoxHorizontal(90) 248.870,430.870,266.695,451.214 'BRIL- \nLaNTe\nROI \n'>
+<LTTextBoxHorizontal(91) 244.600,425.200,272.328,432.574 'D’aLFReD \n'>
+<LTTextBoxHorizontal(92) 249.180,419.530,266.359,426.904 'JaRRY\n'>
+<LTTextBoxHorizontal(93) 250.780,380.380,266.140,387.754 'CON- \n'>
+<LTTextBoxHorizontal(94) 243.620,361.740,273.335,382.174 'TeMPLes\nLa saIsON \nDu BRON- \n'>
+<LTTextBoxHorizontal(95) 250.800,356.070,264.754,363.444 'ZaGe\n'>
+<LTTextBoxHorizontal(96) 250.980,315.780,265.965,323.154 'eLLe \n'>
+<LTTextBoxHorizontal(97) 243.830,293.490,271.729,317.584 'ReJOINT \nLa DOR- \nDOGNe À \nLIBOuRNe\n'>
+<LTTextBoxHorizontal(98) 404.000,313.720,426.216,321.094 'QuI esT \n'>
+<LTTextBoxHorizontal(99) 400.180,295.530,430.048,315.024 'DONC BON \nÀ MeTTRe \nau ReBuT\n'>
+<LTTextBoxHorizontal(100) 428.533,265.167,446.856,274.279 'Facile\n'>
+<LTTextBoxHorizontal(101) 388.707,198.111,441.297,261.874 'En partant des chiffres \ndéjà inscrits, remplissez \nla grille de manière que \nchaque ligne, chaque \ncolonne et chaque carré \nde 3 par 3 contienne  \nune seule fois tous \nles chiffres de 1 à 9.\n'>
+<LTTextBoxHorizontal(102) 388.707,117.240,445.881,184.098 'solution du sudoku n°3966\n9 7 8 2 6 1 3 4 5\n4 2 6 3 8 5 1 7 9\n3 1 5 9 7 4 2 8 6\n5 3 4 1 9 2 8 6 7\n2 8 9 7 4 6 5 3 1\n1 6 7 8 5 3 9 2 4\n7 9 1 4 3 8 6 5 2\n8 5 2 6 1 7 4 9 3\n6 4 3 5 2 9 7 1 8\n'>
+<LTTextBoxHorizontal(103) 457.609,149.648,465.115,151.109 ' \n'>
+<LTTextBoxHorizontal(104) 457.609,155.605,465.115,157.089 'i\n'>
+<LTTextBoxHorizontal(105) 457.609,122.416,465.115,170.916 's\ne\nt\nu\nn\nM\n0\n2\n \n/\n \nn\na\nl\nl\no\nF\n'>
+<LTTextBoxHorizontal(106) 457.609,134.768,465.115,136.252 'i\n'>
+<LTTextBoxHorizontal(107) 457.609,119.671,465.115,122.566 ' \n.\n'>
+<LTTextBoxHorizontal(108) 457.609,116.085,465.115,119.821 'C\n'>
+<LTTextBoxHorizontal(109) 324.378,244.510,331.160,260.753 '2\n'>
+<LTTextBoxHorizontal(110) 371.657,244.510,378.439,260.753 '4\n'>
+<LTTextBoxHorizontal(111) 324.357,182.066,378.419,230.045 '7 8 1 2\n9\n3\n'>
+<LTTextBoxHorizontal(112) 340.901,150.338,378.419,183.099 '1 2 5\n5 8\n'>
+<LTTextBoxHorizontal(113) 356.124,119.631,378.409,135.873 '3 7\n'>
+<LTTextBoxHorizontal(114) 241.791,244.510,296.696,283.794 'Sudoku\n6 7\n'>
+<LTTextBoxHorizontal(115) 303.803,264.928,356.206,283.276 'N°3969\n'>
+<LTTextBoxHorizontal(116) 293.882,229.032,347.679,245.274 '1 4 5 3\n'>
+<LTTextBoxHorizontal(117) 246.597,197.284,284.115,230.045 '5 4\n1 6 7\n'>
+<LTTextBoxHorizontal(118) 246.597,150.338,300.654,198.308 '4\n6\n3 1 9 7\n'>
+<LTTextBoxHorizontal(119) 246.577,119.631,253.359,135.873 '4\n'>
+<LTTextBoxHorizontal(120) 293.856,119.631,300.639,135.873 '8\n'>
+<LTTextBoxHorizontal(121) 277.333,135.120,331.154,151.362 '2 5 3 6\n'>
+<LTTextBoxHorizontal(122) 76.435,49.094,192.735,104.185 '3e marque de presse française\n22,1 millions d’utilisateurs par mois\n1er quotidien avec 3 800 000 lecteurs\n(ACPM ONE Global 2018 V3, ONE 2017)\n24-26, rue du Cotentin, CS 23110,  \n75732 Paris Cedex 15. E-mail : info@20minutes.fr\nTél. : 01 53 26 65 65    Fax : 01 53 26 65 10\n'>
+<LTTextBoxHorizontal(123) 203.434,49.084,311.546,104.126 'Edité par 20 Minutes France, SAS au capital\nde 5 776 544 €, RCS Paris 438 049 843\nActionnaires : Soﬁouest,  \nRossel France Investissement\nPrésident, directeur de la publication :  \nFrédéric Daruty\nDirectrice de la rédaction : Armelle Le Goff\n'>
+<LTTextBoxHorizontal(124) 330.413,46.173,452.996,104.116 'Impression : L’Imprimerie, Midi Print, Rotoga-\nronne, Rossel Printing Company, Imprimeries IPS, \nRPI, CILA. Imprimé sur du papier produit en France, \nBelgique et Espagne, à partir de 60 % à 100 % \nde ﬁbres recyclées, papiers porteurs des écolabels \nFSC ou PEFC ou Ecolabel européen, etc. 442 kg  \nde CO²\n'>
+<LTTextBoxHorizontal(125) 346.591,49.094,430.538,56.834 ' émis par tonne de papier distribué.\n'>
+<LTTextBoxHorizontal(126) 457.402,56.918,577.635,104.126 '© 20 Minutes France, 2019.  \nDépôt légal : à parution\nNos ISSN : 2109-134X, 1777-8301, 2269-1618, \n2269-1677, 2269-1758, 2269-1790, 2269-\n1812, 2269-1820, 2269-3211, 2269-3238, \n2269-3343\n'>
+<LTImage(img0) 470.100,502.038,502.240,534.138 (45, 45)>
+<LTImage(img1) 337.268,577.943,376.475,605.265 (55, 38)>
+<LTImage(140656466361928) 430.766,495.846,455.768,520.817 (35, 35)>
+<LTImage(140656488384048) 503.275,488.357,512.181,492.426 (13, 6)>
+<LTImage(140656488382872) 484.945,482.224,499.728,485.998 (21, 6)>
+<LTImage(140656488386064) 487.453,486.746,497.240,492.179 (14, 8)>
+<LTImage(140656488383992) 462.921,482.874,480.469,486.678 (25, 6)>
+<LTImage(140656488384888) 462.173,488.614,481.234,491.109 (27, 4)>
+<LTImage(140656470578120) 513.513,482.328,523.286,492.179 (14, 14)>
+<LTImage(140656470578848) 479.131,494.583,493.220,501.397 (20, 10)>
+<LTImage(140656470580024) 505.537,482.603,510.944,487.967 (8, 8)>
+<LTImage(140656474789088) 579.814,68.499,613.108,84.491 (47, 23)>
+<LTImage(140656474788528) 583.144,45.814,597.663,60.315 (21, 21)>
+<LTImage(140656474791104) 582.230,87.706,610.416,102.292 (40, 21)>
+<LTImage(img2) 467.302,116.043,616.516,189.841 (208, 103)>
+----START-PAGE 15 ----
+<LTTextBoxHorizontal(0) 88.998,750.984,286.558,791.370 'Scannez ce QR code \npour discuter avec Alicia.\n'>
+<LTTextBoxHorizontal(1) 97.829,319.876,370.136,334.732 'Alicia, cliente Boursorama Banque depuis 5 mois.\n'>
+<LTTextBoxHorizontal(2) 88.978,217.394,322.497,296.695 'Elle vous expliquera sûrement \nmieux que nous comment \nobtenir un crédit immobilier \n100% en ligne*.\n'>
+<LTTextBoxHorizontal(3) 56.067,56.618,595.869,68.892 '*Sous réserve d’éligibilité. Délai de réﬂexion de dix jours. Vente subordonnée à l’obtention du prêt ; à défaut, le vendeur doit rembourser les sommes versées.\n'>
+<LTImage(img0) 88.938,310.741,505.332,727.881 (579, 580)>
+<LTImage(img1) 88.761,310.564,193.134,375.629 (145, 91)>
+<LTImage(img2) 192.942,310.564,297.284,375.629 (145, 91)>
+<LTImage(img3) 297.005,310.564,401.614,375.629 (146, 91)>
+<LTImage(img4) 401.187,310.564,505.323,375.629 (145, 91)>
+----START-PAGE 16 ----
+<LTTextBoxHorizontal(0) 54.403,809.472,198.540,836.059 'PRODUCTION pour\n'>
+<LTTextBoxHorizontal(1) 524.537,809.472,610.355,819.368 'Lundi 16 septembre 2019\n'>
+<LTTextBoxHorizontal(2) 30.650,778.189,494.123,796.670 'Prévention Les étudiants sont exposés à de nombreux risques souvent ignorés\n'>
+<LTTextBoxHorizontal(3) 30.649,744.313,607.765,785.175 'La santé des étudiants... en danger ?\n'>
+<LTTextBoxHorizontal(4) 30.608,496.644,167.471,716.757 '4 types de violences\n35% des\nétudiants\ndéclarent avoir déjà subi\ndes violences, notamment verbales.\nViennent ensuite les violences\npsychologiques pour 54% des cas\npuis les violences physiques (32%).\nLes violences sexuelles concernent\n12% des étudiantes. Les étudiants\nsont donc confrontés à toutes formes\nde violence. Or, 1/3 des victimes\nn’en parlent pas ! Les raisons de ce\nsilence ? 33% ne considèrent pas ce\nqu’ils ont subi comme une agression,\nce qui en dit long sur la banalisation\nde la violence. D’autres ressentent de\nla honte et préfèrent se taire ou même\nne disent rien par habitude ou rési-\ngnation. Enfin plus d’1 étudiant sur 5\navoue ne pas savoir vers qui se tourner\npour en parler.\n'>
+<LTTextBoxHorizontal(5) 75.215,454.999,146.055,487.396 'La violence des\nréseaux sociaux\n26% des\n'>
+<LTTextBoxHorizontal(6) 30.672,309.000,167.434,466.131 'étudiants\nont déjà subi des violences sur les\nréseaux sociaux, constituées en\nmajorité d’injures et/ou de moque-\nries sur la toile ; d’autres ont vu leur\nvie privée attaquée suite à la diffusion\nde photos ou de vidéos dégradantes.\nEnfin, 7% des étudiants subissent\nle « revenge porn » : la publication\nde contenus pornographiques sans\nl’accord de la personne concernée.\nDans les établissements ou sur les\nréseaux, les étudiants peuvent subir\ndes discriminations concernant\nsurtout, l’apparence physique, la\n'>
+<LTTextBoxHorizontal(7) 178.345,694.780,315.012,716.343 'race/origine ethnique, et l’orienta-\ntion sexuelle.\n'>
+<LTTextBoxHorizontal(8) 178.391,527.956,315.140,685.481 'Le préservatif trop\nsouvent « oublié »\nL’un des grands dangers\nqui menace les étudiants est le VIH.\nCette maladie sexuellement trans-\nmissible ne semble pourtant pas\nfaire partie des préoccupations des\nétudiants. En effet, 56% d’entre eux\ndéclarent ne pas utiliser de préservatif\nà chaque rapport sexuel. Et plus de la\nmoitié (54%) ne se fait pas dépister en\ncas de changement de partenaire. Les\nraisons ? 42% pensent ne pas voir pris\nde risque suffisant et 21% ne savent\npas où réaliser le test de dépistage.\n'>
+<LTTextBoxHorizontal(9) 178.353,451.246,293.480,524.027 '1étudiant sur\n3 a déjà subi\ndes violences\n'>
+<LTTextBoxHorizontal(10) 316.777,518.102,324.208,548.857 's\ne\ng\na\nm\nI\ny\nt\nt\ne\nG\n'>
+<LTTextBoxHorizontal(11) 178.401,309.005,315.132,435.268 'Les idées reçues ont\nla vie dure\nOn pensait ces idées\nreçues dépassées et pourtant\ncertaines d’entre elles sont encore\ntenaces, notamment par le manque de\nprévention. 2 étudiants sur 10 pensent\nencore que l’on guérit facilement du\nsida. Quant à son mode de trans-\nmission, 19% des étudiants pensent\nqu’on peut l’attraper par une piqure\nde moustique ; 12 % en embrassant\n'>
+<LTTextBoxHorizontal(12) 30.760,90.101,263.696,101.233 'La pilule reste le moyen de contraception favori des étudiantes.\n'>
+<LTTextBoxHorizontal(13) 312.794,100.537,320.225,131.270 's\ne\ng\na\nm\nI\ny\nt\nt\ne\nG\n'>
+<LTTextBoxHorizontal(14) 327.919,507.126,595.620,518.258 'Un quart des étudiants a déjà subi des violences sur les réseaux sociaux.\n'>
+<LTTextBoxHorizontal(15) 326.037,329.846,462.774,497.407 'une personne séropositive, et 6%\nen buvant dans leur verre. Le sida\npeut se transmettre via des relations\nsexuelles, du matériel d’injection en\ncas d’usage de drogues, ou encore\nde la mère à l’enfant lors d’une gros-\nsesse ou de l’allaitement. Un doute\nsur une éventuelle contamination ?\nFaites-vous dépister ! Vous pouvez\nvous rendre dans un CeGIDD (Centre\nGratuit d’Information, de Dépistage et\nde Diagnostic) proche de chez votre\ndomicile. Sachez que vous pouvez\naussi vous faire dépister chez vous\ngrâce à l’Autotest, disponible en phar-\nmacie ou en ligne.\n'>
+<LTTextBoxHorizontal(16) 325.203,90.043,461.940,320.588 'Pas de suivi médical\nLes étudiants semblent\nse préoccuper assez peu\nde leur santé. D’ailleurs, 80% d’entre\neux ne se rendent pas systématique-\nment chez le médecin lorsqu’ils sont\nmalades. Plus de la moitié d’entre\neux attendent que les symptômes\npassent et 39% pratiquent l’automé-\ndication. Une façon de procéder qui\nn’est pas sans risque… Pourquoi ne\nse rendent-ils pas chez le docteur ?\nParmi les raisons évoquées, 21%\nestiment que les consultations sont\ntrop chères, et 23% déclarent qu’ils\nmanquent de temps. Le peu de contact\nentre les étudiants et les médecins\nengendre de réelles répercussions sur\nla prévention des risques de santé. Ce\nqui peut alors conduire à une hausse\ndes MST, des grossesses non désirées\net des IVG.\n'>
+<LTTextBoxHorizontal(17) 516.366,465.429,581.218,497.821 'Les différentes\nformes de\ncontraception\n'>
+<LTTextBoxHorizontal(18) 473.893,277.758,610.675,466.131 '1 étudiante sur 2 n’utilise pas la pilule\ncomme moyen de contraception, en\névoquant notamment le fait qu’elle\npourrait avoir un effet néfaste sur la\nsanté pour 25% d’entre elles. Elle\nest encore moins utilisée auprès des\nlycéennes puisque seulement 24%\ndéclarent la prendre. Mais la pilule\nn’est pas la seule solution pour éviter\nune grossesse. Il existe également des\ncontraceptions hormonales (stérilet\nhormonal, implant contraceptif, patch,\nanneau vaginal,\ninjection contra-\nceptive) ou mécaniques (préservatif\nféminin, stérilet en cuivre ou encore\ndiaphragme). L’idéal est d’en parler\navecsongynécologue,unesage-femme\nou son médecin généraliste.\n'>
+<LTTextBoxHorizontal(19) 516.366,236.067,597.415,268.460 'La contraception\nd’urgence souvent\nutilisée\n'>
+<LTTextBoxHorizontal(20) 473.873,131.781,610.547,236.769 'Même si la pilule reste le moyen de\ncontraception le plus répandu chez\nles étudiantes (49%), cela n’empêche\nque la contraception d’urgence reste\nune pratique pour 4 étudiantes sur 10.\nOn constate également une hausse du\nnombred’IVG,notammentchezlesplus\njeunes : 10% des 16-20 ans y ont eu\nrecours parmi les interrogés (contre\n5% des 21-23 ans).\n'>
+<LTTextBoxHorizontal(21) 529.803,110.952,610.564,130.615 'Laure Marchal\n20 Minutes Production\n'>
+<LTTextBoxHorizontal(22) 473.831,90.100,603.013,109.805 'Source : Enquête Santé des Etudiants & des\nLycéens menée par HEYME et OpinionWay.\n'>
+<LTTextBoxHorizontal(23) 152.287,55.919,488.947,66.427 'Ce contenu a été réalisé pour Heyme par 20 Minutes Production, l’agence contenu de 20 Minutes.\n'>
+<LTImage(img0) 325.888,517.483,610.493,712.734 (396, 272)>
+<LTImage(img1) 34.443,455.469,62.554,486.252 (40, 43)>
+<LTImage(img2) 34.443,455.469,62.554,486.252 (40, 43)>
+<LTImage(img3) 180.253,654.454,211.074,685.108 (43, 43)>
+<LTImage(img4) 180.253,654.454,211.074,684.643 (43, 42)>
+<LTImage(img5) 181.016,403.900,211.140,434.158 (42, 43)>
+<LTImage(img6) 181.016,403.900,211.140,433.696 (42, 42)>
+<LTImage(img7) 32.889,686.467,63.617,717.009 (43, 43)>
+<LTImage(img8) 32.889,686.467,63.617,716.777 (43, 43)>
+<LTImage(img9) 326.662,288.013,356.165,318.741 (41, 43)>
+<LTImage(img10) 326.662,288.013,356.165,318.741 (41, 43)>
+<LTImage(img11) 474.455,236.599,505.459,265.073 (44, 40)>
+<LTImage(img12) 474.455,236.599,505.459,265.073 (44, 40)>
+<LTImage(img13) 474.508,465.785,505.525,494.329 (44, 40)>
+<LTImage(img14) 474.508,465.785,505.525,494.329 (44, 40)>
+<LTImage(img15) 197.469,803.496,280.152,826.763 (115, 33)>
+<LTImage(img16) 30.981,100.765,314.980,288.102 (395, 261)>
+----START-PAGE 17 ----
+<LTImage(img0) 84.094,687.503,293.349,824.693 (291, 191)>
+<LTImage(img1) 292.914,756.007,397.660,824.693 (146, 96)>
+<LTImage(140656475816512) 397.224,808.411,421.213,824.693 (34, 23)>
+<LTImage(140656475816344) 292.914,738.273,319.974,756.443 (38, 26)>
+<LTImage(img2) 84.094,618.781,188.822,687.940 (146, 97)>
+<LTImage(140656475816176) 188.386,667.892,218.255,687.940 (42, 28)>
+<LTImage(img3) 466.909,437.388,501.952,461.706 (49, 34)>
+<LTImage(img4) 429.225,412.834,467.345,438.555 (53, 36)>
+<LTImage(img5) 378.147,378.364,432.032,413.270 (75, 49)>
+<LTImage(img6) 292.914,316.959,362.817,368.178 (98, 72)>
+<LTImage(140656471358208) 362.382,365.114,382.137,378.800 (28, 20)>
+<LTImage(img7) 258.071,292.857,293.350,321.417 (49, 40)>
+<LTImage(img8) 223.229,268.761,258.507,297.801 (49, 41)>
+<LTImage(img9) 174.250,241.138,223.664,274.411 (69, 47)>
+<LTImage(img10) 123.172,206.668,183.645,241.575 (84, 49)>
+<LTImage(img11) 84.093,172.888,133.978,207.104 (70, 48)>
+<LTImage(img12) 364.124,621.181,574.468,824.692 (293, 283)>
+<LTImage(img13) 294.003,321.661,364.559,786.640 (98, 646)>
+<LTImage(img14) 258.942,298.009,294.438,739.587 (50, 614)>
+<LTImage(img15) 189.039,250.975,259.378,715.954 (98, 646)>
+<LTImage(img16) 153.979,227.324,189.475,668.901 (50, 614)>
+<LTImage(img17) 118.919,203.691,154.415,645.268 (50, 614)>
+<LTImage(img18) 84.093,180.289,119.354,621.618 (49, 613)>
+<LTImage(img19) 364.124,451.449,539.643,621.618 (244, 237)>
+<LTImage(img20) 364.124,383.600,469.523,451.885 (147, 95)>
+<LTImage(140656476483536) 469.087,439.602,487.423,451.885 (26, 18)>
+<LTImage(140656476480344) 364.124,368.682,386.691,384.036 (32, 22)>
+----START-PAGE 18 ----
+<LTTextBoxHorizontal(0) 331.658,811.125,420.676,837.986 'Culture\n'>
+<LTTextBoxHorizontal(1) 531.694,811.125,618.383,837.883 '18\nlundi 16 septembre 2019\n'>
+<LTTextBoxHorizontal(2) 616.592,627.122,624.098,656.122 'P\nF\nA\n \n/\n \nt\ne\ng\na\nS\n'>
+<LTTextBoxHorizontal(3) 616.592,621.589,624.098,627.272 ' \n.\nJ\n'>
+<LTTextBoxHorizontal(4) 331.550,611.037,591.170,622.281 'l’écrivain français a eu l’idée de son roman après un voyage au Pérou.\n'>
+<LTTextBoxHorizontal(5) 331.556,539.223,541.882,616.666 'Ceci est une  \nautre histoire\n'>
+<LTTextBoxHorizontal(6) 331.556,478.444,619.452,528.372 'Littérature Laurent Binet publie « Civilizations »,  \nun récit contre-factuel très élaboré dans lequel \nl’empereur inca Atahualpa conquiert l’Europe\n'>
+<LTTextBoxHorizontal(7) 331.549,274.047,471.801,464.316 'Et si… Laurent Binet a toujours aimé \nles comics « What if… », ces récits \n uchroniques qui ont pour point de dé-\npart un détail historique modiﬁé. Il le \nconﬁrme avec le roman Civilizations \n(éd. Grasset). « J’ai toujours voulu ra-\nconter un jour une uchronie, mais j’at-\ntendais la bonne idée », explique l’au-\nteur de HHhH, récit historique sur la \nSeconde Guerre mondiale. Tout s’est \ndébloqué lors de la visite d’une exposi-\ntion au musée du quai Branly (Paris 7e), \nen 2015, consacrée à Pizarro et l’empe-\nreur inca Atahualpa, puis un voyage à \nLima (Pérou). « L’histoire du guet-apens \ntendu par Pizarro à l’Inca a beaucoup \nplu à l’amateur de western que je suis. »\n \n'>
+<LTTextBoxHorizontal(8) 339.870,235.512,442.187,278.051 '« Je voulais offrir \nune vengeance  \naux Incas. »\n'>
+<LTTextBoxHorizontal(9) 331.549,147.677,471.835,222.102 'Les inﬂuences pop de Laurent Binet \nl’ont ensuite poussé à fouiller l’histoire : \n« Je voulais offrir une vengeance aux \nIncas, ces grands perdants de l’histoire, \nleur permettre de retourner la situation \nà leur avantage et de conquérir l’Eu-\nrope. » Dans son roman, tout commence \n'>
+<LTTextBoxHorizontal(10) 480.686,337.232,621.005,464.316 'donc avec les Vikings, qui découvrent \nl’Amérique… mais ne rentrent pas en \nEurope. Ils colonisent l’Amérique du \nNord jusqu’aux Antilles, apportent des \nchevaux, du fer et des anticorps aux au-\ntochtones. « Du coup, quand Christophe \nColomb débarque, ce n’est pas du tout \nla même histoire, et il ne rentre pas en \nEurope ! » dit en riant Laurent Binet. \n« C’est le point de départ qui permet à \nAtahualpa de partir, avec 200 hommes, \nà la conquête de l’Europe. »\n'>
+<LTTextBoxHorizontal(11) 480.686,147.680,620.968,327.831 '« Il faut que ça reste plausible »\nMême en pleine uchronie, Laurent \nBinet s’est refusé à raconter n’im-\nporte quoi, Civilizations n’est pas un \nroman à thèse. « Une uchronie, c’est \nforcément ludique, elle vaut par le ren-\nversement spectaculaire qu’elle offre, \nmais il faut que ça reste plausible à \npartir du détail historique que l’on a \nmodiﬁé. » Civilizations sortira dans une \ndouzaine de pays qui en ont déjà ac-\nquis les droits. « Mon traducteur en \nespagnol a beaucoup aimé le livre. Et \nmon éditeur espagnol est très excité à \nl’idée de sortir le livre au Pérou. Ça va \nêtre génial de retourner là-bas pour \nle  présenter ! »  \nBenjamin Chapon\n'>
+<LTTextBoxHorizontal(12) 337.588,52.910,613.896,129.497 '« J’ai mélangé les sources geeks et des livres historiques »\n« J’ai vécu ça comme un jeu, d’où le clin d’œil au jeu vidéo “Civilization”,  \navec un Z, reconnaît Laurent Binet, qui mêle pop culture et érudition sur les  \nxve et xvie siècles. « J’ai mélangé les sources geeks et des livres historiques.  \nOn me parle de Voltaire comme référence, mais j’ai plutôt distillé un substrat \nphilosophique lié à Erasme, Montaigne ou Cervantès. Machiavel aussi, même \nsi je n’ai pas pu l’intégrer au récit parce qu’il était mort à ce moment-là. »\n'>
+<LTTextBoxHorizontal(13) 60.538,657.043,300.256,679.261 'L’ALBUM QUI RÉJOUIT !\n'>
+<LTTextBoxHorizontal(14) 93.429,137.334,264.773,151.756 'DISPONIBLE AU RAYON BD \n'>
+<LTTextBoxHorizontal(15) 121.295,120.588,232.369,135.010 'LE 18 SEPTEMBRE\n'>
+<LTTextBoxHorizontal(16) 45.552,89.879,52.000,118.328 ' \nt\nr\nu\no\nc\nl\ne\nD\n \ns\nn\no\ni\nt\ni\nd\nÉ\n \n'>
+<LTTextBoxHorizontal(17) 45.552,84.681,52.000,85.741 ' \n'>
+<LTTextBoxHorizontal(18) 45.552,68.225,52.000,89.879 '©\n9\n1\n0\n2\n \nP\nE\nZ\n \n'>
+<LTTextBoxHorizontal(19) 45.552,64.088,52.000,68.225 '©\n'>
+<LTTextBoxHorizontal(20) 114.089,64.348,176.638,81.835 'Découvrez plus \nde #HappySex\n'>
+<LTImage(img0) 201.997,62.676,258.416,79.939 (79, 24)>
+<LTImage(140656487862344) 239.059,75.919,240.947,78.520 (3, 4)>
+<LTImage(140656471464088) 219.730,76.067,240.976,78.432 (30, 4)>
+<LTImage(140656468287104) 228.908,64.095,232.685,67.169 (6, 5)>
+<LTImage(140656468283800) 227.520,64.007,232.477,67.791 (7, 6)>
+<LTImage(140656468287160) 238.351,75.209,239.295,75.919 (2, 1)>
+<LTImage(140656468283968) 232.449,66.933,233.157,67.879 (1, 2)>
+<LTImage(140656468284192) 232.449,66.933,233.157,67.879 (1, 2)>
+<LTImage(140656468284584) 221.242,75.027,222.186,76.210 (2, 2)>
+<LTImage(140656468284864) 221.382,75.121,239.323,76.304 (25, 2)>
+<LTImage(140656468285032) 221.383,75.121,239.087,76.067 (25, 2)>
+<LTImage(140656468285200) 227.520,66.609,232.713,67.791 (8, 2)>
+<LTImage(140656468285256) 232.449,66.933,233.157,67.879 (1, 2)>
+<LTImage(140656468285648) 227.520,66.845,233.186,67.791 (8, 2)>
+<LTImage(img1) 53.864,63.626,109.677,119.536 (946, 946)>
+<LTImage(140656468285816) 123.056,299.479,222.132,311.669 (138, 5)>
+<LTImage(140656468286040) 135.503,157.430,234.538,169.149 (138, 5)>
+<LTImage(140656471437888) 226.845,168.931,237.750,251.364 (6, 115)>
+<LTImage(140656488770360) 122.521,159.858,135.782,251.512 (8, 128)>
+<LTImage(img2) 123.480,271.046,158.881,302.747 (46, 41)>
+<LTImage(img3) 156.288,273.921,191.651,305.619 (46, 41)>
+<LTImage(img4) 189.058,276.793,224.459,308.494 (46, 41)>
+<LTImage(img5) 125.990,247.926,160.900,274.004 (46, 33)>
+<LTImage(img6) 158.798,247.990,193.916,276.876 (46, 37)>
+<LTImage(img7) 191.568,248.051,226.970,279.752 (46, 41)>
+<LTImage(img8) 127.740,220.775,163.272,253.965 (46, 43)>
+<LTImage(img9) 160.795,223.650,196.042,254.017 (46, 39)>
+<LTImage(img10) 193.811,226.522,228.850,254.073 (46, 35)>
+<LTImage(img11) 130.381,190.505,165.915,223.733 (46, 43)>
+<LTImage(img12) 163.189,193.381,198.685,226.605 (46, 43)>
+<LTImage(img13) 195.959,196.253,231.493,229.480 (46, 43)>
+<LTImage(img14) 133.024,160.274,168.556,193.464 (46, 43)>
+<LTImage(img15) 165.832,163.149,201.326,196.336 (46, 43)>
+<LTImage(img16) 198.603,166.021,234.134,199.211 (46, 43)>
+<LTImage(img17) 39.643,332.036,317.353,642.468 (386, 432)>
+<LTImage(img18) 263.241,62.760,289.227,88.791 (37, 37)>
+<LTImage(img19) 143.063,774.111,213.046,802.542 (481, 1186)>
+<LTImage(img20) 57.800,686.958,199.372,769.074 (2399, 1390)>
+<LTImage(img21) 155.985,677.323,256.436,769.074 (1703, 1553)>
+<LTImage(img22) 244.388,693.516,293.579,758.353 (950, 1250)>
+<LTImage(img23) 331.549,621.288,619.047,790.384 (400, 235)>
+----START-PAGE 19 ----
+<LTImage(img0) 33.234,187.718,447.481,654.511 (576, 649)>
+<LTImage(img1) 68.993,310.447,361.091,521.496 (406, 294)>
+<LTImage(140656470562352) 166.297,180.761,235.693,188.919 (97, 12)>
+<LTImage(140656470562912) 233.214,188.564,235.693,272.275 (4, 117)>
+<LTImage(140656470561904) 166.297,270.856,167.713,272.275 (2, 2)>
+<LTImage(140656470562576) 166.031,192.684,166.739,271.429 (1, 110)>
+<LTImage(140656470563416) 167.447,272.138,233.669,272.848 (92, 1)>
+<LTImage(img2) 166.385,180.979,234.731,193.039 (95, 17)>
+<LTImage(img3) 166.385,187.718,235.439,272.493 (96, 118)>
+<LTImage(140656470332584) 232.966,182.364,234.382,183.782 (2, 2)>
+----START-PAGE 20 ----
+<LTTextBoxHorizontal(0) 33.275,728.745,316.914,837.998 'CuLture\nL’histoire d’amour \nen public continue\n'>
+<LTTextBoxHorizontal(1) 33.275,667.978,315.012,717.923 'Télévision L’émission quotidienne de France 2 \n« Je t’aime, etc. », dont la troisième saison a \ndébuté, réussit le pari de parler de sexe à 15 h 05\n'>
+<LTTextBoxHorizontal(2) 532.035,811.124,618.739,837.895 '20\nLundi 16 septembre 2019\n'>
+<LTTextBoxHorizontal(3) 182.412,421.479,322.684,653.871 'Il y a trois ans, lorsque Nathalie Cottet \na eu l’idée de « Je t’aime, etc. », parler \nde sexe et d’amour l’après-midi sur \nFrance 2 pouvait paraître saugrenue. \nAujourd’hui, le pari semble réussi. « On \nveut mettre en avant les sentiments hu-\nmains », explique la productrice.\nLe public n’hésite pas à faire des conﬁ-\ndences aux chroniqueurs, comme à \nde vieux copains. Les équipes édi-\ntoriales de l’émission reçoivent de \nnombreux messages, qui font l’ob-\njet d’une séquence, « Le courrier \ndu cœur », dans laquelle la chroni-\nqueuse Caroline Diament donne des \npistes de réﬂexion aux téléspecta-\nteurs. Et même si l’émission est do-\nrénavant plus tournée vers ses invités, \nconﬁrme-t-on du côté de la produc-\ntion, que les ﬁdèles se rassurent, on \nparle toujours câlins et contraception. \n \nClément Rodriguez\n'>
+<LTTextBoxHorizontal(4) 322.180,438.896,329.686,454.391 'n\no\ny\nu\nG\n'>
+<LTTextBoxHorizontal(5) 322.180,436.152,329.686,439.046 ' \n.\n'>
+<LTTextBoxHorizontal(6) 322.180,432.008,329.686,436.301 'N\n'>
+<LTTextBoxHorizontal(7) 33.275,526.772,173.537,653.871 '« Merci du fond du cœur d’être chaque \njour plus nombreux à nous regarder. \nC’est une troisième saison extraordi-\nnaire qu’on est en train de vivre avec \nvous. » C’est par ces mots que l’anima-\ntrice Daphné Bürki a commencé «Je \nt’aime, etc.» jeudi. L’émission quoti-\ndienne démarre la saison sur les cha-\npeaux de roues. Ce jour-là, 493 000 té-\nléspectateurs se sont branchés sur \nFrance 2 pour suivre le programme \n(8,8 % de part de marché).\n'>
+<LTTextBoxHorizontal(8) 33.275,421.481,173.527,517.392 '« On fait du mieux qu’on peut »\nDans les coulisses, les membres de \nl’équipe restent humbles. « On fait du \nmieux qu’on peut », glisse Daphné \nBürki entre deux tournages. Ce jeudi, \ncomme chaque semaine, les équipes \nse pressent pour tourner en une jour-\nnée cinq émissions, dont une est dif-\nfusée en direct, à 15 h 05.\n'>
+<LTTextBoxHorizontal(9) 55.316,171.612,61.205,193.367 'l\nh\na\nt\nS\ne\nk\n'>
+<LTTextBoxHorizontal(10) 55.316,177.975,61.205,179.328 ' \n'>
+<LTTextBoxHorizontal(11) 55.316,150.493,61.205,171.562 'i\nr\nn\ne\nH\n©\n'>
+<LTTextBoxHorizontal(12) 55.316,155.139,61.205,156.492 ' \n'>
+<LTTextBoxHorizontal(13) 55.316,149.239,61.205,150.592 ' \n'>
+<LTTextBoxHorizontal(14) 331.550,421.478,600.347,432.722 'L’animatrice Daphné Bürki (au centre), entourée d’une partie de l’équipe.\n'>
+<LTTextBoxHorizontal(15) 391.618,284.765,584.859,314.789 '« Notre pouvoir : faire \npasser le courant partout. »\n'>
+<LTTextBoxHorizontal(16) 391.618,211.884,587.937,275.406 'Un avenir dont vous êtes le héros.\nPour assurer le maintien du réseau d’électricité, vous relevez\nles défis du quotidien et avez toujours un temps d’avance.\nSuper expert au service de vos clients, votre implication\nest sans faille. Quelle que soit votre expérience, vous pouvez\nprendre part à la construction du monde de demain et donner\ndu sens à votre avenir en rejoignant ces héros du quotidien\nsur enedis.fr/recrute\n'>
+<LTTextBoxHorizontal(17) 56.090,63.888,215.206,71.458 'L’énergie est notre avenir, économisons-la !\n'>
+<LTTextBoxHorizontal(18) 446.409,91.968,582.612,102.081 'Retrouvez-nous sur Internet\n'>
+<LTTextBoxHorizontal(19) 441.964,56.358,589.642,62.575 'enedis.fr enedis.officiel @enedis enedis.officiel\n'>
+<LTImage(img0) 33.263,42.405,618.874,400.575 (814, 498)>
+<LTImage(img1) 33.248,42.405,618.859,400.575 (814, 498)>
+<LTImage(img2) 331.258,432.010,619.008,789.919 (400, 498)>
+----START-PAGE 21 ----
+<LTTextBoxHorizontal(0) 48.124,603.611,612.324,753.144 'LE FROMAGE DE MARGOT©\nMAIS AUSSI LE VÔTRE\n'>
+<LTTextBoxHorizontal(1) 50.797,535.271,605.292,591.081 'LE FROMAGE DE MARGOT © DISPONIBLE CHEZ MONOPRIX\nJUSQU’AU 22 SEPTEMBRE*\n'>
+<LTTextBoxHorizontal(2) 160.645,423.816,236.333,464.543 '-30%**\n'>
+<LTTextBoxHorizontal(3) 167.795,407.202,227.858,416.701 'IMMÉDIATEMENT\n'>
+<LTTextBoxHorizontal(4) 52.726,94.866,600.999,118.681 '* Le 22 septembre, uniquement pour les magasins ouverts le dimanche. ** Le pot de 125 g. Remise immédiate en caisse sur le prix affi ché. Offre non cumulable avec toute autre \noffre ou promotion en cours. En promotion également : le pot de 210 g. Monoprix – SAS au capital de 78 365 040 € - 14-16, rue Marc Bloch – 92110 Clichy – 552 018 020 R.C.S.\nNanterre – \n'>
+<LTTextBoxHorizontal(5) 110.084,94.874,159.162,102.916 ' – Pré-presse : \n'>
+<LTTextBoxHorizontal(6) 52.746,62.517,599.179,75.317 'POUR VOTRE SANTÉ, ÉVITEZ DE MANGER TROP GRAS, TROP SUCRÉ, TROP SALÉ. WWW.MANGERBOUGER.FR\n'>
+<LTImage(img0) 240.335,434.365,273.587,467.678 (47, 47)>
+<LTImage(img1) 273.524,434.365,306.776,467.678 (47, 47)>
+<LTImage(img2) 306.712,434.365,339.996,467.678 (47, 47)>
+<LTImage(img3) 339.933,434.365,373.185,467.678 (47, 47)>
+<LTImage(img4) 373.122,434.365,406.374,467.678 (47, 47)>
+<LTImage(140656468785360) 234.030,401.115,240.398,413.637 (9, 18)>
+<LTImage(img5) 240.335,401.115,273.587,434.428 (47, 47)>
+<LTImage(img6) 273.524,401.115,306.776,434.428 (47, 47)>
+<LTImage(img7) 306.712,401.115,339.996,434.428 (47, 47)>
+<LTImage(img8) 339.933,401.115,373.185,434.428 (47, 47)>
+<LTImage(img9) 373.122,401.115,406.374,434.428 (47, 47)>
+<LTImage(img10) 173.957,367.865,207.209,391.728 (47, 34)>
+<LTImage(img11) 207.146,367.865,240.398,401.178 (47, 47)>
+<LTImage(img12) 240.335,367.865,273.587,401.178 (47, 47)>
+<LTImage(img13) 273.524,367.865,306.776,401.178 (47, 47)>
+<LTImage(img14) 306.712,367.865,339.996,401.178 (47, 47)>
+<LTImage(img15) 339.933,367.865,373.185,401.178 (47, 47)>
+<LTImage(img16) 373.122,367.865,403.544,401.178 (43, 47)>
+<LTImage(img17) 173.957,334.616,207.209,367.929 (47, 47)>
+<LTImage(img18) 207.146,334.616,240.398,367.929 (47, 47)>
+<LTImage(img19) 240.335,334.616,273.587,367.929 (47, 47)>
+<LTImage(img20) 273.524,334.616,306.776,367.929 (47, 47)>
+<LTImage(img21) 306.712,334.616,339.996,367.929 (47, 47)>
+<LTImage(img22) 339.933,334.616,373.185,367.929 (47, 47)>
+<LTImage(img23) 373.122,334.616,403.544,367.929 (43, 47)>
+<LTImage(img24) 173.957,301.334,207.209,334.679 (47, 47)>
+<LTImage(img25) 207.146,301.334,240.398,334.679 (47, 47)>
+<LTImage(img26) 240.335,301.334,273.587,334.679 (47, 47)>
+<LTImage(img27) 273.524,301.334,306.776,334.679 (47, 47)>
+<LTImage(img28) 306.712,301.334,339.996,334.679 (47, 47)>
+<LTImage(img29) 339.933,301.334,373.185,334.679 (47, 47)>
+<LTImage(img30) 373.122,301.334,403.544,334.679 (43, 47)>
+<LTImage(img31) 207.146,268.085,240.398,301.398 (47, 47)>
+<LTImage(img32) 240.335,268.085,273.587,301.398 (47, 47)>
+<LTImage(img33) 273.524,268.085,306.776,301.398 (47, 47)>
+<LTImage(img34) 306.712,268.085,339.996,301.398 (47, 47)>
+<LTImage(img35) 339.933,268.085,373.185,301.398 (47, 47)>
+<LTImage(img36) 373.122,268.085,403.544,301.398 (43, 47)>
+<LTImage(img37) 207.146,234.835,240.398,268.148 (47, 47)>
+<LTImage(img38) 240.335,234.835,273.587,268.148 (47, 47)>
+<LTImage(img39) 273.524,234.835,306.776,268.148 (47, 47)>
+<LTImage(img40) 306.712,234.835,339.996,268.148 (47, 47)>
+<LTImage(img41) 339.933,234.835,373.185,268.148 (47, 47)>
+<LTImage(img42) 373.122,234.835,403.544,268.148 (43, 47)>
+<LTImage(img43) 207.146,201.585,240.398,234.898 (47, 47)>
+<LTImage(img44) 240.335,201.585,273.587,234.898 (47, 47)>
+<LTImage(img45) 273.524,201.585,306.776,234.898 (47, 47)>
+<LTImage(img46) 306.712,201.585,339.996,234.898 (47, 47)>
+<LTImage(img47) 339.933,201.585,373.185,234.898 (47, 47)>
+<LTImage(img48) 373.122,201.585,403.544,234.898 (43, 47)>
+<LTImage(img49) 273.524,168.336,306.776,201.649 (47, 47)>
+<LTImage(img50) 306.712,168.336,339.996,201.649 (47, 47)>
+<LTImage(img51) 339.933,168.336,373.185,201.649 (47, 47)>
+<LTImage(img52) 472.590,399.846,531.679,434.385 (83, 48)>
+<LTImage(img53) 472.590,365.443,531.679,399.937 (83, 48)>
+<LTImage(img54) 472.590,330.994,531.679,365.533 (83, 48)>
+<LTImage(img55) 472.590,296.591,531.679,331.085 (83, 48)>
+<LTImage(img56) 472.590,262.142,531.679,296.681 (83, 48)>
+<LTImage(img57) 472.590,227.739,531.679,262.233 (83, 48)>
+<LTImage(img58) 472.590,193.290,531.679,227.829 (83, 48)>
+<LTImage(img59) 403.245,399.880,438.046,434.365 (49, 48)>
+<LTImage(img60) 437.983,399.880,472.752,434.365 (49, 48)>
+<LTImage(img61) 403.245,365.459,438.046,399.943 (49, 48)>
+<LTImage(img62) 437.983,365.459,472.752,399.943 (49, 48)>
+<LTImage(img63) 403.245,331.038,438.046,365.522 (49, 48)>
+<LTImage(img64) 437.983,331.038,472.752,365.522 (49, 48)>
+<LTImage(img65) 403.245,296.585,438.046,331.101 (49, 48)>
+<LTImage(img66) 437.983,296.585,472.752,331.101 (49, 48)>
+<LTImage(img67) 403.245,262.163,438.046,296.648 (49, 48)>
+<LTImage(img68) 437.983,262.163,472.752,296.648 (49, 48)>
+<LTImage(img69) 403.245,227.742,438.046,262.226 (49, 48)>
+<LTImage(img70) 437.983,227.742,472.752,262.226 (49, 48)>
+<LTImage(img71) 403.245,193.321,438.046,227.805 (49, 48)>
+<LTImage(img72) 437.983,193.321,472.752,227.805 (49, 48)>
+----START-PAGE 22 ----
+<LTTextBoxHorizontal(0) 33.278,728.759,330.258,837.998 'SérieS\nLa ﬁction française \nfait nouveau genre \n'>
+<LTTextBoxHorizontal(1) 33.278,667.970,316.606,717.898 'Festival de La Rochelle Les séries tricolores \nsont-elles aussi nulles que le disent nos \ninternautes ? Des professionnels répondent\n'>
+<LTTextBoxHorizontal(2) 532.035,811.124,618.739,837.895 '22\nLundi 16 septembre 2019\n'>
+<LTTextBoxHorizontal(3) 33.275,421.472,173.563,653.871 '« Niaises, sans intérêt », selon Richard ; \n« pénibles à regarder, sans inventivité », \nselon Valérie ; « trop caricaturales », \npour Yannick. Lorsque 20 Minutes de-\nmande à ses lecteurs ce qu’ils pensent \ndes séries tricolores, force est de \nconstater que les clichés autour des sé-\nries tricolores ont la vie dure. Pourtant, \nque de « chemin parcouru en près de \nvingt ans par la ﬁction française », es-\ntime Marc Tessier, président du comité \nde la 21e édition du Festival de la ﬁction \nTV de La Rochelle. L’événement, qui a \nfermé ses portes dimanche, accueil-\nlait les professionnels de l’audiovisuel \npour présenter le meilleur de leur pro-\nduction (lire l’encadré). \n« Les séries françaises, c’est tou-\njours du policier, moi je veux du fan-\ntastique et de la science-ﬁction », \nréclame Danicela. « On ne fait pas \ntoujours du policier, mais il est vrai \n'>
+<LTTextBoxHorizontal(4) 322.180,627.391,329.686,655.767 'P\nF\nA\n \n/\n \ny\nt\no\né\nL\n'>
+<LTTextBoxHorizontal(5) 322.180,624.647,329.686,627.541 ' \n.\n'>
+<LTTextBoxHorizontal(6) 182.412,547.834,322.644,653.871 'qu’on fait énormément de séries poli-\ncières, conﬁrme la scénariste Séverine \nJacquet (« Un village français », « Une \nbelle histoire ») . « Aujourd’hui, la série \nfrançaise explore de plus en plus de \ngenres et de formats », nuance Boris \nDuchesnay, directeur des programmes \nd’OCS, citant notamment « Ad vitam » \net « Les Revenants », les shows fan-\ntastiques d’Arte et Canal+.\n'>
+<LTTextBoxHorizontal(7) 322.180,621.564,329.686,624.796 'X\n'>
+<LTTextBoxHorizontal(8) 182.412,421.479,322.679,538.453 'Science-ﬁction et fantastique\n« On réussit les séries sans effets \nspéciaux, estime l’une de nos lec-\ntrices, Mylène. Quand on essaie de ri-\nvaliser avec de la science-ﬁction style \n“Osmosis”, c’est raté. » « La science-ﬁc-\ntion et le fantastique sont des genres \nplébiscités  sur  OCS,  réagit  Boris \nDuchesnay. On l’a vu avec “Missions”. Ce \nqui est marrant, c’est que plein de gens \nne pensaient pas qu’il s’agissait d’une \n'>
+<LTTextBoxHorizontal(9) 331.550,611.037,607.497,622.281 'L’équipe d’« Une belle histoire » a reçu le prix de la meilleure série longue.\n'>
+<LTTextBoxHorizontal(10) 331.549,421.481,471.828,601.217 'série française. » Les festivaliers ont pu \ndécouvrir dans la sélection rochelaise \nla fresque historique de TF1 « Le Bazar \nde la Charité » ou la dramédie « Une \nbelle histoire » de France 2. La diver-\nsiﬁcation des genres ne se limite plus \naux chaînes payantes : « Je fais appel à \nvous tous pour que notre collaboration \ndébouche sur de nouveaux genres », a \ndéclaré Takis Candilis, directeur général \ndélégué à l’antenne et aux programmes \nde France Télés, lors de la conférence \ndu groupe. Et le président du festival \nde La Rochelle de se réjouir. « La ﬁc-\ntion française est complètement trans-\nformée. »   De notre envoyée spéciale  \n \nà La Rochelle, Anne Demoulin\n'>
+<LTTextBoxHorizontal(11) 486.724,432.039,613.191,592.852 'France 2 et Arte primées\nLe jury du 21e Festival de la ﬁction \nTV de La Rochelle a couronné \nsamedi « Une belle histoire » \n(France 2), meilleure série longue, \net « Mental » (France.tv Slash) \ndans la catégorie 26 minutes. Le \nprix du meilleur téléﬁlm revient à \n« Temps de chien » (Arte). Le jury \nprésidé par la comédienne Valérie \nKarsenti a aussi couronné Arte \ndans la catégorie Web avec  \nsa série foutraque « Lost  \nin Traplanta », où s’illustre \nl’humoriste belge Kody Kim.\n'>
+<LTTextBoxHorizontal(12) 33.384,385.449,222.646,412.323 'VOTre SOirée TéLé\n'>
+<LTTextBoxHorizontal(13) 58.036,352.405,549.964,371.058 'aime la saison 3 de « Workin’ Moms » et sa brochette de mères déjantées, sur Netﬂix\n'>
+<LTTextBoxHorizontal(14) 46.818,296.735,108.826,310.478 '21 h 05 Série\n'>
+<LTTextBoxHorizontal(15) 145.856,296.735,207.864,310.478 '21 h 05 Série\n'>
+<LTTextBoxHorizontal(16) 246.969,296.735,305.607,310.478 '21 h 05 Film\n'>
+<LTTextBoxHorizontal(17) 351.802,296.735,399.619,310.478 '21 h Série\n'>
+<LTTextBoxHorizontal(18) 445.819,296.735,504.457,310.478 '20 h 50 Film\n'>
+<LTTextBoxHorizontal(19) 532.406,296.744,610.720,310.488 '21 h 05 Coaching\n'>
+<LTTextBoxHorizontal(20) 33.271,138.791,122.140,270.803 'COLOMBINE\nDe Dominique Baron, \navec Corinne Masiero, \nAnnabelle Lengronne.\n« Partie 1 ».\nCOLOMBINE\nEn  Afrique  de  l’Ouest,  Co-\nDe Dominique Baron, \nlombine  dirige  un  dispen-\navec Corinne Masiero, \nsaire  dans  une  zone  de \nAnnabelle Lengronne.\nbrousse  à risqu e. \n« Partie 1 ».\n22 h 05 COLOMBINE \nEn  Afrique  de  l’Ouest,  Co-\nDe Dominique Baron, \nlombine  dirige  un  dispen-\navec Corinne Masiero. \nsaire  dans  une  zone  de \n« Partie 2 ».\nbrousse  à risqu e. \n'>
+<LTTextBoxHorizontal(21) 132.700,138.080,225.351,270.803 'THE BAY\nDeux épisodes.\nLe  capitaine  Lisa Armstrong \nest agente de liaison auprès \nTHE BAY\nde familles dans des cas de \ndisparition.  Les \njumeaux \nDeux épisodes.\nHolly et Dylan Meredith sont \nLe  capitaine  Lisa Armstrong \nportés disparus dans la baie \nest agente de liaison auprès \nde Morecambe. \nde familles dans des cas de \n22 h 45 MOTIVE, \ndisparition.  Les \njumeaux \nLE MOBILE DU CRIME \nHolly et Dylan Meredith sont \nAvec Kristin Lehman.\nportés disparus dans la baie \n« Amateurs d’art ».\nde Morecambe. \n'>
+<LTTextBoxHorizontal(22) 231.924,137.485,322.921,270.627 'DIALOGUE AVEC\nMON JARDINIER\nComédie. 2006. France.\nDe Jean Becker.\nDIALOGUE AVEC\nUn  peintre  parisien  revient \nMON JARDINIER\nrégion  de \ndans  une \nla \nFrance \npour \nComédie. 2006. France.\nprendre possession  de  la \nDe Jean Becker.\nmaison  de sa jeunesse. \nUn  peintre  parisien  revient \n23 h 50 ON A VOULU \nla \ndans  une \nrégion  de \nVOIR SAINT-BRIEUC \nFrance \npour \nDocumentaire\nprendre possession  de  la \nde Vincent Lefebvre. \nmaison de sa jeunesse. \n'>
+<LTTextBoxHorizontal(23) 265.758,197.548,296.047,207.505 'profonde \n'>
+<LTTextBoxHorizontal(24) 265.758,155.951,296.047,165.907 'profonde \n'>
+<LTTextBoxHorizontal(25) 331.550,138.851,421.996,270.803 'YEARS AND YEARS\nDe Russell T Davies, \navec Emma Thompson. \nDeux épisodes.\nYEARS AND YEARS\nLes pluies diluviennes et les \nDe Russell T Davies, \nattentats qui s’abattent sur le \navec Emma Thompson. \npays mettent les Mancuniens \nDeux épisodes.\nà la rue. \nLes pluies diluviennes et les \n23 h STÉRÉOTRIP \nattentats qui s’abattent sur le \nDivertissement présenté \npar Paul Taylor.\npays mettent les Mancuniens \n« Angleterre ».\nà la rue. \n'>
+<LTTextBoxHorizontal(26) 430.980,138.625,521.828,270.803 'SEPT MORTS \nSUR ORDONNANCE\nDrame. 1976. France. \nDe Jacques Rouffio, \nSEPT MORTS \navec Michel Piccoli. \nDans une ville de province, \nSUR ORDONNANCE\nà  quinze  ans  de  distance,\nDrame. 1976. France. \ndeux \nvont\nDe Jacques Rouffio, \nconnaître le même destin…\navec Michel Piccoli. \n22 h 40 C DANS L’AIR \nDans une ville de province, \nMagazine.\nà  quinze  ans  de  distance,\nPrésenté par \nvont\ndeux \nCaroline Roux.\nconnaître le même destin…\n'>
+<LTTextBoxHorizontal(27) 458.322,189.751,495.954,199.708 'chirurgiens \n'>
+<LTTextBoxHorizontal(28) 458.323,148.154,495.954,158.110 'chirurgiens \n'>
+<LTTextBoxHorizontal(29) 529.287,138.851,618.421,270.803 'L’AMOUR \nEST DANS LE PRÉ\nAprès  avoir  découvert  avec \némotion  les  lettres  qui  leur \nL’AMOUR \nétaient  destinées,  c’est  au \ntour  de  Dédette,  Francis, \nEST DANS LE PRÉ\nRobert et des deux François, \nAprès  avoir  découvert  avec \nde  rencontrer  leurs  dédi-\némotion  les  lettres  qui  leur \ncataires. \nétaient  destinées,  c’est  au \n22 h 05 L’AMOUR\ntour  de  Dédette,  Francis, \nEST DANS LE PRÉ \nRobert et des deux François, \nPrésenté par \nde  rencontrer  leurs  dédi-\nKarine Le Marchand.\ncataires. \n'>
+<LTTextBoxHorizontal(30) 33.339,39.006,123.865,111.870 '20 h 50 IL ÉTAIT\nUNE FOIS LE BRONX \nComédie dramatique. \n1993. Etats-Unis.\nDe Robert De Niro. \n22 h 45 LES INVINCIBLES \nAvec Herbert Knaup.\n'>
+<LTTextBoxHorizontal(31) 132.709,39.479,212.358,111.671 '21 h 05 LA GRANDE \nMURAILLE\nFilm d’action. 2016. \nDe Zhang Yimou. \n23 h 10 WARCRAFT, \nLE COMMENCEMENT \nFilm fantastique. 2016.\n'>
+<LTTextBoxHorizontal(32) 232.129,39.429,313.891,111.661 '21 h 05 DEEPWATER \nFilm catastrophe. \n2016. Etats-Unis.\nDe Peter Berg, \navec Mark Wahlberg. \n23 h ARMAGEDDON \nFilm catastrophe. 1998.\n'>
+<LTTextBoxHorizontal(33) 331.543,39.453,422.576,111.905 '21 h 15 THE DARK \nKNIGHT, LE CHEVALIER \nNOIR\nFilm d’aventures. 2007. \nde Christopher Nolan.\n23 h 55 BATMAN BEGINS \nFilm d’aventure. 2004.\n'>
+<LTTextBoxHorizontal(34) 430.988,38.569,511.985,111.691 '21 h 05 APPELS \nD’URGENCE\n« Urgences \nà Saint-Etienne : \nle Samu à l’offensive ».\n22 h 05 APPELS \nD’URGENCE\n'>
+<LTTextBoxHorizontal(35) 529.726,39.007,608.882,111.661 '21 h 05 CRIMES\n« Crimes \nà la frontière belge ». \n22 h 55 CRIMES\n« Crimes : \nle Nord-Pas-de-Calais \ndans la tourmente ».\n'>
+<LTImage(img0) 33.350,270.630,121.490,307.119 (123, 51)>
+<LTImage(img1) 132.792,270.641,220.880,307.127 (123, 51)>
+<LTImage(img2) 232.265,270.623,320.353,307.109 (123, 51)>
+<LTImage(img3) 331.559,270.591,419.865,307.150 (123, 51)>
+<LTImage(img4) 431.022,270.476,519.164,307.134 (123, 51)>
+<LTImage(img5) 529.431,270.606,617.757,307.136 (123, 51)>
+<LTImage(img6) 42.506,112.173,112.278,131.529 (97, 27)>
+<LTImage(140656488573752) 162.411,114.369,191.309,129.333 (41, 21)>
+<LTImage(140656488574480) 260.855,112.935,291.630,130.767 (43, 25)>
+<LTImage(140656474627880) 354.909,114.162,396.389,129.610 (58, 22)>
+<LTImage(img7) 449.301,112.603,500.970,131.009 (72, 26)>
+<LTImage(140656474625416) 558.346,112.984,588.728,130.719 (43, 25)>
+<LTImage(img8) 33.350,229.038,121.490,289.854 (123, 85)>
+<LTImage(img9) 46.915,317.336,107.995,339.391 (85, 31)>
+<LTImage(img10) 132.792,229.049,220.880,289.860 (123, 85)>
+<LTImage(img11) 136.039,315.309,217.541,341.534 (114, 37)>
+<LTImage(img12) 232.265,229.031,320.353,289.842 (123, 85)>
+<LTImage(img13) 235.464,315.309,316.966,341.534 (114, 37)>
+<LTImage(img14) 331.559,228.999,419.865,289.932 (123, 85)>
+<LTImage(img15) 336.905,318.686,414.429,338.043 (108, 27)>
+<LTImage(img16) 431.022,228.885,519.164,289.982 (123, 85)>
+<LTImage(img17) 433.644,314.323,516.453,340.550 (116, 37)>
+<LTImage(img18) 529.431,229.015,617.757,289.897 (123, 85)>
+<LTImage(140656474483008) 558.424,317.279,588.649,339.449 (42, 31)>
+<LTImage(img19) 331.273,621.287,619.001,790.359 (400, 235)>
+----START-PAGE 23 ----
+<LTImage(img0) 329.586,591.629,616.213,790.545 (399, 277)>
+<LTImage(img1) 197.800,806.013,254.378,832.109 (79, 37)>
+<LTImage(img2) 33.467,47.015,613.811,406.031 (807, 499)>
+<LTImage(img3) 530.751,115.245,583.063,145.813 (73, 43)>
+<LTImage(img4) 39.227,312.368,125.826,398.859 (121, 121)>
+<LTImage(img5) 61.890,67.482,109.744,115.549 (67, 67)>
+----START-PAGE 24 ----
+<LTTextBoxHorizontal(0) 33.280,728.748,469.619,837.998 'SportS\nUn succès sur le Rocher à \nmarquer d’une pierre blanche\n'>
+<LTTextBoxHorizontal(1) 33.270,654.080,174.839,719.666 'Football L’OM s’est \nimposé à Monaco (3-4), \naprès une rencontre \nspectaculaire\n'>
+<LTTextBoxHorizontal(2) 33.275,516.259,173.548,643.340 'L’OM a longtemps été spécialiste des \nbuts en clair, marqués dès le début du \nmatch. Dimanche, Marseille a inventé \nle but dans le noir : Germain a éga-\nlisé pendant une rupture de faisceau \nde Canal+. C’était sinon un match très \ntélégénique : l’ASM a mené 2-0, avant \nde s’effondrer (3-4). L’OM est désor-\nmais quatrième, à deux points du pre-\nmier, le PSG. Deux, c’est aussi le total \nde points récoltés par un Monaco en \nplein doute (et 19e).\n'>
+<LTTextBoxHorizontal(3) 172.960,458.219,180.466,499.198 'P\nF\nA\n \n/\n \nu\no\ni\nl\na\ns\nt\na\no\nC\n'>
+<LTTextBoxHorizontal(4) 172.960,453.071,180.466,458.369 ' \n.\nY\n'>
+<LTTextBoxHorizontal(5) 33.275,263.516,173.587,506.437 'V L’OM a du répondant. Centres \nratés, imprécisions, incompréhen-\nsions : l’OM, mené, a ménagé le \nsuspense en début de match. Puis \nBenedetto a réveillé ses coéquipiers \nd’un tonitruant vamos, à la 39e, après \nun but de renard des surfaces (2-1). \nLe centre était destiné à Germain, \nmais l’Argentin, oublié par la défense \nmonégasque, a fusillé Lecomte de \nprès. Même recette pour son second \nbut, marqué à la 67e (2-4) : une dé-\nfense au ralenti, un Benedetto isolé \nqui reprend sans contrôle. Son qua-\ntrième but en quatre matchs. Entre-\ntemps, Germain avait égalisé sur \nune action fantasque : claquette de \nLecomte, transversale de Benedetto \net un violent plongeon pour la mettre \nau fond (2-2, 42e). Payet a lui fait dans \nle classique, avec un enroulé à l’entrée \nde la surface, face à des Monégasques \nencore une fois apathiques (2-3, 61e).\n'>
+<LTTextBoxHorizontal(6) 169.020,84.313,176.526,113.989 'P\nF\nA\n \n/\n \nE\nA\nB\nN\n'>
+<LTTextBoxHorizontal(7) 169.020,66.704,176.526,84.463 ' \n/\n \nd\no\no\nw\n'>
+<LTTextBoxHorizontal(8) 169.020,63.637,176.526,66.971 'l\nl\n'>
+<LTTextBoxHorizontal(9) 169.020,60.251,176.526,63.770 'E\n'>
+<LTTextBoxHorizontal(10) 169.020,57.507,176.526,60.401 ' \n.\n'>
+<LTTextBoxHorizontal(11) 169.020,53.844,176.526,57.656 'G\n'>
+<LTTextBoxHorizontal(12) 33.280,42.370,169.543,53.614 'Batum a sonné la révolte, dimanche.\n'>
+<LTTextBoxHorizontal(13) 182.327,442.545,426.512,453.790 'Dimitri payet (à g.) a inscrit le troisième but marseillais à Monaco.\n'>
+<LTTextBoxHorizontal(14) 182.406,263.516,322.883,431.976 'V Ben Yedder et Slimani, duo déjà \nchaud. C’est Laurel et Hardy version \nfootball, sauf qu’ils ne font pas rire les \ndéfenseurs adverses. Une quinzaine \nde kilos et dix-huit centimètres per-\nmettent de distinguer aisément Ben \nYedder et Slimani. Mais les deux re-\ncrues ont le même sens du jeu, et du \nbut. Ben Yedder a d’abord parfaite-\nment tiré son penalty, à la 16e (1-0). \nEt c’est sur une offrande de Slimani \nqu’il a inscrit son second but (27e, 2-0), \nen deux temps. L’international fran-\nçais est sorti blessé avant l’heure de \njeu. Slimani a continué de briller, sans \nréussir à marquer.\n'>
+<LTTextBoxHorizontal(15) 331.543,263.516,471.867,432.724 'V Mandanda en sauveur. L’OM avait \négalisé en trois minutes, en première \npériode. Monaco a failli re-renver-\nser le match en deux minutes, dans \nle deuxième acte. Baldé a d’abord \nremis son équipe dans le match d’une \nfrappe puissante, après un joli rush \nde Bakayoko (3-4, 75e). Puis Slimani \ns’est heurté à un Mandanda impres-\nsionnant : le gardien marseillais a cla-\nqué son joli retourné (76e), et la frappe \nde près de Baldé (76e). Le capitaine \nolympien était aussi là pour calmer un \ndébut de bagarre à la 88e. Sauveur… \net médiateur.  De notre envoyé spécial  \n \nà Monaco, Jean Saint-Marc\n'>
+<LTTextBoxHorizontal(16) 471.513,252.980,479.019,254.464 'i\n'>
+<LTTextBoxHorizontal(17) 471.513,207.452,479.019,260.463 'a\np\nS\n \n/\n \nP\nA\n \n/\n \nz\ne\nd\nn\na\nn\nr\ne\nF\n'>
+<LTTextBoxHorizontal(18) 471.513,204.707,479.019,207.602 ' \n.\n'>
+<LTTextBoxHorizontal(19) 471.513,200.071,479.019,204.857 'M\n'>
+<LTTextBoxHorizontal(20) 182.412,42.371,398.820,251.476 'Une médaille et des espoirs\nBasket « On peut être ﬁers d’eux, \nils ont bien représenté la France. » Voilà \nles Bleus génération Gobert-Batum-\nFournier adoubés par le saint patron. \nTony Parker a le sourire, au micro de \nCanal+, en constatant que le « bas-\nket français continue de progresser ».\nA la peine au shoot, sans solutions of-\nfensives, les Bleus ont pourtant souffert \npendant vingt-cinq minutes, dimanche, \nlors de cette petite ﬁnale face à l’Aus-\ntralie (67-59). Puis Nicolas Batum a ré-\nveillé tout le monde. « On est contents \nparce qu’on a su réagir, soufﬂe-t-il, tou-\njours sur Canal+. C’est bien pour le bas-\nket français. » Parce qu’au-delà d’une \nnouvelle médaille de bronze dans un \n'>
+<LTTextBoxHorizontal(21) 331.543,42.371,471.841,222.107 'Mondial (remporté par l’Espagne, qui \na battu l’Argentine), cette génération \njouait un peu de son âme. La transi-\ntion vers les JO 2020 aurait sans doute \nété bien délicate en ayant terminé sur \ndeux vilaines claques. Leur sublime \nquatrième quart-temps dimanche ap-\nporte des garanties sur les ressources \nmentales et la profondeur d’effectif. \n« Avant cette campagne, quand j’avais \neu le coach au téléphone, je lui avais \ndit que cet été devait servir pour les \nJeux, conﬁe le décisif Nando De Colo. \nC’est en bonne voie. » Avec le retour de \nquelques blessés et la conﬁance d’une \nmédaille, les Bleus arriveront aux JO \nen montrant les muscles.  \nB.V.\n'>
+<LTTextBoxHorizontal(22) 532.035,811.124,618.739,837.895 '24\nLundi 16 septembre 2019\n'>
+<LTTextBoxHorizontal(23) 486.724,685.942,611.683,789.695 'Ligue 1 - 5e journée \nDimanche : Nantes-Reims (1-0), \nSaint-Etienne-Toulouse (2-2), \nMonaco-Marseille (3-4)\nSamedi : Paris-Strasbourg (1-0), \nBrest-Rennes (0-0),  \nMontpellier-Nice (2-1),  \nBordeaux-Metz (2-0), Dijon-Nîmes (0-0) \nVendredi : Lille-Angers (2-1),  \nAmiens-Lyon (2-2) \n'>
+<LTTextBoxHorizontal(24) 506.686,567.331,523.142,578.576 'Lyon\n'>
+<LTTextBoxHorizontal(25) 486.725,426.495,553.768,672.871 'Classement\n1  PARIS \n2  rennes\n3  Nantes\n4  Marseille\n5 \nLille\n6  Nice\n7  Angers\n8 \n9  Bordeaux\n10  toulouse\n11  reims\n12  Montpellier\n13  Brest\n14  Nîmes\n15 Saint-Etienne\n16  Amiens\n17  Metz\n18  Strasbourg\n19  Monaco\n20  Dijon\n'>
+<LTTextBoxHorizontal(26) 583.756,426.495,592.089,669.210 'Pts\n12\n10\n10\n10\n9\n9\n9\n8\n8\n8\n7\n7\n6\n5\n5\n4\n4\n3\n2\n1\n'>
+<LTTextBoxHorizontal(27) 601.696,426.495,611.937,669.210 'Diff.\n+9\n+3\n+2\n+1\n+2\n+1\n0\n+8\n+2\n-1\n+2\n0\n-2\n-1\n-3\n-3\n-4\n-3\n-7\n-6\n'>
+<LTTextBoxHorizontal(28) 480.885,284.578,620.932,369.550 'Sébastien Ogier se relance pour  \nle titre mondial. Vainqueur du rallye \nde Turquie dimanche, le pilote \nfrançais a proﬁté de l’abandon du \nleader du championnat, l’Estonien \nOtt Tänak, pour combler une partie \nde son retard. Ogier est à 17 points \nde son rival, à trois rallyes de la ﬁn.\n'>
+<LTTextBoxHorizontal(29) 480.885,116.072,615.725,201.044 'Premier grand Tour pour Primoz \nRoglic.  A 29 ans, le Slovène  \na remporté la Vuelta, dimanche  \nà Madrid. Le podium est complété \npar l’Espagnol Alejandro Valverde  \net un autre Slovène, Tadej Pogacar. \nLe Néerlandais Fabio Jakobsen \ns’est adjugé la dernière étape.\n'>
+<LTTextBoxHorizontal(30) 480.885,42.368,615.856,106.272 'Les volleyeurs français déjà \nqualiﬁés pour les 8es. Troisième \nvictoire pour les Bleus à l’Euro, \naprès leur succès face au Portugal \n(3-0), dimanche. Ils vont pouvoir se \njauger, ce lundi, contre la Bulgarie.\n'>
+<LTImage(img0) 480.882,200.059,618.920,274.051 (192, 103)>
+<LTImage(img1) 32.871,53.493,171.578,243.726 (193, 265)>
+<LTImage(img2) 182.062,453.071,469.890,712.172 (400, 360)>
+----START-PAGE 25 ----
+<LTTextBoxHorizontal(0) 40.974,522.603,606.199,791.500 'POUR DIRE\nVAIVAI  À LA ROUTINE\n'>
+<LTTextBoxHorizontal(1) 52.333,453.897,603.333,513.253 'VAÏVAÏ EAU DE COCO BIO DISPONIBLE CHEZ MONOPRIX\nJUSQU’AU 22 SEPTEMBRE*\n'>
+<LTTextBoxHorizontal(2) 363.787,365.650,421.570,394.504 '**%-30\n'>
+<LTTextBoxHorizontal(3) 368.280,353.307,418.524,361.250 'IMMÉDIATEMENT\n'>
+<LTTextBoxHorizontal(4) 52.746,94.866,601.062,118.681 '* Le 22 septembre, uniquement pour les magasins ouverts le dimanche. ** Remise immédiate en caisse sur le prix affi ché. Offre non cumulable avec toute autre offre ou promotion \nen cours. En promotion également les autres briques «Vaïvaï» 1 litre. Monoprix – SAS au capital de 78 365 040 € - 14-16, rue Marc Bloch – 92110 Clichy – 552 018 020 R.C.S.\nNanterre – \n'>
+<LTTextBoxHorizontal(5) 109.257,94.874,157.309,102.916 ' – Pré-presse : \n'>
+<LTTextBoxHorizontal(6) 52.746,62.517,599.099,75.317 'POUR VOTRE SANTÉ, MANGEZ AU MOINS CINQ FRUITS ET LÉGUMES PAR JOUR. WWW.MANGERBOUGER.FR\n'>
+<LTImage(img0) 33.009,373.428,171.123,505.843 (192, 184)>
+<LTImage(img1) 170.858,373.428,308.839,505.843 (192, 184)>
+<LTImage(img2) 308.574,373.428,446.688,505.843 (192, 184)>
+<LTImage(img3) 446.423,373.428,584.404,505.843 (192, 184)>
+<LTImage(img4) 584.139,42.568,618.900,505.843 (49, 644)>
+<LTImage(img5) 33.009,240.910,171.123,373.694 (192, 185)>
+<LTImage(img6) 170.858,240.910,308.839,373.694 (192, 185)>
+<LTImage(img7) 308.574,240.910,446.688,373.694 (192, 185)>
+<LTImage(img8) 446.423,240.910,584.404,373.694 (192, 185)>
+<LTImage(img9) 33.009,108.524,171.123,241.175 (192, 185)>
+<LTImage(img10) 170.858,108.524,308.839,241.175 (192, 185)>
+<LTImage(img11) 308.574,108.524,446.688,241.175 (192, 185)>
+<LTImage(img12) 446.423,108.524,584.404,241.175 (192, 185)>
+<LTImage(img13) 33.009,42.567,308.839,108.790 (384, 92)>
+<LTImage(img14) 308.574,42.567,584.404,108.790 (384, 92)>
+----START-PAGE 26 ----
+<LTTextBoxHorizontal(0) 33.236,765.630,548.116,837.998 'SportS\nLes Bleus, par monts et par vœux\n'>
+<LTTextBoxHorizontal(1) 532.035,811.124,618.739,837.895 '26\nLundi 16 septembre 2019\n'>
+<LTTextBoxHorizontal(2) 33.233,686.649,162.995,752.234 'Rugby Depuis  \nune semaine, l’équipe \nde France prend ses \nmarques au Japon\n'>
+<LTTextBoxHorizontal(3) 33.233,589.970,173.536,674.927 'Le mont Fuji. Grand, majestueux, ti-\nmide, parfois, derrière son voile nua-\ngeux. Un peu plus d’une semaine que \nle plus haut sommet japonais surveille \nle XV de France, venu boucler sa pré-\nparation physique dans cette région \nverte, car abondamment arrosée. Ici, \non passe de 25 à 10 °C en dix minutes. \n'>
+<LTTextBoxHorizontal(4) 173.002,584.869,180.507,608.950 'P\nF\nA\n \n/\n \ne\nf\ni\nF\n'>
+<LTTextBoxHorizontal(5) 173.002,582.124,180.507,585.019 ' \n.\n'>
+<LTTextBoxHorizontal(6) 173.002,579.441,180.507,582.843 'F\n'>
+<LTTextBoxHorizontal(7) 41.557,528.053,166.066,584.281 '« Rencontrer les \nJaponais, c’est cool, \nmême si discuter, \nc’est difﬁcile. »\n'>
+<LTTextBoxHorizontal(8) 91.696,514.754,168.440,526.420 'Maxime Médard \n'>
+<LTTextBoxHorizontal(9) 33.233,421.479,173.723,506.441 'Et il faut à peine plus de temps pour \nqu’un ciel limpide se transforme en \nmachine à pluie apocalyptique. « On \na pris la marée comme jamais j’avais \npris la marée sur un terrain, racontait \nmardi Damian Penaud à Midi Olympique. \nJ’avais l’impression de marcher dans la \nvase à la ﬁn de l’entraînement. »\n'>
+<LTTextBoxHorizontal(10) 480.645,421.474,620.977,748.648 'et j’essaie de m’en imprégner au maxi-\nmum, et cela passe notamment par le \nlangage. »\nDimanche, les joueurs du XV de France \nont enﬁlé leur plus beau costard pour \naller au théâtre Stellar de Kawaguchiko, \noù ils ont reçu leurs « capes », comme le \nveut la tradition. Guilhem Guirado s’est \naussi vu remettre un daruma, une ﬁgu-\nrine de papier mâché japonaise, dont \nil a colorié l’œil gauche après avoir ré-\nalisé un vœu. Les Bleus ont aussi pu \nassister au discours du président de la \nfédération néo-zélandaise, Steve Tew, \nainsi qu’à deux démonstrations musi-\ncales. Cette cérémonie marque « l’en-\ntrée dans la compétition, avec tout le \ncérémonial qui va avec », indiquait le sé-\nlectionneur, Jacques Brunel. Côté ter-\nrain, les Bleus avaient déjà pris soin de \nse projeter dans le Mondial, en dispu-\ntant une opposition contre une équipe \nde première division japonaise. Victoire \n12 essais à 3, dixit Guirado. « Contre \nl’Argentine, ça ne sera pas la même \nchose », prévient Arthur Iturria. Dans \ncinq jours, c’est une montagne qui se \ndressera sur leur chemin. On comprend \nmieux l’idée de la préparation au pied \ndu mont Fuji.  \nDe notre envoyé  \nspécial au Japon, William Pereira\n \n'>
+<LTTextBoxHorizontal(11) 182.376,568.911,459.366,580.156 'Les Bleus avec leurs « capes », reçues au théâtre Stellar de Kawaguchiko.\n'>
+<LTTextBoxHorizontal(12) 182.354,421.469,322.656,559.092 'Du bain au bain de foule, l’équipe de \nFrance a proﬁté du ralentissement de \nla préparation physique pour aller à la \nrencontre des Japonais. Le jeudi, vi-\nsite d’une école, avec démonstration \nde rugby au programme. Le samedi, \npetit décrassage ouvert au public. Sur \nle bord du terrain, les supporters sont \nà 99,9 % japonais. Mention spéciale \npour ce couple de Tokyoïtes venus de \nla capitale, à une heure et demie de \nroute, paré de vieux maillots du Stade \nToulousain. Tous deux avaient assisté \n'>
+<LTTextBoxHorizontal(13) 331.507,421.479,471.779,559.093 'à la défaite des Rouge et Noir en ﬁnale \nde la Coupe d’Europe 2004, alors qu’ils \nhabitaient Londres.\n« Depuis qu’on est arrivés [le 8 sep-\ntembre], on fait terrain-hôtel, ter-\nrain-hôtel, se réjouit Maxime Médard. \nRencontrer  et  échanger  avec  les \nJaponais, c’est cool, même si discu-\nter, c’est difﬁcile. » Dans cette aphonie \ngénérale, Wenceslas Lauret est plus fort \nque les autres. Le troisième ligne du \nRacing 92 concède avoir un faible pour \nle pays : « J’adore la culture japonaise \n'>
+<LTImage(img0) 33.234,172.390,274.465,400.676 (336, 318)>
+<LTImage(img1) 273.992,172.390,515.696,400.676 (336, 318)>
+<LTImage(img2) 515.223,42.506,618.844,400.676 (144, 498)>
+<LTImage(img3) 33.234,42.506,446.772,172.856 (575, 182)>
+<LTImage(img4) 446.300,42.506,515.696,172.856 (97, 182)>
+<LTImage(img5) 182.370,579.129,469.546,745.022 (399, 231)>
+----START-PAGE 27 ----
+<LTTextBoxHorizontal(0) 89.588,644.205,318.997,668.586 'DU 19 SEPTEMBRE AU 19 OCTOBRE\n'>
+<LTTextBoxHorizontal(1) 380.574,644.205,568.376,668.586 'JUSQU’À 20 000 € OFFERTS(1)\n'>
+<LTTextBoxHorizontal(2) 67.459,607.079,149.877,631.460 'ARGENTEUIL\n'>
+<LTTextBoxHorizontal(3) 173.430,577.717,247.813,599.874 'VARIATIONS\n'>
+<LTTextBoxHorizontal(4) 59.719,416.099,109.228,422.011 'illustration non contractuelle\n'>
+<LTTextBoxHorizontal(5) 55.550,397.163,259.269,413.112 '• Appartements du studio au 5 pièces duplex\n'>
+<LTTextBoxHorizontal(6) 85.467,363.849,131.879,388.231 'CLICHY\n'>
+<LTTextBoxHorizontal(7) 180.384,334.478,240.874,356.635 'L’INSTANT\n'>
+<LTTextBoxHorizontal(8) 334.109,363.849,579.121,413.126 '•  Programme éligible à la TVA 5,5 %(2) sous conditions\nASNIÈRES-SUR-SEINE\n'>
+<LTTextBoxHorizontal(9) 523.160,334.478,572.278,356.635 'HIGH 17\n'>
+<LTTextBoxHorizontal(10) 59.719,203.591,109.228,209.503 'illustration non contractuelle\n'>
+<LTTextBoxHorizontal(11) 338.342,203.591,387.851,209.503 'illustration non contractuelle\n'>
+<LTTextBoxHorizontal(12) 55.534,168.676,280.335,200.594 '• Appartements du 2 au 5 pièces duplex\n•  Dans un nouvel écoquartier proche de la Seine*\n'>
+<LTTextBoxHorizontal(13) 334.163,168.676,586.171,200.594 '• Du studio au 5 pièces duplex avec vues panoramiques\n•  Programme éligible à la TVA 5,5 %(2) sous conditions\n'>
+<LTTextBoxHorizontal(14) 369.598,135.764,496.704,163.596 '0 805 760 770\n'>
+<LTTextBoxHorizontal(15) 55.510,52.790,597.154,123.737 '* Source : Google Maps - (1) Offre valable "jusqu’à 20 000 € offerts" sur une sélection de programmes & appartements OGIC situés en Île-de-France (Dpts : 78, 92 & 95), hors copromotion avec Marignan, Cogedim, Kaufman & Broad, Care, Nexity. L’offre "jusqu’à 20 000 € offerts" est valable dans les villes d’Asnières, Argenteuil, Bezons, Clichy, La Garenne \nColombes, Chaville, Franconville, Montrouge, Versailles, Ville d’Avray et Viroﬂ ay, programmes commercialisés par les sociétés OGIC IDF OUEST NORD SASU & OGIC IDF OUEST SUD SASU. Offre valable uniquement du 19/9/2019 au 19/10/2019, uniquement en cas de signature d’un contrat de réservation portant sur un appartement neuf ou d’une maison et \nsous réserve de la signature de l’acte authentique de vente dans les délais stipulés au contrat de réservation, dans la limite des stocks disponibles. Cette offre se traduira par une remise sur le prix de vente lors de la signature du contrat de réservation. Les offres sont présentées soit comme une remise de prix/pièce pouvant aller jusqu’à 4 000 €/pièce max. \nou au maximum 2,2 % du prix du lot selon l’éligibilité du programme. Pour les programmes "Sequana" de Bezons, "High 17" d’Asnières et "L’À Propos" de Viroﬂ ay, programme en copromotion Sully commercialisé à 100% par Ogic, l’offre par pièce pour les T1, T2 et T3 sera de maximum 2 000 €/pièce. Pour les T4 d’High 17 – Asnières, elle sera également de \n2000€/pièce. Remise calculée sur le prix en TVA 20 % et calculée au prorata sur les prix en TVA 5,5% selon éligibilité du programme et sous réserve que les conditions d’éligibilité soient remplies. Remise appliquée sur le prix de vente en valeur au 28 août 2019. L’offre "Jusqu’à 20 000 € offerts" n’est pas cumulable avec une autre offre en cours, passée ou à \nvenir. Information donnée à titre indicative sous réserve d’erreur typographique. La responsabilité d’OGIC ne pourra être recherchée s’il s’avérait qu’une erreur puisse avoir été afﬁ chée. (2) Les acquéreurs de logements neufs peuvent bénéﬁ cier d’un taux réduit de TVA sous réserve de respecter plusieurs conditions cumulatives tenant (i) au lieu de situation \nde l’immeuble (ce dernier devant être situé dans les zones ANRU, les quartiers NPNRU, les quartiers prioritaires de la ville ou dans une bande de 500 m et 300 m ou 300 m de ces quartiers en fonction de la date de demande de permis de construire) (ii) à l’usage de résidence principale du logement (ce qui exclut un achat en vue d’une résidence secondaire \nou en vue de louer) et (iii) au niveau de ressources des acquéreurs (les revenus pris en compte sont les revenus N-2 lors de la signature du contrat de réservation qui ne doivent pas excéder les plafonds PLS+11%- arrêté du 20.11.2018). (art.278 sexies I. 11 et 11 bis du CGI). Le taux réduit s’applique, toutes autres conditions remplies, si les plafonds de \nprix de vente au titre du PLSA sont respectés. Le bénéﬁ ce du taux réduit sera intégralement remis en cause si l’une des conditions n’est pas respectée (BOI-TVA-IMM-20-20-20-20150506) ou dans l’hypothèse où les conditions d’octroi du taux réduit cessent d’être remplies dans un délai de 10 ans qui suit le fait générateur notamment en cas de revente \nou de changement de destination du logement. Un complément d’impôt sera alors dû et résultera de la différence entre le taux réduit et le taux normal diminué de 1/10è par année de détention (art 284-II CGI). Détails sur www.ogic.fr/residence-principale/tva-reduite. La date de livraison prévisionnelle de la résidence "VARIATIONS" à ARGENTEUIL est \nprévue au 1er trimestre 2022, celle de la résidence "L\'INSTANT" à CLICHY est prévue au 3e trimestre 2022 et celle de la résidence "HIGH 17" à ASNIÈRES-SUR-SEINE est prévue au 1er trimestre 2022. Il est précisé que les dates d’avancement des travaux ou de livraison sont approximatives et peuvent être retardées en raison de la survenance d’un cas de \nforce majeure ou plus généralement d’une cause légitime de suspension du délai de livraison. OGIC ILE DE FRANCE OUEST NORD, SASU au capital de 100 000 euros, RCS Nanterre n° 824622831, titulaire de la carte professionnelle "Transactions sur immeubles et fonds de commerces" sans engagement de recevoir des fonds, délivrée le 22 février 2018 par la \nCCI Paris IDF sous le n° 9201 2018 000 024 824 - OGIC ILE DE FRANCE OUEST SUD, SASU au capital de 2 250 000 euros, RCS Nanterre n°824 622 914, titulaire de la carte professionnelle "Transactions sur immeubles et fonds de commerces" sans engagement de recevoir des fonds, délivrée le 22 février 2018 par la CCI Paris IDF sous le n° 9201 2018 000 024 825 - \nOGIC SERVICES, SAS au capital de 38 112,25 €, RCS de Nanterre n° 432456762, titulaire de la carte professionnelle "Transactions sur immeubles et fonds de commerces" sans engagement de recevoir des fonds délivrés le 22 février 2018 par la CCI Paris IDF sous le n° 92012018000024808 Représentée par son président, la société OGIC, SA à Directoire et Conseil \nde surveillance au capital de 3 702 600 euros, RCS Nanterre n° 382621134. Siège social des SASU : 58/60 avenue Édouard Vaillant, 92100 BOULOGNE-BILLANCOURT. Architectes : Atelier Du Pont / Anne Demians / Agence François LECLERCQ . Illustrations : Golem / Kréaction / Virtual Building. Illustrations et document non contractuels. AGENCE JFKA - 09/2019\n'>
+<LTImage(img0) 55.536,411.873,596.277,599.089 (752, 261)>
+<LTImage(140656476795288) 58.391,414.629,110.457,421.130 (73, 10)>
+<LTImage(img1) 55.536,199.343,317.754,355.827 (365, 218)>
+<LTImage(img2) 334.162,199.350,596.406,355.852 (365, 218)>
+<LTImage(140656467182032) 58.368,202.022,110.591,208.641 (73, 10)>
+<LTImage(140656467183208) 337.039,202.125,389.094,208.584 (73, 9)>
+----START-PAGE 28 ----
+<LTTextBoxHorizontal(0) 128.421,524.116,520.326,752.364 'Est-ce que tu\nreviens pour\nles vacances ?\n'>
+<LTTextBoxHorizontal(1) 77.815,62.865,347.883,87.110 '*Prix aller simple par personne avec 2 passagers voyageant sur la même réservation, taxes d’aéroport et frais\nde gestion inclus. Frais supplémentaires pour bagages. 300 000 sièges disponibles à ce prix au 18.07.19, pour\ndes vols vers l’Europe entre le 09.09.19 et le 28.03.20 inclus depuis la France et selon disponibilités.\nVoir easyJet.com pour plus d’informations.\n'>
+<LTImage(img0) -77.825,-40.894,729.569,908.186 (961, 1193)>
